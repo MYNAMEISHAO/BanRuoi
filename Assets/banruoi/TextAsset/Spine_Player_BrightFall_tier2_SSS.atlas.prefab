@@ -1,0 +1,146 @@
+
+Spine_Player_BrightFall_tier2_SSS.png
+size: 336,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Canh duoi1
+  rotate: false
+  xy: 308, 63
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Canh duoi2
+  rotate: false
+  xy: 308, 35
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Canh duoi3
+  rotate: false
+  xy: 242, 11
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Canh duoi4
+  rotate: false
+  xy: 270, 11
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Canh duoi5
+  rotate: false
+  xy: 298, 7
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Sung1
+  rotate: false
+  xy: 198, 24
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Sung2
+  rotate: false
+  xy: 220, 24
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Sung3
+  rotate: false
+  xy: 242, 39
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Sung4
+  rotate: false
+  xy: 264, 39
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Sung5
+  rotate: false
+  xy: 286, 39
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Turn1
+  rotate: false
+  xy: 2, 77
+  size: 71, 73
+  orig: 83, 83
+  offset: 5, 7
+  index: -1
+Turn2
+  rotate: false
+  xy: 2, 2
+  size: 65, 73
+  orig: 83, 83
+  offset: 6, 6
+  index: -1
+Turn3
+  rotate: false
+  xy: 75, 76
+  size: 59, 74
+  orig: 83, 83
+  offset: 8, 5
+  index: -1
+Turn4
+  rotate: false
+  xy: 136, 76
+  size: 51, 74
+  orig: 83, 83
+  offset: 12, 5
+  index: -1
+Turn5
+  rotate: false
+  xy: 189, 76
+  size: 48, 74
+  orig: 83, 83
+  offset: 13, 5
+  index: -1
+than1
+  rotate: false
+  xy: 239, 91
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+than2
+  rotate: false
+  xy: 282, 91
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+than3
+  rotate: false
+  xy: 69, 15
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+than4
+  rotate: false
+  xy: 112, 15
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+than5
+  rotate: false
+  xy: 155, 15
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1

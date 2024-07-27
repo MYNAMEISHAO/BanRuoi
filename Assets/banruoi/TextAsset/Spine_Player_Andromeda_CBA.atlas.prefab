@@ -1,0 +1,349 @@
+
+Spine_Player_Andromeda_CBA.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Backwing_0
+  rotate: true
+  xy: 44, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Backwing_1
+  rotate: true
+  xy: 62, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Backwing_2
+  rotate: true
+  xy: 80, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Backwing_3
+  rotate: true
+  xy: 98, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Backwing_4
+  rotate: true
+  xy: 116, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Backwing_Base0
+  rotate: false
+  xy: 469, 53
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Backwing_Base1
+  rotate: false
+  xy: 796, 116
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Backwing_Base2
+  rotate: false
+  xy: 204, 31
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Backwing_Base3
+  rotate: false
+  xy: 589, 73
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Backwing_Base4
+  rotate: false
+  xy: 811, 116
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+BodyGun
+  rotate: false
+  xy: 219, 33
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+BodyGun_Bareel
+  rotate: false
+  xy: 682, 85
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Body_0
+  rotate: false
+  xy: 427, 85
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: false
+  xy: 478, 85
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: false
+  xy: 529, 85
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: false
+  xy: 580, 85
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Body_4
+  rotate: false
+  xy: 631, 85
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+FrontWing_Base_0
+  rotate: false
+  xy: 44, 23
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+FrontWing_Base_1
+  rotate: false
+  xy: 67, 23
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+FrontWing_Base_2
+  rotate: false
+  xy: 90, 23
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+FrontWing_Base_3
+  rotate: false
+  xy: 113, 23
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+FrontWing_Base_4
+  rotate: false
+  xy: 469, 65
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+FrontWing_Detail2_0
+  rotate: false
+  xy: 728, 110
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+FrontWing_Detail2_1
+  rotate: false
+  xy: 136, 25
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+FrontWing_Detail2_2
+  rotate: false
+  xy: 492, 67
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+FrontWing_Detail2_3
+  rotate: false
+  xy: 753, 110
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+FrontWing_Detail2_4
+  rotate: false
+  xy: 161, 25
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+FrontWing_Detail3_0
+  rotate: false
+  xy: 517, 66
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+FrontWing_Detail3_3
+  rotate: false
+  xy: 517, 66
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+FrontWing_Detail3_4
+  rotate: false
+  xy: 517, 66
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+FrontWing_Detail3_1
+  rotate: false
+  xy: 536, 66
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+FrontWing_Detail3_2
+  rotate: false
+  xy: 555, 66
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+FrontWing_Detail_0
+  rotate: false
+  xy: 778, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FrontWing_Detail_1
+  rotate: false
+  xy: 186, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FrontWing_Detail_2
+  rotate: false
+  xy: 186, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FrontWing_Detail_3
+  rotate: false
+  xy: 186, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+FrontWing_Detail_4
+  rotate: false
+  xy: 186, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+LightingXAetherwing_CBA_Turnright_0
+  rotate: false
+  xy: 2, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+LightingXAetherwing_CBA_Turnright_1
+  rotate: false
+  xy: 87, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+LightingXAetherwing_CBA_Turnright_2
+  rotate: false
+  xy: 172, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+LightingXAetherwing_CBA_Turnright_3
+  rotate: false
+  xy: 257, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+LightingXAetherwing_CBA_Turnright_4
+  rotate: false
+  xy: 342, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+RollWing
+  rotate: false
+  xy: 703, 103
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+RollWing_Center
+  rotate: false
+  xy: 574, 70
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Tail_0
+  rotate: false
+  xy: 2, 9
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Tail_1
+  rotate: false
+  xy: 427, 51
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Tail_2
+  rotate: false
+  xy: 682, 94
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Tail_3
+  rotate: false
+  xy: 23, 9
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Tail_4
+  rotate: false
+  xy: 448, 51
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+Spine_Player_Plane_Hades.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 2, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 87, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: false
+  xy: 2, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Body4
+  rotate: false
+  xy: 87, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Right
+  rotate: false
+  xy: 172, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Right1
+  rotate: false
+  xy: 2, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Right2
+  rotate: false
+  xy: 87, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Right3
+  rotate: false
+  xy: 172, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Right4
+  rotate: false
+  xy: 257, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX_Body
+  rotate: false
+  xy: 2, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX_Body1
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX_Body2
+  rotate: false
+  xy: 87, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX_Body3
+  rotate: false
+  xy: 172, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX_Body4
+  rotate: false
+  xy: 257, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX_Right
+  rotate: false
+  xy: 342, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX_Right1
+  rotate: false
+  xy: 427, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX_Right2
+  rotate: false
+  xy: 87, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX_Right3
+  rotate: false
+  xy: 87, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX_Right4
+  rotate: false
+  xy: 172, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX_Body
+  rotate: false
+  xy: 257, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX_Body1
+  rotate: false
+  xy: 342, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX_Body2
+  rotate: false
+  xy: 427, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX_Body3
+  rotate: false
+  xy: 172, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX_Body4
+  rotate: false
+  xy: 172, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX_Right
+  rotate: false
+  xy: 257, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX_Right1
+  rotate: false
+  xy: 342, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX_Right2
+  rotate: false
+  xy: 427, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX_Right3
+  rotate: false
+  xy: 257, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX_Right4
+  rotate: false
+  xy: 257, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

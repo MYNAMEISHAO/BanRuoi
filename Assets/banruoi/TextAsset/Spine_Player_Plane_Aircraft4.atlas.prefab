@@ -1,0 +1,489 @@
+
+Spine_Player_Plane_Aircraft4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Twilight_A/Twilight_A_Idle1
+  rotate: false
+  xy: 2, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_A/Twilight_A_Idle2
+  rotate: false
+  xy: 2, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_A/Twilight_A_Idle3
+  rotate: false
+  xy: 87, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_A/Twilight_A_Idle4
+  rotate: false
+  xy: 2, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_A/Twilight_A_Idle5
+  rotate: false
+  xy: 87, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_A/Twilight_A_Turnright1
+  rotate: false
+  xy: 172, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_A/Twilight_A_Turnright2
+  rotate: false
+  xy: 2, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_A/Twilight_A_Turnright3
+  rotate: false
+  xy: 87, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_A/Twilight_A_Turnright4
+  rotate: false
+  xy: 172, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_A/Twilight_A_Turnright5
+  rotate: false
+  xy: 257, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_S/Twilight_S_Idle_1
+  rotate: false
+  xy: 2, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_S/Twilight_S_Idle_2
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_S/Twilight_S_Idle_3
+  rotate: false
+  xy: 87, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_S/Twilight_S_Idle_4
+  rotate: false
+  xy: 172, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_S/Twilight_S_Idle_5
+  rotate: false
+  xy: 257, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_S/Twilight_S_Turnright_1
+  rotate: false
+  xy: 342, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_S/Twilight_S_Turnright_2
+  rotate: false
+  xy: 87, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_S/Twilight_S_Turnright_3
+  rotate: false
+  xy: 87, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_S/Twilight_S_Turnright_4
+  rotate: false
+  xy: 172, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_S/Twilight_S_Turnright_5
+  rotate: false
+  xy: 257, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SS/Twilight_SS_Idle1
+  rotate: false
+  xy: 342, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SS/Twilight_SS_Idle2
+  rotate: false
+  xy: 427, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SS/Twilight_SS_Idle3
+  rotate: false
+  xy: 172, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SS/Twilight_SS_Idle4
+  rotate: false
+  xy: 172, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SS/Twilight_SS_Idle5
+  rotate: false
+  xy: 257, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SS/Twilight_SS_Turnright1
+  rotate: false
+  xy: 342, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SS/Twilight_SS_Turnright2
+  rotate: false
+  xy: 427, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SS/Twilight_SS_Turnright3
+  rotate: false
+  xy: 512, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SS/Twilight_SS_Turnright4
+  rotate: false
+  xy: 257, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SS/Twilight_SS_Turnright5
+  rotate: false
+  xy: 257, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SSS/Twilight_SSS_Idle1
+  rotate: false
+  xy: 342, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SSS/Twilight_SSS_Idle2
+  rotate: false
+  xy: 427, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SSS/Twilight_SSS_Idle3
+  rotate: false
+  xy: 512, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SSS/Twilight_SSS_Idle4
+  rotate: false
+  xy: 597, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SSS/Twilight_SSS_Idle5
+  rotate: false
+  xy: 342, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SSS/Twilight_SSS_Turnright1
+  rotate: false
+  xy: 342, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SSS/Twilight_SSS_Turnright2
+  rotate: false
+  xy: 427, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SSS/Twilight_SSS_Turnright3
+  rotate: false
+  xy: 512, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SSS/Twilight_SSS_Turnright4
+  rotate: false
+  xy: 597, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_SSS/Twilight_SSS_Turnright5
+  rotate: false
+  xy: 682, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_X/Twilight_X_Idle1
+  rotate: false
+  xy: 427, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_X/Twilight_X_Idle2
+  rotate: false
+  xy: 427, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_X/Twilight_X_Idle3
+  rotate: false
+  xy: 512, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_X/Twilight_X_Idle4
+  rotate: false
+  xy: 597, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_X/Twilight_X_Idle5
+  rotate: false
+  xy: 682, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_X/Twilight_X_turnright1
+  rotate: false
+  xy: 767, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_X/Twilight_X_turnright2
+  rotate: false
+  xy: 512, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_X/Twilight_X_turnright3
+  rotate: false
+  xy: 512, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_X/Twilight_X_turnright4
+  rotate: false
+  xy: 597, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XX/Twilight_XX_Idle_1
+  rotate: false
+  xy: 682, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XX/Twilight_XX_Idle_2
+  rotate: false
+  xy: 852, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XX/Twilight_XX_Idle_3
+  rotate: false
+  xy: 597, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XX/Twilight_XX_Idle_4
+  rotate: false
+  xy: 767, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XX/Twilight_XX_Idle_5
+  rotate: false
+  xy: 937, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XX/Twilight_XX_Turnright_1
+  rotate: false
+  xy: 682, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XX/Twilight_XX_Turnright_2
+  rotate: false
+  xy: 852, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XX/Twilight_XX_Turnright_3
+  rotate: false
+  xy: 767, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XX/Twilight_XX_Turnright_4
+  rotate: false
+  xy: 852, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XX/Twilight_XX_Turnright_5
+  rotate: false
+  xy: 852, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XXX/Twilight_XXX_Idle1
+  rotate: false
+  xy: 767, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XXX/Twilight_XXX_Idle2
+  rotate: false
+  xy: 597, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XXX/Twilight_XXX_Idle3
+  rotate: false
+  xy: 682, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XXX/Twilight_XXX_Idle4
+  rotate: false
+  xy: 852, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XXX/Twilight_XXX_Idle5
+  rotate: false
+  xy: 682, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XXX/Twilight_XXX_Turnright1
+  rotate: false
+  xy: 767, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XXX/Twilight_XXX_Turnright2
+  rotate: false
+  xy: 937, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XXX/Twilight_XXX_Turnright3
+  rotate: false
+  xy: 767, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XXX/Twilight_XXX_Turnright4
+  rotate: false
+  xy: 937, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Twilight_XXX/Twilight_XXX_Turnright5
+  rotate: false
+  xy: 852, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

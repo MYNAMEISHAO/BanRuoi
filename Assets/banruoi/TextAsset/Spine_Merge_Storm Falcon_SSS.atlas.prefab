@@ -1,0 +1,419 @@
+
+Spine_Merge_Storm Falcon_SSS.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BataXFury_SSS_Canhduoi1
+  rotate: false
+  xy: 227, 23
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+BataXFury_SSS_Canhsau1
+  rotate: false
+  xy: 290, 13
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+BataXFury_SSS_Turnright_0
+  rotate: false
+  xy: 2, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+BataXFury_SSS_Turnright_1
+  rotate: false
+  xy: 87, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+BataXFury_SSS_Turnright_2
+  rotate: false
+  xy: 172, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+BataXFury_SSS_Turnright_3
+  rotate: false
+  xy: 257, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+BataXFury_SSS_Turnright_4
+  rotate: false
+  xy: 342, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 62, 20
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: true
+  xy: 95, 20
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: true
+  xy: 128, 20
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: true
+  xy: 161, 20
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Body_4
+  rotate: true
+  xy: 194, 20
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: true
+  xy: 312, 13
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+GunSide
+  rotate: false
+  xy: 132, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 258, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+HeadSide
+  rotate: true
+  xy: 2, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+HeadSide_1
+  rotate: true
+  xy: 26, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+HeadSide_2
+  rotate: true
+  xy: 50, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+HeadSide_3
+  rotate: false
+  xy: 272, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+HeadSide_4
+  rotate: false
+  xy: 281, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+Head_1
+  rotate: true
+  xy: 286, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Head_2
+  rotate: true
+  xy: 314, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Head_3
+  rotate: true
+  xy: 342, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Head_4
+  rotate: true
+  xy: 370, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Jet
+  rotate: false
+  xy: 154, 10
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+JetBase
+  rotate: false
+  xy: 142, 5
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Nail
+  rotate: false
+  xy: 442, 55
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 74, 2
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+Wing
+  rotate: true
+  xy: 2, 18
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+WingBase
+  rotate: false
+  xy: 326, 13
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Wing_1
+  rotate: false
+  xy: 427, 68
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+Wing_2
+  rotate: true
+  xy: 452, 103
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+Wing_3
+  rotate: true
+  xy: 452, 78
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+Wing_4
+  rotate: true
+  xy: 452, 53
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+Wing_SideL
+  rotate: false
+  xy: 427, 47
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Wing_SideL2
+  rotate: false
+  xy: 290, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Wing_SideL2_3
+  rotate: false
+  xy: 290, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Wing_SideL2_4
+  rotate: false
+  xy: 290, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Wing_SideL2_1
+  rotate: false
+  xy: 302, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Wing_SideL2_2
+  rotate: false
+  xy: 314, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Wing_SideL3
+  rotate: false
+  xy: 154, 2
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Wing_SideL3_1
+  rotate: false
+  xy: 442, 47
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Wing_SideL3_2
+  rotate: false
+  xy: 164, 2
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Wing_SideL3_3
+  rotate: false
+  xy: 164, 2
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Wing_SideL3_4
+  rotate: false
+  xy: 164, 2
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Wing_SideL4
+  rotate: false
+  xy: 166, 10
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+Wing_SideL4_1
+  rotate: false
+  xy: 172, 10
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+Wing_SideL4_2
+  rotate: false
+  xy: 419, 33
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+Wing_SideL4_3
+  rotate: false
+  xy: 419, 33
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+Wing_SideL4_4
+  rotate: false
+  xy: 419, 33
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+Wing_SideL_1
+  rotate: true
+  xy: 398, 28
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Wing_SideL_2
+  rotate: false
+  xy: 227, 2
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Wing_SideL_3
+  rotate: false
+  xy: 242, 2
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Wing_SideL_4
+  rotate: false
+  xy: 257, 2
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Wing_SideR
+  rotate: true
+  xy: 2, 11
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1
+Wing_SideR_1
+  rotate: true
+  xy: 37, 11
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1
+Wing_SideR_2
+  rotate: true
+  xy: 72, 13
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1
+Wing_SideR_3
+  rotate: true
+  xy: 107, 13
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1
+Wing_SideR_4
+  rotate: true
+  xy: 97, 6
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1

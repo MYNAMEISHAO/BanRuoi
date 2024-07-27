@@ -1,0 +1,629 @@
+
+Spine_Night_Fall_Tier1_SkeletonData.png
+size: 904,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A/Night_Fall_A_Idle1
+  rotate: false
+  xy: 261, 260
+  size: 61, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+A/Night_Fall_A_Idle2
+  rotate: false
+  xy: 324, 260
+  size: 61, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+A/Night_Fall_A_Idle3
+  rotate: false
+  xy: 387, 260
+  size: 61, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+A/Night_Fall_A_Idle4
+  rotate: false
+  xy: 450, 260
+  size: 61, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+A/Night_Fall_A_Idle5
+  rotate: false
+  xy: 513, 260
+  size: 61, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+A/Night_Fall_A_TurnR1
+  rotate: false
+  xy: 576, 260
+  size: 59, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+A/Night_Fall_A_TurnR2
+  rotate: false
+  xy: 637, 260
+  size: 55, 55
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+A/Night_Fall_A_TurnR3
+  rotate: false
+  xy: 694, 260
+  size: 49, 55
+  orig: 83, 83
+  offset: 15, 13
+  index: -1
+A/Night_Fall_A_TurnR4
+  rotate: false
+  xy: 745, 260
+  size: 45, 55
+  orig: 83, 83
+  offset: 15, 13
+  index: -1
+A/Night_Fall_A_TurnR5
+  rotate: false
+  xy: 792, 260
+  size: 41, 55
+  orig: 83, 83
+  offset: 17, 13
+  index: -1
+B/Night_Fall_B_Idle1
+  rotate: false
+  xy: 2, 317
+  size: 61, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+B/Night_Fall_B_Idle2
+  rotate: false
+  xy: 65, 317
+  size: 61, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+B/Night_Fall_B_Idle3
+  rotate: false
+  xy: 128, 317
+  size: 61, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+B/Night_Fall_B_Idle4
+  rotate: false
+  xy: 191, 317
+  size: 61, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+B/Night_Fall_B_Idle5
+  rotate: false
+  xy: 254, 317
+  size: 61, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+B/Night_Fall_B_TurnR1
+  rotate: false
+  xy: 317, 317
+  size: 59, 55
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+B/Night_Fall_B_TurnR2
+  rotate: false
+  xy: 378, 317
+  size: 55, 55
+  orig: 83, 83
+  offset: 13, 13
+  index: -1
+B/Night_Fall_B_TurnR3
+  rotate: false
+  xy: 435, 317
+  size: 49, 55
+  orig: 83, 83
+  offset: 16, 13
+  index: -1
+B/Night_Fall_B_TurnR4
+  rotate: false
+  xy: 486, 317
+  size: 45, 55
+  orig: 83, 83
+  offset: 16, 13
+  index: -1
+B/Night_Fall_B_TurnR5
+  rotate: false
+  xy: 533, 317
+  size: 41, 55
+  orig: 83, 83
+  offset: 17, 13
+  index: -1
+C/Night_Fall_C_Idle1
+  rotate: false
+  xy: 576, 317
+  size: 61, 55
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+C/Night_Fall_C_Idle2
+  rotate: false
+  xy: 639, 317
+  size: 61, 55
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+C/Night_Fall_C_Idle3
+  rotate: false
+  xy: 702, 317
+  size: 61, 55
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+C/Night_Fall_C_Idle4
+  rotate: false
+  xy: 765, 317
+  size: 61, 55
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+C/Night_Fall_C_Idle5
+  rotate: false
+  xy: 828, 317
+  size: 61, 55
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+C/Night_Fall_C_TurnR1
+  rotate: false
+  xy: 2, 260
+  size: 59, 55
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+C/Night_Fall_C_TurnR2
+  rotate: false
+  xy: 63, 260
+  size: 55, 55
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+C/Night_Fall_C_TurnR3
+  rotate: false
+  xy: 120, 260
+  size: 49, 55
+  orig: 83, 83
+  offset: 15, 13
+  index: -1
+C/Night_Fall_C_TurnR4
+  rotate: false
+  xy: 171, 260
+  size: 45, 55
+  orig: 83, 83
+  offset: 15, 13
+  index: -1
+C/Night_Fall_C_TurnR5
+  rotate: false
+  xy: 218, 260
+  size: 41, 55
+  orig: 83, 83
+  offset: 17, 13
+  index: -1
+Night_Fall_S/Night_Fall_S_Idle1
+  rotate: false
+  xy: 283, 135
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_S/Night_Fall_S_Idle2
+  rotate: false
+  xy: 348, 135
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_S/Night_Fall_S_Idle3
+  rotate: false
+  xy: 413, 135
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_S/Night_Fall_S_Idle4
+  rotate: false
+  xy: 478, 135
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_S/Night_Fall_S_Idle5
+  rotate: false
+  xy: 543, 135
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_S/Night_Fall_S_TurnR1
+  rotate: false
+  xy: 608, 135
+  size: 60, 61
+  orig: 83, 83
+  offset: 11, 7
+  index: -1
+Night_Fall_S/Night_Fall_S_TurnR2
+  rotate: false
+  xy: 670, 135
+  size: 55, 61
+  orig: 83, 83
+  offset: 13, 7
+  index: -1
+Night_Fall_S/Night_Fall_S_TurnR3
+  rotate: false
+  xy: 727, 135
+  size: 50, 61
+  orig: 83, 83
+  offset: 15, 7
+  index: -1
+Night_Fall_S/Night_Fall_S_TurnR4
+  rotate: false
+  xy: 779, 135
+  size: 45, 61
+  orig: 83, 83
+  offset: 17, 7
+  index: -1
+Night_Fall_S/Night_Fall_S_TurnR5
+  rotate: false
+  xy: 826, 130
+  size: 40, 61
+  orig: 83, 83
+  offset: 19, 7
+  index: -1
+Night_Fall_SS/Night_Fall_SS_Idle1
+  rotate: false
+  xy: 2, 73
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_SS/Night_Fall_SS_Idle2
+  rotate: false
+  xy: 67, 73
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_SS/Night_Fall_SS_Idle3
+  rotate: false
+  xy: 132, 73
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_SS/Night_Fall_SS_Idle4
+  rotate: false
+  xy: 197, 73
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_SS/Night_Fall_SS_Idle5
+  rotate: false
+  xy: 262, 72
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_SS/Night_Fall_SS_TurnR1
+  rotate: false
+  xy: 327, 72
+  size: 60, 61
+  orig: 83, 83
+  offset: 11, 7
+  index: -1
+Night_Fall_SS/Night_Fall_SS_TurnR2
+  rotate: false
+  xy: 389, 72
+  size: 55, 61
+  orig: 83, 83
+  offset: 13, 7
+  index: -1
+Night_Fall_SS/Night_Fall_SS_TurnR3
+  rotate: false
+  xy: 446, 72
+  size: 50, 61
+  orig: 83, 83
+  offset: 15, 7
+  index: -1
+Night_Fall_SS/Night_Fall_SS_TurnR4
+  rotate: false
+  xy: 498, 72
+  size: 45, 61
+  orig: 83, 83
+  offset: 17, 7
+  index: -1
+Night_Fall_SS/Night_Fall_SS_TurnR5
+  rotate: false
+  xy: 545, 72
+  size: 40, 61
+  orig: 83, 83
+  offset: 19, 7
+  index: -1
+Night_Fall_SSS/Night_Fall_SSS_Idle1
+  rotate: false
+  xy: 587, 72
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_SSS/Night_Fall_SSS_Idle2
+  rotate: false
+  xy: 652, 72
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_SSS/Night_Fall_SSS_Idle3
+  rotate: false
+  xy: 717, 72
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_SSS/Night_Fall_SSS_Idle4
+  rotate: false
+  xy: 782, 67
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_SSS/Night_Fall_SSS_Idle5
+  rotate: false
+  xy: 2, 10
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_SSS/Night_Fall_SSS_TurnR1
+  rotate: false
+  xy: 67, 10
+  size: 60, 61
+  orig: 83, 83
+  offset: 11, 7
+  index: -1
+Night_Fall_SSS/Night_Fall_SSS_TurnR2
+  rotate: false
+  xy: 847, 67
+  size: 55, 61
+  orig: 83, 83
+  offset: 13, 7
+  index: -1
+Night_Fall_SSS/Night_Fall_SSS_TurnR3
+  rotate: false
+  xy: 129, 10
+  size: 50, 61
+  orig: 83, 83
+  offset: 15, 7
+  index: -1
+Night_Fall_SSS/Night_Fall_SSS_TurnR4
+  rotate: false
+  xy: 181, 10
+  size: 45, 61
+  orig: 83, 83
+  offset: 17, 7
+  index: -1
+Night_Fall_X/Night_Fall_X_Idle1
+  rotate: false
+  xy: 835, 255
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Night_Fall_X/Night_Fall_X_Idle2
+  rotate: false
+  xy: 2, 198
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Night_Fall_X/Night_Fall_X_Idle3
+  rotate: false
+  xy: 71, 198
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Night_Fall_X/Night_Fall_X_Idle4
+  rotate: false
+  xy: 140, 198
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Night_Fall_X/Night_Fall_X_Idle5
+  rotate: false
+  xy: 209, 198
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Night_Fall_X/Night_Fall_X_TurnR1
+  rotate: false
+  xy: 278, 198
+  size: 64, 60
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+Night_Fall_X/Night_Fall_X_TurnR2
+  rotate: false
+  xy: 344, 198
+  size: 59, 60
+  orig: 83, 83
+  offset: 11, 8
+  index: -1
+Night_Fall_X/Night_Fall_X_TurnR3
+  rotate: false
+  xy: 405, 198
+  size: 56, 60
+  orig: 83, 83
+  offset: 12, 8
+  index: -1
+Night_Fall_X/Night_Fall_X_TurnR4
+  rotate: false
+  xy: 463, 198
+  size: 48, 60
+  orig: 83, 83
+  offset: 15, 8
+  index: -1
+Night_Fall_X/Night_Fall_X_TurnR5
+  rotate: false
+  xy: 513, 198
+  size: 44, 60
+  orig: 83, 83
+  offset: 16, 8
+  index: -1
+Night_Fall_XX/Night_Fall_XX_Idle1
+  rotate: false
+  xy: 559, 198
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Night_Fall_XX/Night_Fall_XX_Idle2
+  rotate: false
+  xy: 628, 198
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Night_Fall_XX/Night_Fall_XX_Idle3
+  rotate: false
+  xy: 697, 198
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Night_Fall_XX/Night_Fall_XX_Idle4
+  rotate: false
+  xy: 766, 198
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Night_Fall_XX/Night_Fall_XX_Idle5
+  rotate: false
+  xy: 835, 193
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Night_Fall_XX/Night_Fall_XX_TurnR1
+  rotate: false
+  xy: 2, 136
+  size: 64, 60
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+Night_Fall_XX/Night_Fall_XX_TurnR2
+  rotate: false
+  xy: 68, 136
+  size: 59, 60
+  orig: 83, 83
+  offset: 11, 8
+  index: -1
+Night_Fall_XX/Night_Fall_XX_TurnR3
+  rotate: false
+  xy: 129, 136
+  size: 56, 60
+  orig: 83, 83
+  offset: 12, 8
+  index: -1
+Night_Fall_XX/Night_Fall_XX_TurnR4
+  rotate: false
+  xy: 187, 136
+  size: 48, 60
+  orig: 83, 83
+  offset: 15, 8
+  index: -1
+Night_Fall_XX/Night_Fall_XX_TurnR5
+  rotate: false
+  xy: 237, 136
+  size: 44, 60
+  orig: 83, 83
+  offset: 16, 8
+  index: -1
+Night_Fall_XXX/Night_Fall_XXX_Idle1
+  rotate: false
+  xy: 228, 7
+  size: 69, 63
+  orig: 83, 83
+  offset: 7, 7
+  index: -1
+Night_Fall_XXX/Night_Fall_XXX_Idle2
+  rotate: false
+  xy: 299, 7
+  size: 69, 63
+  orig: 83, 83
+  offset: 7, 7
+  index: -1
+Night_Fall_XXX/Night_Fall_XXX_Idle3
+  rotate: false
+  xy: 370, 7
+  size: 69, 63
+  orig: 83, 83
+  offset: 7, 7
+  index: -1
+Night_Fall_XXX/Night_Fall_XXX_Idle4
+  rotate: false
+  xy: 441, 7
+  size: 69, 63
+  orig: 83, 83
+  offset: 7, 7
+  index: -1
+Night_Fall_XXX/Night_Fall_XXX_Idle5
+  rotate: false
+  xy: 512, 7
+  size: 69, 63
+  orig: 83, 83
+  offset: 7, 7
+  index: -1
+Night_Fall_XXX/Night_Fall_XXX_TurnR1
+  rotate: false
+  xy: 583, 7
+  size: 65, 63
+  orig: 83, 83
+  offset: 9, 7
+  index: -1
+Night_Fall_XXX/Night_Fall_XXX_TurnR2
+  rotate: false
+  xy: 650, 7
+  size: 61, 63
+  orig: 83, 83
+  offset: 10, 7
+  index: -1
+Night_Fall_XXX/Night_Fall_XXX_TurnR3
+  rotate: false
+  xy: 713, 7
+  size: 56, 63
+  orig: 83, 83
+  offset: 12, 7
+  index: -1
+Night_Fall_XXX/Night_Fall_XXX_TurnR4
+  rotate: false
+  xy: 771, 2
+  size: 51, 63
+  orig: 83, 83
+  offset: 14, 7
+  index: -1
+Night_Fall_XXX/Night_Fall_XXX_TurnR5
+  rotate: false
+  xy: 824, 2
+  size: 47, 63
+  orig: 83, 83
+  offset: 15, 7
+  index: -1

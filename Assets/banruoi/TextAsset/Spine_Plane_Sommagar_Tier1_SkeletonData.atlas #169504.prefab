@@ -1,0 +1,636 @@
+
+Spine_Plane_Sommagar_Tier1_SkeletonData.png
+size: 948,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/A/sommagar_A_idle1
+  rotate: false
+  xy: 317, 144
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 18
+  index: -1
+images/A/sommagar_A_idle2
+  rotate: false
+  xy: 380, 144
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 18
+  index: -1
+images/A/sommagar_A_idle3
+  rotate: false
+  xy: 443, 144
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 18
+  index: -1
+images/A/sommagar_A_idle4
+  rotate: false
+  xy: 506, 144
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 18
+  index: -1
+images/A/sommagar_A_idle5
+  rotate: false
+  xy: 569, 144
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 18
+  index: -1
+images/A/sommagar_A_turn1
+  rotate: false
+  xy: 585, 96
+  size: 57, 46
+  orig: 83, 83
+  offset: 12, 19
+  index: -1
+images/A/sommagar_A_turn2
+  rotate: false
+  xy: 463, 46
+  size: 53, 46
+  orig: 83, 83
+  offset: 13, 19
+  index: -1
+images/A/sommagar_A_turn3
+  rotate: true
+  xy: 739, 144
+  size: 50, 46
+  orig: 83, 83
+  offset: 13, 19
+  index: -1
+images/A/sommagar_A_turn4
+  rotate: false
+  xy: 781, 48
+  size: 45, 46
+  orig: 83, 83
+  offset: 14, 19
+  index: -1
+images/A/sommagar_A_turn5
+  rotate: false
+  xy: 876, 17
+  size: 40, 46
+  orig: 83, 83
+  offset: 16, 19
+  index: -1
+images/B/sommagar_B_idle1
+  rotate: false
+  xy: 821, 244
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 18
+  index: -1
+images/B/sommagar_B_idle2
+  rotate: false
+  xy: 821, 196
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 18
+  index: -1
+images/B/sommagar_B_idle3
+  rotate: false
+  xy: 884, 244
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 18
+  index: -1
+images/B/sommagar_B_idle4
+  rotate: false
+  xy: 884, 196
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 18
+  index: -1
+images/B/sommagar_B_idle5
+  rotate: false
+  xy: 254, 139
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 18
+  index: -1
+images/B/sommagar_B_turn1
+  rotate: false
+  xy: 526, 96
+  size: 57, 46
+  orig: 83, 83
+  offset: 12, 19
+  index: -1
+images/B/sommagar_B_turn2
+  rotate: false
+  xy: 408, 46
+  size: 53, 46
+  orig: 83, 83
+  offset: 13, 19
+  index: -1
+images/B/sommagar_B_turn3
+  rotate: false
+  xy: 518, 46
+  size: 50, 46
+  orig: 83, 83
+  offset: 13, 19
+  index: -1
+images/B/sommagar_B_turn4
+  rotate: false
+  xy: 743, 96
+  size: 45, 46
+  orig: 83, 83
+  offset: 14, 19
+  index: -1
+images/B/sommagar_B_turn5
+  rotate: true
+  xy: 768, 4
+  size: 40, 46
+  orig: 83, 83
+  offset: 16, 19
+  index: -1
+images/C/sommagar_C_idle1
+  rotate: false
+  xy: 632, 194
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/C/sommagar_C_idle2
+  rotate: false
+  xy: 695, 244
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/C/sommagar_C_idle3
+  rotate: false
+  xy: 695, 196
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/C/sommagar_C_idle4
+  rotate: false
+  xy: 758, 244
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/C/sommagar_C_idle5
+  rotate: false
+  xy: 758, 196
+  size: 61, 46
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/C/sommagar_C_turn1
+  rotate: true
+  xy: 305, 80
+  size: 57, 46
+  orig: 83, 83
+  offset: 12, 19
+  index: -1
+images/C/sommagar_C_turn2
+  rotate: true
+  xy: 305, 25
+  size: 53, 46
+  orig: 83, 83
+  offset: 13, 19
+  index: -1
+images/C/sommagar_C_turn3
+  rotate: false
+  xy: 644, 96
+  size: 50, 46
+  orig: 83, 83
+  offset: 13, 19
+  index: -1
+images/C/sommagar_C_turn4
+  rotate: false
+  xy: 696, 96
+  size: 45, 46
+  orig: 83, 83
+  offset: 14, 19
+  index: -1
+images/C/sommagar_C_turn5
+  rotate: true
+  xy: 828, 23
+  size: 40, 46
+  orig: 83, 83
+  offset: 16, 19
+  index: -1
+images/S/sommagar_S_idle1
+  rotate: false
+  xy: 254, 187
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/S/sommagar_S_idle2
+  rotate: false
+  xy: 317, 242
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/S/sommagar_S_idle3
+  rotate: false
+  xy: 124, 22
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/S/sommagar_S_idle4
+  rotate: false
+  xy: 187, 77
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/S/sommagar_S_idle5
+  rotate: false
+  xy: 317, 192
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/S/sommagar_S_turn1
+  rotate: false
+  xy: 632, 144
+  size: 57, 48
+  orig: 83, 83
+  offset: 12, 19
+  index: -1
+images/S/sommagar_S_turn2
+  rotate: false
+  xy: 680, 46
+  size: 51, 48
+  orig: 83, 83
+  offset: 13, 19
+  index: -1
+images/S/sommagar_S_turn3
+  rotate: false
+  xy: 691, 144
+  size: 46, 48
+  orig: 83, 83
+  offset: 15, 19
+  index: -1
+images/S/sommagar_S_turn4
+  rotate: true
+  xy: 568, 2
+  size: 42, 48
+  orig: 83, 83
+  offset: 16, 19
+  index: -1
+images/S/sommagar_S_turn5
+  rotate: true
+  xy: 718, 5
+  size: 39, 48
+  orig: 83, 83
+  offset: 18, 19
+  index: -1
+images/SS/sommagar_SS_idle1
+  rotate: false
+  xy: 380, 242
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/SS/sommagar_SS_idle2
+  rotate: false
+  xy: 187, 27
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/SS/sommagar_SS_idle3
+  rotate: false
+  xy: 380, 192
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/SS/sommagar_SS_idle4
+  rotate: false
+  xy: 443, 242
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/SS/sommagar_SS_idle5
+  rotate: false
+  xy: 443, 192
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/SS/sommagar_SS_turn1
+  rotate: false
+  xy: 408, 94
+  size: 57, 48
+  orig: 83, 83
+  offset: 12, 19
+  index: -1
+images/SS/sommagar_SS_turn2
+  rotate: false
+  xy: 787, 146
+  size: 51, 48
+  orig: 83, 83
+  offset: 13, 19
+  index: -1
+images/SS/sommagar_SS_turn3
+  rotate: false
+  xy: 733, 46
+  size: 46, 48
+  orig: 83, 83
+  offset: 15, 19
+  index: -1
+images/SS/sommagar_SS_turn4
+  rotate: true
+  xy: 618, 2
+  size: 42, 48
+  orig: 83, 83
+  offset: 16, 19
+  index: -1
+images/SS/sommagar_SS_turn5
+  rotate: true
+  xy: 838, 65
+  size: 39, 48
+  orig: 83, 83
+  offset: 18, 19
+  index: -1
+images/SSS/sommagar_SSS_idle1
+  rotate: false
+  xy: 506, 242
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/SSS/sommagar_SSS_idle2
+  rotate: false
+  xy: 506, 192
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/SSS/sommagar_SSS_idle3
+  rotate: false
+  xy: 569, 242
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/SSS/sommagar_SSS_idle4
+  rotate: false
+  xy: 569, 192
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/SSS/sommagar_SSS_idle5
+  rotate: false
+  xy: 632, 242
+  size: 61, 48
+  orig: 83, 83
+  offset: 11, 19
+  index: -1
+images/SSS/sommagar_SSS_turn1
+  rotate: false
+  xy: 467, 94
+  size: 57, 48
+  orig: 83, 83
+  offset: 12, 19
+  index: -1
+images/SSS/sommagar_SSS_turn2
+  rotate: false
+  xy: 840, 146
+  size: 51, 48
+  orig: 83, 83
+  offset: 13, 19
+  index: -1
+images/SSS/sommagar_SSS_turn3
+  rotate: false
+  xy: 790, 96
+  size: 46, 48
+  orig: 83, 83
+  offset: 15, 19
+  index: -1
+images/SSS/sommagar_SSS_turn4
+  rotate: true
+  xy: 668, 2
+  size: 42, 48
+  orig: 83, 83
+  offset: 16, 19
+  index: -1
+images/SSS/sommagar_SSS_turn5
+  rotate: true
+  xy: 893, 75
+  size: 39, 48
+  orig: 83, 83
+  offset: 18, 19
+  index: -1
+images/X/sommagar_X_idle1
+  rotate: false
+  xy: 2, 237
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/X/sommagar_X_idle2
+  rotate: false
+  xy: 2, 182
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/X/sommagar_X_idle3
+  rotate: false
+  xy: 65, 237
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/X/sommagar_X_idle4
+  rotate: false
+  xy: 2, 127
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/X/sommagar_X_idle5
+  rotate: false
+  xy: 65, 182
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/X/sommagar_X_turn1
+  rotate: false
+  xy: 65, 17
+  size: 57, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/X/sommagar_X_turn2
+  rotate: false
+  xy: 250, 84
+  size: 53, 53
+  orig: 83, 83
+  offset: 13, 10
+  index: -1
+images/X/sommagar_X_turn3
+  rotate: false
+  xy: 353, 34
+  size: 48, 53
+  orig: 83, 83
+  offset: 15, 10
+  index: -1
+images/X/sommagar_X_turn4
+  rotate: true
+  xy: 403, 2
+  size: 42, 53
+  orig: 83, 83
+  offset: 17, 10
+  index: -1
+images/X/sommagar_X_turn5
+  rotate: true
+  xy: 893, 156
+  size: 38, 53
+  orig: 83, 83
+  offset: 19, 10
+  index: -1
+images/XX/sommagar_XX_Idle1
+  rotate: false
+  xy: 128, 237
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XX/sommagar_XX_Idle2
+  rotate: false
+  xy: 65, 127
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XX/sommagar_XX_Idle3
+  rotate: false
+  xy: 191, 237
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XX/sommagar_XX_Idle4
+  rotate: false
+  xy: 65, 72
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XX/sommagar_XX_Idle5
+  rotate: false
+  xy: 191, 182
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XX/sommagar_XX_turn1
+  rotate: false
+  xy: 128, 72
+  size: 57, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XX/sommagar_XX_turn2
+  rotate: false
+  xy: 250, 29
+  size: 53, 53
+  orig: 83, 83
+  offset: 13, 10
+  index: -1
+images/XX/sommagar_XX_turn3
+  rotate: true
+  xy: 570, 46
+  size: 48, 53
+  orig: 83, 83
+  offset: 15, 10
+  index: -1
+images/XX/sommagar_XX_turn4
+  rotate: true
+  xy: 458, 2
+  size: 42, 53
+  orig: 83, 83
+  offset: 17, 10
+  index: -1
+images/XX/sommagar_XX_turn5
+  rotate: true
+  xy: 893, 116
+  size: 38, 53
+  orig: 83, 83
+  offset: 19, 10
+  index: -1
+images/XXX/sommagar_XXX_idle1
+  rotate: false
+  xy: 2, 72
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XXX/sommagar_XXX_idle2
+  rotate: false
+  xy: 128, 182
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XXX/sommagar_XXX_idle3
+  rotate: false
+  xy: 2, 17
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XXX/sommagar_XXX_idle4
+  rotate: false
+  xy: 128, 127
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XXX/sommagar_XXX_idle5
+  rotate: false
+  xy: 254, 237
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XXX/sommagar_XXX_turn1
+  rotate: false
+  xy: 191, 127
+  size: 57, 53
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+images/XXX/sommagar_XXX_turn2
+  rotate: false
+  xy: 353, 89
+  size: 53, 53
+  orig: 83, 83
+  offset: 13, 10
+  index: -1
+images/XXX/sommagar_XXX_turn3
+  rotate: true
+  xy: 625, 46
+  size: 48, 53
+  orig: 83, 83
+  offset: 15, 10
+  index: -1
+images/XXX/sommagar_XXX_turn4
+  rotate: true
+  xy: 513, 2
+  size: 42, 53
+  orig: 83, 83
+  offset: 17, 10
+  index: -1
+images/XXX/sommagar_XXX_turn5
+  rotate: true
+  xy: 838, 106
+  size: 38, 53
+  orig: 83, 83
+  offset: 19, 10
+  index: -1

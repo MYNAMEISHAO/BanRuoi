@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 65483b68f51e2ca42be324ae0d554f1d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FVF Fernando 08
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2a0e96991d985442aea50798e96416e, type: 3}
+  - {fileID: 12800000, guid: 625434b6e2df77841806d345426dc2db, type: 3}
+  - {fileID: 12800000, guid: 5143bdf46aa35f44fa4e5836845d4f7a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

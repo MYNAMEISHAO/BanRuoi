@@ -1,0 +1,111 @@
+
+Spine_Player_Tarragon_CBA.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tarragon_CBA_Head1
+  rotate: true
+  xy: 2, 2
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_Head2
+  rotate: false
+  xy: 321, 54
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_Head3
+  rotate: true
+  xy: 64, 2
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_Head4
+  rotate: false
+  xy: 362, 54
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_Head5
+  rotate: true
+  xy: 126, 2
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_TurnRight1
+  rotate: false
+  xy: 2, 43
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_TurnRight2
+  rotate: false
+  xy: 74, 43
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_TurnRight3
+  rotate: false
+  xy: 142, 43
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_TurnRight4
+  rotate: false
+  xy: 205, 43
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_TurnRight5
+  rotate: false
+  xy: 265, 43
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_Wings1
+  rotate: true
+  xy: 403, 86
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_Wings2
+  rotate: true
+  xy: 188, 13
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_Wings3
+  rotate: true
+  xy: 403, 56
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_Wings4
+  rotate: true
+  xy: 256, 13
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+Tarragon_CBA_Wings5
+  rotate: false
+  xy: 471, 48
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1

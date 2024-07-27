@@ -1,0 +1,3835 @@
+{
+"skeleton": { "hash": "f+/5Mho1WJ34Gv/BH+ORf+lxCX8", "spine": "3.7.94", "width": 65, "height": 70 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "All", "parent": "root" },
+	{ "name": "Core_Border", "parent": "All", "x": 0.5, "y": -0.5 },
+	{ "name": "WingBase", "parent": "All", "length": 6.1, "rotation": 180, "x": -5.01, "y": 9 },
+	{ "name": "Wing", "parent": "WingBase", "length": 11.94, "rotation": -47.41, "x": 6.89, "y": 1.82 },
+	{ "name": "WingGun", "parent": "Wing", "length": 10.1, "rotation": -42.59, "x": 6.66, "y": -10.07 },
+	{ "name": "TailBase", "parent": "All", "x": 0.5, "y": -13.5 },
+	{ "name": "TailSide_WingBase", "parent": "TailBase", "length": 7.04, "rotation": 180, "x": -4.46, "y": -3.46 },
+	{ "name": "TailSide_DownWing", "parent": "TailSide_WingBase", "rotation": 180, "x": 5.03, "y": 3.83 },
+	{ "name": "TailSide_UpWing", "parent": "TailSide_WingBase", "length": 12.65, "rotation": -45.07, "x": 6.07, "y": -0.02 },
+	{ "name": "Tail", "parent": "TailBase", "length": 18.8, "rotation": -90, "y": -5.52 },
+	{ "name": "Wing_Top", "parent": "Wing", "length": 11.86, "rotation": -42.59, "x": 8.68, "y": -5.16 },
+	{ "name": "TailSideGun", "parent": "TailSide_DownWing", "length": 5.09, "rotation": -90, "x": -0.44, "y": -4.1 },
+	{ "name": "TailSide", "parent": "TailSide_WingBase", "length": 10.06, "rotation": 90, "x": 2.09, "y": 1.01 },
+	{ "name": "TailSide_Detail", "parent": "TailSide", "length": 4, "rotation": 90, "x": 3.96, "y": 0.06 },
+	{ "name": "TailSide_Base", "parent": "TailSide_WingBase", "length": 3.85, "rotation": -90, "x": 1.12, "y": -5.02 },
+	{ "name": "Core_Spin", "parent": "Core_Border" },
+	{ "name": "Core", "parent": "Core_Border" },
+	{
+		"name": "TailSide_WingBase2",
+		"parent": "TailBase",
+		"length": 7.04,
+		"rotation": 180,
+		"x": 4.46,
+		"y": -3.46,
+		"scaleX": -1
+	},
+	{ "name": "TailSide_DownWing2", "parent": "TailSide_WingBase2", "rotation": 180, "x": 5.03, "y": 3.83 },
+	{ "name": "TailSideGun2", "parent": "TailSide_DownWing2", "length": 5.09, "rotation": -90, "x": -0.44, "y": -4.1 },
+	{ "name": "TailSide_UpWing2", "parent": "TailSide_WingBase2", "length": 12.65, "rotation": -45.07, "x": 6.07, "y": -0.02 },
+	{ "name": "TailSide2", "parent": "TailSide_WingBase2", "length": 10.06, "rotation": 90, "x": 2.09, "y": 1.01 },
+	{ "name": "TailSide_Detail2", "parent": "TailSide2", "length": 4, "rotation": 90, "x": 3.96, "y": 0.06 },
+	{ "name": "TailSide_Base2", "parent": "TailSide_WingBase2", "length": 3.85, "rotation": -90, "x": 1.12, "y": -5.02 },
+	{
+		"name": "WingBase2",
+		"parent": "All",
+		"length": 6.1,
+		"rotation": 180,
+		"x": 6.01,
+		"y": 9,
+		"scaleX": -1
+	},
+	{ "name": "Wing2", "parent": "WingBase2", "length": 11.94, "rotation": -47.41, "x": 6.89, "y": 1.82 },
+	{ "name": "WingGun2", "parent": "Wing2", "length": 10.1, "rotation": -42.59, "x": 7.27, "y": -9.41 },
+	{ "name": "Wing_Top2", "parent": "Wing2", "length": 11.86, "rotation": -42.59, "x": 8.68, "y": -5.16 },
+	{ "name": "Reus_turnright_0", "parent": "root", "x": 0.04, "y": -0.61 }
+],
+"slots": [
+	{ "name": "Tail_1", "bone": "Tail", "attachment": "Tail_1" },
+	{ "name": "WingGun_1", "bone": "WingGun", "attachment": "WingGun_1" },
+	{ "name": "WingGun_2", "bone": "WingGun2", "attachment": "WingGun_5" },
+	{ "name": "Wing_Top", "bone": "Wing_Top", "attachment": "Wing_Top" },
+	{ "name": "Wing_Top2", "bone": "Wing_Top2", "attachment": "Wing_Top" },
+	{ "name": "Wing_1", "bone": "Wing", "attachment": "Wing_1" },
+	{ "name": "Wing_2", "bone": "Wing2", "attachment": "Wing_1" },
+	{ "name": "Body", "bone": "All", "attachment": "Body" },
+	{ "name": "Core", "bone": "Core", "attachment": "Core" },
+	{ "name": "Core2", "bone": "Core", "attachment": "Core", "blend": "additive" },
+	{ "name": "Core_Spin", "bone": "Core_Spin", "attachment": "Core_Spin" },
+	{ "name": "Core_Border", "bone": "Core_Border", "attachment": "Core_Border" },
+	{ "name": "TailSide_Base", "bone": "TailSide_Base", "attachment": "TailSide_Base" },
+	{ "name": "TailSide_Base2", "bone": "TailSide_Base2", "attachment": "TailSide_Base" },
+	{ "name": "WingBase_1", "bone": "WingBase", "attachment": "WingBase_1" },
+	{ "name": "WingBase_2", "bone": "WingBase2", "attachment": "WingBase_1" },
+	{ "name": "TailSideGun", "bone": "TailSideGun", "attachment": "TailSideGun" },
+	{ "name": "TailSideGun2", "bone": "TailSideGun2", "attachment": "TailSideGun" },
+	{ "name": "TailSide_UpWing_1", "bone": "TailSide_UpWing", "attachment": "TailSide_UpWing_1" },
+	{ "name": "TailSide_UpWing_2", "bone": "TailSide_UpWing2", "attachment": "TailSide_UpWing_1" },
+	{ "name": "TailSide_DownWing_1", "bone": "TailSide_DownWing", "attachment": "TailSide_DownWing_1" },
+	{ "name": "TailSide_DownWing_2", "bone": "TailSide_DownWing2", "attachment": "TailSide_DownWing_1" },
+	{ "name": "TailSide_Detail", "bone": "TailSide_Detail", "attachment": "TailSide_Detail" },
+	{ "name": "TailSide_Detail2", "bone": "TailSide_Detail2", "attachment": "TailSide_Detail" },
+	{ "name": "TailSide", "bone": "TailSide", "attachment": "TailSide" },
+	{ "name": "TailSide2", "bone": "TailSide2", "attachment": "TailSide" },
+	{ "name": "TailSide_WingBase", "bone": "TailSide_WingBase", "attachment": "TailSide_WingBase" },
+	{ "name": "TailSide_WingBase2", "bone": "TailSide_WingBase2", "attachment": "TailSide_WingBase" },
+	{ "name": "TailBase_1", "bone": "TailBase", "attachment": "TailBase_3" },
+	{ "name": "TailBase_2", "bone": "TailBase", "attachment": "TailBase_3", "blend": "screen" },
+	{ "name": "Reus_turnright_0", "bone": "Reus_turnright_0" }
+],
+"skins": {
+	"default": {
+		"Body": {
+			"Body": { "x": 0.5, "y": -2, "width": 37, "height": 40 }
+		},
+		"Core": {
+			"Core": { "width": 9, "height": 9 }
+		},
+		"Core2": {
+			"Core": { "width": 9, "height": 9 }
+		},
+		"Core_Border": {
+			"Core_Border": { "width": 29, "height": 29 }
+		},
+		"Core_Spin": {
+			"Core_Spin": { "width": 21, "height": 21 }
+		},
+		"TailBase_1": {
+			"TailBase_1": { "width": 15, "height": 15 },
+			"TailBase_2": { "width": 15, "height": 15 },
+			"TailBase_3": { "width": 15, "height": 15 },
+			"TailBase_4": { "width": 15, "height": 15 },
+			"TailBase_5": { "width": 15, "height": 15 }
+		},
+		"TailBase_2": {
+			"TailBase_1": { "width": 15, "height": 15 },
+			"TailBase_2": { "width": 15, "height": 15 },
+			"TailBase_3": { "width": 15, "height": 15 },
+			"TailBase_4": { "width": 15, "height": 15 },
+			"TailBase_5": { "width": 15, "height": 15 }
+		},
+		"TailSide": {
+			"TailSide": { "x": 5.03, "y": 0.55, "rotation": 90, "width": 9, "height": 12 }
+		},
+		"TailSide2": {
+			"TailSide": { "x": 5.03, "y": 0.55, "rotation": 90, "width": 9, "height": 12 }
+		},
+		"TailSideGun": {
+			"TailSideGun": { "x": 2.61, "y": -0.06, "rotation": 90, "width": 9, "height": 7 }
+		},
+		"TailSideGun2": {
+			"TailSideGun": { "x": 2.61, "y": -0.06, "rotation": 90, "width": 9, "height": 7 }
+		},
+		"TailSide_Base": {
+			"TailSide_Base": { "x": 2.44, "y": 1.42, "rotation": -90, "width": 13, "height": 9 }
+		},
+		"TailSide_Base2": {
+			"TailSide_Base": { "x": 2.44, "y": 1.42, "rotation": -90, "width": 13, "height": 9 }
+		},
+		"TailSide_Detail": {
+			"TailSide_Detail": { "x": 1.99, "y": 0.43, "width": 6, "height": 9 }
+		},
+		"TailSide_Detail2": {
+			"TailSide_Detail": { "x": 1.99, "y": 0.43, "width": 6, "height": 9 }
+		},
+		"TailSide_DownWing_1": {
+			"TailSide_DownWing_1": { "x": -6.01, "y": -4.21, "width": 16, "height": 12 },
+			"TailSide_DownWing_2": { "x": -6.01, "y": -4.21, "width": 16, "height": 12 },
+			"TailSide_DownWing_3": { "x": -6.01, "y": -4.21, "width": 16, "height": 12 },
+			"TailSide_DownWing_4": { "x": -6.01, "y": -4.21, "width": 16, "height": 12 },
+			"TailSide_DownWing_5": { "x": -6.01, "y": -4.21, "width": 16, "height": 12 }
+		},
+		"TailSide_DownWing_2": {
+			"TailSide_DownWing_1": { "x": -6.01, "y": -4.21, "width": 16, "height": 12 },
+			"TailSide_DownWing_2": { "x": -6.01, "y": -4.21, "width": 16, "height": 12 },
+			"TailSide_DownWing_3": { "x": -6.01, "y": -4.21, "width": 16, "height": 12 },
+			"TailSide_DownWing_4": { "x": -6.01, "y": -4.21, "width": 16, "height": 12 },
+			"TailSide_DownWing_5": { "x": -6.01, "y": -4.21, "width": 16, "height": 12 }
+		},
+		"TailSide_UpWing_1": {
+			"TailSide_UpWing_1": { "x": 7.36, "y": -1.03, "rotation": -134.93, "width": 15, "height": 16 },
+			"TailSide_UpWing_2": { "x": 7.36, "y": -1.03, "rotation": -134.93, "width": 15, "height": 16 },
+			"TailSide_UpWing_3": { "x": 7.36, "y": -1.03, "rotation": -134.93, "width": 15, "height": 16 },
+			"TailSide_UpWing_4": { "x": 7.36, "y": -1.03, "rotation": -134.93, "width": 15, "height": 16 },
+			"TailSide_UpWing_5": { "x": 7.36, "y": -1.03, "rotation": -134.93, "width": 15, "height": 16 }
+		},
+		"TailSide_UpWing_2": {
+			"TailSide_UpWing_1": { "x": 7.36, "y": -1.03, "rotation": -134.93, "width": 15, "height": 16 },
+			"TailSide_UpWing_2": { "x": 7.36, "y": -1.03, "rotation": -134.93, "width": 15, "height": 16 },
+			"TailSide_UpWing_3": { "x": 7.36, "y": -1.03, "rotation": -134.93, "width": 15, "height": 16 },
+			"TailSide_UpWing_4": { "x": 7.36, "y": -1.03, "rotation": -134.93, "width": 15, "height": 16 },
+			"TailSide_UpWing_5": { "x": 7.36, "y": -1.03, "rotation": -134.93, "width": 15, "height": 16 }
+		},
+		"TailSide_WingBase": {
+			"TailSide_WingBase": { "x": 7.54, "y": 0.04, "rotation": 180, "width": 17, "height": 14 }
+		},
+		"TailSide_WingBase2": {
+			"TailSide_WingBase": { "x": 7.54, "y": 0.04, "rotation": 180, "width": 17, "height": 14 }
+		},
+		"Tail_1": {
+			"Tail_1": { "x": 9.48, "rotation": 90, "width": 9, "height": 21 },
+			"Tail_2": { "x": 9.48, "rotation": 90, "width": 9, "height": 21 },
+			"Tail_3": { "x": 9.48, "rotation": 90, "width": 9, "height": 21 },
+			"Tail_4": { "x": 9.48, "rotation": 90, "width": 9, "height": 21 },
+			"Tail_5": { "x": 9.48, "rotation": 90, "width": 9, "height": 21 }
+		},
+		"WingBase_1": {
+			"WingBase_1": { "x": 4.49, "rotation": 180, "width": 17, "height": 30 },
+			"WingBase_2": { "x": 4.49, "rotation": 180, "width": 17, "height": 30 },
+			"WingBase_3": { "x": 4.49, "rotation": 180, "width": 17, "height": 30 },
+			"WingBase_4": { "x": 4.49, "rotation": 180, "width": 17, "height": 30 },
+			"WingBase_5": { "x": 4.49, "rotation": 180, "width": 17, "height": 30 }
+		},
+		"WingBase_2": {
+			"WingBase_1": { "x": 4.49, "rotation": 180, "width": 17, "height": 30 },
+			"WingBase_2": { "x": 4.49, "rotation": 180, "width": 17, "height": 30 },
+			"WingBase_3": { "x": 4.49, "rotation": 180, "width": 17, "height": 30 },
+			"WingBase_4": { "x": 4.49, "rotation": 180, "width": 17, "height": 30 },
+			"WingBase_5": { "x": 4.49, "rotation": 180, "width": 17, "height": 30 }
+		},
+		"WingGun_1": {
+			"WingGun_1": { "x": 4.61, "y": -0.5, "rotation": -90, "width": 11, "height": 13 },
+			"WingGun_2": { "x": 4.61, "y": -0.5, "rotation": -90, "width": 11, "height": 13 },
+			"WingGun_3": { "x": 4.61, "y": -0.5, "rotation": -90, "width": 11, "height": 13 },
+			"WingGun_4": { "x": 4.61, "y": -0.5, "rotation": -90, "width": 11, "height": 13 },
+			"WingGun_5": { "x": 4.61, "y": -0.5, "rotation": -90, "width": 11, "height": 13 }
+		},
+		"WingGun_2": {
+			"WingGun_1": { "x": 4.49, "y": -1.46, "rotation": -90, "width": 11, "height": 13 },
+			"WingGun_2": { "x": 4.49, "y": -1.46, "rotation": -90, "width": 11, "height": 13 },
+			"WingGun_3": { "x": 4.49, "y": -1.46, "rotation": -90, "width": 11, "height": 13 },
+			"WingGun_4": { "x": 4.49, "y": -1.46, "rotation": -90, "width": 11, "height": 13 },
+			"WingGun_5": { "x": 4.49, "y": -1.46, "rotation": -90, "width": 11, "height": 13 }
+		},
+		"Wing_1": {
+			"Wing_1": { "x": 2.58, "y": 4.55, "rotation": -132.59, "width": 30, "height": 38 },
+			"Wing_2": { "x": 2.58, "y": 4.55, "rotation": -132.59, "width": 30, "height": 38 },
+			"Wing_3": { "x": 2.58, "y": 4.55, "rotation": -132.59, "width": 30, "height": 38 },
+			"Wing_4": { "x": 2.58, "y": 4.55, "rotation": -132.59, "width": 30, "height": 38 },
+			"Wing_5": { "x": 2.58, "y": 4.55, "rotation": -132.59, "width": 30, "height": 38 }
+		},
+		"Wing_2": {
+			"Wing_1": { "x": 2.58, "y": 4.55, "rotation": -132.59, "width": 30, "height": 38 },
+			"Wing_2": { "x": 2.58, "y": 4.55, "rotation": -132.59, "width": 30, "height": 38 },
+			"Wing_3": { "x": 2.58, "y": 4.55, "rotation": -132.59, "width": 30, "height": 38 },
+			"Wing_4": { "x": 2.58, "y": 4.55, "rotation": -132.59, "width": 30, "height": 38 },
+			"Wing_5": { "x": 2.58, "y": 4.55, "rotation": -132.59, "width": 30, "height": 38 }
+		},
+		"Wing_Top": {
+			"Wing_Top": { "x": 5.95, "y": -0.48, "rotation": -90, "width": 9, "height": 16 }
+		},
+		"Wing_Top2": {
+			"Wing_Top": { "x": 5.95, "y": -0.48, "rotation": -90, "width": 9, "height": 16 }
+		}
+	},
+	"E1": {
+		"Reus_turnright_0": {
+			"Reus_turnright_0": { "x": -0.04, "y": -4.91, "width": 83, "height": 83 },
+			"Reus_turnright_1": { "x": -0.04, "y": -4.91, "width": 83, "height": 83 },
+			"Reus_turnright_2": { "x": -0.04, "y": -4.91, "width": 83, "height": 83 },
+			"Reus_turnright_3": { "x": -0.04, "y": -4.91, "width": 83, "height": 83 },
+			"Reus_turnright_4": { "x": -0.04, "y": -4.91, "width": 83, "height": 83 }
+		}
+	}
+},
+"animations": {
+	"SkillOff_Animation": {
+		"slots": {
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0, "name": "TailBase_1" },
+					{ "time": 0.0667, "name": "TailBase_2" },
+					{ "time": 0.1333, "name": "TailBase_3" },
+					{ "time": 0.2, "name": "TailBase_4" },
+					{ "time": 0.2667, "name": "TailBase_5" },
+					{ "time": 0.3333, "name": "TailBase_1" },
+					{ "time": 0.4, "name": "TailBase_2" },
+					{ "time": 0.4667, "name": "TailBase_3" },
+					{ "time": 0.5333, "name": "TailBase_4" },
+					{ "time": 0.6, "name": "TailBase_5" },
+					{ "time": 0.6667, "name": "TailBase_1" },
+					{ "time": 0.7333, "name": "TailBase_2" },
+					{ "time": 0.8, "name": "TailBase_3" },
+					{ "time": 0.8667, "name": "TailBase_4" },
+					{ "time": 0.9333, "name": "TailBase_5" },
+					{ "time": 1, "name": "TailBase_1" }
+				]
+			},
+			"TailBase_2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "TailBase_1" },
+					{ "time": 0.0667, "name": "TailBase_2" },
+					{ "time": 0.1333, "name": "TailBase_3" },
+					{ "time": 0.2, "name": "TailBase_4" },
+					{ "time": 0.2667, "name": "TailBase_5" },
+					{ "time": 0.3333, "name": "TailBase_1" },
+					{ "time": 0.4, "name": "TailBase_2" },
+					{ "time": 0.4667, "name": "TailBase_3" },
+					{ "time": 0.5333, "name": "TailBase_4" },
+					{ "time": 0.6, "name": "TailBase_5" },
+					{ "time": 0.6667, "name": "TailBase_1" },
+					{ "time": 0.7333, "name": "TailBase_2" },
+					{ "time": 0.8, "name": "TailBase_3" },
+					{ "time": 0.8667, "name": "TailBase_4" },
+					{ "time": 0.9333, "name": "TailBase_5" },
+					{ "time": 1, "name": "TailBase_1" }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 0.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 0.2, "name": "TailSide_DownWing_4" },
+					{ "time": 0.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 0.3333, "name": "TailSide_DownWing_1" },
+					{ "time": 0.4, "name": "TailSide_DownWing_2" },
+					{ "time": 0.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 0.6, "name": "TailSide_DownWing_5" },
+					{ "time": 0.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 0.7333, "name": "TailSide_DownWing_2" },
+					{ "time": 0.8, "name": "TailSide_DownWing_3" },
+					{ "time": 0.8667, "name": "TailSide_DownWing_4" },
+					{ "time": 0.9333, "name": "TailSide_DownWing_5" },
+					{ "time": 1, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 0.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 0.2, "name": "TailSide_DownWing_4" },
+					{ "time": 0.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 0.3333, "name": "TailSide_DownWing_1" },
+					{ "time": 0.4, "name": "TailSide_DownWing_2" },
+					{ "time": 0.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 0.6, "name": "TailSide_DownWing_5" },
+					{ "time": 0.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 0.7333, "name": "TailSide_DownWing_2" },
+					{ "time": 0.8, "name": "TailSide_DownWing_3" },
+					{ "time": 0.8667, "name": "TailSide_DownWing_4" },
+					{ "time": 0.9333, "name": "TailSide_DownWing_5" },
+					{ "time": 1, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 0.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 0.2, "name": "TailSide_UpWing_4" },
+					{ "time": 0.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 0.3333, "name": "TailSide_UpWing_1" },
+					{ "time": 0.4, "name": "TailSide_UpWing_2" },
+					{ "time": 0.4667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.5333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.6, "name": "TailSide_UpWing_5" },
+					{ "time": 0.6667, "name": "TailSide_UpWing_1" },
+					{ "time": 0.7333, "name": "TailSide_UpWing_2" },
+					{ "time": 0.8, "name": "TailSide_UpWing_3" },
+					{ "time": 0.8667, "name": "TailSide_UpWing_4" },
+					{ "time": 0.9333, "name": "TailSide_UpWing_5" },
+					{ "time": 1, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 0.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 0.2, "name": "TailSide_UpWing_4" },
+					{ "time": 0.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 0.3333, "name": "TailSide_UpWing_1" },
+					{ "time": 0.4, "name": "TailSide_UpWing_2" },
+					{ "time": 0.4667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.5333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.6, "name": "TailSide_UpWing_5" },
+					{ "time": 0.6667, "name": "TailSide_UpWing_1" },
+					{ "time": 0.7333, "name": "TailSide_UpWing_2" },
+					{ "time": 0.8, "name": "TailSide_UpWing_3" },
+					{ "time": 0.8667, "name": "TailSide_UpWing_4" },
+					{ "time": 0.9333, "name": "TailSide_UpWing_5" },
+					{ "time": 1, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"Tail_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Tail_2" },
+					{ "time": 0.1333, "name": "Tail_3" },
+					{ "time": 0.2, "name": "Tail_4" },
+					{ "time": 0.2667, "name": "Tail_5" },
+					{ "time": 0.3333, "name": "Tail_1" },
+					{ "time": 0.4, "name": "Tail_2" },
+					{ "time": 0.4667, "name": "Tail_3" },
+					{ "time": 0.5333, "name": "Tail_4" },
+					{ "time": 0.6, "name": "Tail_5" },
+					{ "time": 0.6667, "name": "Tail_1" },
+					{ "time": 0.7333, "name": "Tail_2" },
+					{ "time": 0.8, "name": "Tail_3" },
+					{ "time": 0.8667, "name": "Tail_4" },
+					{ "time": 0.9333, "name": "Tail_5" },
+					{ "time": 1, "name": "Tail_1" }
+				]
+			},
+			"WingBase_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingBase_2" },
+					{ "time": 0.1333, "name": "WingBase_3" },
+					{ "time": 0.2, "name": "WingBase_4" },
+					{ "time": 0.2667, "name": "WingBase_5" },
+					{ "time": 0.3333, "name": "WingBase_1" },
+					{ "time": 0.4, "name": "WingBase_2" },
+					{ "time": 0.4667, "name": "WingBase_3" },
+					{ "time": 0.5333, "name": "WingBase_4" },
+					{ "time": 0.6, "name": "WingBase_5" },
+					{ "time": 0.6667, "name": "WingBase_1" },
+					{ "time": 0.7333, "name": "WingBase_2" },
+					{ "time": 0.8, "name": "WingBase_3" },
+					{ "time": 0.8667, "name": "WingBase_4" },
+					{ "time": 0.9333, "name": "WingBase_5" },
+					{ "time": 1, "name": "WingBase_1" }
+				]
+			},
+			"WingBase_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingBase_2" },
+					{ "time": 0.1333, "name": "WingBase_3" },
+					{ "time": 0.2, "name": "WingBase_4" },
+					{ "time": 0.2667, "name": "WingBase_5" },
+					{ "time": 0.3333, "name": "WingBase_1" },
+					{ "time": 0.4, "name": "WingBase_2" },
+					{ "time": 0.4667, "name": "WingBase_3" },
+					{ "time": 0.5333, "name": "WingBase_4" },
+					{ "time": 0.6, "name": "WingBase_5" },
+					{ "time": 0.6667, "name": "WingBase_1" },
+					{ "time": 0.7333, "name": "WingBase_2" },
+					{ "time": 0.8, "name": "WingBase_3" },
+					{ "time": 0.8667, "name": "WingBase_4" },
+					{ "time": 0.9333, "name": "WingBase_5" },
+					{ "time": 1, "name": "WingBase_1" }
+				]
+			},
+			"WingGun_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingGun_2" },
+					{ "time": 0.1333, "name": "WingGun_3" },
+					{ "time": 0.2, "name": "WingGun_4" },
+					{ "time": 0.2667, "name": "WingGun_5" },
+					{ "time": 0.3333, "name": "WingGun_1" },
+					{ "time": 0.4, "name": "WingGun_2" },
+					{ "time": 0.4667, "name": "WingGun_3" },
+					{ "time": 0.5333, "name": "WingGun_4" },
+					{ "time": 0.6, "name": "WingGun_5" },
+					{ "time": 0.6667, "name": "WingGun_1" },
+					{ "time": 0.7333, "name": "WingGun_2" },
+					{ "time": 0.8, "name": "WingGun_3" },
+					{ "time": 0.8667, "name": "WingGun_4" },
+					{ "time": 0.9333, "name": "WingGun_5" },
+					{ "time": 1, "name": "WingGun_1" }
+				]
+			},
+			"WingGun_2": {
+				"attachment": [
+					{ "time": 0, "name": "WingGun_1" },
+					{ "time": 0.0667, "name": "WingGun_2" },
+					{ "time": 0.1333, "name": "WingGun_3" },
+					{ "time": 0.2, "name": "WingGun_4" },
+					{ "time": 0.2667, "name": "WingGun_5" },
+					{ "time": 0.3333, "name": "WingGun_1" },
+					{ "time": 0.4, "name": "WingGun_2" },
+					{ "time": 0.4667, "name": "WingGun_3" },
+					{ "time": 0.5333, "name": "WingGun_4" },
+					{ "time": 0.6, "name": "WingGun_5" },
+					{ "time": 0.6667, "name": "WingGun_1" },
+					{ "time": 0.7333, "name": "WingGun_2" },
+					{ "time": 0.8, "name": "WingGun_3" },
+					{ "time": 0.8667, "name": "WingGun_4" },
+					{ "time": 0.9333, "name": "WingGun_5" },
+					{ "time": 1, "name": "WingGun_1" }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" },
+					{ "time": 0.4, "name": "Wing_2" },
+					{ "time": 0.4667, "name": "Wing_3" },
+					{ "time": 0.5333, "name": "Wing_4" },
+					{ "time": 0.6, "name": "Wing_5" },
+					{ "time": 0.6667, "name": "Wing_1" },
+					{ "time": 0.7333, "name": "Wing_2" },
+					{ "time": 0.8, "name": "Wing_3" },
+					{ "time": 0.8667, "name": "Wing_4" },
+					{ "time": 0.9333, "name": "Wing_5" },
+					{ "time": 1, "name": "Wing_1" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" },
+					{ "time": 0.4, "name": "Wing_2" },
+					{ "time": 0.4667, "name": "Wing_3" },
+					{ "time": 0.5333, "name": "Wing_4" },
+					{ "time": 0.6, "name": "Wing_5" },
+					{ "time": 0.6667, "name": "Wing_1" },
+					{ "time": 0.7333, "name": "Wing_2" },
+					{ "time": 0.8, "name": "Wing_3" },
+					{ "time": 0.8667, "name": "Wing_4" },
+					{ "time": 0.9333, "name": "Wing_5" },
+					{ "time": 1, "name": "Wing_1" }
+				]
+			}
+		},
+		"bones": {
+			"WingBase2": {
+				"translate": [
+					{ "time": 0, "x": 3.97, "y": 7.93, "curve": "stepped" },
+					{ "time": 0.5, "x": 3.97, "y": 7.93 },
+					{ "time": 0.5667, "x": 3.64, "y": 7.27 },
+					{ "time": 0.6333, "x": 3.97, "y": 7.93 },
+					{ "time": 0.8333, "x": 0, "y": 0 },
+					{ "time": 0.9, "x": 0.17, "y": 0.33 },
+					{ "time": 0.9667, "x": 0, "y": 0 }
+				]
+			},
+			"WingGun2": {
+				"translate": [
+					{ "time": 0, "x": -1.43, "y": 1.31, "curve": "stepped" },
+					{ "time": 0.2333, "x": -1.43, "y": 1.31 },
+					{ "time": 0.3, "x": -1.31, "y": 1.2 },
+					{ "time": 0.3667, "x": -1.43, "y": 1.31 },
+					{ "time": 0.4333, "x": 0, "y": 0 }
+				]
+			},
+			"WingBase": {
+				"translate": [
+					{ "time": 0, "x": -3.97, "y": 7.93, "curve": "stepped" },
+					{ "time": 0.5, "x": -3.97, "y": 7.93 },
+					{ "time": 0.5667, "x": -3.64, "y": 7.27 },
+					{ "time": 0.6333, "x": -3.97, "y": 7.93 },
+					{ "time": 0.8333, "x": 0, "y": 0 },
+					{ "time": 0.9, "x": -0.17, "y": 0.33 },
+					{ "time": 0.9667, "x": 0, "y": 0 }
+				]
+			},
+			"WingGun": {
+				"translate": [
+					{ "time": 0, "x": -1.43, "y": 1.31, "curve": "stepped" },
+					{ "time": 0.2333, "x": -1.43, "y": 1.31 },
+					{ "time": 0.3, "x": -1.31, "y": 1.2 },
+					{ "time": 0.3667, "x": -1.43, "y": 1.31 },
+					{ "time": 0.4333, "x": 0, "y": 0 }
+				]
+			},
+			"TailBase": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.1 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.1 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0.1 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 0, "y": 0.1 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": 0, "y": 0.1 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": 0, "y": 0.1 },
+					{ "time": 0.8, "x": 0, "y": 0 },
+					{ "time": 0.8667, "x": 0, "y": 0.1 },
+					{ "time": 0.9333, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": 0.1 }
+				]
+			},
+			"TailSide_DownWing": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": -0.93 },
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.2, "angle": -0.93 },
+					{ "time": 0.2667, "angle": 0 },
+					{ "time": 0.3333, "angle": -0.93 },
+					{ "time": 0.4, "angle": 0 },
+					{ "time": 0.4667, "angle": -0.93 },
+					{ "time": 0.5333, "angle": 0 },
+					{ "time": 0.6, "angle": -0.93 },
+					{ "time": 0.6667, "angle": 0 },
+					{ "time": 0.7333, "angle": -0.93 },
+					{ "time": 0.8, "angle": 0 },
+					{ "time": 0.8667, "angle": -0.93 },
+					{ "time": 0.9333, "angle": 0 },
+					{ "time": 1, "angle": -0.93 }
+				]
+			},
+			"TailSide_DownWing2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": -0.93 },
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.2, "angle": -0.93 },
+					{ "time": 0.2667, "angle": 0 },
+					{ "time": 0.3333, "angle": -0.93 },
+					{ "time": 0.4, "angle": 0 },
+					{ "time": 0.4667, "angle": -0.93 },
+					{ "time": 0.5333, "angle": 0 },
+					{ "time": 0.6, "angle": -0.93 },
+					{ "time": 0.6667, "angle": 0 },
+					{ "time": 0.7333, "angle": -0.93 },
+					{ "time": 0.8, "angle": 0 },
+					{ "time": 0.8667, "angle": -0.93 },
+					{ "time": 0.9333, "angle": 0 },
+					{ "time": 1, "angle": -0.93 }
+				]
+			},
+			"Tail": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 2.03 },
+					{ "time": 0.0667, "x": 0, "y": 1.86 },
+					{ "time": 0.1333, "x": 0, "y": 2.03 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"Core_Spin": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.2333, "angle": -120 },
+					{ "time": 0.5333, "angle": 120 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"Core": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.2333, "angle": -120 },
+					{ "time": 0.5333, "angle": 120 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"TailSideGun": {
+				"translate": [
+					{ "time": 0, "x": -2.02, "y": 0 },
+					{ "time": 0.0667, "x": -1.85, "y": 0 },
+					{ "time": 0.1333, "x": -2.02, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSideGun2": {
+				"translate": [
+					{ "time": 0, "x": -2.02, "y": 0 },
+					{ "time": 0.0667, "x": -1.85, "y": 0 },
+					{ "time": 0.1333, "x": -2.02, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"Wing_Top": {
+				"translate": [
+					{ "time": 0, "x": -17.54, "y": -1.49 },
+					{ "time": 0.0667, "x": -16.98, "y": -0.9 },
+					{ "time": 0.1333, "x": -17.54, "y": -1.49 },
+					{ "time": 0.5333, "x": -8.58, "y": 7.89 },
+					{ "time": 0.8333, "x": 0, "y": 0 },
+					{ "time": 0.9, "x": -0.36, "y": 0.33 },
+					{ "time": 0.9667, "x": 0, "y": 0 }
+				]
+			},
+			"Wing_Top2": {
+				"translate": [
+					{ "time": 0, "x": -17.54, "y": -1.49 },
+					{ "time": 0.0667, "x": -16.98, "y": -0.9 },
+					{ "time": 0.1333, "x": -17.54, "y": -1.49 },
+					{ "time": 0.5333, "x": -8.58, "y": 7.89 },
+					{ "time": 0.8333, "x": 0, "y": 0 },
+					{ "time": 0.9, "x": -0.36, "y": 0.33 },
+					{ "time": 0.9667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_WingBase": {
+				"translate": [
+					{ "time": 0, "x": -9.01, "y": -0.01 },
+					{ "time": 0.0667, "x": -8.26, "y": -0.01 },
+					{ "time": 0.1333, "x": -9.01, "y": -0.01 },
+					{ "time": 0.3667, "x": 0, "y": 0 },
+					{ "time": 0.4333, "x": -0.64, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_WingBase2": {
+				"translate": [
+					{ "time": 0, "x": 9.01, "y": -0.01 },
+					{ "time": 0.0667, "x": 8.26, "y": -0.01 },
+					{ "time": 0.1333, "x": 9.01, "y": -0.01 },
+					{ "time": 0.3667, "x": 0, "y": 0 },
+					{ "time": 0.4333, "x": 0.64, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_Base": {
+				"translate": [
+					{ "time": 0, "x": 4.95, "y": 0 },
+					{ "time": 0.0667, "x": 4.53, "y": 0 },
+					{ "time": 0.1333, "x": 4.95, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_Base2": {
+				"translate": [
+					{ "time": 0, "x": 4.95, "y": 0 },
+					{ "time": 0.0667, "x": 4.53, "y": 0 },
+					{ "time": 0.1333, "x": 4.95, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide": {
+				"rotate": [
+					{ "time": 0, "angle": 90 },
+					{ "time": 0.0667, "angle": 82.5 },
+					{ "time": 0.1333, "angle": 90 },
+					{ "time": 0.3667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.05 },
+					{ "time": 0.0667, "x": 0, "y": 2.8 },
+					{ "time": 0.1333, "x": 0, "y": 3.05 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide2": {
+				"rotate": [
+					{ "time": 0, "angle": 90 },
+					{ "time": 0.0667, "angle": 82.5 },
+					{ "time": 0.1333, "angle": 90 },
+					{ "time": 0.3667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.05 },
+					{ "time": 0.0667, "x": 0, "y": 2.8 },
+					{ "time": 0.1333, "x": 0, "y": 3.05 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"All": {
+				"translate": [
+					{ "time": 0.3, "x": 0, "y": 0 },
+					{ "time": 0.3667, "x": 0.27, "y": 0 },
+					{ "time": 0.4333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.8333, "x": 0, "y": 0 },
+					{ "time": 0.9, "x": 0.27, "y": 0 },
+					{ "time": 0.9667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"SkillOn_Animation": {
+		"slots": {
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0, "name": "TailBase_1" },
+					{ "time": 0.0667, "name": "TailBase_2" },
+					{ "time": 0.1333, "name": "TailBase_3" },
+					{ "time": 0.2, "name": "TailBase_4" },
+					{ "time": 0.2667, "name": "TailBase_5" },
+					{ "time": 0.3333, "name": "TailBase_1" },
+					{ "time": 0.4, "name": "TailBase_2" },
+					{ "time": 0.4667, "name": "TailBase_3" },
+					{ "time": 0.5333, "name": "TailBase_4" },
+					{ "time": 0.6, "name": "TailBase_5" },
+					{ "time": 0.6667, "name": "TailBase_1" },
+					{ "time": 0.7333, "name": "TailBase_2" },
+					{ "time": 0.8, "name": "TailBase_3" },
+					{ "time": 0.8667, "name": "TailBase_4" },
+					{ "time": 0.9333, "name": "TailBase_5" },
+					{ "time": 1, "name": "TailBase_1" }
+				]
+			},
+			"TailBase_2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "TailBase_1" },
+					{ "time": 0.0667, "name": "TailBase_2" },
+					{ "time": 0.1333, "name": "TailBase_3" },
+					{ "time": 0.2, "name": "TailBase_4" },
+					{ "time": 0.2667, "name": "TailBase_5" },
+					{ "time": 0.3333, "name": "TailBase_1" },
+					{ "time": 0.4, "name": "TailBase_2" },
+					{ "time": 0.4667, "name": "TailBase_3" },
+					{ "time": 0.5333, "name": "TailBase_4" },
+					{ "time": 0.6, "name": "TailBase_5" },
+					{ "time": 0.6667, "name": "TailBase_1" },
+					{ "time": 0.7333, "name": "TailBase_2" },
+					{ "time": 0.8, "name": "TailBase_3" },
+					{ "time": 0.8667, "name": "TailBase_4" },
+					{ "time": 0.9333, "name": "TailBase_5" },
+					{ "time": 1, "name": "TailBase_1" }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 0.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 0.2, "name": "TailSide_DownWing_4" },
+					{ "time": 0.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 0.3333, "name": "TailSide_DownWing_1" },
+					{ "time": 0.4, "name": "TailSide_DownWing_2" },
+					{ "time": 0.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 0.6, "name": "TailSide_DownWing_5" },
+					{ "time": 0.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 0.7333, "name": "TailSide_DownWing_2" },
+					{ "time": 0.8, "name": "TailSide_DownWing_3" },
+					{ "time": 0.8667, "name": "TailSide_DownWing_4" },
+					{ "time": 0.9333, "name": "TailSide_DownWing_5" },
+					{ "time": 1, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 0.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 0.2, "name": "TailSide_DownWing_4" },
+					{ "time": 0.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 0.3333, "name": "TailSide_DownWing_1" },
+					{ "time": 0.4, "name": "TailSide_DownWing_2" },
+					{ "time": 0.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 0.6, "name": "TailSide_DownWing_5" },
+					{ "time": 0.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 0.7333, "name": "TailSide_DownWing_2" },
+					{ "time": 0.8, "name": "TailSide_DownWing_3" },
+					{ "time": 0.8667, "name": "TailSide_DownWing_4" },
+					{ "time": 0.9333, "name": "TailSide_DownWing_5" },
+					{ "time": 1, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 0.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 0.2, "name": "TailSide_UpWing_4" },
+					{ "time": 0.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 0.3333, "name": "TailSide_UpWing_1" },
+					{ "time": 0.4, "name": "TailSide_UpWing_2" },
+					{ "time": 0.4667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.5333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.6, "name": "TailSide_UpWing_5" },
+					{ "time": 0.6667, "name": "TailSide_UpWing_1" },
+					{ "time": 0.7333, "name": "TailSide_UpWing_2" },
+					{ "time": 0.8, "name": "TailSide_UpWing_3" },
+					{ "time": 0.8667, "name": "TailSide_UpWing_4" },
+					{ "time": 0.9333, "name": "TailSide_UpWing_5" },
+					{ "time": 1, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 0.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 0.2, "name": "TailSide_UpWing_4" },
+					{ "time": 0.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 0.3333, "name": "TailSide_UpWing_1" },
+					{ "time": 0.4, "name": "TailSide_UpWing_2" },
+					{ "time": 0.4667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.5333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.6, "name": "TailSide_UpWing_5" },
+					{ "time": 0.6667, "name": "TailSide_UpWing_1" },
+					{ "time": 0.7333, "name": "TailSide_UpWing_2" },
+					{ "time": 0.8, "name": "TailSide_UpWing_3" },
+					{ "time": 0.8667, "name": "TailSide_UpWing_4" },
+					{ "time": 0.9333, "name": "TailSide_UpWing_5" },
+					{ "time": 1, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"Tail_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Tail_2" },
+					{ "time": 0.1333, "name": "Tail_3" },
+					{ "time": 0.2, "name": "Tail_4" },
+					{ "time": 0.2667, "name": "Tail_5" },
+					{ "time": 0.3333, "name": "Tail_1" },
+					{ "time": 0.4, "name": "Tail_2" },
+					{ "time": 0.4667, "name": "Tail_3" },
+					{ "time": 0.5333, "name": "Tail_4" },
+					{ "time": 0.6, "name": "Tail_5" },
+					{ "time": 0.6667, "name": "Tail_1" },
+					{ "time": 0.7333, "name": "Tail_2" },
+					{ "time": 0.8, "name": "Tail_3" },
+					{ "time": 0.8667, "name": "Tail_4" },
+					{ "time": 0.9333, "name": "Tail_5" },
+					{ "time": 1, "name": "Tail_1" }
+				]
+			},
+			"WingBase_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingBase_2" },
+					{ "time": 0.1333, "name": "WingBase_3" },
+					{ "time": 0.2, "name": "WingBase_4" },
+					{ "time": 0.2667, "name": "WingBase_5" },
+					{ "time": 0.3333, "name": "WingBase_1" },
+					{ "time": 0.4, "name": "WingBase_2" },
+					{ "time": 0.4667, "name": "WingBase_3" },
+					{ "time": 0.5333, "name": "WingBase_4" },
+					{ "time": 0.6, "name": "WingBase_5" },
+					{ "time": 0.6667, "name": "WingBase_1" },
+					{ "time": 0.7333, "name": "WingBase_2" },
+					{ "time": 0.8, "name": "WingBase_3" },
+					{ "time": 0.8667, "name": "WingBase_4" },
+					{ "time": 0.9333, "name": "WingBase_5" },
+					{ "time": 1, "name": "WingBase_1" }
+				]
+			},
+			"WingBase_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingBase_2" },
+					{ "time": 0.1333, "name": "WingBase_3" },
+					{ "time": 0.2, "name": "WingBase_4" },
+					{ "time": 0.2667, "name": "WingBase_5" },
+					{ "time": 0.3333, "name": "WingBase_1" },
+					{ "time": 0.4, "name": "WingBase_2" },
+					{ "time": 0.4667, "name": "WingBase_3" },
+					{ "time": 0.5333, "name": "WingBase_4" },
+					{ "time": 0.6, "name": "WingBase_5" },
+					{ "time": 0.6667, "name": "WingBase_1" },
+					{ "time": 0.7333, "name": "WingBase_2" },
+					{ "time": 0.8, "name": "WingBase_3" },
+					{ "time": 0.8667, "name": "WingBase_4" },
+					{ "time": 0.9333, "name": "WingBase_5" },
+					{ "time": 1, "name": "WingBase_1" }
+				]
+			},
+			"WingGun_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingGun_2" },
+					{ "time": 0.1333, "name": "WingGun_3" },
+					{ "time": 0.2, "name": "WingGun_4" },
+					{ "time": 0.2667, "name": "WingGun_5" },
+					{ "time": 0.3333, "name": "WingGun_1" },
+					{ "time": 0.4, "name": "WingGun_2" },
+					{ "time": 0.4667, "name": "WingGun_3" },
+					{ "time": 0.5333, "name": "WingGun_4" },
+					{ "time": 0.6, "name": "WingGun_5" },
+					{ "time": 0.6667, "name": "WingGun_1" },
+					{ "time": 0.7333, "name": "WingGun_2" },
+					{ "time": 0.8, "name": "WingGun_3" },
+					{ "time": 0.8667, "name": "WingGun_4" },
+					{ "time": 0.9333, "name": "WingGun_5" },
+					{ "time": 1, "name": "WingGun_1" }
+				]
+			},
+			"WingGun_2": {
+				"attachment": [
+					{ "time": 0, "name": "WingGun_1" },
+					{ "time": 0.0667, "name": "WingGun_2" },
+					{ "time": 0.1333, "name": "WingGun_3" },
+					{ "time": 0.2, "name": "WingGun_4" },
+					{ "time": 0.2667, "name": "WingGun_5" },
+					{ "time": 0.3333, "name": "WingGun_1" },
+					{ "time": 0.4, "name": "WingGun_2" },
+					{ "time": 0.4667, "name": "WingGun_3" },
+					{ "time": 0.5333, "name": "WingGun_4" },
+					{ "time": 0.6, "name": "WingGun_5" },
+					{ "time": 0.6667, "name": "WingGun_1" },
+					{ "time": 0.7333, "name": "WingGun_2" },
+					{ "time": 0.8, "name": "WingGun_3" },
+					{ "time": 0.8667, "name": "WingGun_4" },
+					{ "time": 0.9333, "name": "WingGun_5" },
+					{ "time": 1, "name": "WingGun_1" }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" },
+					{ "time": 0.4, "name": "Wing_2" },
+					{ "time": 0.4667, "name": "Wing_3" },
+					{ "time": 0.5333, "name": "Wing_4" },
+					{ "time": 0.6, "name": "Wing_5" },
+					{ "time": 0.6667, "name": "Wing_1" },
+					{ "time": 0.7333, "name": "Wing_2" },
+					{ "time": 0.8, "name": "Wing_3" },
+					{ "time": 0.8667, "name": "Wing_4" },
+					{ "time": 0.9333, "name": "Wing_5" },
+					{ "time": 1, "name": "Wing_1" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" },
+					{ "time": 0.4, "name": "Wing_2" },
+					{ "time": 0.4667, "name": "Wing_3" },
+					{ "time": 0.5333, "name": "Wing_4" },
+					{ "time": 0.6, "name": "Wing_5" },
+					{ "time": 0.6667, "name": "Wing_1" },
+					{ "time": 0.7333, "name": "Wing_2" },
+					{ "time": 0.8, "name": "Wing_3" },
+					{ "time": 0.8667, "name": "Wing_4" },
+					{ "time": 0.9333, "name": "Wing_5" },
+					{ "time": 1, "name": "Wing_1" }
+				]
+			}
+		},
+		"bones": {
+			"WingBase2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 3.97, "y": 7.93 },
+					{ "time": 0.2667, "x": 3.64, "y": 7.27 },
+					{ "time": 0.3333, "x": 3.97, "y": 7.93 }
+				]
+			},
+			"WingGun2": {
+				"translate": [
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": -1.43, "y": 1.31 },
+					{ "time": 0.5333, "x": -1.31, "y": 1.2 },
+					{ "time": 0.6, "x": -1.43, "y": 1.31 }
+				]
+			},
+			"WingBase": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -3.97, "y": 7.93 },
+					{ "time": 0.2667, "x": -3.64, "y": 7.27 },
+					{ "time": 0.3333, "x": -3.97, "y": 7.93 }
+				]
+			},
+			"WingGun": {
+				"translate": [
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": -1.43, "y": 1.31 },
+					{ "time": 0.5333, "x": -1.31, "y": 1.2 },
+					{ "time": 0.6, "x": -1.43, "y": 1.31 }
+				]
+			},
+			"TailBase": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.1 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.1 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0.1 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 0, "y": 0.1 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": 0, "y": 0.1 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": 0, "y": 0.1 },
+					{ "time": 0.8, "x": 0, "y": 0 },
+					{ "time": 0.8667, "x": 0, "y": 0.1 },
+					{ "time": 0.9333, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": 0.1 }
+				]
+			},
+			"TailSide_DownWing": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": -0.93 },
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.2, "angle": -0.93 },
+					{ "time": 0.2667, "angle": 0 },
+					{ "time": 0.3333, "angle": -0.93 },
+					{ "time": 0.4, "angle": 0 },
+					{ "time": 0.4667, "angle": -0.93 },
+					{ "time": 0.5333, "angle": 0 },
+					{ "time": 0.6, "angle": -0.93 },
+					{ "time": 0.6667, "angle": 0 },
+					{ "time": 0.7333, "angle": -0.93 },
+					{ "time": 0.8, "angle": 0 },
+					{ "time": 0.8667, "angle": -0.93 },
+					{ "time": 0.9333, "angle": 0 },
+					{ "time": 1, "angle": -0.93 }
+				]
+			},
+			"TailSide_DownWing2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": -0.93 },
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.2, "angle": -0.93 },
+					{ "time": 0.2667, "angle": 0 },
+					{ "time": 0.3333, "angle": -0.93 },
+					{ "time": 0.4, "angle": 0 },
+					{ "time": 0.4667, "angle": -0.93 },
+					{ "time": 0.5333, "angle": 0 },
+					{ "time": 0.6, "angle": -0.93 },
+					{ "time": 0.6667, "angle": 0 },
+					{ "time": 0.7333, "angle": -0.93 },
+					{ "time": 0.8, "angle": 0 },
+					{ "time": 0.8667, "angle": -0.93 },
+					{ "time": 0.9333, "angle": 0 },
+					{ "time": 1, "angle": -0.93 }
+				]
+			},
+			"Tail": {
+				"translate": [
+					{ "time": 0.4667, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": 0, "y": 2.03 },
+					{ "time": 0.7333, "x": 0, "y": 1.86 },
+					{ "time": 0.8, "x": 0, "y": 2.03 }
+				]
+			},
+			"Core_Spin": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": -120 },
+					{ "time": 0.7, "angle": 120 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"Core": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": -120 },
+					{ "time": 0.7, "angle": 120 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"TailSideGun": {
+				"translate": [
+					{ "time": 0.4667, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": -2.02, "y": 0 },
+					{ "time": 0.7333, "x": -1.85, "y": 0 },
+					{ "time": 0.8, "x": -2.02, "y": 0 }
+				]
+			},
+			"TailSideGun2": {
+				"translate": [
+					{ "time": 0.4667, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": -2.02, "y": 0 },
+					{ "time": 0.7333, "x": -1.85, "y": 0 },
+					{ "time": 0.8, "x": -2.02, "y": 0 }
+				]
+			},
+			"Wing_Top": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -8.58, "y": 7.89 },
+					{ "time": 0.4, "x": -17.54, "y": -1.49 },
+					{ "time": 0.4667, "x": -16.98, "y": -0.9 },
+					{ "time": 0.5333, "x": -17.54, "y": -1.49 }
+				]
+			},
+			"Wing_Top2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -8.58, "y": 7.89 },
+					{ "time": 0.4, "x": -17.54, "y": -1.49 },
+					{ "time": 0.4667, "x": -16.98, "y": -0.9 },
+					{ "time": 0.5333, "x": -17.54, "y": -1.49 }
+				]
+			},
+			"TailSide_WingBase": {
+				"translate": [
+					{ "time": 0.4667, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": -9.01, "y": -0.01 },
+					{ "time": 0.7333, "x": -8.26, "y": -0.01 },
+					{ "time": 0.8, "x": -9.01, "y": -0.01 }
+				]
+			},
+			"TailSide_WingBase2": {
+				"translate": [
+					{ "time": 0.4667, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": 9.01, "y": -0.01 },
+					{ "time": 0.7333, "x": 8.26, "y": -0.01 },
+					{ "time": 0.8, "x": 9.01, "y": -0.01 }
+				]
+			},
+			"TailSide_Base": {
+				"translate": [
+					{ "time": 0.4667, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": 4.95, "y": 0 },
+					{ "time": 0.7333, "x": 4.53, "y": 0 },
+					{ "time": 0.8, "x": 4.95, "y": 0 }
+				]
+			},
+			"TailSide_Base2": {
+				"translate": [
+					{ "time": 0.4667, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": 4.95, "y": 0 },
+					{ "time": 0.7333, "x": 4.53, "y": 0 },
+					{ "time": 0.8, "x": 4.95, "y": 0 }
+				]
+			},
+			"TailSide": {
+				"rotate": [
+					{ "time": 0.4667, "angle": 0 },
+					{ "time": 0.6667, "angle": 90 },
+					{ "time": 0.7333, "angle": 82.5 },
+					{ "time": 0.8, "angle": 90 }
+				],
+				"translate": [
+					{ "time": 0.4667, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": 0, "y": 3.05 },
+					{ "time": 0.7333, "x": 0, "y": 2.8 },
+					{ "time": 0.8, "x": 0, "y": 3.05 }
+				]
+			},
+			"TailSide2": {
+				"rotate": [
+					{ "time": 0.4667, "angle": 0 },
+					{ "time": 0.6667, "angle": 90 },
+					{ "time": 0.7333, "angle": 82.5 },
+					{ "time": 0.8, "angle": 90 }
+				],
+				"translate": [
+					{ "time": 0.4667, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": 0, "y": 3.05 },
+					{ "time": 0.7333, "x": 0, "y": 2.8 },
+					{ "time": 0.8, "x": 0, "y": 3.05 }
+				]
+			},
+			"All": {
+				"translate": [
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 0.27, "y": 0 },
+					{ "time": 0.5333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"Skill_Idle": {
+		"slots": {
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0, "name": "TailBase_1" },
+					{ "time": 0.0667, "name": "TailBase_2" },
+					{ "time": 0.1333, "name": "TailBase_3" },
+					{ "time": 0.2, "name": "TailBase_4" },
+					{ "time": 0.2667, "name": "TailBase_5" },
+					{ "time": 0.3333, "name": "TailBase_1" },
+					{ "time": 0.4, "name": "TailBase_2" },
+					{ "time": 0.4667, "name": "TailBase_3" },
+					{ "time": 0.5333, "name": "TailBase_4" },
+					{ "time": 0.6, "name": "TailBase_5" },
+					{ "time": 0.6667, "name": "TailBase_1" },
+					{ "time": 0.7333, "name": "TailBase_2" },
+					{ "time": 0.8, "name": "TailBase_3" },
+					{ "time": 0.8667, "name": "TailBase_4" },
+					{ "time": 0.9333, "name": "TailBase_5" },
+					{ "time": 1, "name": "TailBase_1" }
+				]
+			},
+			"TailBase_2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "TailBase_1" },
+					{ "time": 0.0667, "name": "TailBase_2" },
+					{ "time": 0.1333, "name": "TailBase_3" },
+					{ "time": 0.2, "name": "TailBase_4" },
+					{ "time": 0.2667, "name": "TailBase_5" },
+					{ "time": 0.3333, "name": "TailBase_1" },
+					{ "time": 0.4, "name": "TailBase_2" },
+					{ "time": 0.4667, "name": "TailBase_3" },
+					{ "time": 0.5333, "name": "TailBase_4" },
+					{ "time": 0.6, "name": "TailBase_5" },
+					{ "time": 0.6667, "name": "TailBase_1" },
+					{ "time": 0.7333, "name": "TailBase_2" },
+					{ "time": 0.8, "name": "TailBase_3" },
+					{ "time": 0.8667, "name": "TailBase_4" },
+					{ "time": 0.9333, "name": "TailBase_5" },
+					{ "time": 1, "name": "TailBase_1" }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 0.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 0.2, "name": "TailSide_DownWing_4" },
+					{ "time": 0.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 0.3333, "name": "TailSide_DownWing_1" },
+					{ "time": 0.4, "name": "TailSide_DownWing_2" },
+					{ "time": 0.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 0.6, "name": "TailSide_DownWing_5" },
+					{ "time": 0.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 0.7333, "name": "TailSide_DownWing_2" },
+					{ "time": 0.8, "name": "TailSide_DownWing_3" },
+					{ "time": 0.8667, "name": "TailSide_DownWing_4" },
+					{ "time": 0.9333, "name": "TailSide_DownWing_5" },
+					{ "time": 1, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 0.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 0.2, "name": "TailSide_DownWing_4" },
+					{ "time": 0.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 0.3333, "name": "TailSide_DownWing_1" },
+					{ "time": 0.4, "name": "TailSide_DownWing_2" },
+					{ "time": 0.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 0.6, "name": "TailSide_DownWing_5" },
+					{ "time": 0.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 0.7333, "name": "TailSide_DownWing_2" },
+					{ "time": 0.8, "name": "TailSide_DownWing_3" },
+					{ "time": 0.8667, "name": "TailSide_DownWing_4" },
+					{ "time": 0.9333, "name": "TailSide_DownWing_5" },
+					{ "time": 1, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 0.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 0.2, "name": "TailSide_UpWing_4" },
+					{ "time": 0.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 0.3333, "name": "TailSide_UpWing_1" },
+					{ "time": 0.4, "name": "TailSide_UpWing_2" },
+					{ "time": 0.4667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.5333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.6, "name": "TailSide_UpWing_5" },
+					{ "time": 0.6667, "name": "TailSide_UpWing_1" },
+					{ "time": 0.7333, "name": "TailSide_UpWing_2" },
+					{ "time": 0.8, "name": "TailSide_UpWing_3" },
+					{ "time": 0.8667, "name": "TailSide_UpWing_4" },
+					{ "time": 0.9333, "name": "TailSide_UpWing_5" },
+					{ "time": 1, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 0.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 0.2, "name": "TailSide_UpWing_4" },
+					{ "time": 0.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 0.3333, "name": "TailSide_UpWing_1" },
+					{ "time": 0.4, "name": "TailSide_UpWing_2" },
+					{ "time": 0.4667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.5333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.6, "name": "TailSide_UpWing_5" },
+					{ "time": 0.6667, "name": "TailSide_UpWing_1" },
+					{ "time": 0.7333, "name": "TailSide_UpWing_2" },
+					{ "time": 0.8, "name": "TailSide_UpWing_3" },
+					{ "time": 0.8667, "name": "TailSide_UpWing_4" },
+					{ "time": 0.9333, "name": "TailSide_UpWing_5" },
+					{ "time": 1, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" },
+					{ "time": 0.4, "name": "Wing_2" },
+					{ "time": 0.4667, "name": "Wing_3" },
+					{ "time": 0.5333, "name": "Wing_4" },
+					{ "time": 0.6, "name": "Wing_5" },
+					{ "time": 0.6667, "name": "Wing_1" },
+					{ "time": 0.7333, "name": "Wing_2" },
+					{ "time": 0.8, "name": "Wing_3" },
+					{ "time": 0.8667, "name": "Wing_4" },
+					{ "time": 0.9333, "name": "Wing_5" },
+					{ "time": 1, "name": "Wing_1" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" },
+					{ "time": 0.4, "name": "Wing_2" },
+					{ "time": 0.4667, "name": "Wing_3" },
+					{ "time": 0.5333, "name": "Wing_4" },
+					{ "time": 0.6, "name": "Wing_5" },
+					{ "time": 0.6667, "name": "Wing_1" },
+					{ "time": 0.7333, "name": "Wing_2" },
+					{ "time": 0.8, "name": "Wing_3" },
+					{ "time": 0.8667, "name": "Wing_4" },
+					{ "time": 0.9333, "name": "Wing_5" },
+					{ "time": 1, "name": "Wing_1" }
+				]
+			}
+		},
+		"bones": {
+			"WingBase2": {
+				"translate": [
+					{ "time": 0, "x": 3.97, "y": 7.93 },
+					{ "time": 0.0333, "x": 3.97, "y": 6.95 },
+					{ "time": 0.2, "x": 3.97, "y": 7.93, "curve": "stepped" },
+					{ "time": 0.3333, "x": 3.97, "y": 7.93 },
+					{ "time": 0.3667, "x": 3.97, "y": 6.95 },
+					{ "time": 0.5333, "x": 3.97, "y": 7.93, "curve": "stepped" },
+					{ "time": 0.6667, "x": 3.97, "y": 7.93 },
+					{ "time": 0.7, "x": 3.97, "y": 6.95 },
+					{ "time": 0.8667, "x": 3.97, "y": 7.93 }
+				]
+			},
+			"WingGun2": {
+				"translate": [
+					{ "time": 0, "x": -1.43, "y": 1.31 },
+					{ "time": 0.0333, "x": -4.44, "y": 4.08 },
+					{ "time": 0.2, "x": -1.43, "y": 1.31, "curve": "stepped" },
+					{ "time": 0.3333, "x": -1.43, "y": 1.31 },
+					{ "time": 0.3667, "x": -4.44, "y": 4.08 },
+					{ "time": 0.5333, "x": -1.43, "y": 1.31, "curve": "stepped" },
+					{ "time": 0.6667, "x": -1.43, "y": 1.31 },
+					{ "time": 0.7, "x": -4.44, "y": 4.08 },
+					{ "time": 0.8667, "x": -1.43, "y": 1.31 }
+				]
+			},
+			"WingBase": {
+				"translate": [
+					{ "time": 0, "x": -3.97, "y": 7.93 },
+					{ "time": 0.0333, "x": -3.97, "y": 6.95 },
+					{ "time": 0.2, "x": -3.97, "y": 7.93, "curve": "stepped" },
+					{ "time": 0.3333, "x": -3.97, "y": 7.93 },
+					{ "time": 0.3667, "x": -3.97, "y": 6.95 },
+					{ "time": 0.5333, "x": -3.97, "y": 7.93, "curve": "stepped" },
+					{ "time": 0.6667, "x": -3.97, "y": 7.93 },
+					{ "time": 0.7, "x": -3.97, "y": 6.95 },
+					{ "time": 0.8667, "x": -3.97, "y": 7.93 }
+				]
+			},
+			"WingGun": {
+				"translate": [
+					{ "time": 0, "x": -1.43, "y": 1.31 },
+					{ "time": 0.0333, "x": -4.44, "y": 4.08 },
+					{ "time": 0.2, "x": -1.43, "y": 1.31, "curve": "stepped" },
+					{ "time": 0.3333, "x": -1.43, "y": 1.31 },
+					{ "time": 0.3667, "x": -4.44, "y": 4.08 },
+					{ "time": 0.5333, "x": -1.43, "y": 1.31, "curve": "stepped" },
+					{ "time": 0.6667, "x": -1.43, "y": 1.31 },
+					{ "time": 0.7, "x": -4.44, "y": 4.08 },
+					{ "time": 0.8667, "x": -1.43, "y": 1.31 }
+				]
+			},
+			"TailBase": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.1 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.1 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0.1 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 0, "y": 0.1 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": 0, "y": 0.1 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": 0, "y": 0.1 },
+					{ "time": 0.8, "x": 0, "y": 0 },
+					{ "time": 0.8667, "x": 0, "y": 0.1 },
+					{ "time": 0.9333, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": 0.1 }
+				]
+			},
+			"TailSide_DownWing": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": -0.93 },
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.2, "angle": -0.93 },
+					{ "time": 0.2667, "angle": 0 },
+					{ "time": 0.3333, "angle": -0.93 },
+					{ "time": 0.4, "angle": 0 },
+					{ "time": 0.4667, "angle": -0.93 },
+					{ "time": 0.5333, "angle": 0 },
+					{ "time": 0.6, "angle": -0.93 },
+					{ "time": 0.6667, "angle": 0 },
+					{ "time": 0.7333, "angle": -0.93 },
+					{ "time": 0.8, "angle": 0 },
+					{ "time": 0.8667, "angle": -0.93 },
+					{ "time": 0.9333, "angle": 0 },
+					{ "time": 1, "angle": -0.93 }
+				]
+			},
+			"TailSide_DownWing2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": -0.93 },
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.2, "angle": -0.93 },
+					{ "time": 0.2667, "angle": 0 },
+					{ "time": 0.3333, "angle": -0.93 },
+					{ "time": 0.4, "angle": 0 },
+					{ "time": 0.4667, "angle": -0.93 },
+					{ "time": 0.5333, "angle": 0 },
+					{ "time": 0.6, "angle": -0.93 },
+					{ "time": 0.6667, "angle": 0 },
+					{ "time": 0.7333, "angle": -0.93 },
+					{ "time": 0.8, "angle": 0 },
+					{ "time": 0.8667, "angle": -0.93 },
+					{ "time": 0.9333, "angle": 0 },
+					{ "time": 1, "angle": -0.93 }
+				]
+			},
+			"Tail": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 2.03 }
+				]
+			},
+			"Core_Spin": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": -120 },
+					{ "time": 0.6667, "angle": 120 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"Core": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": -120 },
+					{ "time": 0.6667, "angle": 120 },
+					{ "time": 1, "angle": 0 }
+				]
+			},
+			"TailSideGun": {
+				"translate": [
+					{ "time": 0, "x": -2.02, "y": 0 },
+					{ "time": 0.0667, "x": -2.02, "y": 0.95 },
+					{ "time": 0.1333, "x": -2.02, "y": 0 },
+					{ "time": 0.2, "x": -2.02, "y": 0.95 },
+					{ "time": 0.2667, "x": -2.02, "y": 0 },
+					{ "time": 0.3333, "x": -2.02, "y": 0.95 },
+					{ "time": 0.4, "x": -2.02, "y": 0 },
+					{ "time": 0.4667, "x": -2.02, "y": 0.95 },
+					{ "time": 0.5333, "x": -2.02, "y": 0 },
+					{ "time": 0.6, "x": -2.02, "y": 0.95 },
+					{ "time": 0.6667, "x": -2.02, "y": 0 },
+					{ "time": 0.7333, "x": -2.02, "y": 0.95 },
+					{ "time": 0.8, "x": -2.02, "y": 0 },
+					{ "time": 0.8667, "x": -2.02, "y": 0.95 },
+					{ "time": 0.9333, "x": -2.02, "y": 0 }
+				]
+			},
+			"TailSideGun2": {
+				"translate": [
+					{ "time": 0, "x": -2.02, "y": 0 },
+					{ "time": 0.0667, "x": -2.02, "y": 0.95 },
+					{ "time": 0.1333, "x": -2.02, "y": 0 },
+					{ "time": 0.2, "x": -2.02, "y": 0.95 },
+					{ "time": 0.2667, "x": -2.02, "y": 0 },
+					{ "time": 0.3333, "x": -2.02, "y": 0.95 },
+					{ "time": 0.4, "x": -2.02, "y": 0 },
+					{ "time": 0.4667, "x": -2.02, "y": 0.95 },
+					{ "time": 0.5333, "x": -2.02, "y": 0 },
+					{ "time": 0.6, "x": -2.02, "y": 0.95 },
+					{ "time": 0.6667, "x": -2.02, "y": 0 },
+					{ "time": 0.7333, "x": -2.02, "y": 0.95 },
+					{ "time": 0.8, "x": -2.02, "y": 0 },
+					{ "time": 0.8667, "x": -2.02, "y": 0.95 },
+					{ "time": 0.9333, "x": -2.02, "y": 0 }
+				]
+			},
+			"Wing_Top": {
+				"translate": [
+					{ "time": 0, "x": -17.54, "y": -1.49 },
+					{ "time": 0.0667, "x": -17.97, "y": -1.09 },
+					{ "time": 0.1333, "x": -17.54, "y": -1.49 },
+					{ "time": 0.2, "x": -17.97, "y": -1.09 },
+					{ "time": 0.2667, "x": -17.54, "y": -1.49 },
+					{ "time": 0.3333, "x": -17.97, "y": -1.09 },
+					{ "time": 0.4, "x": -17.54, "y": -1.49 },
+					{ "time": 0.4667, "x": -17.97, "y": -1.09 },
+					{ "time": 0.5333, "x": -17.54, "y": -1.49 },
+					{ "time": 0.6, "x": -17.97, "y": -1.09 },
+					{ "time": 0.6667, "x": -17.54, "y": -1.49 },
+					{ "time": 0.7333, "x": -17.97, "y": -1.09 },
+					{ "time": 0.8, "x": -17.54, "y": -1.49 },
+					{ "time": 0.8667, "x": -17.97, "y": -1.09 },
+					{ "time": 0.9333, "x": -17.54, "y": -1.49 }
+				]
+			},
+			"Wing_Top2": {
+				"translate": [
+					{ "time": 0, "x": -17.54, "y": -1.49 },
+					{ "time": 0.0667, "x": -17.97, "y": -1.09 },
+					{ "time": 0.1333, "x": -17.54, "y": -1.49 },
+					{ "time": 0.2, "x": -17.97, "y": -1.09 },
+					{ "time": 0.2667, "x": -17.54, "y": -1.49 },
+					{ "time": 0.3333, "x": -17.97, "y": -1.09 },
+					{ "time": 0.4, "x": -17.54, "y": -1.49 },
+					{ "time": 0.4667, "x": -17.97, "y": -1.09 },
+					{ "time": 0.5333, "x": -17.54, "y": -1.49 },
+					{ "time": 0.6, "x": -17.97, "y": -1.09 },
+					{ "time": 0.6667, "x": -17.54, "y": -1.49 },
+					{ "time": 0.7333, "x": -17.97, "y": -1.09 },
+					{ "time": 0.8, "x": -17.54, "y": -1.49 },
+					{ "time": 0.8667, "x": -17.97, "y": -1.09 },
+					{ "time": 0.9333, "x": -17.54, "y": -1.49 }
+				]
+			},
+			"TailSide_WingBase": {
+				"translate": [
+					{ "time": 0, "x": -9.01, "y": -0.01 },
+					{ "time": 0.0667, "x": -9.01, "y": 0.15 },
+					{ "time": 0.1333, "x": -9.01, "y": -0.01 },
+					{ "time": 0.2, "x": -9.01, "y": 0.15 },
+					{ "time": 0.2667, "x": -9.01, "y": -0.01 },
+					{ "time": 0.3333, "x": -9.01, "y": 0.15 },
+					{ "time": 0.4, "x": -9.01, "y": -0.01 },
+					{ "time": 0.4667, "x": -9.01, "y": 0.15 },
+					{ "time": 0.5333, "x": -9.01, "y": -0.01 },
+					{ "time": 0.6, "x": -9.01, "y": 0.15 },
+					{ "time": 0.6667, "x": -9.01, "y": -0.01 },
+					{ "time": 0.7333, "x": -9.01, "y": 0.15 },
+					{ "time": 0.8, "x": -9.01, "y": -0.01 },
+					{ "time": 0.8667, "x": -9.01, "y": 0.15 },
+					{ "time": 0.9333, "x": -9.01, "y": -0.01 }
+				]
+			},
+			"TailSide_WingBase2": {
+				"translate": [
+					{ "time": 0, "x": 9.01, "y": -0.01 },
+					{ "time": 0.0667, "x": 9.01, "y": 0.15 },
+					{ "time": 0.1333, "x": 9.01, "y": -0.01 },
+					{ "time": 0.2, "x": 9.01, "y": 0.15 },
+					{ "time": 0.2667, "x": 9.01, "y": -0.01 },
+					{ "time": 0.3333, "x": 9.01, "y": 0.15 },
+					{ "time": 0.4, "x": 9.01, "y": -0.01 },
+					{ "time": 0.4667, "x": 9.01, "y": 0.15 },
+					{ "time": 0.5333, "x": 9.01, "y": -0.01 },
+					{ "time": 0.6, "x": 9.01, "y": 0.15 },
+					{ "time": 0.6667, "x": 9.01, "y": -0.01 },
+					{ "time": 0.7333, "x": 9.01, "y": 0.15 },
+					{ "time": 0.8, "x": 9.01, "y": -0.01 },
+					{ "time": 0.8667, "x": 9.01, "y": 0.15 },
+					{ "time": 0.9333, "x": 9.01, "y": -0.01 }
+				]
+			},
+			"TailSide_Base": {
+				"translate": [
+					{ "time": 0, "x": 4.95, "y": 0 }
+				]
+			},
+			"TailSide_Base2": {
+				"translate": [
+					{ "time": 0, "x": 4.95, "y": 0 }
+				]
+			},
+			"TailSide": {
+				"rotate": [
+					{ "time": 0, "angle": 90 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.05 }
+				]
+			},
+			"TailSide2": {
+				"rotate": [
+					{ "time": 0, "angle": 90 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.05 }
+				]
+			}
+		}
+	},
+	"animation": {
+		"slots": {
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0.3333, "name": "TailBase_1" },
+					{ "time": 0.4, "name": "TailBase_2" },
+					{ "time": 0.4667, "name": "TailBase_3" },
+					{ "time": 0.5333, "name": "TailBase_4" },
+					{ "time": 0.6, "name": "TailBase_5" },
+					{ "time": 0.6667, "name": "TailBase_1" },
+					{ "time": 0.7333, "name": "TailBase_2" },
+					{ "time": 0.8, "name": "TailBase_3" },
+					{ "time": 0.8667, "name": "TailBase_4" },
+					{ "time": 0.9333, "name": "TailBase_5" },
+					{ "time": 1, "name": "TailBase_1" }
+				]
+			},
+			"TailBase_2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.3333,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.5, "name": "TailBase_1" },
+					{ "time": 0.5667, "name": "TailBase_2" },
+					{ "time": 0.6333, "name": "TailBase_3" },
+					{ "time": 0.7, "name": "TailBase_4" },
+					{ "time": 0.7667, "name": "TailBase_5" },
+					{ "time": 0.8333, "name": "TailBase_1" }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0.4, "name": "TailSide_DownWing_2" },
+					{ "time": 0.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 0.6, "name": "TailSide_DownWing_5" },
+					{ "time": 0.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 0.8, "name": "TailSide_DownWing_2" },
+					{ "time": 0.8667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.9333, "name": "TailSide_DownWing_4" },
+					{ "time": 1, "name": "TailSide_DownWing_5" },
+					{ "time": 1.0667, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0.4, "name": "TailSide_DownWing_2" },
+					{ "time": 0.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 0.6, "name": "TailSide_DownWing_5" },
+					{ "time": 0.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 0.8, "name": "TailSide_DownWing_2" },
+					{ "time": 0.8667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.9333, "name": "TailSide_DownWing_4" },
+					{ "time": 1, "name": "TailSide_DownWing_5" },
+					{ "time": 1.0667, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0.3, "name": "TailSide_UpWing_2" },
+					{ "time": 0.3667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.4333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.5, "name": "TailSide_UpWing_5" },
+					{ "time": 0.5667, "name": "TailSide_UpWing_1" },
+					{ "time": 0.7, "name": "TailSide_UpWing_2" },
+					{ "time": 0.7667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.8333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.9, "name": "TailSide_UpWing_5" },
+					{ "time": 0.9667, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0.3, "name": "TailSide_UpWing_2" },
+					{ "time": 0.3667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.4333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.5, "name": "TailSide_UpWing_5" },
+					{ "time": 0.5667, "name": "TailSide_UpWing_1" },
+					{ "time": 0.7, "name": "TailSide_UpWing_2" },
+					{ "time": 0.7667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.8333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.9, "name": "TailSide_UpWing_5" },
+					{ "time": 0.9667, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"Tail_1": {
+				"attachment": [
+					{ "time": 1, "name": "Tail_2" },
+					{ "time": 1.0667, "name": "Tail_3" },
+					{ "time": 1.1333, "name": "Tail_4" },
+					{ "time": 1.2, "name": "Tail_5" },
+					{ "time": 1.2667, "name": "Tail_1" }
+				]
+			},
+			"WingBase_1": {
+				"attachment": [
+					{ "time": 0.6667, "name": "WingBase_2" },
+					{ "time": 0.7333, "name": "WingBase_3" },
+					{ "time": 0.8, "name": "WingBase_4" },
+					{ "time": 0.8667, "name": "WingBase_5" },
+					{ "time": 0.9333, "name": "WingBase_1" }
+				]
+			},
+			"WingBase_2": {
+				"attachment": [
+					{ "time": 0.6667, "name": "WingBase_2" },
+					{ "time": 0.7333, "name": "WingBase_3" },
+					{ "time": 0.8, "name": "WingBase_4" },
+					{ "time": 0.8667, "name": "WingBase_5" },
+					{ "time": 0.9333, "name": "WingBase_1" }
+				]
+			},
+			"WingGun_1": {
+				"attachment": [
+					{ "time": 0.5, "name": "WingGun_2" },
+					{ "time": 0.5667, "name": "WingGun_3" },
+					{ "time": 0.6333, "name": "WingGun_4" },
+					{ "time": 0.7, "name": "WingGun_5" },
+					{ "time": 0.7667, "name": "WingGun_1" }
+				]
+			},
+			"WingGun_2": {
+				"attachment": [
+					{ "time": 0.4333, "name": "WingGun_1" },
+					{ "time": 0.5, "name": "WingGun_2" },
+					{ "time": 0.5667, "name": "WingGun_3" },
+					{ "time": 0.6333, "name": "WingGun_4" },
+					{ "time": 0.7, "name": "WingGun_5" },
+					{ "time": 0.7667, "name": "WingGun_1" }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0.2333, "name": "Wing_2" },
+					{ "time": 0.3, "name": "Wing_3" },
+					{ "time": 0.3667, "name": "Wing_4" },
+					{ "time": 0.4333, "name": "Wing_5" },
+					{ "time": 0.5, "name": "Wing_1" },
+					{ "time": 0.6333, "name": "Wing_2" },
+					{ "time": 0.7, "name": "Wing_3" },
+					{ "time": 0.7667, "name": "Wing_4" },
+					{ "time": 0.8333, "name": "Wing_5" },
+					{ "time": 0.9, "name": "Wing_1" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0.2333, "name": "Wing_2" },
+					{ "time": 0.3, "name": "Wing_3" },
+					{ "time": 0.3667, "name": "Wing_4" },
+					{ "time": 0.4333, "name": "Wing_5" },
+					{ "time": 0.5, "name": "Wing_1" },
+					{ "time": 0.6333, "name": "Wing_2" },
+					{ "time": 0.7, "name": "Wing_3" },
+					{ "time": 0.7667, "name": "Wing_4" },
+					{ "time": 0.8333, "name": "Wing_5" },
+					{ "time": 0.9, "name": "Wing_1" }
+				]
+			}
+		},
+		"bones": {
+			"Wing2": {
+				"translate": [
+					{ "time": 0, "x": -5.01, "y": 5 },
+					{ "time": 0.1667, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": -0.25, "y": 0.25 },
+					{ "time": 0.3, "x": 0, "y": 0 }
+				]
+			},
+			"WingGun2": {
+				"translate": [
+					{ "time": 0, "x": -7.36, "y": 6.76, "curve": "stepped" },
+					{ "time": 0.2667, "x": -7.36, "y": 6.76 },
+					{ "time": 0.4333, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -0.37, "y": 0.34 },
+					{ "time": 0.5667, "x": 0, "y": 0 }
+				]
+			},
+			"Wing": {
+				"translate": [
+					{ "time": 0, "x": -5.01, "y": 5 },
+					{ "time": 0.1667, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": -0.25, "y": 0.25 },
+					{ "time": 0.3, "x": 0, "y": 0 }
+				]
+			},
+			"WingGun": {
+				"translate": [
+					{ "time": 0, "x": -7.36, "y": 6.76, "curve": "stepped" },
+					{ "time": 0.2667, "x": -7.36, "y": 6.76 },
+					{ "time": 0.4333, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -0.37, "y": 0.34 },
+					{ "time": 0.5667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_DownWing": {
+				"rotate": [
+					{ "time": 0, "angle": 90, "curve": "stepped" },
+					{ "time": 0.5667, "angle": 90 },
+					{ "time": 0.7333, "angle": 0 },
+					{ "time": 0.8, "angle": 4.5 },
+					{ "time": 0.8667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -0.86, "y": -7.02, "curve": "stepped" },
+					{ "time": 0.1667, "x": -0.86, "y": -7.02 },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -0.04, "y": -0.35 },
+					{ "time": 0.4667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_UpWing": {
+				"translate": [
+					{ "time": 0, "x": -5.99, "y": 6.01, "curve": "stepped" },
+					{ "time": 0.0667, "x": -5.99, "y": 6.01 },
+					{ "time": 0.2333, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": -0.3, "y": 0.3 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_DownWing2": {
+				"rotate": [
+					{ "time": 0, "angle": 90, "curve": "stepped" },
+					{ "time": 0.5667, "angle": 90 },
+					{ "time": 0.7333, "angle": 0 },
+					{ "time": 0.8, "angle": 4.5 },
+					{ "time": 0.8667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -0.86, "y": -7.02, "curve": "stepped" },
+					{ "time": 0.1667, "x": -0.86, "y": -7.02 },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -0.04, "y": -0.35 },
+					{ "time": 0.4667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_UpWing2": {
+				"translate": [
+					{ "time": 0, "x": -5.99, "y": 6.01, "curve": "stepped" },
+					{ "time": 0.0667, "x": -5.99, "y": 6.01 },
+					{ "time": 0.2333, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": -0.3, "y": 0.3 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"Tail": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 17.09, "curve": "stepped" },
+					{ "time": 0.7667, "x": 0, "y": 17.09 },
+					{ "time": 0.9333, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": 0.85 },
+					{ "time": 1.0667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSideGun": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.94, "curve": "stepped" },
+					{ "time": 0.8333, "x": 0, "y": 3.94 },
+					{ "time": 0.9667, "x": 0, "y": 0 },
+					{ "time": 1.0333, "x": 0, "y": 0.2 },
+					{ "time": 1.1, "x": 0, "y": 0 }
+				]
+			},
+			"TailSideGun2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.94, "curve": "stepped" },
+					{ "time": 0.8333, "x": 0, "y": 3.94 },
+					{ "time": 0.9667, "x": 0, "y": 0 },
+					{ "time": 1.0333, "x": 0, "y": 0.2 },
+					{ "time": 1.1, "x": 0, "y": 0 }
+				]
+			},
+			"Wing_Top": {
+				"translate": [
+					{ "time": 0, "x": -8.15, "y": 7.49, "curve": "stepped" },
+					{ "time": 0.4333, "x": -8.15, "y": 7.49 },
+					{ "time": 0.6, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": -0.41, "y": 0.37 },
+					{ "time": 0.7333, "x": 0, "y": 0 }
+				]
+			},
+			"Wing_Top2": {
+				"translate": [
+					{ "time": 0, "x": -8.15, "y": 7.49, "curve": "stepped" },
+					{ "time": 0.4333, "x": -8.15, "y": 7.49 },
+					{ "time": 0.6, "x": 0, "y": 0 },
+					{ "time": 0.6667, "x": -0.41, "y": 0.37 },
+					{ "time": 0.7333, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_Detail": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -2.97, "curve": "stepped" },
+					{ "time": 0.9667, "x": 0, "y": -2.97 },
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.2, "x": 0, "y": -0.15 },
+					{ "time": 1.2667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_Detail2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -2.97, "curve": "stepped" },
+					{ "time": 0.9667, "x": 0, "y": -2.97 },
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.2, "x": 0, "y": -0.15 },
+					{ "time": 1.2667, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -7.2, "curve": "stepped" },
+					{ "time": 0.6333, "x": 0, "y": -7.2 },
+					{ "time": 0.8, "x": 0, "y": 0 },
+					{ "time": 0.8667, "x": 0, "y": -0.36 },
+					{ "time": 0.9333, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -7.2, "curve": "stepped" },
+					{ "time": 0.6333, "x": 0, "y": -7.2 },
+					{ "time": 0.8, "x": 0, "y": 0 },
+					{ "time": 0.8667, "x": 0, "y": -0.36 },
+					{ "time": 0.9333, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_Base": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 5.02, "curve": "stepped" },
+					{ "time": 0.4, "x": 0, "y": 5.02 },
+					{ "time": 0.5667, "x": 0, "y": 0 },
+					{ "time": 0.6333, "x": 0, "y": 0.25 },
+					{ "time": 0.7, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_Base2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 5.02, "curve": "stepped" },
+					{ "time": 0.4, "x": 0, "y": 5.02 },
+					{ "time": 0.5667, "x": 0, "y": 0 },
+					{ "time": 0.6333, "x": 0, "y": 0.25 },
+					{ "time": 0.7, "x": 0, "y": 0 }
+				]
+			},
+			"All": {
+				"translate": [
+					{ "time": 0.1667, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": 0, "y": 0.23 },
+					{ "time": 0.3, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": 0, "y": 0.23 },
+					{ "time": 0.8, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9333, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": -0.23 },
+					{ "time": 1.0667, "x": 0, "y": 0 }
+				]
+			},
+			"Core": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6667, "angle": 180 },
+					{ "time": 1.2667, "angle": 1 }
+				]
+			},
+			"Core_Spin": {
+				"rotate": [
+					{ "time": 0, "angle": 40.78 },
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.8, "angle": 180 },
+					{ "time": 1.2667, "angle": 40.78 }
+				]
+			}
+		}
+	},
+	"closeidle": {
+		"slots": {
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0, "name": "TailBase_1" },
+					{ "time": 0.0667, "name": "TailBase_2" },
+					{ "time": 0.1333, "name": "TailBase_3" },
+					{ "time": 0.2, "name": "TailBase_4" },
+					{ "time": 0.2667, "name": "TailBase_5" },
+					{ "time": 0.3333, "name": "TailBase_1" }
+				]
+			},
+			"TailBase_2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "TailBase_1" },
+					{ "time": 0.0667, "name": "TailBase_2" },
+					{ "time": 0.1333, "name": "TailBase_3" },
+					{ "time": 0.2, "name": "TailBase_4" },
+					{ "time": 0.2667, "name": "TailBase_5" },
+					{ "time": 0.3333, "name": "TailBase_1" }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 0.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 0.2, "name": "TailSide_DownWing_4" },
+					{ "time": 0.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 0.3333, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 0.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 0.2, "name": "TailSide_DownWing_4" },
+					{ "time": 0.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 0.3333, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 0.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 0.2, "name": "TailSide_UpWing_4" },
+					{ "time": 0.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 0.3333, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 0.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 0.2, "name": "TailSide_UpWing_4" },
+					{ "time": 0.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 0.3333, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"Tail_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Tail_2" },
+					{ "time": 0.1333, "name": "Tail_3" },
+					{ "time": 0.2, "name": "Tail_4" },
+					{ "time": 0.2667, "name": "Tail_5" },
+					{ "time": 0.3333, "name": "Tail_1" }
+				]
+			},
+			"WingBase_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingBase_2" },
+					{ "time": 0.1333, "name": "WingBase_3" },
+					{ "time": 0.2, "name": "WingBase_4" },
+					{ "time": 0.2667, "name": "WingBase_5" },
+					{ "time": 0.3333, "name": "WingBase_1" }
+				]
+			},
+			"WingBase_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingBase_2" },
+					{ "time": 0.1333, "name": "WingBase_3" },
+					{ "time": 0.2, "name": "WingBase_4" },
+					{ "time": 0.2667, "name": "WingBase_5" },
+					{ "time": 0.3333, "name": "WingBase_1" }
+				]
+			},
+			"WingGun_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingGun_2" },
+					{ "time": 0.1333, "name": "WingGun_3" },
+					{ "time": 0.2, "name": "WingGun_4" },
+					{ "time": 0.2667, "name": "WingGun_5" },
+					{ "time": 0.3333, "name": "WingGun_1" }
+				]
+			},
+			"WingGun_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingGun_2" },
+					{ "time": 0.1333, "name": "WingGun_3" },
+					{ "time": 0.2, "name": "WingGun_4" },
+					{ "time": 0.2667, "name": "WingGun_5" },
+					{ "time": 0.3333, "name": "WingGun_1" }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" }
+				]
+			}
+		},
+		"bones": {
+			"Wing2": {
+				"translate": [
+					{ "time": 0, "x": -5.01, "y": 5 }
+				]
+			},
+			"WingGun2": {
+				"translate": [
+					{ "time": 0, "x": -7.36, "y": 6.76 }
+				]
+			},
+			"Wing": {
+				"translate": [
+					{ "time": 0, "x": -5.01, "y": 5 }
+				]
+			},
+			"WingGun": {
+				"translate": [
+					{ "time": 0, "x": -7.36, "y": 6.76 }
+				]
+			},
+			"TailSide_DownWing": {
+				"rotate": [
+					{ "time": 0, "angle": 90 }
+				],
+				"translate": [
+					{ "time": 0, "x": -0.86, "y": -7.02 }
+				]
+			},
+			"TailSide_UpWing": {
+				"translate": [
+					{ "time": 0, "x": -5.99, "y": 6.01 }
+				]
+			},
+			"TailSide_DownWing2": {
+				"rotate": [
+					{ "time": 0, "angle": 90 }
+				],
+				"translate": [
+					{ "time": 0, "x": -0.86, "y": -7.02 }
+				]
+			},
+			"TailSide_UpWing2": {
+				"translate": [
+					{ "time": 0, "x": -5.99, "y": 6.01 }
+				]
+			},
+			"Tail": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 17.09 }
+				]
+			},
+			"TailSideGun": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.94 }
+				]
+			},
+			"TailSideGun2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.94 }
+				]
+			},
+			"Wing_Top": {
+				"translate": [
+					{ "time": 0, "x": -8.15, "y": 7.49 }
+				]
+			},
+			"Wing_Top2": {
+				"translate": [
+					{ "time": 0, "x": -8.15, "y": 7.49 }
+				]
+			},
+			"TailSide_Detail": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -2.97 }
+				]
+			},
+			"TailSide_Detail2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -2.97 }
+				]
+			},
+			"TailSide": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -7.2 }
+				]
+			},
+			"TailSide2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -7.2 }
+				]
+			},
+			"TailSide_Base": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 5.02 }
+				]
+			},
+			"TailSide_Base2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 5.02 }
+				]
+			},
+			"Core_Spin": {
+				"rotate": [
+					{ "time": 0, "angle": 40.78 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"Core2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "color": "ffffffff" }
+				]
+			},
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0, "name": "TailBase_1" },
+					{ "time": 0.0667, "name": "TailBase_2" },
+					{ "time": 0.1333, "name": "TailBase_3" },
+					{ "time": 0.2, "name": "TailBase_4" },
+					{ "time": 0.2667, "name": "TailBase_5" },
+					{ "time": 0.3333, "name": "TailBase_1" },
+					{ "time": 0.4, "name": "TailBase_2" },
+					{ "time": 0.4667, "name": "TailBase_3" },
+					{ "time": 0.5333, "name": "TailBase_4" },
+					{ "time": 0.6, "name": "TailBase_5" },
+					{ "time": 0.6667, "name": "TailBase_1" },
+					{ "time": 0.7333, "name": "TailBase_2" },
+					{ "time": 0.8, "name": "TailBase_3" },
+					{ "time": 0.8667, "name": "TailBase_4" },
+					{ "time": 0.9333, "name": "TailBase_5" },
+					{ "time": 1, "name": "TailBase_1" },
+					{ "time": 1.0667, "name": "TailBase_2" },
+					{ "time": 1.1333, "name": "TailBase_3" },
+					{ "time": 1.2, "name": "TailBase_4" },
+					{ "time": 1.2667, "name": "TailBase_5" },
+					{ "time": 1.3333, "name": "TailBase_1" },
+					{ "time": 1.4, "name": "TailBase_2" },
+					{ "time": 1.4667, "name": "TailBase_3" },
+					{ "time": 1.5333, "name": "TailBase_4" },
+					{ "time": 1.6, "name": "TailBase_5" },
+					{ "time": 1.6667, "name": "TailBase_1" },
+					{ "time": 1.7333, "name": "TailBase_2" },
+					{ "time": 1.8, "name": "TailBase_3" },
+					{ "time": 1.8667, "name": "TailBase_4" },
+					{ "time": 1.9333, "name": "TailBase_5" },
+					{ "time": 2, "name": "TailBase_1" }
+				]
+			},
+			"TailBase_2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "TailBase_1" },
+					{ "time": 0.0667, "name": "TailBase_2" },
+					{ "time": 0.1333, "name": "TailBase_3" },
+					{ "time": 0.2, "name": "TailBase_4" },
+					{ "time": 0.2667, "name": "TailBase_5" },
+					{ "time": 0.3333, "name": "TailBase_1" },
+					{ "time": 0.4, "name": "TailBase_2" },
+					{ "time": 0.4667, "name": "TailBase_3" },
+					{ "time": 0.5333, "name": "TailBase_4" },
+					{ "time": 0.6, "name": "TailBase_5" },
+					{ "time": 0.6667, "name": "TailBase_1" },
+					{ "time": 0.7333, "name": "TailBase_2" },
+					{ "time": 0.8, "name": "TailBase_3" },
+					{ "time": 0.8667, "name": "TailBase_4" },
+					{ "time": 0.9333, "name": "TailBase_5" },
+					{ "time": 1, "name": "TailBase_1" },
+					{ "time": 1.0667, "name": "TailBase_2" },
+					{ "time": 1.1333, "name": "TailBase_3" },
+					{ "time": 1.2, "name": "TailBase_4" },
+					{ "time": 1.2667, "name": "TailBase_5" },
+					{ "time": 1.3333, "name": "TailBase_1" },
+					{ "time": 1.4, "name": "TailBase_2" },
+					{ "time": 1.4667, "name": "TailBase_3" },
+					{ "time": 1.5333, "name": "TailBase_4" },
+					{ "time": 1.6, "name": "TailBase_5" },
+					{ "time": 1.6667, "name": "TailBase_1" },
+					{ "time": 1.7333, "name": "TailBase_2" },
+					{ "time": 1.8, "name": "TailBase_3" },
+					{ "time": 1.8667, "name": "TailBase_4" },
+					{ "time": 1.9333, "name": "TailBase_5" },
+					{ "time": 2, "name": "TailBase_1" }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 0.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 0.2, "name": "TailSide_DownWing_4" },
+					{ "time": 0.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 0.3333, "name": "TailSide_DownWing_1" },
+					{ "time": 0.4, "name": "TailSide_DownWing_2" },
+					{ "time": 0.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 0.6, "name": "TailSide_DownWing_5" },
+					{ "time": 0.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 0.7333, "name": "TailSide_DownWing_2" },
+					{ "time": 0.8, "name": "TailSide_DownWing_3" },
+					{ "time": 0.8667, "name": "TailSide_DownWing_4" },
+					{ "time": 0.9333, "name": "TailSide_DownWing_5" },
+					{ "time": 1, "name": "TailSide_DownWing_1" },
+					{ "time": 1.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 1.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 1.2, "name": "TailSide_DownWing_4" },
+					{ "time": 1.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 1.3333, "name": "TailSide_DownWing_1" },
+					{ "time": 1.4, "name": "TailSide_DownWing_2" },
+					{ "time": 1.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 1.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 1.6, "name": "TailSide_DownWing_5" },
+					{ "time": 1.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 1.7333, "name": "TailSide_DownWing_2" },
+					{ "time": 1.8, "name": "TailSide_DownWing_3" },
+					{ "time": 1.8667, "name": "TailSide_DownWing_4" },
+					{ "time": 1.9333, "name": "TailSide_DownWing_5" },
+					{ "time": 2, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 0.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 0.2, "name": "TailSide_DownWing_4" },
+					{ "time": 0.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 0.3333, "name": "TailSide_DownWing_1" },
+					{ "time": 0.4, "name": "TailSide_DownWing_2" },
+					{ "time": 0.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 0.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 0.6, "name": "TailSide_DownWing_5" },
+					{ "time": 0.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 0.7333, "name": "TailSide_DownWing_2" },
+					{ "time": 0.8, "name": "TailSide_DownWing_3" },
+					{ "time": 0.8667, "name": "TailSide_DownWing_4" },
+					{ "time": 0.9333, "name": "TailSide_DownWing_5" },
+					{ "time": 1, "name": "TailSide_DownWing_1" },
+					{ "time": 1.0667, "name": "TailSide_DownWing_2" },
+					{ "time": 1.1333, "name": "TailSide_DownWing_3" },
+					{ "time": 1.2, "name": "TailSide_DownWing_4" },
+					{ "time": 1.2667, "name": "TailSide_DownWing_5" },
+					{ "time": 1.3333, "name": "TailSide_DownWing_1" },
+					{ "time": 1.4, "name": "TailSide_DownWing_2" },
+					{ "time": 1.4667, "name": "TailSide_DownWing_3" },
+					{ "time": 1.5333, "name": "TailSide_DownWing_4" },
+					{ "time": 1.6, "name": "TailSide_DownWing_5" },
+					{ "time": 1.6667, "name": "TailSide_DownWing_1" },
+					{ "time": 1.7333, "name": "TailSide_DownWing_2" },
+					{ "time": 1.8, "name": "TailSide_DownWing_3" },
+					{ "time": 1.8667, "name": "TailSide_DownWing_4" },
+					{ "time": 1.9333, "name": "TailSide_DownWing_5" },
+					{ "time": 2, "name": "TailSide_DownWing_1" }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 0.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 0.2, "name": "TailSide_UpWing_4" },
+					{ "time": 0.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 0.3333, "name": "TailSide_UpWing_1" },
+					{ "time": 0.4, "name": "TailSide_UpWing_2" },
+					{ "time": 0.4667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.5333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.6, "name": "TailSide_UpWing_5" },
+					{ "time": 0.6667, "name": "TailSide_UpWing_1" },
+					{ "time": 0.7333, "name": "TailSide_UpWing_2" },
+					{ "time": 0.8, "name": "TailSide_UpWing_3" },
+					{ "time": 0.8667, "name": "TailSide_UpWing_4" },
+					{ "time": 0.9333, "name": "TailSide_UpWing_5" },
+					{ "time": 1, "name": "TailSide_UpWing_1" },
+					{ "time": 1.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 1.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 1.2, "name": "TailSide_UpWing_4" },
+					{ "time": 1.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 1.3333, "name": "TailSide_UpWing_1" },
+					{ "time": 1.4, "name": "TailSide_UpWing_2" },
+					{ "time": 1.4667, "name": "TailSide_UpWing_3" },
+					{ "time": 1.5333, "name": "TailSide_UpWing_4" },
+					{ "time": 1.6, "name": "TailSide_UpWing_5" },
+					{ "time": 1.6667, "name": "TailSide_UpWing_1" },
+					{ "time": 1.7333, "name": "TailSide_UpWing_2" },
+					{ "time": 1.8, "name": "TailSide_UpWing_3" },
+					{ "time": 1.8667, "name": "TailSide_UpWing_4" },
+					{ "time": 1.9333, "name": "TailSide_UpWing_5" },
+					{ "time": 2, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 0.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 0.2, "name": "TailSide_UpWing_4" },
+					{ "time": 0.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 0.3333, "name": "TailSide_UpWing_1" },
+					{ "time": 0.4, "name": "TailSide_UpWing_2" },
+					{ "time": 0.4667, "name": "TailSide_UpWing_3" },
+					{ "time": 0.5333, "name": "TailSide_UpWing_4" },
+					{ "time": 0.6, "name": "TailSide_UpWing_5" },
+					{ "time": 0.6667, "name": "TailSide_UpWing_1" },
+					{ "time": 0.7333, "name": "TailSide_UpWing_2" },
+					{ "time": 0.8, "name": "TailSide_UpWing_3" },
+					{ "time": 0.8667, "name": "TailSide_UpWing_4" },
+					{ "time": 0.9333, "name": "TailSide_UpWing_5" },
+					{ "time": 1, "name": "TailSide_UpWing_1" },
+					{ "time": 1.0667, "name": "TailSide_UpWing_2" },
+					{ "time": 1.1333, "name": "TailSide_UpWing_3" },
+					{ "time": 1.2, "name": "TailSide_UpWing_4" },
+					{ "time": 1.2667, "name": "TailSide_UpWing_5" },
+					{ "time": 1.3333, "name": "TailSide_UpWing_1" },
+					{ "time": 1.4, "name": "TailSide_UpWing_2" },
+					{ "time": 1.4667, "name": "TailSide_UpWing_3" },
+					{ "time": 1.5333, "name": "TailSide_UpWing_4" },
+					{ "time": 1.6, "name": "TailSide_UpWing_5" },
+					{ "time": 1.6667, "name": "TailSide_UpWing_1" },
+					{ "time": 1.7333, "name": "TailSide_UpWing_2" },
+					{ "time": 1.8, "name": "TailSide_UpWing_3" },
+					{ "time": 1.8667, "name": "TailSide_UpWing_4" },
+					{ "time": 1.9333, "name": "TailSide_UpWing_5" },
+					{ "time": 2, "name": "TailSide_UpWing_1" }
+				]
+			},
+			"Tail_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Tail_2" },
+					{ "time": 0.1333, "name": "Tail_3" },
+					{ "time": 0.2, "name": "Tail_4" },
+					{ "time": 0.2667, "name": "Tail_5" },
+					{ "time": 0.3333, "name": "Tail_1" },
+					{ "time": 0.4, "name": "Tail_2" },
+					{ "time": 0.4667, "name": "Tail_3" },
+					{ "time": 0.5333, "name": "Tail_4" },
+					{ "time": 0.6, "name": "Tail_5" },
+					{ "time": 0.6667, "name": "Tail_1" },
+					{ "time": 0.7333, "name": "Tail_2" },
+					{ "time": 0.8, "name": "Tail_3" },
+					{ "time": 0.8667, "name": "Tail_4" },
+					{ "time": 0.9333, "name": "Tail_5" },
+					{ "time": 1, "name": "Tail_1" },
+					{ "time": 1.0667, "name": "Tail_2" },
+					{ "time": 1.1333, "name": "Tail_3" },
+					{ "time": 1.2, "name": "Tail_4" },
+					{ "time": 1.2667, "name": "Tail_5" },
+					{ "time": 1.3333, "name": "Tail_1" },
+					{ "time": 1.4, "name": "Tail_2" },
+					{ "time": 1.4667, "name": "Tail_3" },
+					{ "time": 1.5333, "name": "Tail_4" },
+					{ "time": 1.6, "name": "Tail_5" },
+					{ "time": 1.6667, "name": "Tail_1" },
+					{ "time": 1.7333, "name": "Tail_2" },
+					{ "time": 1.8, "name": "Tail_3" },
+					{ "time": 1.8667, "name": "Tail_4" },
+					{ "time": 1.9333, "name": "Tail_5" },
+					{ "time": 2, "name": "Tail_1" }
+				]
+			},
+			"WingBase_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingBase_2" },
+					{ "time": 0.1333, "name": "WingBase_3" },
+					{ "time": 0.2, "name": "WingBase_4" },
+					{ "time": 0.2667, "name": "WingBase_5" },
+					{ "time": 0.3333, "name": "WingBase_1" },
+					{ "time": 0.4, "name": "WingBase_2" },
+					{ "time": 0.4667, "name": "WingBase_3" },
+					{ "time": 0.5333, "name": "WingBase_4" },
+					{ "time": 0.6, "name": "WingBase_5" },
+					{ "time": 0.6667, "name": "WingBase_1" },
+					{ "time": 0.7333, "name": "WingBase_2" },
+					{ "time": 0.8, "name": "WingBase_3" },
+					{ "time": 0.8667, "name": "WingBase_4" },
+					{ "time": 0.9333, "name": "WingBase_5" },
+					{ "time": 1, "name": "WingBase_1" },
+					{ "time": 1.0667, "name": "WingBase_2" },
+					{ "time": 1.1333, "name": "WingBase_3" },
+					{ "time": 1.2, "name": "WingBase_4" },
+					{ "time": 1.2667, "name": "WingBase_5" },
+					{ "time": 1.3333, "name": "WingBase_1" },
+					{ "time": 1.4, "name": "WingBase_2" },
+					{ "time": 1.4667, "name": "WingBase_3" },
+					{ "time": 1.5333, "name": "WingBase_4" },
+					{ "time": 1.6, "name": "WingBase_5" },
+					{ "time": 1.6667, "name": "WingBase_1" },
+					{ "time": 1.7333, "name": "WingBase_2" },
+					{ "time": 1.8, "name": "WingBase_3" },
+					{ "time": 1.8667, "name": "WingBase_4" },
+					{ "time": 1.9333, "name": "WingBase_5" },
+					{ "time": 2, "name": "WingBase_1" }
+				]
+			},
+			"WingBase_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingBase_2" },
+					{ "time": 0.1333, "name": "WingBase_3" },
+					{ "time": 0.2, "name": "WingBase_4" },
+					{ "time": 0.2667, "name": "WingBase_5" },
+					{ "time": 0.3333, "name": "WingBase_1" },
+					{ "time": 0.4, "name": "WingBase_2" },
+					{ "time": 0.4667, "name": "WingBase_3" },
+					{ "time": 0.5333, "name": "WingBase_4" },
+					{ "time": 0.6, "name": "WingBase_5" },
+					{ "time": 0.6667, "name": "WingBase_1" },
+					{ "time": 0.7333, "name": "WingBase_2" },
+					{ "time": 0.8, "name": "WingBase_3" },
+					{ "time": 0.8667, "name": "WingBase_4" },
+					{ "time": 0.9333, "name": "WingBase_5" },
+					{ "time": 1, "name": "WingBase_1" },
+					{ "time": 1.0667, "name": "WingBase_2" },
+					{ "time": 1.1333, "name": "WingBase_3" },
+					{ "time": 1.2, "name": "WingBase_4" },
+					{ "time": 1.2667, "name": "WingBase_5" },
+					{ "time": 1.3333, "name": "WingBase_1" },
+					{ "time": 1.4, "name": "WingBase_2" },
+					{ "time": 1.4667, "name": "WingBase_3" },
+					{ "time": 1.5333, "name": "WingBase_4" },
+					{ "time": 1.6, "name": "WingBase_5" },
+					{ "time": 1.6667, "name": "WingBase_1" },
+					{ "time": 1.7333, "name": "WingBase_2" },
+					{ "time": 1.8, "name": "WingBase_3" },
+					{ "time": 1.8667, "name": "WingBase_4" },
+					{ "time": 1.9333, "name": "WingBase_5" },
+					{ "time": 2, "name": "WingBase_1" }
+				]
+			},
+			"WingGun_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingGun_2" },
+					{ "time": 0.1333, "name": "WingGun_3" },
+					{ "time": 0.2, "name": "WingGun_4" },
+					{ "time": 0.2667, "name": "WingGun_5" },
+					{ "time": 0.3333, "name": "WingGun_1" },
+					{ "time": 0.4, "name": "WingGun_2" },
+					{ "time": 0.4667, "name": "WingGun_3" },
+					{ "time": 0.5333, "name": "WingGun_4" },
+					{ "time": 0.6, "name": "WingGun_5" },
+					{ "time": 0.6667, "name": "WingGun_1" },
+					{ "time": 0.7333, "name": "WingGun_2" },
+					{ "time": 0.8, "name": "WingGun_3" },
+					{ "time": 0.8667, "name": "WingGun_4" },
+					{ "time": 0.9333, "name": "WingGun_5" },
+					{ "time": 1, "name": "WingGun_1" },
+					{ "time": 1.0667, "name": "WingGun_2" },
+					{ "time": 1.1333, "name": "WingGun_3" },
+					{ "time": 1.2, "name": "WingGun_4" },
+					{ "time": 1.2667, "name": "WingGun_5" },
+					{ "time": 1.3333, "name": "WingGun_1" },
+					{ "time": 1.4, "name": "WingGun_2" },
+					{ "time": 1.4667, "name": "WingGun_3" },
+					{ "time": 1.5333, "name": "WingGun_4" },
+					{ "time": 1.6, "name": "WingGun_5" },
+					{ "time": 1.6667, "name": "WingGun_1" },
+					{ "time": 1.7333, "name": "WingGun_2" },
+					{ "time": 1.8, "name": "WingGun_3" },
+					{ "time": 1.8667, "name": "WingGun_4" },
+					{ "time": 1.9333, "name": "WingGun_5" },
+					{ "time": 2, "name": "WingGun_1" }
+				]
+			},
+			"WingGun_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "WingGun_2" },
+					{ "time": 0.1333, "name": "WingGun_3" },
+					{ "time": 0.2, "name": "WingGun_4" },
+					{ "time": 0.2667, "name": "WingGun_5" },
+					{ "time": 0.3333, "name": "WingGun_1" },
+					{ "time": 0.4, "name": "WingGun_2" },
+					{ "time": 0.4667, "name": "WingGun_3" },
+					{ "time": 0.5333, "name": "WingGun_4" },
+					{ "time": 0.6, "name": "WingGun_5" },
+					{ "time": 0.6667, "name": "WingGun_1" },
+					{ "time": 0.7333, "name": "WingGun_2" },
+					{ "time": 0.8, "name": "WingGun_3" },
+					{ "time": 0.8667, "name": "WingGun_4" },
+					{ "time": 0.9333, "name": "WingGun_5" },
+					{ "time": 1, "name": "WingGun_1" },
+					{ "time": 1.0667, "name": "WingGun_2" },
+					{ "time": 1.1333, "name": "WingGun_3" },
+					{ "time": 1.2, "name": "WingGun_4" },
+					{ "time": 1.2667, "name": "WingGun_5" },
+					{ "time": 1.3333, "name": "WingGun_1" },
+					{ "time": 1.4, "name": "WingGun_2" },
+					{ "time": 1.4667, "name": "WingGun_3" },
+					{ "time": 1.5333, "name": "WingGun_4" },
+					{ "time": 1.6, "name": "WingGun_5" },
+					{ "time": 1.6667, "name": "WingGun_1" },
+					{ "time": 1.7333, "name": "WingGun_2" },
+					{ "time": 1.8, "name": "WingGun_3" },
+					{ "time": 1.8667, "name": "WingGun_4" },
+					{ "time": 1.9333, "name": "WingGun_5" },
+					{ "time": 2, "name": "WingGun_1" }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" },
+					{ "time": 0.4, "name": "Wing_2" },
+					{ "time": 0.4667, "name": "Wing_3" },
+					{ "time": 0.5333, "name": "Wing_4" },
+					{ "time": 0.6, "name": "Wing_5" },
+					{ "time": 0.6667, "name": "Wing_1" },
+					{ "time": 0.7333, "name": "Wing_2" },
+					{ "time": 0.8, "name": "Wing_3" },
+					{ "time": 0.8667, "name": "Wing_4" },
+					{ "time": 0.9333, "name": "Wing_5" },
+					{ "time": 1, "name": "Wing_1" },
+					{ "time": 1.0667, "name": "Wing_2" },
+					{ "time": 1.1333, "name": "Wing_3" },
+					{ "time": 1.2, "name": "Wing_4" },
+					{ "time": 1.2667, "name": "Wing_5" },
+					{ "time": 1.3333, "name": "Wing_1" },
+					{ "time": 1.4, "name": "Wing_2" },
+					{ "time": 1.4667, "name": "Wing_3" },
+					{ "time": 1.5333, "name": "Wing_4" },
+					{ "time": 1.6, "name": "Wing_5" },
+					{ "time": 1.6667, "name": "Wing_1" },
+					{ "time": 1.7333, "name": "Wing_2" },
+					{ "time": 1.8, "name": "Wing_3" },
+					{ "time": 1.8667, "name": "Wing_4" },
+					{ "time": 1.9333, "name": "Wing_5" },
+					{ "time": 2, "name": "Wing_1" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" },
+					{ "time": 0.4, "name": "Wing_2" },
+					{ "time": 0.4667, "name": "Wing_3" },
+					{ "time": 0.5333, "name": "Wing_4" },
+					{ "time": 0.6, "name": "Wing_5" },
+					{ "time": 0.6667, "name": "Wing_1" },
+					{ "time": 0.7333, "name": "Wing_2" },
+					{ "time": 0.8, "name": "Wing_3" },
+					{ "time": 0.8667, "name": "Wing_4" },
+					{ "time": 0.9333, "name": "Wing_5" },
+					{ "time": 1, "name": "Wing_1" },
+					{ "time": 1.0667, "name": "Wing_2" },
+					{ "time": 1.1333, "name": "Wing_3" },
+					{ "time": 1.2, "name": "Wing_4" },
+					{ "time": 1.2667, "name": "Wing_5" },
+					{ "time": 1.3333, "name": "Wing_1" },
+					{ "time": 1.4, "name": "Wing_2" },
+					{ "time": 1.4667, "name": "Wing_3" },
+					{ "time": 1.5333, "name": "Wing_4" },
+					{ "time": 1.6, "name": "Wing_5" },
+					{ "time": 1.6667, "name": "Wing_1" },
+					{ "time": 1.7333, "name": "Wing_2" },
+					{ "time": 1.8, "name": "Wing_3" },
+					{ "time": 1.8667, "name": "Wing_4" },
+					{ "time": 1.9333, "name": "Wing_5" },
+					{ "time": 2, "name": "Wing_1" }
+				]
+			}
+		},
+		"bones": {
+			"TailBase": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.1 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.1 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0.1 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 0, "y": 0.1 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": 0, "y": 0.1 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": 0, "y": 0.1 },
+					{ "time": 0.8, "x": 0, "y": 0 },
+					{ "time": 0.8667, "x": 0, "y": 0.1 },
+					{ "time": 0.9333, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": 0.1 },
+					{ "time": 1.0667, "x": 0, "y": 0 },
+					{ "time": 1.1333, "x": 0, "y": 0.1 },
+					{ "time": 1.2, "x": 0, "y": 0 },
+					{ "time": 1.2667, "x": 0, "y": 0.1 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": 0, "y": 0.1 },
+					{ "time": 1.4667, "x": 0, "y": 0 },
+					{ "time": 1.5333, "x": 0, "y": 0.1 },
+					{ "time": 1.6, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": 0, "y": 0.1 },
+					{ "time": 1.7333, "x": 0, "y": 0 },
+					{ "time": 1.8, "x": 0, "y": 0.1 },
+					{ "time": 1.8667, "x": 0, "y": 0 },
+					{ "time": 1.9333, "x": 0, "y": 0.1 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"TailSide_DownWing": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": -0.93 },
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.2, "angle": -0.93 },
+					{ "time": 0.2667, "angle": 0 },
+					{ "time": 0.3333, "angle": -0.93 },
+					{ "time": 0.4, "angle": 0 },
+					{ "time": 0.4667, "angle": -0.93 },
+					{ "time": 0.5333, "angle": 0 },
+					{ "time": 0.6, "angle": -0.93 },
+					{ "time": 0.6667, "angle": 0 },
+					{ "time": 0.7333, "angle": -0.93 },
+					{ "time": 0.8, "angle": 0 },
+					{ "time": 0.8667, "angle": -0.93 },
+					{ "time": 0.9333, "angle": 0 },
+					{ "time": 1, "angle": -0.93 },
+					{ "time": 1.0667, "angle": 0 },
+					{ "time": 1.1333, "angle": -0.93 },
+					{ "time": 1.2, "angle": 0 },
+					{ "time": 1.2667, "angle": -0.93 },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 1.4, "angle": -0.93 },
+					{ "time": 1.4667, "angle": 0 },
+					{ "time": 1.5333, "angle": -0.93 },
+					{ "time": 1.6, "angle": 0 },
+					{ "time": 1.6667, "angle": -0.93 },
+					{ "time": 1.7333, "angle": 0 },
+					{ "time": 1.8, "angle": -0.93 },
+					{ "time": 1.8667, "angle": 0 },
+					{ "time": 1.9333, "angle": -0.93 },
+					{ "time": 2, "angle": 0 }
+				]
+			},
+			"TailSide_DownWing2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0667, "angle": -0.93 },
+					{ "time": 0.1333, "angle": 0 },
+					{ "time": 0.2, "angle": -0.93 },
+					{ "time": 0.2667, "angle": 0 },
+					{ "time": 0.3333, "angle": -0.93 },
+					{ "time": 0.4, "angle": 0 },
+					{ "time": 0.4667, "angle": -0.93 },
+					{ "time": 0.5333, "angle": 0 },
+					{ "time": 0.6, "angle": -0.93 },
+					{ "time": 0.6667, "angle": 0 },
+					{ "time": 0.7333, "angle": -0.93 },
+					{ "time": 0.8, "angle": 0 },
+					{ "time": 0.8667, "angle": -0.93 },
+					{ "time": 0.9333, "angle": 0 },
+					{ "time": 1, "angle": -0.93 },
+					{ "time": 1.0667, "angle": 0 },
+					{ "time": 1.1333, "angle": -0.93 },
+					{ "time": 1.2, "angle": 0 },
+					{ "time": 1.2667, "angle": -0.93 },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 1.4, "angle": -0.93 },
+					{ "time": 1.4667, "angle": 0 },
+					{ "time": 1.5333, "angle": -0.93 },
+					{ "time": 1.6, "angle": 0 },
+					{ "time": 1.6667, "angle": -0.93 },
+					{ "time": 1.7333, "angle": 0 },
+					{ "time": 1.8, "angle": -0.93 },
+					{ "time": 1.8667, "angle": 0 },
+					{ "time": 1.9333, "angle": -0.93 },
+					{ "time": 2, "angle": 0 }
+				]
+			},
+			"Core_Spin": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6667, "angle": -120 },
+					{ "time": 1.3333, "angle": 120 },
+					{ "time": 2, "angle": 0 }
+				]
+			},
+			"Core": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": -120 },
+					{ "time": 0.6667, "angle": 120 },
+					{ "time": 1, "angle": 0 },
+					{ "time": 1.3333, "angle": -120 },
+					{ "time": 1.6667, "angle": 120 },
+					{ "time": 2, "angle": 0 }
+				]
+			},
+			"TailSideGun": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 1 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 1 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 1 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 0, "y": 1 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": 0, "y": 1 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": 0, "y": 1 },
+					{ "time": 0.8, "x": 0, "y": 0 },
+					{ "time": 0.8667, "x": 0, "y": 1 },
+					{ "time": 0.9333, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": 1 },
+					{ "time": 1.0667, "x": 0, "y": 0 },
+					{ "time": 1.1333, "x": 0, "y": 1 },
+					{ "time": 1.2, "x": 0, "y": 0 },
+					{ "time": 1.2667, "x": 0, "y": 1 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": 0, "y": 1 },
+					{ "time": 1.4667, "x": 0, "y": 0 },
+					{ "time": 1.5333, "x": 0, "y": 1 },
+					{ "time": 1.6, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": 0, "y": 1 },
+					{ "time": 1.7333, "x": 0, "y": 0 },
+					{ "time": 1.8, "x": 0, "y": 1 },
+					{ "time": 1.8667, "x": 0, "y": 0 },
+					{ "time": 1.9333, "x": 0, "y": 1 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"TailSideGun2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 1 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 1 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 1 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 0, "y": 1 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": 0, "y": 1 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": 0, "y": 1 },
+					{ "time": 0.8, "x": 0, "y": 0 },
+					{ "time": 0.8667, "x": 0, "y": 1 },
+					{ "time": 0.9333, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": 1 },
+					{ "time": 1.0667, "x": 0, "y": 0 },
+					{ "time": 1.1333, "x": 0, "y": 1 },
+					{ "time": 1.2, "x": 0, "y": 0 },
+					{ "time": 1.2667, "x": 0, "y": 1 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": 0, "y": 1 },
+					{ "time": 1.4667, "x": 0, "y": 0 },
+					{ "time": 1.5333, "x": 0, "y": 1 },
+					{ "time": 1.6, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": 0, "y": 1 },
+					{ "time": 1.7333, "x": 0, "y": 0 },
+					{ "time": 1.8, "x": 0, "y": 1 },
+					{ "time": 1.8667, "x": 0, "y": 0 },
+					{ "time": 1.9333, "x": 0, "y": 1 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"Wing_Top": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.21, "y": 0.19 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.21, "y": 0.19 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.21, "y": 0.19 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": -0.21, "y": 0.19 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": -0.21, "y": 0.19 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": -0.21, "y": 0.19 },
+					{ "time": 0.8, "x": 0, "y": 0 },
+					{ "time": 0.8667, "x": -0.21, "y": 0.19 },
+					{ "time": 0.9333, "x": 0, "y": 0 },
+					{ "time": 1, "x": -0.21, "y": 0.19 },
+					{ "time": 1.0667, "x": 0, "y": 0 },
+					{ "time": 1.1333, "x": -0.21, "y": 0.19 },
+					{ "time": 1.2, "x": 0, "y": 0 },
+					{ "time": 1.2667, "x": -0.21, "y": 0.19 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": -0.21, "y": 0.19 },
+					{ "time": 1.4667, "x": 0, "y": 0 },
+					{ "time": 1.5333, "x": -0.21, "y": 0.19 },
+					{ "time": 1.6, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": -0.21, "y": 0.19 },
+					{ "time": 1.7333, "x": 0, "y": 0 },
+					{ "time": 1.8, "x": -0.21, "y": 0.19 },
+					{ "time": 1.8667, "x": 0, "y": 0 },
+					{ "time": 1.9333, "x": -0.21, "y": 0.19 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"Wing_Top2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.21, "y": 0.19 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.21, "y": 0.19 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.21, "y": 0.19 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": -0.21, "y": 0.19 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": -0.21, "y": 0.19 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": -0.21, "y": 0.19 },
+					{ "time": 0.8, "x": 0, "y": 0 },
+					{ "time": 0.8667, "x": -0.21, "y": 0.19 },
+					{ "time": 0.9333, "x": 0, "y": 0 },
+					{ "time": 1, "x": -0.21, "y": 0.19 },
+					{ "time": 1.0667, "x": 0, "y": 0 },
+					{ "time": 1.1333, "x": -0.21, "y": 0.19 },
+					{ "time": 1.2, "x": 0, "y": 0 },
+					{ "time": 1.2667, "x": -0.21, "y": 0.19 },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": -0.21, "y": 0.19 },
+					{ "time": 1.4667, "x": 0, "y": 0 },
+					{ "time": 1.5333, "x": -0.21, "y": 0.19 },
+					{ "time": 1.6, "x": 0, "y": 0 },
+					{ "time": 1.6667, "x": -0.21, "y": 0.19 },
+					{ "time": 1.7333, "x": 0, "y": 0 },
+					{ "time": 1.8, "x": -0.21, "y": 0.19 },
+					{ "time": 1.8667, "x": 0, "y": 0 },
+					{ "time": 1.9333, "x": -0.21, "y": 0.19 },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"right0": {
+		"slots": {
+			"Body": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core_Border": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core_Spin": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Reus_turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": "Reus_turnright_0" }
+				]
+			},
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailBase_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSideGun": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSideGun2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Base": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Base2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Detail": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Detail2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_WingBase": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_WingBase2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Tail_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingGun_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingGun_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_Top": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_Top2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right1": {
+		"slots": {
+			"Body": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core_Border": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core_Spin": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Reus_turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": "Reus_turnright_1" }
+				]
+			},
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailBase_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSideGun": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSideGun2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Base": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Base2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Detail": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Detail2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_WingBase": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_WingBase2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Tail_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingGun_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingGun_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_Top": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_Top2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right2": {
+		"slots": {
+			"Body": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core_Border": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core_Spin": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Reus_turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": "Reus_turnright_2" }
+				]
+			},
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailBase_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSideGun": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSideGun2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Base": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Base2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Detail": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Detail2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_WingBase": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_WingBase2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Tail_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingGun_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingGun_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_Top": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_Top2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right3": {
+		"slots": {
+			"Body": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core_Border": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core_Spin": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Reus_turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": "Reus_turnright_3" }
+				]
+			},
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailBase_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSideGun": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSideGun2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Base": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Base2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Detail": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Detail2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_WingBase": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_WingBase2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Tail_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingGun_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingGun_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_Top": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_Top2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right4": {
+		"slots": {
+			"Body": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core_Border": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Core_Spin": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Reus_turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": "Reus_turnright_4" }
+				]
+			},
+			"TailBase_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailBase_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSideGun": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSideGun2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Base": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Base2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Detail": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_Detail2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_DownWing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_DownWing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_UpWing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_UpWing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_WingBase": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"TailSide_WingBase2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Tail_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingGun_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingGun_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_Top": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_Top2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	}
+}
+}

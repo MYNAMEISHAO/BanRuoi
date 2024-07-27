@@ -1,0 +1,20 @@
+
+Spine_DroneTier2_Shogun.png
+size: 320,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shogun_Skill
+  rotate: false
+  xy: 2, 2
+  size: 84, 417
+  orig: 84, 417
+  offset: 0, 0
+  index: -1
+Slash
+  rotate: false
+  xy: 88, 261
+  size: 228, 158
+  orig: 240, 171
+  offset: 2, 11
+  index: -1

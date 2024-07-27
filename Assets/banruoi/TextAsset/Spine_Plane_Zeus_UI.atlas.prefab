@@ -1,0 +1,321 @@
+
+Spine_Plane_Zeus_UI.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 22
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Core
+  rotate: false
+  xy: 143, 13
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Core_Border
+  rotate: false
+  xy: 201, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Core_Spin
+  rotate: false
+  xy: 328, 41
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+TailBase_1
+  rotate: false
+  xy: 34, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+TailBase_2
+  rotate: false
+  xy: 51, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+TailBase_3
+  rotate: false
+  xy: 68, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+TailBase_4
+  rotate: false
+  xy: 85, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+TailBase_5
+  rotate: false
+  xy: 102, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+TailSide
+  rotate: false
+  xy: 132, 10
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+TailSideGun
+  rotate: true
+  xy: 143, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+TailSide_Base
+  rotate: false
+  xy: 250, 23
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+TailSide_Detail
+  rotate: true
+  xy: 132, 2
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+TailSide_DownWing_1
+  rotate: false
+  xy: 278, 31
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+TailSide_DownWing_2
+  rotate: false
+  xy: 296, 31
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+TailSide_DownWing_3
+  rotate: true
+  xy: 314, 27
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+TailSide_DownWing_4
+  rotate: false
+  xy: 328, 27
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+TailSide_DownWing_5
+  rotate: false
+  xy: 201, 19
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+TailSide_UpWing_1
+  rotate: false
+  xy: 351, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+TailSide_UpWing_2
+  rotate: false
+  xy: 368, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+TailSide_UpWing_3
+  rotate: false
+  xy: 385, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+TailSide_UpWing_4
+  rotate: false
+  xy: 402, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+TailSide_UpWing_5
+  rotate: false
+  xy: 419, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+TailSide_WingBase
+  rotate: false
+  xy: 436, 48
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Tail_1
+  rotate: true
+  xy: 232, 34
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+Tail_2
+  rotate: true
+  xy: 455, 53
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+Tail_3
+  rotate: true
+  xy: 255, 34
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+Tail_4
+  rotate: true
+  xy: 478, 53
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+Tail_5
+  rotate: false
+  xy: 501, 41
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+WingBase_1
+  rotate: true
+  xy: 2, 3
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+WingBase_2
+  rotate: true
+  xy: 232, 45
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+WingBase_3
+  rotate: true
+  xy: 232, 45
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+WingBase_4
+  rotate: true
+  xy: 264, 45
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+WingBase_5
+  rotate: true
+  xy: 296, 45
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+WingGun_1
+  rotate: false
+  xy: 219, 18
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+WingGun_2
+  rotate: false
+  xy: 265, 19
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+WingGun_3
+  rotate: true
+  xy: 278, 18
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+WingGun_4
+  rotate: true
+  xy: 293, 18
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+WingGun_5
+  rotate: false
+  xy: 119, 9
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Wing_1
+  rotate: false
+  xy: 41, 24
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Wing_2
+  rotate: false
+  xy: 73, 24
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Wing_3
+  rotate: false
+  xy: 105, 24
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Wing_4
+  rotate: false
+  xy: 137, 24
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Wing_5
+  rotate: false
+  xy: 169, 24
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Wing_Top
+  rotate: true
+  xy: 232, 23
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1

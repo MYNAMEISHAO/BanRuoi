@@ -1,0 +1,13 @@
+
+DenebStone_Bullet.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dene_bullet
+  rotate: false
+  xy: 2, 2
+  size: 320, 193
+  orig: 320, 193
+  offset: 0, 0
+  index: -1

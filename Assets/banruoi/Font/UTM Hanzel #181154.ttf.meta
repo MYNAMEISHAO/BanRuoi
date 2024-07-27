@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: d8d995b4e384da84689bdadb267d155a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Montserrat
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 669242547d1f60d45bf7b70bcf76a570, type: 3}
+  - {fileID: 12800000, guid: 21bde6f4b1f95a34690ecc99b5293d92, type: 3}
+  - {fileID: 12800000, guid: 5837caff0da475446a57f78af9e20d6d, type: 3}
+  - {fileID: 12800000, guid: 511ad5346bafd184d9a1b68f20c898a3, type: 3}
+  - {fileID: 12800000, guid: a63022333b82e854c810770ede0f430a, type: 3}
+  - {fileID: 12800000, guid: 43b49f39d8a2b85449f1e4b795cc48b4, type: 3}
+  - {fileID: 12800000, guid: 36e5d03438f4b0543bc2d3bb7b0dfe01, type: 3}
+  - {fileID: 12800000, guid: 4593413a5879e5447bc5b7eb49eb5983, type: 3}
+  - {fileID: 12800000, guid: 9219a1cc300eb7a4c885d0d9be5f3df3, type: 3}
+  - {fileID: 12800000, guid: e6f2f1a83f852c74e8138ff2a0354e70, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

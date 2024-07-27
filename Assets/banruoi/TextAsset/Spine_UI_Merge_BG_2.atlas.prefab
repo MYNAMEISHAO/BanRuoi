@@ -1,0 +1,174 @@
+
+Spine_UI_Merge_BG_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Monitor
+  rotate: false
+  xy: 131, 91
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+Monitor_BevelL
+  rotate: true
+  xy: 397, 150
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+Monitor_BevelR
+  rotate: false
+  xy: 200, 61
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+Monitor_CircleIn
+  rotate: false
+  xy: 1013, 173
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Monitor_CircleOut
+  rotate: false
+  xy: 2, 8
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Monitor_Detail
+  rotate: true
+  xy: 2, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+Monitor_Detail2
+  rotate: false
+  xy: 9, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Monitor_Detail3
+  rotate: false
+  xy: 966, 165
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+Monitor_Light
+  rotate: false
+  xy: 892, 102
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+Pittong
+  rotate: true
+  xy: 216, 124
+  size: 40, 110
+  orig: 40, 110
+  offset: 0, 0
+  index: -1
+Pittong_Base
+  rotate: true
+  xy: 216, 103
+  size: 19, 67
+  orig: 19, 67
+  offset: 0, 0
+  index: -1
+Pittong_Base2
+  rotate: true
+  xy: 328, 145
+  size: 19, 67
+  orig: 19, 67
+  offset: 0, 0
+  index: -1
+Side
+  rotate: true
+  xy: 2, 166
+  size: 88, 524
+  orig: 88, 524
+  offset: 0, 0
+  index: -1
+Side_Base
+  rotate: false
+  xy: 528, 84
+  size: 362, 170
+  orig: 362, 170
+  offset: 0, 0
+  index: -1
+Side_Base_Base
+  rotate: false
+  xy: 976, 173
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: -1
+Side_Base_Base2
+  rotate: false
+  xy: 328, 119
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Side_Base_Base3
+  rotate: false
+  xy: 892, 87
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+Side_Base_Base4
+  rotate: false
+  xy: 31, 17
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Side_Base_Circle
+  rotate: false
+  xy: 892, 170
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+Side_Base_CircleBase
+  rotate: false
+  xy: 2, 37
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+Side_Base_CircleDetail
+  rotate: true
+  xy: 976, 184
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+Side_Base_CircleLight
+  rotate: true
+  xy: 131, 25
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+Side_Circle
+  rotate: false
+  xy: 285, 81
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Side_Light
+  rotate: false
+  xy: 328, 103
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

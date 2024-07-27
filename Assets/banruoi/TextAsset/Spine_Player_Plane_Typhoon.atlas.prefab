@@ -1,0 +1,76 @@
+
+Spine_Player_Plane_Typhoon.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XXX/Typhoon_XXX_Idle1
+  rotate: false
+  xy: 2, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+XXX/Typhoon_XXX_Idle2
+  rotate: false
+  xy: 170, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+XXX/Typhoon_XXX_Idle3
+  rotate: false
+  xy: 338, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+XXX/Typhoon_XXX_Idle4
+  rotate: false
+  xy: 506, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+XXX/Typhoon_XXX_Idle5
+  rotate: false
+  xy: 674, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+XXX/Typhoon_XXX_Turnright1
+  rotate: false
+  xy: 842, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+XXX/Typhoon_XXX_Turnright2
+  rotate: false
+  xy: 1010, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+XXX/Typhoon_XXX_Turnright3
+  rotate: false
+  xy: 1178, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+XXX/Typhoon_XXX_Turnright4
+  rotate: false
+  xy: 1346, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+XXX/Typhoon_XXX_Turnright5
+  rotate: false
+  xy: 1514, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1

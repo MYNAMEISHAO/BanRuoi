@@ -1,0 +1,300 @@
+
+Spine_Player_Liberator_CBA.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Body_1
+  rotate: true
+  xy: 2, 20
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: true
+  xy: 2, 20
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: false
+  xy: 427, 76
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+Body_4
+  rotate: true
+  xy: 54, 20
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+Body_5
+  rotate: true
+  xy: 106, 20
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+Body_6
+  rotate: false
+  xy: 450, 76
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+Glass_1
+  rotate: true
+  xy: 496, 95
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Glass_2
+  rotate: true
+  xy: 496, 80
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Glass_3
+  rotate: false
+  xy: 181, 8
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Glass_4
+  rotate: false
+  xy: 316, 27
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Glass_5
+  rotate: false
+  xy: 196, 8
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Head_1
+  rotate: false
+  xy: 181, 24
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_2
+  rotate: true
+  xy: 473, 56
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_3
+  rotate: false
+  xy: 208, 24
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_4
+  rotate: false
+  xy: 235, 24
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_5
+  rotate: false
+  xy: 262, 24
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_6
+  rotate: false
+  xy: 289, 24
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Jet
+  rotate: false
+  xy: 237, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 473, 83
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+PitongTip_1
+  rotate: true
+  xy: 473, 47
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+PitongTip_2
+  rotate: true
+  xy: 237, 15
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+PitongTip_3
+  rotate: true
+  xy: 370, 34
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+PitongTip_4
+  rotate: true
+  xy: 253, 15
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+PitongTip_5
+  rotate: true
+  xy: 248, 6
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+Pitong_ 1
+  rotate: false
+  xy: 357, 29
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Pitong_2
+  rotate: false
+  xy: 331, 29
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Pitong_3
+  rotate: false
+  xy: 211, 10
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Pitong_4
+  rotate: false
+  xy: 344, 29
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Pitong_5
+  rotate: false
+  xy: 224, 10
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Side
+  rotate: false
+  xy: 158, 8
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+SkyXRanger_Turnright_0
+  rotate: false
+  xy: 2, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SkyXRanger_Turnright_1
+  rotate: false
+  xy: 87, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SkyXRanger_Turnright_2
+  rotate: false
+  xy: 172, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SkyXRanger_Turnright_3
+  rotate: false
+  xy: 257, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SkyXRanger_Turnright_4
+  rotate: false
+  xy: 342, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SmallWing
+  rotate: true
+  xy: 454, 47
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+WingBase
+  rotate: false
+  xy: 427, 43
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Wing_1
+  rotate: true
+  xy: 2, 2
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+Wing_2
+  rotate: true
+  xy: 41, 2
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+Wing_3
+  rotate: true
+  xy: 80, 2
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+Wing_4
+  rotate: true
+  xy: 119, 2
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+Wing_5
+  rotate: true
+  xy: 473, 110
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1

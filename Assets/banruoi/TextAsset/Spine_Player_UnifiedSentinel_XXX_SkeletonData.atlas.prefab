@@ -1,0 +1,286 @@
+
+Spine_Player_UnifiedSentinel_XXX_SkeletonData.png
+size: 680,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 642, 4
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 561, 2
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 664, 44
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 561, 22
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 634, 28
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_TurnR1
+  rotate: true
+  xy: 2, 2
+  size: 76, 70
+  orig: 83, 83
+  offset: 3, 6
+  index: -1
+Unified_Sentinel_XXX_TurnR2
+  rotate: true
+  xy: 74, 6
+  size: 72, 70
+  orig: 83, 83
+  offset: 4, 6
+  index: -1
+Unified_Sentinel_XXX_TurnR3
+  rotate: false
+  xy: 146, 8
+  size: 66, 70
+  orig: 83, 83
+  offset: 6, 6
+  index: -1
+Unified_Sentinel_XXX_TurnR4
+  rotate: false
+  xy: 214, 8
+  size: 62, 70
+  orig: 83, 83
+  offset: 7, 6
+  index: -1
+Unified_Sentinel_XXX_TurnR5
+  rotate: false
+  xy: 278, 8
+  size: 58, 70
+  orig: 83, 83
+  offset: 9, 6
+  index: -1
+Unified_Sentinel_XXX_canh to1
+  rotate: true
+  xy: 561, 9
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canh to2
+  rotate: true
+  xy: 582, 30
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canh to3
+  rotate: true
+  xy: 592, 17
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canh to4
+  rotate: true
+  xy: 592, 4
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canh to5
+  rotate: false
+  xy: 595, 49
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canh tren_1
+  rotate: true
+  xy: 608, 47
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canh tren_2
+  rotate: true
+  xy: 613, 33
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canh tren_3
+  rotate: true
+  xy: 629, 47
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canh tren_4
+  rotate: false
+  xy: 665, 59
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canh tren_5
+  rotate: false
+  xy: 650, 40
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canhduoi1_1
+  rotate: false
+  xy: 608, 61
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canhduoi1_2
+  rotate: false
+  xy: 627, 61
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canhduoi1_3
+  rotate: false
+  xy: 646, 61
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canhduoi1_4
+  rotate: false
+  xy: 649, 21
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_canhduoi1_5
+  rotate: false
+  xy: 623, 9
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_sung to1
+  rotate: true
+  xy: 338, 4
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_sung to2
+  rotate: true
+  xy: 369, 4
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_sung to3
+  rotate: true
+  xy: 400, 4
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_sung to4
+  rotate: true
+  xy: 431, 4
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_sung to5
+  rotate: true
+  xy: 462, 4
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_than duoi_1
+  rotate: true
+  xy: 338, 29
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_than duoi_2
+  rotate: true
+  xy: 369, 29
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_than duoi_3
+  rotate: true
+  xy: 400, 29
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_than duoi_4
+  rotate: true
+  xy: 431, 29
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_than duoi_5
+  rotate: true
+  xy: 462, 29
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_than tren_1
+  rotate: true
+  xy: 493, 43
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_than tren_2
+  rotate: true
+  xy: 493, 6
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_than tren_3
+  rotate: true
+  xy: 527, 43
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_than tren_4
+  rotate: true
+  xy: 527, 6
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_XXX_than tren_5
+  rotate: true
+  xy: 561, 43
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1

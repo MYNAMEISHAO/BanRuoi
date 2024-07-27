@@ -1,0 +1,447 @@
+
+Spine_Player_Orion_Tier3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackWing1
+  rotate: false
+  xy: 192, 431
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+BackWing2
+  rotate: true
+  xy: 218, 449
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+BackWing3
+  rotate: true
+  xy: 237, 449
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+BackWing4
+  rotate: true
+  xy: 256, 449
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+BackWing5
+  rotate: false
+  xy: 61, 234
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 61, 293
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 198, 467
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: false
+  xy: 2, 146
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Body4
+  rotate: false
+  xy: 243, 467
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Body5
+  rotate: false
+  xy: 2, 101
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Body_Jet
+  rotate: false
+  xy: 175, 373
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Body_Pittong
+  rotate: true
+  xy: 480, 471
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Body_Top
+  rotate: false
+  xy: 275, 447
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+Body_TopDetail
+  rotate: true
+  xy: 61, 205
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+FrontWing_Base
+  rotate: false
+  xy: 106, 270
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+FrontWing_Base2
+  rotate: false
+  xy: 2, 33
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+FrontWing_Base3
+  rotate: false
+  xy: 2, 5
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+FrontWing_Base4
+  rotate: false
+  xy: 131, 397
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+FrontWing_Base5
+  rotate: false
+  xy: 131, 369
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+FrontWing_Down
+  rotate: true
+  xy: 26, 38
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+FrontWing_Up
+  rotate: false
+  xy: 379, 482
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+FrontWing_Up2
+  rotate: false
+  xy: 403, 482
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+FrontWing_Up3
+  rotate: false
+  xy: 427, 482
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+FrontWing_Up4
+  rotate: false
+  xy: 451, 482
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+FrontWing_Up5
+  rotate: false
+  xy: 475, 482
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+MidRock1
+  rotate: false
+  xy: 83, 255
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+MidRock2
+  rotate: false
+  xy: 310, 474
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+MidRock3
+  rotate: false
+  xy: 24, 63
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+MidRock4
+  rotate: false
+  xy: 333, 474
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+MidRock5
+  rotate: false
+  xy: 356, 474
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+MidRock_Light
+  rotate: false
+  xy: 2, 191
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+MidWing1
+  rotate: false
+  xy: 400, 471
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+MidWing2
+  rotate: false
+  xy: 420, 471
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+MidWing3
+  rotate: false
+  xy: 440, 471
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+MidWing4
+  rotate: false
+  xy: 460, 471
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+MidWing5
+  rotate: true
+  xy: 40, 18
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+MidWing_Base
+  rotate: false
+  xy: 198, 450
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Orion_TurnRight1
+  rotate: false
+  xy: 2, 425
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+Orion_TurnRight2
+  rotate: false
+  xy: 2, 338
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+Orion_TurnRight3
+  rotate: false
+  xy: 84, 425
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+Orion_TurnRight4
+  rotate: false
+  xy: 2, 251
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+Orion_TurnRight5
+  rotate: false
+  xy: 76, 338
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+Ring1
+  rotate: false
+  xy: 499, 489
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+Ring2
+  rotate: false
+  xy: 499, 466
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+Ring3
+  rotate: false
+  xy: 48, 228
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+Ring4
+  rotate: true
+  xy: 106, 257
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+Ring5
+  rotate: false
+  xy: 48, 205
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+Ring_Base
+  rotate: false
+  xy: 26, 12
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+Ring_Base2
+  rotate: false
+  xy: 40, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Ring_Base3
+  rotate: false
+  xy: 379, 470
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+SideRock1
+  rotate: true
+  xy: 152, 428
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+SideRock2
+  rotate: false
+  xy: 61, 253
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+SideRock3
+  rotate: false
+  xy: 106, 298
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+SideRock4
+  rotate: false
+  xy: 288, 472
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+SideRock5
+  rotate: false
+  xy: 2, 61
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+SideRock_Light
+  rotate: false
+  xy: 152, 450
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Tail1
+  rotate: false
+  xy: 61, 214
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Tail2
+  rotate: false
+  xy: 155, 408
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Tail3
+  rotate: false
+  xy: 155, 388
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Tail4
+  rotate: false
+  xy: 171, 408
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Tail5
+  rotate: false
+  xy: 171, 388
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Tail_Base
+  rotate: true
+  xy: 155, 372
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+Wing_Base
+  rotate: true
+  xy: 131, 343
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1

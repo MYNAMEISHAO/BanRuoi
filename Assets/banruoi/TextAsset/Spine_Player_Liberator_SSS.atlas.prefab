@@ -1,0 +1,265 @@
+
+Spine_Player_Liberator_SSS.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Body_1
+  rotate: true
+  xy: 2, 25
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: true
+  xy: 2, 2
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: false
+  xy: 347, 78
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Body_4
+  rotate: true
+  xy: 52, 25
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Body_5
+  rotate: true
+  xy: 52, 2
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Head_1
+  rotate: false
+  xy: 248, 29
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_2
+  rotate: false
+  xy: 462, 69
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_3
+  rotate: false
+  xy: 275, 29
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_4
+  rotate: false
+  xy: 302, 29
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_5
+  rotate: true
+  xy: 248, 2
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Pittong_1
+  rotate: false
+  xy: 489, 72
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Pittong_2
+  rotate: false
+  xy: 329, 32
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Pittong_3
+  rotate: false
+  xy: 347, 35
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Pittong_4
+  rotate: false
+  xy: 284, 13
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Pittong_5
+  rotate: false
+  xy: 302, 13
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+SkyXRanger_SSS_Canhduoi_0
+  rotate: true
+  xy: 267, 2
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+SkyXRanger_SSS_Than_0
+  rotate: true
+  xy: 207, 5
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+SkyXRanger_SSS_Turnright_0
+  rotate: false
+  xy: 2, 48
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+SkyXRanger_SSS_Turnright_1
+  rotate: false
+  xy: 77, 48
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+SkyXRanger_SSS_Turnright_2
+  rotate: false
+  xy: 149, 48
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+SkyXRanger_SSS_Turnright_3
+  rotate: false
+  xy: 218, 48
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+SkyXRanger_SSS_Turnright_4
+  rotate: false
+  xy: 284, 48
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+SmallWing_1
+  rotate: false
+  xy: 347, 51
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+SmallWing_2
+  rotate: false
+  xy: 370, 61
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+SmallWing_3
+  rotate: false
+  xy: 393, 61
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+SmallWing_4
+  rotate: false
+  xy: 416, 61
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+SmallWing_5
+  rotate: false
+  xy: 439, 61
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+WingBase_1
+  rotate: true
+  xy: 166, 28
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+WingBase_2
+  rotate: true
+  xy: 466, 108
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+WingBase_3
+  rotate: true
+  xy: 166, 8
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+WingBase_4
+  rotate: true
+  xy: 207, 28
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+WingBase_5
+  rotate: true
+  xy: 466, 88
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+Wing_1
+  rotate: false
+  xy: 370, 88
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Wing_2
+  rotate: false
+  xy: 102, 8
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Wing_3
+  rotate: false
+  xy: 402, 88
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Wing_4
+  rotate: false
+  xy: 134, 8
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Wing_5
+  rotate: false
+  xy: 434, 88
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1

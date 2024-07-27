@@ -1,0 +1,265 @@
+
+piggy_bank.png
+size: 884,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pig_1/Body
+  rotate: true
+  xy: 184, 174
+  size: 220, 176
+  orig: 220, 176
+  offset: 0, 0
+  index: -1
+pig_1/Tail
+  rotate: true
+  xy: 681, 105
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+pig_1/leg_1
+  rotate: false
+  xy: 771, 20
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+pig_1/leg_2
+  rotate: false
+  xy: 681, 132
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+pig_1/leg_3
+  rotate: false
+  xy: 714, 18
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+pig_2/Body
+  rotate: false
+  xy: 2, 13
+  size: 187, 146
+  orig: 187, 146
+  offset: 0, 0
+  index: -1
+pig_2/Head
+  rotate: false
+  xy: 191, 12
+  size: 184, 160
+  orig: 184, 160
+  offset: 0, 0
+  index: -1
+pig_2/Tail
+  rotate: true
+  xy: 681, 166
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+pig_2/leg_1
+  rotate: false
+  xy: 822, 165
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+pig_2/leg_2
+  rotate: true
+  xy: 840, 323
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+pig_2/leg_3
+  rotate: true
+  xy: 587, 2
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+pig_2/leg_4
+  rotate: true
+  xy: 799, 21
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+pig_2/ring
+  rotate: true
+  xy: 851, 39
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+pig_3/Body
+  rotate: false
+  xy: 377, 2
+  size: 208, 171
+  orig: 208, 171
+  offset: 0, 0
+  index: -1
+pig_3/Head
+  rotate: true
+  xy: 549, 187
+  size: 207, 174
+  orig: 207, 174
+  offset: 0, 0
+  index: -1
+pig_3/Tail
+  rotate: true
+  xy: 840, 371
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+pig_3/leg_1
+  rotate: true
+  xy: 587, 124
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1
+pig_3/leg_2
+  rotate: true
+  xy: 664, 14
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+pig_3/leg_3
+  rotate: true
+  xy: 725, 176
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+pig_3/leg_4
+  rotate: true
+  xy: 742, 20
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+pig_3/money
+  rotate: true
+  xy: 811, 114
+  size: 49, 71
+  orig: 50, 72
+  offset: 0, 1
+  index: -1
+pig_3/pop
+  rotate: true
+  xy: 717, 118
+  size: 56, 92
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+pig_3/ring
+  rotate: true
+  xy: 846, 9
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+pig_4/Body
+  rotate: true
+  xy: 2, 161
+  size: 233, 180
+  orig: 233, 180
+  offset: 0, 0
+  index: -1
+pig_4/Head
+  rotate: true
+  xy: 362, 175
+  size: 219, 185
+  orig: 219, 185
+  offset: 0, 0
+  index: -1
+pig_4/Tail
+  rotate: true
+  xy: 840, 300
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+pig_4/crown
+  rotate: false
+  xy: 725, 310
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+pig_4/flare1_tc_512
+  rotate: false
+  xy: 823, 35
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+pig_4/leg_1
+  rotate: true
+  xy: 725, 246
+  size: 62, 97
+  orig: 62, 97
+  offset: 0, 0
+  index: -1
+pig_4/leg_2
+  rotate: false
+  xy: 824, 239
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+pig_4/leg_3
+  rotate: true
+  xy: 732, 50
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+pig_4/leg_4
+  rotate: true
+  xy: 703, 72
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+pig_4/money
+  rotate: true
+  xy: 810, 63
+  size: 49, 71
+  orig: 50, 72
+  offset: 0, 1
+  index: -1
+pig_4/pop
+  rotate: true
+  xy: 587, 66
+  size: 56, 92
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+pig_4/ring
+  rotate: true
+  xy: 823, 8
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+pig_4/v1
+  rotate: true
+  xy: 2, 3
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: -1
+pig_4/v2
+  rotate: false
+  xy: 681, 71
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1

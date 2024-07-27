@@ -1,0 +1,146 @@
+
+Spine_Plane_Eporion_CBA_Tier2_SkeletonData.png
+size: 104,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eporion_Tier2_CBA_turn_01
+  rotate: true
+  xy: 2, 271
+  size: 69, 70
+  orig: 83, 83
+  offset: 5, 7
+  index: -1
+Eporion_Tier2_CBA_turn_02
+  rotate: true
+  xy: 2, 203
+  size: 66, 70
+  orig: 83, 83
+  offset: 6, 7
+  index: -1
+Eporion_Tier2_CBA_turn_03
+  rotate: true
+  xy: 2, 459
+  size: 60, 71
+  orig: 83, 83
+  offset: 7, 6
+  index: -1
+Eporion_Tier2_CBA_turn_04
+  rotate: true
+  xy: 2, 399
+  size: 58, 71
+  orig: 83, 83
+  offset: 8, 6
+  index: -1
+Eporion_Tier2_CBA_turn_05
+  rotate: true
+  xy: 2, 342
+  size: 55, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+canh_duoi_01
+  rotate: false
+  xy: 75, 497
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+canh_duoi_02
+  rotate: false
+  xy: 75, 473
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+canh_duoi_03
+  rotate: false
+  xy: 75, 449
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+canh_duoi_04
+  rotate: false
+  xy: 75, 425
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+canh_duoi_05
+  rotate: false
+  xy: 75, 401
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+canh_tren_01
+  rotate: false
+  xy: 75, 356
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+canh_tren_02
+  rotate: false
+  xy: 75, 311
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+canh_tren_03
+  rotate: false
+  xy: 74, 266
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+canh_tren_04
+  rotate: false
+  xy: 74, 221
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+canh_tren_05
+  rotate: false
+  xy: 74, 176
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+than_01
+  rotate: false
+  xy: 2, 157
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+than_02
+  rotate: false
+  xy: 2, 111
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+than_03
+  rotate: false
+  xy: 2, 65
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+than_04
+  rotate: true
+  xy: 2, 2
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+than_05
+  rotate: true
+  xy: 48, 2
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1

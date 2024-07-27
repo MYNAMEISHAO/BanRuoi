@@ -1,0 +1,629 @@
+
+Spine_Lone_Sentinel_Tier1_SkeletonData.png
+size: 824,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A/Lone Sentinel_A_Idle1
+  rotate: false
+  xy: 347, 2
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+A/Lone Sentinel_A_Idle2
+  rotate: false
+  xy: 694, 365
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+A/Lone Sentinel_A_Idle3
+  rotate: false
+  xy: 417, 182
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+A/Lone Sentinel_A_Idle4
+  rotate: false
+  xy: 486, 185
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+A/Lone Sentinel_A_Idle5
+  rotate: false
+  xy: 416, 123
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+A/Lone Sentinel_A_TurnR1
+  rotate: true
+  xy: 546, 58
+  size: 63, 57
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+A/Lone Sentinel_A_TurnR2
+  rotate: false
+  xy: 669, 123
+  size: 56, 57
+  orig: 83, 83
+  offset: 12, 8
+  index: -1
+A/Lone Sentinel_A_TurnR3
+  rotate: false
+  xy: 718, 64
+  size: 49, 57
+  orig: 83, 83
+  offset: 16, 8
+  index: -1
+A/Lone Sentinel_A_TurnR4
+  rotate: false
+  xy: 769, 64
+  size: 41, 57
+  orig: 83, 83
+  offset: 19, 8
+  index: -1
+A/Lone Sentinel_A_TurnR5
+  rotate: false
+  xy: 780, 193
+  size: 36, 57
+  orig: 83, 83
+  offset: 21, 8
+  index: -1
+B/Lone Sentinel_B_Idle1
+  rotate: false
+  xy: 278, 117
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+B/Lone Sentinel_B_Idle2
+  rotate: false
+  xy: 347, 179
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+B/Lone Sentinel_B_Idle3
+  rotate: false
+  xy: 417, 241
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+B/Lone Sentinel_B_Idle4
+  rotate: false
+  xy: 486, 303
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+B/Lone Sentinel_B_Idle5
+  rotate: false
+  xy: 556, 365
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+B/Lone Sentinel_B_TurnR1
+  rotate: false
+  xy: 416, 2
+  size: 63, 57
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+B/Lone Sentinel_B_TurnR2
+  rotate: false
+  xy: 679, 182
+  size: 56, 57
+  orig: 83, 83
+  offset: 12, 8
+  index: -1
+B/Lone Sentinel_B_TurnR3
+  rotate: false
+  xy: 670, 2
+  size: 49, 57
+  orig: 83, 83
+  offset: 16, 8
+  index: -1
+B/Lone Sentinel_B_TurnR4
+  rotate: false
+  xy: 737, 182
+  size: 41, 57
+  orig: 83, 83
+  offset: 19, 8
+  index: -1
+B/Lone Sentinel_B_TurnR5
+  rotate: false
+  xy: 778, 123
+  size: 36, 57
+  orig: 83, 83
+  offset: 21, 8
+  index: -1
+C/Lone Sentinel_C_Idle1
+  rotate: false
+  xy: 278, 58
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+C/Lone Sentinel_C_Idle2
+  rotate: false
+  xy: 347, 120
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+C/Lone Sentinel_C_Idle3
+  rotate: false
+  xy: 486, 244
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+C/Lone Sentinel_C_Idle4
+  rotate: false
+  xy: 625, 365
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+C/Lone Sentinel_C_Idle5
+  rotate: false
+  xy: 347, 61
+  size: 67, 57
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+C/Lone Sentinel_C_TurnR1
+  rotate: false
+  xy: 481, 2
+  size: 63, 57
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+C/Lone Sentinel_C_TurnR2
+  rotate: false
+  xy: 611, 123
+  size: 56, 57
+  orig: 83, 83
+  offset: 12, 8
+  index: -1
+C/Lone Sentinel_C_TurnR3
+  rotate: false
+  xy: 727, 123
+  size: 49, 57
+  orig: 83, 83
+  offset: 16, 8
+  index: -1
+C/Lone Sentinel_C_TurnR4
+  rotate: true
+  xy: 765, 21
+  size: 41, 57
+  orig: 83, 83
+  offset: 19, 8
+  index: -1
+C/Lone Sentinel_C_TurnR5
+  rotate: false
+  xy: 775, 252
+  size: 36, 57
+  orig: 83, 83
+  offset: 21, 8
+  index: -1
+Lone Sentinel_S/Lone Sentinel_S_Idle1
+  rotate: false
+  xy: 72, 300
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_S/Lone Sentinel_S_Idle2
+  rotate: false
+  xy: 142, 362
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_S/Lone Sentinel_S_Idle3
+  rotate: false
+  xy: 2, 176
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_S/Lone Sentinel_S_Idle4
+  rotate: false
+  xy: 72, 238
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_S/Lone Sentinel_S_Idle5
+  rotate: false
+  xy: 141, 300
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_S/Lone Sentinel_S_TurnR1
+  rotate: false
+  xy: 2, 362
+  size: 68, 60
+  orig: 83, 83
+  offset: 7, 8
+  index: -1
+Lone Sentinel_S/Lone Sentinel_S_TurnR2
+  rotate: false
+  xy: 482, 61
+  size: 62, 60
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+Lone Sentinel_S/Lone Sentinel_S_TurnR3
+  rotate: false
+  xy: 552, 123
+  size: 57, 60
+  orig: 83, 83
+  offset: 11, 8
+  index: -1
+Lone Sentinel_S/Lone Sentinel_S_TurnR4
+  rotate: true
+  xy: 617, 190
+  size: 49, 60
+  orig: 83, 83
+  offset: 14, 8
+  index: -1
+Lone Sentinel_S/Lone Sentinel_S_TurnR5
+  rotate: true
+  xy: 188, 7
+  size: 43, 60
+  orig: 83, 83
+  offset: 18, 8
+  index: -1
+Lone Sentinel_SS/Lone Sentinel_SS_Idle1
+  rotate: false
+  xy: 211, 362
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_SS/Lone Sentinel_SS_Idle2
+  rotate: false
+  xy: 2, 114
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_SS/Lone Sentinel_SS_Idle3
+  rotate: false
+  xy: 71, 176
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_SS/Lone Sentinel_SS_Idle4
+  rotate: false
+  xy: 141, 238
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_SS/Lone Sentinel_SS_Idle5
+  rotate: false
+  xy: 210, 300
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_SS/Lone Sentinel_SS_TurnR1
+  rotate: false
+  xy: 2, 300
+  size: 68, 60
+  orig: 83, 83
+  offset: 7, 8
+  index: -1
+Lone Sentinel_SS/Lone Sentinel_SS_TurnR2
+  rotate: true
+  xy: 605, 59
+  size: 62, 60
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+Lone Sentinel_SS/Lone Sentinel_SS_TurnR3
+  rotate: false
+  xy: 555, 241
+  size: 57, 60
+  orig: 83, 83
+  offset: 11, 8
+  index: -1
+Lone Sentinel_SS/Lone Sentinel_SS_TurnR4
+  rotate: false
+  xy: 667, 61
+  size: 49, 60
+  orig: 83, 83
+  offset: 14, 8
+  index: -1
+Lone Sentinel_SS/Lone Sentinel_SS_TurnR5
+  rotate: true
+  xy: 250, 7
+  size: 43, 60
+  orig: 83, 83
+  offset: 18, 8
+  index: -1
+Lone Sentinel_SSS/Lone Sentinel_SSS_Idle1
+  rotate: false
+  xy: 280, 362
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_SSS/Lone Sentinel_SSS_Idle2
+  rotate: false
+  xy: 2, 52
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_SSS/Lone Sentinel_SSS_Idle3
+  rotate: false
+  xy: 71, 114
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_SSS/Lone Sentinel_SSS_Idle4
+  rotate: false
+  xy: 140, 176
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_SSS/Lone Sentinel_SSS_Idle5
+  rotate: false
+  xy: 210, 238
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_SSS/Lone Sentinel_SSS_TurnR1
+  rotate: false
+  xy: 72, 362
+  size: 68, 60
+  orig: 83, 83
+  offset: 7, 8
+  index: -1
+Lone Sentinel_SSS/Lone Sentinel_SSS_TurnR2
+  rotate: false
+  xy: 556, 303
+  size: 62, 60
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+Lone Sentinel_SSS/Lone Sentinel_SSS_TurnR3
+  rotate: false
+  xy: 614, 241
+  size: 57, 60
+  orig: 83, 83
+  offset: 11, 8
+  index: -1
+Lone Sentinel_SSS/Lone Sentinel_SSS_TurnR4
+  rotate: true
+  xy: 744, 311
+  size: 49, 60
+  orig: 83, 83
+  offset: 14, 8
+  index: -1
+Lone Sentinel_X/Lone Sentinel_X_Idle1
+  rotate: false
+  xy: 279, 300
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_X/Lone Sentinel_X_Idle2
+  rotate: false
+  xy: 349, 362
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_X/Lone Sentinel_X_Idle3
+  rotate: false
+  xy: 71, 52
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_X/Lone Sentinel_X_Idle4
+  rotate: false
+  xy: 140, 114
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_X/Lone Sentinel_X_Idle5
+  rotate: false
+  xy: 209, 176
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_X/Lone Sentinel_X_TurnR1
+  rotate: false
+  xy: 416, 61
+  size: 64, 60
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+Lone Sentinel_X/Lone Sentinel_X_TurnR2
+  rotate: false
+  xy: 763, 362
+  size: 59, 60
+  orig: 83, 83
+  offset: 10, 8
+  index: -1
+Lone Sentinel_X/Lone Sentinel_X_TurnR3
+  rotate: true
+  xy: 546, 4
+  size: 52, 60
+  orig: 83, 83
+  offset: 12, 8
+  index: -1
+Lone Sentinel_X/Lone Sentinel_X_TurnR4
+  rotate: true
+  xy: 2, 4
+  size: 46, 60
+  orig: 83, 83
+  offset: 15, 8
+  index: -1
+Lone Sentinel_X/Lone Sentinel_X_TurnR5
+  rotate: false
+  xy: 731, 241
+  size: 42, 60
+  orig: 83, 83
+  offset: 17, 8
+  index: -1
+Lone Sentinel_XX/Lone Sentinel_XX_Idle1
+  rotate: false
+  xy: 279, 238
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_XX/Lone Sentinel_XX_Idle2
+  rotate: false
+  xy: 348, 300
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_XX/Lone Sentinel_XX_Idle3
+  rotate: false
+  xy: 418, 362
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_XX/Lone Sentinel_XX_Idle4
+  rotate: false
+  xy: 140, 52
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_XX/Lone Sentinel_XX_Idle5
+  rotate: false
+  xy: 209, 114
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_XX/Lone Sentinel_XX_TurnR1
+  rotate: false
+  xy: 486, 123
+  size: 64, 60
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+Lone Sentinel_XX/Lone Sentinel_XX_TurnR2
+  rotate: false
+  xy: 683, 303
+  size: 59, 60
+  orig: 83, 83
+  offset: 10, 8
+  index: -1
+Lone Sentinel_XX/Lone Sentinel_XX_TurnR3
+  rotate: true
+  xy: 608, 5
+  size: 52, 60
+  orig: 83, 83
+  offset: 12, 8
+  index: -1
+Lone Sentinel_XX/Lone Sentinel_XX_TurnR4
+  rotate: true
+  xy: 64, 4
+  size: 46, 60
+  orig: 83, 83
+  offset: 15, 8
+  index: -1
+Lone Sentinel_XX/Lone Sentinel_XX_TurnR5
+  rotate: false
+  xy: 721, 2
+  size: 42, 60
+  orig: 83, 83
+  offset: 17, 8
+  index: -1
+Lone Sentinel_XXX/Lone Sentinel_XXX_Idle1
+  rotate: false
+  xy: 278, 176
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_XXX/Lone Sentinel_XXX_Idle2
+  rotate: false
+  xy: 348, 238
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_XXX/Lone Sentinel_XXX_Idle3
+  rotate: false
+  xy: 417, 300
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_XXX/Lone Sentinel_XXX_Idle4
+  rotate: false
+  xy: 487, 362
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_XXX/Lone Sentinel_XXX_Idle5
+  rotate: false
+  xy: 209, 52
+  size: 67, 60
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Lone Sentinel_XXX/Lone Sentinel_XXX_TurnR1
+  rotate: false
+  xy: 2, 238
+  size: 68, 60
+  orig: 83, 83
+  offset: 7, 8
+  index: -1
+Lone Sentinel_XXX/Lone Sentinel_XXX_TurnR2
+  rotate: false
+  xy: 620, 303
+  size: 61, 60
+  orig: 83, 83
+  offset: 9, 8
+  index: -1
+Lone Sentinel_XXX/Lone Sentinel_XXX_TurnR3
+  rotate: false
+  xy: 673, 241
+  size: 56, 60
+  orig: 83, 83
+  offset: 10, 8
+  index: -1
+Lone Sentinel_XXX/Lone Sentinel_XXX_TurnR4
+  rotate: true
+  xy: 555, 188
+  size: 51, 60
+  orig: 83, 83
+  offset: 12, 8
+  index: -1
+Lone Sentinel_XXX/Lone Sentinel_XXX_TurnR5
+  rotate: true
+  xy: 126, 4
+  size: 46, 60
+  orig: 83, 83
+  offset: 14, 8
+  index: -1

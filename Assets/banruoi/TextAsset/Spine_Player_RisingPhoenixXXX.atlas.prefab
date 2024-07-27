@@ -1,0 +1,356 @@
+
+Spine_Player_RisingPhoenixXXX.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BackWing_0
+  rotate: false
+  xy: 555, 102
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+BackWing_1
+  rotate: false
+  xy: 260, 17
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+BackWing_2
+  rotate: false
+  xy: 580, 102
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+BackWing_3
+  rotate: false
+  xy: 285, 17
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+BackWing_4
+  rotate: false
+  xy: 605, 102
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+BodyGun
+  rotate: false
+  xy: 392, 34
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+BodyGun_Base
+  rotate: false
+  xy: 520, 48
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+BodyWing_0
+  rotate: false
+  xy: 350, 32
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+BodyWing_1
+  rotate: false
+  xy: 670, 117
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+BodyWing_2
+  rotate: false
+  xy: 557, 69
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+BodyWing_3
+  rotate: false
+  xy: 575, 72
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+BodyWing_4
+  rotate: false
+  xy: 611, 91
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Body_0
+  rotate: true
+  xy: 2, 8
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: false
+  xy: 427, 74
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: true
+  xy: 56, 8
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: false
+  xy: 462, 74
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Body_4
+  rotate: true
+  xy: 110, 8
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+CaptainGXValkyrie_XXX_Turnright_0
+  rotate: false
+  xy: 2, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+CaptainGXValkyrie_XXX_Turnright_1
+  rotate: false
+  xy: 172, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+CaptainGXValkyrie_XXX_Turnright_2
+  rotate: false
+  xy: 257, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+CaptainGXValkyrie_XXX_Turnright_3
+  rotate: false
+  xy: 342, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+CaptainGXValkyrie_XXX_Turnright_4
+  rotate: false
+  xy: 87, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+FrontWing_0
+  rotate: true
+  xy: 427, 45
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+FrontWing_1
+  rotate: false
+  xy: 497, 80
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+FrontWing_2
+  rotate: true
+  xy: 164, 14
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+FrontWing_3
+  rotate: false
+  xy: 526, 80
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+FrontWing_4
+  rotate: true
+  xy: 212, 14
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+FrontWing_Detail1_0
+  rotate: false
+  xy: 497, 58
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+FrontWing_Detail1_1
+  rotate: false
+  xy: 555, 80
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+FrontWing_Detail1_2
+  rotate: false
+  xy: 310, 21
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+FrontWing_Detail1_3
+  rotate: false
+  xy: 630, 106
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+FrontWing_Detail1_4
+  rotate: false
+  xy: 517, 58
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+FrontWing_Detail_0
+  rotate: false
+  xy: 595, 86
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+FrontWing_Detail_3
+  rotate: false
+  xy: 595, 86
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+FrontWing_Detail_4
+  rotate: false
+  xy: 595, 86
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+FrontWing_Detail_1
+  rotate: false
+  xy: 368, 29
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+FrontWing_Detail_2
+  rotate: false
+  xy: 330, 8
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+FrontWing_Gun
+  rotate: true
+  xy: 670, 109
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+Point
+  rotate: true
+  xy: 497, 47
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+Point_Base
+  rotate: true
+  xy: 475, 45
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+TailWingBig_0
+  rotate: false
+  xy: 310, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+TailWingBig_1
+  rotate: false
+  xy: 575, 83
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+TailWingBig_2
+  rotate: false
+  xy: 330, 24
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+TailWingBig_3
+  rotate: false
+  xy: 650, 109
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+TailWingBig_4
+  rotate: false
+  xy: 537, 61
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+TailWingSmall_0
+  rotate: true
+  xy: 688, 118
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+TailWingSmall_1
+  rotate: false
+  xy: 382, 29
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+TailWingSmall_2
+  rotate: false
+  xy: 382, 29
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+TailWingSmall_3
+  rotate: false
+  xy: 382, 29
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+TailWingSmall_4
+  rotate: true
+  xy: 702, 118
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1

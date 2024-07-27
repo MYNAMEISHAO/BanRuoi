@@ -1,0 +1,265 @@
+
+Spine_Player_Orion_CBA.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackWing1
+  rotate: true
+  xy: 99, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+BackWing2
+  rotate: true
+  xy: 114, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+BackWing3
+  rotate: true
+  xy: 129, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+BackWing4
+  rotate: true
+  xy: 144, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+BackWing5
+  rotate: true
+  xy: 159, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 187, 211
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 141, 149
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: false
+  xy: 123, 104
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Body4
+  rotate: false
+  xy: 104, 43
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Body5
+  rotate: false
+  xy: 168, 104
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Body_Jet
+  rotate: false
+  xy: 123, 88
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Body_Pittong
+  rotate: false
+  xy: 136, 88
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Body_Top
+  rotate: true
+  xy: 230, 150
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+FrontWing1
+  rotate: true
+  xy: 142, 20
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+FrontWing2
+  rotate: false
+  xy: 195, 75
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+FrontWing3
+  rotate: false
+  xy: 230, 162
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+FrontWing4
+  rotate: false
+  xy: 218, 82
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+FrontWing5
+  rotate: true
+  xy: 171, 20
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+MidRock1
+  rotate: false
+  xy: 213, 111
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+MidRock2
+  rotate: true
+  xy: 104, 20
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+MidRock3
+  rotate: false
+  xy: 149, 66
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+MidRock4
+  rotate: false
+  xy: 172, 66
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+MidRock5
+  rotate: true
+  xy: 149, 43
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+MidRock_Light
+  rotate: false
+  xy: 59, 28
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+Orion_TurnRight1
+  rotate: false
+  xy: 2, 172
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+Orion_TurnRight2
+  rotate: false
+  xy: 2, 88
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+Orion_TurnRight3
+  rotate: false
+  xy: 77, 172
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+Orion_TurnRight4
+  rotate: false
+  xy: 2, 4
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+Orion_TurnRight5
+  rotate: false
+  xy: 72, 88
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+SideRock1
+  rotate: true
+  xy: 59, 6
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+SideRock2
+  rotate: false
+  xy: 232, 216
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+SideRock3
+  rotate: true
+  xy: 187, 189
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+SideRock4
+  rotate: false
+  xy: 186, 149
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+SideRock5
+  rotate: false
+  xy: 208, 149
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+SideRock_Light
+  rotate: false
+  xy: 141, 194
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+Wing_Base
+  rotate: true
+  xy: 236, 191
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Wing_BaseDown
+  rotate: true
+  xy: 123, 152
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

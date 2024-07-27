@@ -1,0 +1,272 @@
+
+Spine_Player_Heimdall_tier3.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 820, 51
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 362, 22
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 743, 21
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 743, 21
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 765, 26
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 842, 51
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Canh1_l
+  rotate: true
+  xy: 581, 9
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+Canh2
+  rotate: true
+  xy: 513, 9
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+Canh3
+  rotate: false
+  xy: 867, 72
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+Canh4
+  rotate: true
+  xy: 252, 10
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+Canh5
+  rotate: true
+  xy: 637, 9
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+Canh6
+  rotate: false
+  xy: 900, 72
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+Heimdall_turnright1
+  rotate: false
+  xy: 2, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Heimdall_turnright2
+  rotate: false
+  xy: 87, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Heimdall_turnright3
+  rotate: false
+  xy: 172, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Heimdall_turnright4
+  rotate: false
+  xy: 257, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Heimdall_turnright5
+  rotate: false
+  xy: 342, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Sword1
+  rotate: true
+  xy: 427, 65
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+Sword2
+  rotate: true
+  xy: 427, 2
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+Sword3
+  rotate: false
+  xy: 513, 42
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+Sword4
+  rotate: false
+  xy: 576, 42
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+Sword5
+  rotate: false
+  xy: 639, 42
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+Sword6
+  rotate: false
+  xy: 702, 42
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+Sword_EFX1
+  rotate: true
+  xy: 765, 47
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+Sword_EFX2
+  rotate: true
+  xy: 693, 18
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+Sword_EFX3
+  rotate: false
+  xy: 933, 81
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Sword_EFX4
+  rotate: false
+  xy: 984, 89
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+Sword_EFX5
+  rotate: false
+  xy: 958, 83
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+Sword_EFX6
+  rotate: true
+  xy: 308, 18
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+canh nho1
+  rotate: true
+  xy: 1011, 111
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+canh1_r
+  rotate: false
+  xy: 765, 72
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+canh2_r
+  rotate: true
+  xy: 84, 9
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+canh3_r
+  rotate: false
+  xy: 799, 72
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+canh4_r
+  rotate: true
+  xy: 140, 9
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+canh5_r
+  rotate: false
+  xy: 833, 72
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+canh6_r
+  rotate: true
+  xy: 196, 9
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+than1
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+than2
+  rotate: false
+  xy: 43, 2
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

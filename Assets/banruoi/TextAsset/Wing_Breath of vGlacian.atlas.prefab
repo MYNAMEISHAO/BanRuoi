@@ -1,0 +1,55 @@
+
+Wing_Breath of vGlacian.png
+size: 280,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 20
+  rotate: false
+  xy: 193, 13
+  size: 28, 47
+  orig: 30, 49
+  offset: 1, 1
+  index: -1
+Layer 21
+  rotate: false
+  xy: 111, 8
+  size: 44, 52
+  orig: 46, 54
+  offset: 1, 1
+  index: -1
+Layer 22
+  rotate: false
+  xy: 250, 27
+  size: 25, 33
+  orig: 27, 35
+  offset: 1, 1
+  index: -1
+Layer 26
+  rotate: false
+  xy: 60, 10
+  size: 49, 50
+  orig: 51, 52
+  offset: 1, 1
+  index: -1
+Layer 27
+  rotate: false
+  xy: 157, 9
+  size: 34, 51
+  orig: 36, 53
+  offset: 1, 1
+  index: -1
+Layer 28
+  rotate: false
+  xy: 223, 19
+  size: 25, 41
+  orig: 27, 43
+  offset: 1, 1
+  index: -1
+Swing_1
+  rotate: false
+  xy: 2, 2
+  size: 56, 58
+  orig: 62, 60
+  offset: 5, 1
+  index: -1

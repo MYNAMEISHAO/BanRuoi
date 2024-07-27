@@ -1,0 +1,300 @@
+
+Spine_Player_Liberator_XXX.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Body_1
+  rotate: true
+  xy: 2, 23
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: false
+  xy: 351, 78
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: true
+  xy: 52, 23
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Body_4
+  rotate: false
+  xy: 374, 78
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Body_5
+  rotate: true
+  xy: 102, 23
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Head_1
+  rotate: true
+  xy: 493, 72
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_2
+  rotate: false
+  xy: 2, 4
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_3
+  rotate: false
+  xy: 29, 4
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_4
+  rotate: false
+  xy: 56, 4
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Head_5
+  rotate: false
+  xy: 83, 4
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Jet_1
+  rotate: false
+  xy: 391, 36
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Jet_2
+  rotate: false
+  xy: 391, 36
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Jet_3
+  rotate: false
+  xy: 409, 52
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Jet_4
+  rotate: false
+  xy: 391, 23
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Jet_5
+  rotate: false
+  xy: 420, 52
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Pittong_1
+  rotate: false
+  xy: 110, 7
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Pittong_2
+  rotate: false
+  xy: 451, 72
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Pittong_3
+  rotate: false
+  xy: 128, 7
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Pittong_4
+  rotate: false
+  xy: 469, 72
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Pittong_5
+  rotate: false
+  xy: 391, 49
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Side
+  rotate: false
+  xy: 299, 11
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+SideWing
+  rotate: true
+  xy: 493, 99
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+SkyXRanger_XXX_Turnright_0
+  rotate: false
+  xy: 2, 46
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+SkyXRanger_XXX_Turnright_1
+  rotate: false
+  xy: 77, 46
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+SkyXRanger_XXX_Turnright_2
+  rotate: false
+  xy: 150, 46
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+SkyXRanger_XXX_Turnright_3
+  rotate: false
+  xy: 220, 46
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+SkyXRanger_XXX_Turnright_4
+  rotate: false
+  xy: 288, 46
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+SmallWing_1
+  rotate: false
+  xy: 322, 19
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+SmallWing_2
+  rotate: false
+  xy: 345, 19
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+SmallWing_3
+  rotate: false
+  xy: 368, 19
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+SmallWing_4
+  rotate: true
+  xy: 397, 65
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+SmallWing_5
+  rotate: true
+  xy: 424, 65
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+WingBase_1
+  rotate: true
+  xy: 351, 46
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+WingBase_2
+  rotate: false
+  xy: 397, 88
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+WingBase_3
+  rotate: false
+  xy: 429, 88
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+WingBase_4
+  rotate: false
+  xy: 461, 88
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+WingBase_5
+  rotate: true
+  xy: 152, 14
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Wing_1
+  rotate: true
+  xy: 192, 24
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+Wing_2
+  rotate: true
+  xy: 192, 2
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+Wing_3
+  rotate: false
+  xy: 233, 5
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+Wing_4
+  rotate: false
+  xy: 255, 5
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+Wing_5
+  rotate: false
+  xy: 277, 5
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1

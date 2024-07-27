@@ -1,0 +1,76 @@
+
+Spine_Player_Gladiator.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Idle0
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Idle1
+  rotate: false
+  xy: 87, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Idle2
+  rotate: false
+  xy: 172, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Idle3
+  rotate: false
+  xy: 257, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Idle4
+  rotate: false
+  xy: 342, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Right0
+  rotate: false
+  xy: 427, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Right1
+  rotate: false
+  xy: 512, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Right2
+  rotate: false
+  xy: 597, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Right3
+  rotate: false
+  xy: 682, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Right4
+  rotate: false
+  xy: 767, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

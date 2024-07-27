@@ -1,0 +1,1553 @@
+
+Box_Gear.png
+size: 1764,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ruong1/Box_1
+  rotate: false
+  xy: 939, 236
+  size: 76, 82
+  orig: 78, 84
+  offset: 1, 1
+  index: -1
+Ruong1/Box_2
+  rotate: false
+  xy: 960, 320
+  size: 105, 66
+  orig: 107, 68
+  offset: 1, 1
+  index: -1
+Ruong1/Layer 125
+  rotate: false
+  xy: 1095, 204
+  size: 76, 82
+  orig: 78, 84
+  offset: 1, 1
+  index: -1
+Ruong1/Layer 126
+  rotate: false
+  xy: 1359, 256
+  size: 105, 85
+  orig: 107, 87
+  offset: 1, 1
+  index: -1
+Ruong2/Layer 126
+  rotate: false
+  xy: 1359, 256
+  size: 105, 85
+  orig: 107, 87
+  offset: 1, 1
+  index: -1
+Ruong3/Layer 126
+  rotate: false
+  xy: 1359, 256
+  size: 105, 85
+  orig: 107, 87
+  offset: 1, 1
+  index: -1
+Ruong1/Nap_L_1
+  rotate: false
+  xy: 825, 227
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+Ruong1/Nap_L_2
+  rotate: false
+  xy: 1556, 10
+  size: 44, 44
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+Ruong1/Nap_R_1
+  rotate: false
+  xy: 1318, 44
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+Ruong1/Nap_R_2
+  rotate: false
+  xy: 1572, 138
+  size: 44, 44
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+Ruong1/VongTron_1
+  rotate: false
+  xy: 910, 80
+  size: 75, 70
+  orig: 77, 72
+  offset: 1, 1
+  index: -1
+Ruong1/VongTron_2
+  rotate: false
+  xy: 613, 65
+  size: 97, 97
+  orig: 99, 99
+  offset: 1, 1
+  index: -1
+Ruong1/VongTron_3
+  rotate: false
+  xy: 413, 18
+  size: 99, 100
+  orig: 101, 102
+  offset: 1, 1
+  index: -1
+Ruong2/VongTron_3
+  rotate: false
+  xy: 413, 18
+  size: 99, 100
+  orig: 101, 102
+  offset: 1, 1
+  index: -1
+Ruong3/VongTron_3
+  rotate: false
+  xy: 413, 18
+  size: 99, 100
+  orig: 101, 102
+  offset: 1, 1
+  index: -1
+Ruong1/VongTron_4
+  rotate: false
+  xy: 334, 183
+  size: 129, 129
+  orig: 131, 131
+  offset: 1, 1
+  index: -1
+Ruong1/body
+  rotate: false
+  xy: 1270, 465
+  size: 211, 150
+  orig: 213, 152
+  offset: 1, 1
+  index: -1
+Ruong1/light
+  rotate: false
+  xy: 631, 512
+  size: 211, 109
+  orig: 213, 111
+  offset: 1, 1
+  index: -1
+Ruong1/light center
+  rotate: false
+  xy: 1354, 53
+  size: 41, 38
+  orig: 43, 40
+  offset: 1, 1
+  index: -1
+Ruong2/Box_1
+  rotate: false
+  xy: 939, 152
+  size: 76, 82
+  orig: 78, 84
+  offset: 1, 1
+  index: -1
+Ruong2/Box_2
+  rotate: false
+  xy: 1145, 288
+  size: 105, 66
+  orig: 107, 68
+  offset: 1, 1
+  index: -1
+Ruong2/Layer 125
+  rotate: false
+  xy: 1173, 204
+  size: 76, 82
+  orig: 78, 84
+  offset: 1, 1
+  index: -1
+Ruong2/Nap_L_1
+  rotate: false
+  xy: 573, 7
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+Ruong2/Nap_L_2
+  rotate: false
+  xy: 1236, 43
+  size: 44, 44
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+Ruong2/Nap_R_1
+  rotate: false
+  xy: 1648, 7
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+Ruong2/Nap_R_2
+  rotate: false
+  xy: 1618, 140
+  size: 44, 44
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+Ruong2/VongTron_1
+  rotate: false
+  xy: 915, 10
+  size: 73, 68
+  orig: 77, 72
+  offset: 2, 2
+  index: -1
+Ruong2/VongTron_2
+  rotate: false
+  xy: 712, 65
+  size: 97, 97
+  orig: 99, 99
+  offset: 1, 1
+  index: -1
+Ruong2/VongTron_4
+  rotate: false
+  xy: 465, 336
+  size: 129, 129
+  orig: 131, 131
+  offset: 1, 1
+  index: -1
+Ruong2/body
+  rotate: false
+  xy: 1483, 465
+  size: 211, 150
+  orig: 213, 152
+  offset: 1, 1
+  index: -1
+Ruong2/light
+  rotate: false
+  xy: 844, 512
+  size: 211, 109
+  orig: 213, 111
+  offset: 1, 1
+  index: -1
+Ruong2/light center
+  rotate: false
+  xy: 1354, 13
+  size: 41, 38
+  orig: 43, 40
+  offset: 1, 1
+  index: -1
+Ruong3/Box_1
+  rotate: false
+  xy: 1017, 220
+  size: 76, 82
+  orig: 78, 84
+  offset: 1, 1
+  index: -1
+Ruong3/Box_2
+  rotate: false
+  xy: 1252, 275
+  size: 105, 66
+  orig: 107, 68
+  offset: 1, 1
+  index: -1
+Ruong3/Layer 125
+  rotate: false
+  xy: 1251, 191
+  size: 76, 82
+  orig: 78, 84
+  offset: 1, 1
+  index: -1
+Ruong3/Nap_L_1
+  rotate: false
+  xy: 1578, 191
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+Ruong3/Nap_L_2
+  rotate: false
+  xy: 1397, 34
+  size: 44, 44
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+Ruong3/Nap_R_1
+  rotate: false
+  xy: 1695, 51
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+Ruong3/Nap_R_2
+  rotate: false
+  xy: 1664, 131
+  size: 44, 44
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+Ruong3/VongTron_1
+  rotate: false
+  xy: 1095, 134
+  size: 73, 68
+  orig: 77, 72
+  offset: 2, 2
+  index: -1
+Ruong3/VongTron_2
+  rotate: false
+  xy: 811, 72
+  size: 97, 97
+  orig: 99, 99
+  offset: 1, 1
+  index: -1
+Ruong3/VongTron_4
+  rotate: false
+  xy: 465, 205
+  size: 129, 129
+  orig: 131, 131
+  offset: 1, 1
+  index: -1
+Ruong3/body
+  rotate: false
+  xy: 1509, 617
+  size: 211, 161
+  orig: 213, 166
+  offset: 1, 4
+  index: -1
+Ruong3/light
+  rotate: false
+  xy: 408, 467
+  size: 183, 79
+  orig: 183, 79
+  offset: 0, 0
+  index: -1
+Ruong3/light center
+  rotate: false
+  xy: 1608, 56
+  size: 41, 38
+  orig: 43, 40
+  offset: 1, 1
+  index: -1
+Ruong3/light1
+  rotate: false
+  xy: 1057, 477
+  size: 211, 144
+  orig: 216, 155
+  offset: 3, 4
+  index: -1
+Ruong4/Box_1
+  rotate: false
+  xy: 1067, 304
+  size: 76, 82
+  orig: 78, 84
+  offset: 1, 1
+  index: -1
+Ruong4/Box_2
+  rotate: false
+  xy: 726, 318
+  size: 105, 66
+  orig: 107, 68
+  offset: 1, 1
+  index: -1
+Ruong4/Box_4 copy
+  rotate: false
+  xy: 2, 9
+  size: 171, 172
+  orig: 173, 174
+  offset: 1, 1
+  index: -1
+Ruong1/Box_4 copy
+  rotate: false
+  xy: 2, 9
+  size: 171, 172
+  orig: 173, 174
+  offset: 1, 1
+  index: -1
+Ruong2/Box_4 copy
+  rotate: false
+  xy: 2, 9
+  size: 171, 172
+  orig: 173, 174
+  offset: 1, 1
+  index: -1
+Ruong3/Box_4 copy
+  rotate: false
+  xy: 2, 9
+  size: 171, 172
+  orig: 173, 174
+  offset: 1, 1
+  index: -1
+Ruong5/Box_4 copy
+  rotate: false
+  xy: 2, 9
+  size: 171, 172
+  orig: 173, 174
+  offset: 1, 1
+  index: -1
+Ruong6/Box_4 copy
+  rotate: false
+  xy: 2, 9
+  size: 171, 172
+  orig: 173, 174
+  offset: 1, 1
+  index: -1
+Ruong7/Box_4 copy
+  rotate: false
+  xy: 2, 9
+  size: 171, 172
+  orig: 173, 174
+  offset: 1, 1
+  index: -1
+Ruong8/Box_4 copy
+  rotate: false
+  xy: 2, 9
+  size: 171, 172
+  orig: 173, 174
+  offset: 1, 1
+  index: -1
+Ruong4/Glow_Square_01
+  rotate: false
+  xy: 596, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Ruong1/Glow_Square_01
+  rotate: false
+  xy: 596, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Ruong2/Glow_Square_01
+  rotate: false
+  xy: 596, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Ruong3/Glow_Square_01
+  rotate: false
+  xy: 596, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Ruong4/Layer 120
+  rotate: false
+  xy: 849, 323
+  size: 109, 65
+  orig: 111, 67
+  offset: 1, 1
+  index: -1
+Ruong1/Layer 120
+  rotate: false
+  xy: 849, 323
+  size: 109, 65
+  orig: 111, 67
+  offset: 1, 1
+  index: -1
+Ruong2/Layer 120
+  rotate: false
+  xy: 849, 323
+  size: 109, 65
+  orig: 111, 67
+  offset: 1, 1
+  index: -1
+Ruong3/Layer 120
+  rotate: false
+  xy: 849, 323
+  size: 109, 65
+  orig: 111, 67
+  offset: 1, 1
+  index: -1
+Ruong4/Layer 123
+  rotate: false
+  xy: 1466, 300
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+Ruong1/Layer 123
+  rotate: false
+  xy: 1466, 300
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+Ruong2/Layer 123
+  rotate: false
+  xy: 1466, 300
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+Ruong3/Layer 123
+  rotate: false
+  xy: 1466, 300
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+Ruong4/Layer 125
+  rotate: false
+  xy: 1017, 136
+  size: 76, 82
+  orig: 78, 84
+  offset: 1, 1
+  index: -1
+Ruong4/Layer 126
+  rotate: false
+  xy: 718, 171
+  size: 105, 85
+  orig: 107, 87
+  offset: 1, 1
+  index: -1
+Ruong4/Nap_L_1
+  rotate: false
+  xy: 593, 512
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+Ruong4/Nap_L_2
+  rotate: false
+  xy: 1049, 90
+  size: 44, 44
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+Ruong4/Nap_R_1
+  rotate: false
+  xy: 1282, 44
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+Ruong4/Nap_R_2
+  rotate: false
+  xy: 1602, 10
+  size: 44, 44
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+Ruong4/VongTron_1
+  rotate: false
+  xy: 840, 2
+  size: 73, 68
+  orig: 77, 72
+  offset: 2, 2
+  index: -1
+Ruong4/VongTron_2
+  rotate: false
+  xy: 514, 43
+  size: 97, 97
+  orig: 99, 99
+  offset: 1, 1
+  index: -1
+Ruong4/VongTron_3
+  rotate: false
+  xy: 312, 18
+  size: 99, 100
+  orig: 101, 102
+  offset: 1, 1
+  index: -1
+Ruong4/VongTron_4
+  rotate: false
+  xy: 334, 314
+  size: 129, 129
+  orig: 131, 131
+  offset: 1, 1
+  index: -1
+Ruong4/body
+  rotate: false
+  xy: 1296, 617
+  size: 211, 161
+  orig: 213, 166
+  offset: 1, 3
+  index: -1
+Ruong4/ef1
+  rotate: false
+  xy: 596, 253
+  size: 118, 127
+  orig: 120, 129
+  offset: 1, 1
+  index: -1
+Ruong1/ef1
+  rotate: false
+  xy: 596, 253
+  size: 118, 127
+  orig: 120, 129
+  offset: 1, 1
+  index: -1
+Ruong2/ef1
+  rotate: false
+  xy: 596, 253
+  size: 118, 127
+  orig: 120, 129
+  offset: 1, 1
+  index: -1
+Ruong3/ef1
+  rotate: false
+  xy: 596, 253
+  size: 118, 127
+  orig: 120, 129
+  offset: 1, 1
+  index: -1
+Ruong5/ef1
+  rotate: false
+  xy: 596, 253
+  size: 118, 127
+  orig: 120, 129
+  offset: 1, 1
+  index: -1
+Ruong6/ef1
+  rotate: false
+  xy: 596, 253
+  size: 118, 127
+  orig: 120, 129
+  offset: 1, 1
+  index: -1
+Ruong7/ef1
+  rotate: false
+  xy: 596, 253
+  size: 118, 127
+  orig: 120, 129
+  offset: 1, 1
+  index: -1
+Ruong8/ef1
+  rotate: false
+  xy: 596, 253
+  size: 118, 127
+  orig: 120, 129
+  offset: 1, 1
+  index: -1
+Ruong4/ef2
+  rotate: false
+  xy: 1631, 336
+  size: 43, 127
+  orig: 45, 129
+  offset: 1, 1
+  index: -1
+Ruong1/ef2
+  rotate: false
+  xy: 1631, 336
+  size: 43, 127
+  orig: 45, 129
+  offset: 1, 1
+  index: -1
+Ruong2/ef2
+  rotate: false
+  xy: 1631, 336
+  size: 43, 127
+  orig: 45, 129
+  offset: 1, 1
+  index: -1
+Ruong3/ef2
+  rotate: false
+  xy: 1631, 336
+  size: 43, 127
+  orig: 45, 129
+  offset: 1, 1
+  index: -1
+Ruong5/ef2
+  rotate: false
+  xy: 1631, 336
+  size: 43, 127
+  orig: 45, 129
+  offset: 1, 1
+  index: -1
+Ruong6/ef2
+  rotate: false
+  xy: 1631, 336
+  size: 43, 127
+  orig: 45, 129
+  offset: 1, 1
+  index: -1
+Ruong7/ef2
+  rotate: false
+  xy: 1631, 336
+  size: 43, 127
+  orig: 45, 129
+  offset: 1, 1
+  index: -1
+Ruong8/ef2
+  rotate: false
+  xy: 1631, 336
+  size: 43, 127
+  orig: 45, 129
+  offset: 1, 1
+  index: -1
+Ruong4/ef3
+  rotate: false
+  xy: 971, 399
+  size: 54, 111
+  orig: 56, 113
+  offset: 1, 1
+  index: -1
+Ruong1/ef3
+  rotate: false
+  xy: 971, 399
+  size: 54, 111
+  orig: 56, 113
+  offset: 1, 1
+  index: -1
+Ruong2/ef3
+  rotate: false
+  xy: 971, 399
+  size: 54, 111
+  orig: 56, 113
+  offset: 1, 1
+  index: -1
+Ruong3/ef3
+  rotate: false
+  xy: 971, 399
+  size: 54, 111
+  orig: 56, 113
+  offset: 1, 1
+  index: -1
+Ruong5/ef3
+  rotate: false
+  xy: 971, 399
+  size: 54, 111
+  orig: 56, 113
+  offset: 1, 1
+  index: -1
+Ruong6/ef3
+  rotate: false
+  xy: 971, 399
+  size: 54, 111
+  orig: 56, 113
+  offset: 1, 1
+  index: -1
+Ruong7/ef3
+  rotate: false
+  xy: 971, 399
+  size: 54, 111
+  orig: 56, 113
+  offset: 1, 1
+  index: -1
+Ruong8/ef3
+  rotate: false
+  xy: 971, 399
+  size: 54, 111
+  orig: 56, 113
+  offset: 1, 1
+  index: -1
+Ruong4/ef4
+  rotate: false
+  xy: 1149, 356
+  size: 114, 119
+  orig: 116, 121
+  offset: 1, 1
+  index: -1
+Ruong1/ef4
+  rotate: false
+  xy: 1149, 356
+  size: 114, 119
+  orig: 116, 121
+  offset: 1, 1
+  index: -1
+Ruong2/ef4
+  rotate: false
+  xy: 1149, 356
+  size: 114, 119
+  orig: 116, 121
+  offset: 1, 1
+  index: -1
+Ruong3/ef4
+  rotate: false
+  xy: 1149, 356
+  size: 114, 119
+  orig: 116, 121
+  offset: 1, 1
+  index: -1
+Ruong5/ef4
+  rotate: false
+  xy: 1149, 356
+  size: 114, 119
+  orig: 116, 121
+  offset: 1, 1
+  index: -1
+Ruong6/ef4
+  rotate: false
+  xy: 1149, 356
+  size: 114, 119
+  orig: 116, 121
+  offset: 1, 1
+  index: -1
+Ruong7/ef4
+  rotate: false
+  xy: 1149, 356
+  size: 114, 119
+  orig: 116, 121
+  offset: 1, 1
+  index: -1
+Ruong8/ef4
+  rotate: false
+  xy: 1149, 356
+  size: 114, 119
+  orig: 116, 121
+  offset: 1, 1
+  index: -1
+Ruong4/light
+  rotate: false
+  xy: 197, 445
+  size: 209, 93
+  orig: 211, 95
+  offset: 0, 0
+  index: -1
+Ruong4/light center
+  rotate: false
+  xy: 1466, 260
+  size: 41, 38
+  orig: 43, 40
+  offset: 1, 1
+  index: -1
+Ruong4/light1
+  rotate: false
+  xy: 990, 2
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+Ruong4/smoke (3)
+  rotate: false
+  xy: 726, 386
+  size: 121, 124
+  orig: 128, 128
+  offset: 3, 2
+  index: -1
+Ruong1/smoke (3)
+  rotate: false
+  xy: 726, 386
+  size: 121, 124
+  orig: 128, 128
+  offset: 3, 2
+  index: -1
+Ruong2/smoke (3)
+  rotate: false
+  xy: 726, 386
+  size: 121, 124
+  orig: 128, 128
+  offset: 3, 2
+  index: -1
+Ruong3/smoke (3)
+  rotate: false
+  xy: 726, 386
+  size: 121, 124
+  orig: 128, 128
+  offset: 3, 2
+  index: -1
+Ruong5/smoke (3)
+  rotate: false
+  xy: 726, 386
+  size: 121, 124
+  orig: 128, 128
+  offset: 3, 2
+  index: -1
+Ruong6/smoke (3)
+  rotate: false
+  xy: 726, 386
+  size: 121, 124
+  orig: 128, 128
+  offset: 3, 2
+  index: -1
+Ruong7/smoke (3)
+  rotate: false
+  xy: 726, 386
+  size: 121, 124
+  orig: 128, 128
+  offset: 3, 2
+  index: -1
+Ruong8/smoke (3)
+  rotate: false
+  xy: 726, 386
+  size: 121, 124
+  orig: 128, 128
+  offset: 3, 2
+  index: -1
+Ruong4/thanh1
+  rotate: false
+  xy: 1170, 142
+  size: 70, 60
+  orig: 75, 69
+  offset: 3, 4
+  index: -1
+Ruong4/thanh2
+  rotate: false
+  xy: 1614, 186
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+Ruong4/thanh3
+  rotate: false
+  xy: 408, 446
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+Ruong4/vong ngoai
+  rotate: false
+  xy: 1676, 379
+  size: 27, 84
+  orig: 32, 99
+  offset: 2, 8
+  index: -1
+Ruong5/Box_1
+  rotate: false
+  xy: 1631, 276
+  size: 50, 58
+  orig: 60, 62
+  offset: 5, 2
+  index: -1
+Ruong5/Box_2
+  rotate: false
+  xy: 734, 5
+  size: 104, 58
+  orig: 107, 68
+  offset: 1, 9
+  index: -1
+Ruong5/Box_4
+  rotate: false
+  xy: 2, 378
+  size: 193, 193
+  orig: 195, 195
+  offset: 1, 1
+  index: -1
+Ruong5/Layer 123
+  rotate: false
+  xy: 1705, 380
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+Ruong6/Layer 123
+  rotate: false
+  xy: 1705, 380
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+Ruong7/Layer 123
+  rotate: false
+  xy: 1705, 380
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+Ruong8/Layer 123
+  rotate: false
+  xy: 1705, 380
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+Ruong5/Layer 125
+  rotate: false
+  xy: 1122, 31
+  size: 50, 58
+  orig: 60, 60
+  offset: 5, 1
+  index: -1
+Ruong5/Nap2
+  rotate: false
+  xy: 1027, 388
+  size: 120, 87
+  orig: 125, 87
+  offset: 5, 0
+  index: -1
+Ruong5/Nap_L_1
+  rotate: false
+  xy: 514, 2
+  size: 57, 39
+  orig: 67, 41
+  offset: 1, 1
+  index: -1
+Ruong5/Nap_L_2
+  rotate: false
+  xy: 825, 171
+  size: 60, 54
+  orig: 66, 58
+  offset: 3, 2
+  index: -1
+Ruong5/Nap_R_1
+  rotate: false
+  xy: 1705, 435
+  size: 57, 39
+  orig: 59, 42
+  offset: 1, 2
+  index: -1
+Ruong5/Nap_R_2
+  rotate: false
+  xy: 990, 24
+  size: 60, 54
+  orig: 64, 56
+  offset: 2, 1
+  index: -1
+Ruong5/Vong1
+  rotate: false
+  xy: 1696, 540
+  size: 64, 62
+  orig: 77, 72
+  offset: 6, 5
+  index: -1
+Ruong5/VongTron_1a
+  rotate: false
+  xy: 1710, 133
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Ruong5/VongTron_1b
+  rotate: false
+  xy: 1722, 736
+  size: 40, 42
+  orig: 42, 42
+  offset: 1, 0
+  index: -1
+Ruong5/VongTron_3
+  rotate: false
+  xy: 849, 390
+  size: 120, 120
+  orig: 125, 124
+  offset: 2, 2
+  index: -1
+Ruong6/VongTron_3
+  rotate: false
+  xy: 849, 390
+  size: 120, 120
+  orig: 125, 124
+  offset: 2, 2
+  index: -1
+Ruong5/VongTron_4
+  rotate: false
+  xy: 197, 303
+  size: 135, 140
+  orig: 145, 145
+  offset: 5, 3
+  index: -1
+Ruong5/body
+  rotate: false
+  xy: 404, 623
+  size: 221, 155
+  orig: 225, 166
+  offset: 2, 6
+  index: -1
+Ruong5/light
+  rotate: false
+  xy: 209, 540
+  size: 187, 43
+  orig: 187, 43
+  offset: 0, 0
+  index: -1
+Ruong5/light center
+  rotate: false
+  xy: 1450, 81
+  size: 51, 53
+  orig: 55, 56
+  offset: 2, 2
+  index: -1
+Ruong5/light vong
+  rotate: false
+  xy: 1052, 17
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Ruong5/light1
+  rotate: false
+  xy: 1509, 184
+  size: 67, 41
+  orig: 70, 44
+  offset: 1, 2
+  index: -1
+Ruong6/light1
+  rotate: false
+  xy: 1509, 184
+  size: 67, 41
+  orig: 70, 44
+  offset: 1, 2
+  index: -1
+Ruong5/light1a
+  rotate: false
+  xy: 1170, 117
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+Ruong5/lightd
+  rotate: false
+  xy: 1343, 93
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Ruong5/nap1
+  rotate: false
+  xy: 334, 120
+  size: 120, 61
+  orig: 123, 67
+  offset: 2, 1
+  index: -1
+Ruong6/nap1
+  rotate: false
+  xy: 334, 120
+  size: 120, 61
+  orig: 123, 67
+  offset: 2, 1
+  index: -1
+Ruong6/Box_1
+  rotate: false
+  xy: 1457, 196
+  size: 50, 58
+  orig: 60, 62
+  offset: 5, 2
+  index: -1
+Ruong6/Box_2
+  rotate: false
+  xy: 716, 258
+  size: 104, 58
+  orig: 107, 68
+  offset: 1, 9
+  index: -1
+Ruong6/Box_4
+  rotate: false
+  xy: 209, 585
+  size: 193, 193
+  orig: 195, 195
+  offset: 1, 1
+  index: -1
+Ruong6/Layer 125
+  rotate: false
+  xy: 1556, 56
+  size: 50, 58
+  orig: 60, 60
+  offset: 5, 1
+  index: -1
+Ruong6/Nap2
+  rotate: false
+  xy: 1509, 376
+  size: 120, 87
+  orig: 125, 87
+  offset: 5, 0
+  index: -1
+Ruong6/Nap_L_1
+  rotate: false
+  xy: 1676, 336
+  size: 59, 41
+  orig: 67, 41
+  offset: 1, 0
+  index: -1
+Ruong7/Nap_L_1
+  rotate: false
+  xy: 1676, 336
+  size: 59, 41
+  orig: 67, 41
+  offset: 1, 0
+  index: -1
+Ruong8/Nap_L_1
+  rotate: false
+  xy: 1676, 336
+  size: 59, 41
+  orig: 67, 41
+  offset: 1, 0
+  index: -1
+Ruong6/Nap_L_2
+  rotate: false
+  xy: 1395, 200
+  size: 60, 54
+  orig: 66, 58
+  offset: 3, 2
+  index: -1
+Ruong6/Nap_R_1
+  rotate: false
+  xy: 1677, 177
+  size: 58, 41
+  orig: 59, 42
+  offset: 0, 1
+  index: -1
+Ruong7/Nap_R_1
+  rotate: false
+  xy: 1677, 177
+  size: 58, 41
+  orig: 59, 42
+  offset: 0, 1
+  index: -1
+Ruong8/Nap_R_1
+  rotate: false
+  xy: 1677, 177
+  size: 58, 41
+  orig: 59, 42
+  offset: 0, 1
+  index: -1
+Ruong6/Nap_R_2
+  rotate: false
+  xy: 1677, 220
+  size: 60, 54
+  orig: 64, 56
+  offset: 2, 1
+  index: -1
+Ruong6/Vong1
+  rotate: false
+  xy: 1696, 476
+  size: 64, 62
+  orig: 77, 72
+  offset: 6, 5
+  index: -1
+Ruong6/VongTron_1a
+  rotate: false
+  xy: 1618, 96
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Ruong6/VongTron_1b
+  rotate: false
+  xy: 1722, 692
+  size: 40, 42
+  orig: 42, 42
+  offset: 1, 0
+  index: -1
+Ruong6/VongTron_4
+  rotate: false
+  xy: 197, 161
+  size: 135, 140
+  orig: 145, 145
+  offset: 5, 3
+  index: -1
+Ruong6/body
+  rotate: false
+  xy: 627, 623
+  size: 221, 155
+  orig: 225, 166
+  offset: 2, 6
+  index: -1
+Ruong6/light
+  rotate: false
+  xy: 404, 548
+  size: 225, 73
+  orig: 229, 87
+  offset: 2, 7
+  index: -1
+Ruong7/light
+  rotate: false
+  xy: 404, 548
+  size: 225, 73
+  orig: 229, 87
+  offset: 2, 7
+  index: -1
+Ruong8/light
+  rotate: false
+  xy: 404, 548
+  size: 225, 73
+  orig: 229, 87
+  offset: 2, 7
+  index: -1
+Ruong6/light center
+  rotate: false
+  xy: 1503, 61
+  size: 51, 53
+  orig: 55, 56
+  offset: 2, 2
+  index: -1
+Ruong6/light vong
+  rotate: false
+  xy: 1308, 118
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Ruong8/light vong
+  rotate: false
+  xy: 1308, 118
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Ruong6/light1a
+  rotate: false
+  xy: 1503, 116
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+Ruong7/light1a
+  rotate: false
+  xy: 1503, 116
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+Ruong8/light1a
+  rotate: false
+  xy: 1503, 116
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+Ruong6/lightd
+  rotate: false
+  xy: 1237, 89
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Ruong7/Box_1
+  rotate: false
+  xy: 1397, 140
+  size: 51, 58
+  orig: 60, 62
+  offset: 4, 2
+  index: -1
+Ruong7/Box_2
+  rotate: false
+  xy: 1509, 227
+  size: 104, 58
+  orig: 107, 68
+  offset: 1, 9
+  index: -1
+Ruong7/Box_4
+  rotate: false
+  xy: 2, 183
+  size: 193, 193
+  orig: 195, 195
+  offset: 1, 1
+  index: -1
+Ruong7/Layer 125
+  rotate: false
+  xy: 1683, 276
+  size: 51, 58
+  orig: 60, 60
+  offset: 5, 1
+  index: -1
+Ruong7/Nap2
+  rotate: false
+  xy: 596, 164
+  size: 120, 87
+  orig: 125, 87
+  offset: 5, 0
+  index: -1
+Ruong7/Nap_L_2
+  rotate: false
+  xy: 1615, 220
+  size: 60, 54
+  orig: 66, 58
+  offset: 3, 2
+  index: -1
+Ruong7/Nap_R_2
+  rotate: false
+  xy: 1174, 61
+  size: 60, 54
+  orig: 64, 56
+  offset: 2, 1
+  index: -1
+Ruong7/Vong1
+  rotate: false
+  xy: 1242, 127
+  size: 64, 62
+  orig: 77, 72
+  offset: 6, 5
+  index: -1
+Ruong7/VongTron_1a
+  rotate: false
+  xy: 1662, 87
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Ruong7/VongTron_1b
+  rotate: false
+  xy: 1722, 648
+  size: 40, 42
+  orig: 42, 42
+  offset: 1, 0
+  index: -1
+Ruong7/VongTron_3
+  rotate: false
+  xy: 1265, 343
+  size: 120, 120
+  orig: 125, 124
+  offset: 2, 2
+  index: -1
+Ruong7/VongTron_4
+  rotate: false
+  xy: 175, 19
+  size: 135, 140
+  orig: 145, 145
+  offset: 5, 3
+  index: -1
+Ruong8/VongTron_4
+  rotate: false
+  xy: 175, 19
+  size: 135, 140
+  orig: 145, 145
+  offset: 5, 3
+  index: -1
+Ruong7/body
+  rotate: false
+  xy: 850, 623
+  size: 221, 155
+  orig: 225, 166
+  offset: 2, 6
+  index: -1
+Ruong7/light center
+  rotate: false
+  xy: 1450, 26
+  size: 51, 53
+  orig: 55, 56
+  offset: 2, 2
+  index: -1
+Ruong7/light vong
+  rotate: false
+  xy: 1087, 17
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+Ruong7/light1
+  rotate: false
+  xy: 1095, 91
+  size: 67, 41
+  orig: 70, 44
+  offset: 1, 2
+  index: -1
+Ruong7/lightd
+  rotate: false
+  xy: 1236, 5
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Ruong7/nap1
+  rotate: false
+  xy: 465, 142
+  size: 120, 61
+  orig: 123, 67
+  offset: 3, 0
+  index: -1
+Ruong8/Box_1
+  rotate: false
+  xy: 1450, 136
+  size: 51, 58
+  orig: 60, 62
+  offset: 4, 2
+  index: -1
+Ruong8/Box_2
+  rotate: false
+  xy: 833, 263
+  size: 104, 58
+  orig: 107, 68
+  offset: 1, 9
+  index: -1
+Ruong8/Box_4
+  rotate: false
+  xy: 2, 573
+  size: 205, 205
+  orig: 215, 215
+  offset: 5, 5
+  index: -1
+Ruong8/Layer 125
+  rotate: false
+  xy: 1397, 80
+  size: 51, 58
+  orig: 60, 60
+  offset: 5, 1
+  index: -1
+Ruong8/Nap2
+  rotate: false
+  xy: 1509, 287
+  size: 120, 87
+  orig: 125, 87
+  offset: 5, 0
+  index: -1
+Ruong8/Nap_L_2
+  rotate: false
+  xy: 987, 80
+  size: 60, 54
+  orig: 66, 58
+  offset: 3, 2
+  index: -1
+Ruong8/Nap_R_2
+  rotate: false
+  xy: 1174, 5
+  size: 60, 54
+  orig: 64, 56
+  offset: 2, 1
+  index: -1
+Ruong8/Vong1
+  rotate: false
+  xy: 1329, 192
+  size: 64, 62
+  orig: 77, 72
+  offset: 6, 5
+  index: -1
+Ruong8/VongTron_1a
+  rotate: false
+  xy: 1651, 43
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Ruong8/VongTron_1b
+  rotate: false
+  xy: 1722, 604
+  size: 40, 42
+  orig: 42, 42
+  offset: 1, 0
+  index: -1
+Ruong8/VongTron_3
+  rotate: false
+  xy: 1387, 343
+  size: 120, 120
+  orig: 125, 124
+  offset: 2, 2
+  index: -1
+Ruong8/body
+  rotate: false
+  xy: 1073, 623
+  size: 221, 155
+  orig: 225, 166
+  offset: 2, 6
+  index: -1
+Ruong8/light center
+  rotate: false
+  xy: 1503, 6
+  size: 51, 53
+  orig: 55, 56
+  offset: 2, 2
+  index: -1
+Ruong8/light1
+  rotate: false
+  xy: 1503, 141
+  size: 67, 41
+  orig: 70, 44
+  offset: 1, 2
+  index: -1
+Ruong8/lightd
+  rotate: false
+  xy: 1286, 80
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Ruong8/nap1
+  rotate: false
+  xy: 613, 2
+  size: 119, 61
+  orig: 123, 67
+  offset: 4, 0
+  index: -1
+Ruong8/thanh1
+  rotate: false
+  xy: 887, 194
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+Ruong8/thanh2
+  rotate: false
+  xy: 1343, 131
+  size: 52, 59
+  orig: 61, 61
+  offset: 4, 1
+  index: -1
+Ruong8/thanh3
+  rotate: false
+  xy: 1285, 4
+  size: 44, 38
+  orig: 44, 41
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,426 @@
+
+Spine_Player_Plane_Vykery.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E4/Aircraft_Phucsinh_S_Idle_0
+  rotate: false
+  xy: 2, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E4/Aircraft_Phucsinh_S_Idle_1
+  rotate: false
+  xy: 2, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E4/Aircraft_Phucsinh_S_Idle_2
+  rotate: false
+  xy: 87, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E4/Aircraft_Phucsinh_S_Idle_3
+  rotate: false
+  xy: 2, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E4/Aircraft_Phucsinh_S_Idle_4
+  rotate: false
+  xy: 87, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E4/Aircraft_Phucsinh_S_Tunrright_0
+  rotate: false
+  xy: 172, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E4/Aircraft_Phucsinh_S_Tunrright_1
+  rotate: false
+  xy: 2, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E4/Aircraft_Phucsinh_S_Tunrright_2
+  rotate: false
+  xy: 87, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E4/Aircraft_Phucsinh_S_Tunrright_3
+  rotate: false
+  xy: 172, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E4/Aircraft_Phucsinh_S_Tunrright_4
+  rotate: false
+  xy: 257, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E5/Aircraft_Phucsinh_SS_Idle_0
+  rotate: false
+  xy: 2, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E5/Aircraft_Phucsinh_SS_Idle_1
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E5/Aircraft_Phucsinh_SS_Idle_2
+  rotate: false
+  xy: 87, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E5/Aircraft_Phucsinh_SS_Idle_3
+  rotate: false
+  xy: 172, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E5/Aircraft_Phucsinh_SS_Idle_4
+  rotate: false
+  xy: 257, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E5/Aircraft_Phucsinh_SS_TurnRight_0
+  rotate: false
+  xy: 342, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E5/Aircraft_Phucsinh_SS_TurnRight_1
+  rotate: false
+  xy: 87, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E5/Aircraft_Phucsinh_SS_TurnRight_2
+  rotate: false
+  xy: 87, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E5/Aircraft_Phucsinh_SS_TurnRight_3
+  rotate: false
+  xy: 172, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E5/Aircraft_Phucsinh_SS_TurnRight_4
+  rotate: false
+  xy: 257, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E6/Aircraft_Phucsinh_SSS_Idle_0
+  rotate: false
+  xy: 342, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E6/Aircraft_Phucsinh_SSS_Idle_1
+  rotate: false
+  xy: 427, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E6/Aircraft_Phucsinh_SSS_Idle_2
+  rotate: false
+  xy: 172, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E6/Aircraft_Phucsinh_SSS_Idle_3
+  rotate: false
+  xy: 172, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E6/Aircraft_Phucsinh_SSS_Idle_4
+  rotate: false
+  xy: 257, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E6/Aircraft_Phucsinh_SSS_Turnright_0
+  rotate: false
+  xy: 342, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E6/Aircraft_Phucsinh_SSS_Turnright_1
+  rotate: false
+  xy: 427, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E6/Aircraft_Phucsinh_SSS_Turnright_2
+  rotate: false
+  xy: 512, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E6/Aircraft_Phucsinh_SSS_Turnright_3
+  rotate: false
+  xy: 257, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E6/Aircraft_Phucsinh_SSS_Turnright_4
+  rotate: false
+  xy: 257, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E7/Aircraft_Phucsinh_X_Idle_0
+  rotate: false
+  xy: 342, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E7/Aircraft_Phucsinh_X_Idle_1
+  rotate: false
+  xy: 427, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E7/Aircraft_Phucsinh_X_Idle_2
+  rotate: false
+  xy: 512, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E7/Aircraft_Phucsinh_X_Idle_3
+  rotate: false
+  xy: 597, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E7/Aircraft_Phucsinh_X_Idle_4
+  rotate: false
+  xy: 342, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E7/Aircraft_Phucsinh_x_Turnright_0
+  rotate: false
+  xy: 342, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E7/Aircraft_Phucsinh_x_Turnright_1
+  rotate: false
+  xy: 427, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E7/Aircraft_Phucsinh_x_Turnright_2
+  rotate: false
+  xy: 512, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E7/Aircraft_Phucsinh_x_Turnright_3
+  rotate: false
+  xy: 597, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E7/Aircraft_Phucsinh_x_Turnright_4
+  rotate: false
+  xy: 682, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E8/Aircraft_Phucsinh_XX_Idle_0
+  rotate: false
+  xy: 427, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E8/Aircraft_Phucsinh_XX_Idle_1
+  rotate: false
+  xy: 427, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E8/Aircraft_Phucsinh_XX_Idle_2
+  rotate: false
+  xy: 512, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E8/Aircraft_Phucsinh_XX_Idle_3
+  rotate: false
+  xy: 597, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E8/Aircraft_Phucsinh_XX_Idle_4
+  rotate: false
+  xy: 682, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E8/Aircraft_Phucsinh_XX_Turnright_0
+  rotate: false
+  xy: 767, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E8/Aircraft_Phucsinh_XX_Turnright_1
+  rotate: false
+  xy: 512, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E8/Aircraft_Phucsinh_XX_Turnright_2
+  rotate: false
+  xy: 512, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E8/Aircraft_Phucsinh_XX_Turnright_3
+  rotate: false
+  xy: 597, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E8/Aircraft_Phucsinh_XX_Turnright_4
+  rotate: false
+  xy: 682, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E9/Aircraft_Phucsinh_XXX_Idle_0
+  rotate: false
+  xy: 767, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E9/Aircraft_Phucsinh_XXX_Idle_1
+  rotate: false
+  xy: 852, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E9/Aircraft_Phucsinh_XXX_Idle_2
+  rotate: false
+  xy: 597, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E9/Aircraft_Phucsinh_XXX_Idle_3
+  rotate: false
+  xy: 597, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E9/Aircraft_Phucsinh_XXX_Idle_4
+  rotate: false
+  xy: 682, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E9/Aircraft_Phucsinh_XXX_Turnright_0
+  rotate: false
+  xy: 767, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E9/Aircraft_Phucsinh_XXX_Turnright_1
+  rotate: false
+  xy: 852, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E9/Aircraft_Phucsinh_XXX_Turnright_2
+  rotate: false
+  xy: 937, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E9/Aircraft_Phucsinh_XXX_Turnright_3
+  rotate: false
+  xy: 682, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+E9/Aircraft_Phucsinh_XXX_Turnright_4
+  rotate: false
+  xy: 682, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

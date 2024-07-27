@@ -1,0 +1,356 @@
+
+Spine_Player_Plane_Greataxe.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Greataxe_SS/Greataxe_SS_Idle1
+  rotate: false
+  xy: 2, 169
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SS/Greataxe_SS_Idle2
+  rotate: false
+  xy: 281, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SS/Greataxe_SS_Idle3
+  rotate: false
+  xy: 366, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SS/Greataxe_SS_Idle4
+  rotate: false
+  xy: 451, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SS/Greataxe_SS_Idle5
+  rotate: false
+  xy: 621, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SS/Greataxe_SS_Turnright1
+  rotate: false
+  xy: 706, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SS/Greataxe_SS_Turnright2
+  rotate: false
+  xy: 876, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SS/Greataxe_SS_Turnright3
+  rotate: false
+  xy: 87, 84
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SS/Greataxe_SS_Turnright4
+  rotate: false
+  xy: 172, 85
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SS/Greataxe_SS_Turnright5
+  rotate: false
+  xy: 439, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SSS/Greataxe_SSS_Idle1
+  rotate: false
+  xy: 99, 255
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SSS/Greataxe_SSS_Idle2
+  rotate: false
+  xy: 2, 84
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SSS/Greataxe_SSS_Idle3
+  rotate: false
+  xy: 366, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SSS/Greataxe_SSS_Idle4
+  rotate: false
+  xy: 536, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SSS/Greataxe_SSS_Idle5
+  rotate: false
+  xy: 621, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SSS/Greataxe_SSS_Turnright1
+  rotate: false
+  xy: 791, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SSS/Greataxe_SSS_Turnright2
+  rotate: false
+  xy: 876, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SSS/Greataxe_SSS_Turnright3
+  rotate: false
+  xy: 184, 255
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SSS/Greataxe_SSS_Turnright4
+  rotate: false
+  xy: 269, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_SSS/Greataxe_SSS_Turnright5
+  rotate: false
+  xy: 524, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_X/Greataxe_X_Idle1
+  rotate: false
+  xy: 196, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_X/Greataxe_X_Idle2
+  rotate: false
+  xy: 196, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_X/Greataxe_X_Idle3
+  rotate: false
+  xy: 281, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_X/Greataxe_X_Idle4
+  rotate: false
+  xy: 451, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_X/Greataxe_X_Idle5
+  rotate: false
+  xy: 536, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_X/Greataxe_X_Tunright1
+  rotate: false
+  xy: 706, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_X/Greataxe_X_Tunright2
+  rotate: false
+  xy: 791, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_X/Greataxe_X_Tunright3
+  rotate: false
+  xy: 87, 169
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_X/Greataxe_X_Tunright4
+  rotate: false
+  xy: 172, 170
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_X/Greataxe_X_Tunright5
+  rotate: false
+  xy: 354, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XX/Greataxe_XX_Idle1
+  rotate: false
+  xy: 609, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XX/Greataxe_XX_Idle2
+  rotate: false
+  xy: 694, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XX/Greataxe_XX_Idle3
+  rotate: false
+  xy: 779, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XX/Greataxe_XX_Idle4
+  rotate: false
+  xy: 864, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XX/Greataxe_XX_Idle5
+  rotate: false
+  xy: 257, 170
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XX/Greataxe_XX_Turnright1
+  rotate: false
+  xy: 2, 426
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+Greataxe_XX/Greataxe_XX_Turnright2
+  rotate: false
+  xy: 2, 340
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+Greataxe_XX/Greataxe_XX_Turnright3
+  rotate: false
+  xy: 99, 426
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+Greataxe_XX/Greataxe_XX_Turnright4
+  rotate: false
+  xy: 2, 254
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+Greataxe_XX/Greataxe_XX_Turnright5
+  rotate: false
+  xy: 99, 340
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+Greataxe_XXX/Greataxe_XXX_Idle1
+  rotate: false
+  xy: 257, 85
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XXX/Greataxe_XXX_Idle2
+  rotate: false
+  xy: 342, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XXX/Greataxe_XXX_Idle3
+  rotate: false
+  xy: 342, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XXX/Greataxe_XXX_Idle4
+  rotate: false
+  xy: 342, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XXX/Greataxe_XXX_Idle5
+  rotate: false
+  xy: 427, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XXX/Greataxe_XXX_Turnright1
+  rotate: false
+  xy: 427, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XXX/Greataxe_XXX_Turnright2
+  rotate: false
+  xy: 427, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XXX/Greataxe_XXX_Turnright3
+  rotate: false
+  xy: 512, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XXX/Greataxe_XXX_Turnright4
+  rotate: false
+  xy: 512, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Greataxe_XXX/Greataxe_XXX_Turnright5
+  rotate: false
+  xy: 512, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+premium.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+premium/light_1
+  rotate: false
+  xy: 2, 40
+  size: 220, 212
+  orig: 220, 212
+  offset: 0, 0
+  index: -1
+premium/light_2
+  rotate: false
+  xy: 224, 52
+  size: 198, 200
+  orig: 198, 200
+  offset: 0, 0
+  index: -1
+premium/premiumpack_2
+  rotate: false
+  xy: 591, 177
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+premium/premiumpack_3
+  rotate: false
+  xy: 424, 162
+  size: 165, 90
+  orig: 165, 90
+  offset: 0, 0
+  index: -1
+premium/premiumpack_4
+  rotate: false
+  xy: 2, 2
+  size: 159, 36
+  orig: 159, 36
+  offset: 0, 0
+  index: -1
+premium/premiumpack_5
+  rotate: false
+  xy: 680, 231
+  size: 111, 21
+  orig: 111, 21
+  offset: 0, 0
+  index: -1
+premium/premiumpack_6
+  rotate: false
+  xy: 424, 88
+  size: 93, 72
+  orig: 93, 72
+  offset: 0, 0
+  index: -1

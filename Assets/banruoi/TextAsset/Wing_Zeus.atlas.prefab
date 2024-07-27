@@ -1,0 +1,55 @@
+
+Wing_Zeus.png
+size: 196,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 61
+  rotate: false
+  xy: 2, 2
+  size: 58, 100
+  orig: 60, 102
+  offset: 1, 1
+  index: -1
+Layer 62
+  rotate: false
+  xy: 62, 4
+  size: 47, 39
+  orig: 49, 41
+  offset: 1, 1
+  index: -1
+Layer 63
+  rotate: false
+  xy: 150, 26
+  size: 43, 32
+  orig: 45, 34
+  offset: 1, 1
+  index: -1
+Layer 64
+  rotate: false
+  xy: 111, 10
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+Layer 65
+  rotate: false
+  xy: 150, 60
+  size: 34, 42
+  orig: 36, 44
+  offset: 1, 1
+  index: -1
+Layer 66
+  rotate: false
+  xy: 119, 52
+  size: 29, 50
+  orig: 31, 52
+  offset: 1, 1
+  index: -1
+Layer 68
+  rotate: false
+  xy: 62, 45
+  size: 55, 57
+  orig: 57, 59
+  offset: 1, 1
+  index: -1

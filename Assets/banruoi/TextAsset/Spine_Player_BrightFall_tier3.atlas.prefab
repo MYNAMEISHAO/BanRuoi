@@ -1,0 +1,223 @@
+
+Spine_Player_BrightFall_tier3.png
+size: 744,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bright Fall_tire3_Canh duoi1
+  rotate: false
+  xy: 594, 56
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Bright Fall_tire3_Canh duoi2
+  rotate: false
+  xy: 594, 27
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Bright Fall_tire3_Canh duoi3
+  rotate: false
+  xy: 623, 56
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Bright Fall_tire3_Canh duoi4
+  rotate: false
+  xy: 623, 27
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Bright Fall_tire3_Canh duoi5
+  rotate: false
+  xy: 652, 56
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Bright Fall_tire3_Than1
+  rotate: false
+  xy: 349, 12
+  size: 47, 71
+  orig: 83, 83
+  offset: 18, 10
+  index: -1
+Bright Fall_tire3_Than2
+  rotate: false
+  xy: 398, 12
+  size: 47, 71
+  orig: 83, 83
+  offset: 18, 10
+  index: -1
+Bright Fall_tire3_Than3
+  rotate: false
+  xy: 447, 12
+  size: 47, 71
+  orig: 83, 83
+  offset: 18, 10
+  index: -1
+Bright Fall_tire3_Than4
+  rotate: false
+  xy: 496, 12
+  size: 47, 71
+  orig: 83, 83
+  offset: 18, 10
+  index: -1
+Bright Fall_tire3_Than5
+  rotate: false
+  xy: 545, 12
+  size: 47, 71
+  orig: 83, 83
+  offset: 18, 10
+  index: -1
+Bright Fall_tire3_Turn1
+  rotate: false
+  xy: 2, 2
+  size: 78, 81
+  orig: 83, 83
+  offset: 1, 0
+  index: -1
+Bright Fall_tire3_Turn2
+  rotate: false
+  xy: 82, 2
+  size: 74, 81
+  orig: 83, 83
+  offset: 1, 0
+  index: -1
+Bright Fall_tire3_Turn3
+  rotate: false
+  xy: 158, 2
+  size: 68, 81
+  orig: 83, 83
+  offset: 3, 0
+  index: -1
+Bright Fall_tire3_Turn4
+  rotate: false
+  xy: 228, 2
+  size: 62, 81
+  orig: 83, 83
+  offset: 5, 0
+  index: -1
+Bright Fall_tire3_Turn5
+  rotate: false
+  xy: 292, 2
+  size: 55, 81
+  orig: 83, 83
+  offset: 9, 0
+  index: -1
+canh sung1
+  rotate: false
+  xy: 715, 24
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+duoi sung1
+  rotate: false
+  xy: 652, 24
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+duoi sung2
+  rotate: false
+  xy: 652, 24
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+duoi sung3
+  rotate: false
+  xy: 652, 24
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+duoi sung4
+  rotate: false
+  xy: 652, 24
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+duoi sung5
+  rotate: false
+  xy: 652, 24
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+giap sung1
+  rotate: false
+  xy: 728, 32
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+giap sung2
+  rotate: false
+  xy: 728, 32
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+giap sung3
+  rotate: false
+  xy: 728, 32
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+giap sung4
+  rotate: false
+  xy: 728, 32
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+giap sung5
+  rotate: false
+  xy: 728, 32
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+nong sung1
+  rotate: false
+  xy: 681, 55
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+nong sung2
+  rotate: false
+  xy: 702, 55
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+nong sung3
+  rotate: false
+  xy: 723, 55
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+nong sung4
+  rotate: false
+  xy: 673, 25
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+nong sung5
+  rotate: false
+  xy: 694, 25
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1

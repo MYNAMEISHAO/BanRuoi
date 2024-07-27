@@ -1,0 +1,160 @@
+
+Spine_UI_Loading.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball_Center
+  rotate: false
+  xy: 1121, 76
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Ball_Light
+  rotate: false
+  xy: 1121, 70
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+Ball_Outside
+  rotate: false
+  xy: 1063, 64
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+DoorL
+  rotate: true
+  xy: 2, 2
+  size: 41, 104
+  orig: 41, 104
+  offset: 0, 0
+  index: -1
+DoorLDetail2
+  rotate: true
+  xy: 1194, 118
+  size: 8, 33
+  orig: 8, 33
+  offset: 0, 0
+  index: -1
+DoorLDetail3
+  rotate: true
+  xy: 193, 60
+  size: 8, 38
+  orig: 8, 38
+  offset: 0, 0
+  index: -1
+DoorLDetailD
+  rotate: true
+  xy: 1194, 104
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+DoorLDetailLight
+  rotate: false
+  xy: 1212, 111
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+DoorLDetailLight1
+  rotate: true
+  xy: 1229, 123
+  size: 3, 14
+  orig: 3, 14
+  offset: 0, 0
+  index: -1
+DoorLDetailLight2
+  rotate: true
+  xy: 782, 45
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+DoorLDetailU
+  rotate: false
+  xy: 1140, 80
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+DoorL_Detail
+  rotate: true
+  xy: 1159, 96
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+DoorL_DetailGlow
+  rotate: true
+  xy: 1159, 103
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Door_CapL
+  rotate: true
+  xy: 1063, 95
+  size: 31, 94
+  orig: 31, 94
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 70
+  size: 465, 56
+  orig: 465, 56
+  offset: 0, 0
+  index: -1
+Head_Light
+  rotate: true
+  xy: 233, 60
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Head_Light1
+  rotate: true
+  xy: 193, 49
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+Head_LightBG
+  rotate: false
+  xy: 2, 49
+  size: 189, 19
+  orig: 189, 19
+  offset: 0, 0
+  index: -1
+Led
+  rotate: false
+  xy: 469, 45
+  size: 311, 81
+  orig: 311, 81
+  offset: 0, 0
+  index: -1
+Led_Texture
+  rotate: false
+  xy: 782, 51
+  size: 279, 75
+  orig: 279, 75
+  offset: 0, 0
+  index: -1
+Mid
+  rotate: false
+  xy: 1094, 68
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Mid_Center
+  rotate: false
+  xy: 1063, 51
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

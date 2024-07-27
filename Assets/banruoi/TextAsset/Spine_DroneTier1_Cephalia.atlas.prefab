@@ -1,0 +1,20 @@
+
+Spine_DroneTier1_Cephalia.png
+size: 328,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V1
+  rotate: false
+  xy: 194, 190
+  size: 132, 358
+  orig: 132, 358
+  offset: 0, 0
+  index: -1
+V4
+  rotate: false
+  xy: 2, 2
+  size: 190, 546
+  orig: 190, 546
+  offset: 0, 0
+  index: -1

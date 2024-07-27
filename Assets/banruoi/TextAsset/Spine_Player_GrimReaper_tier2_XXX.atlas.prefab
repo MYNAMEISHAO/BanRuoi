@@ -1,0 +1,181 @@
+
+Spine_Player_GrimReaper_tier2_XXX.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Grim Reaper_Base1
+  rotate: false
+  xy: 222, 158
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Grim Reaper_Base2
+  rotate: false
+  xy: 222, 125
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Grim Reaper_Base3
+  rotate: false
+  xy: 239, 92
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Grim Reaper_Base4
+  rotate: false
+  xy: 247, 59
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Grim Reaper_Base5
+  rotate: false
+  xy: 249, 158
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Grim Reaper_Gun1
+  rotate: false
+  xy: 210, 87
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Grim Reaper_Gun2
+  rotate: false
+  xy: 219, 52
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Grim Reaper_Gun3
+  rotate: false
+  xy: 243, 19
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Grim Reaper_Gun4
+  rotate: false
+  xy: 186, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Grim Reaper_Gun5
+  rotate: false
+  xy: 215, 3
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Grim Reaper_Spear1
+  rotate: false
+  xy: 87, 10
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Grim Reaper_Spear2
+  rotate: false
+  xy: 120, 10
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Grim Reaper_Spear3
+  rotate: false
+  xy: 153, 10
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Grim Reaper_Spear4
+  rotate: false
+  xy: 177, 78
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Grim Reaper_Spear5
+  rotate: false
+  xy: 186, 33
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Grim Reaper_Tail1
+  rotate: false
+  xy: 87, 123
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+Grim Reaper_Tail2
+  rotate: false
+  xy: 87, 55
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+Grim Reaper_Tail3
+  rotate: false
+  xy: 132, 123
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+Grim Reaper_Tail4
+  rotate: false
+  xy: 132, 55
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+Grim Reaper_Tail5
+  rotate: false
+  xy: 177, 123
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+Grim Reaper_TurnRight1
+  rotate: false
+  xy: 2, 191
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Grim Reaper_TurnRight2
+  rotate: false
+  xy: 2, 106
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Grim Reaper_TurnRight3
+  rotate: false
+  xy: 2, 21
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Grim Reaper_TurnRight4
+  rotate: false
+  xy: 87, 191
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Grim Reaper_TurnRight5
+  rotate: false
+  xy: 172, 191
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

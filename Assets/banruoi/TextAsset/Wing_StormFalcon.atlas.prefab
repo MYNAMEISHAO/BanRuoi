@@ -1,0 +1,55 @@
+
+Wing_StormFalcon.png
+size: 188,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 103
+  rotate: false
+  xy: 2, 2
+  size: 33, 45
+  orig: 35, 47
+  offset: 1, 1
+  index: -1
+Layer 104
+  rotate: false
+  xy: 151, 32
+  size: 35, 61
+  orig: 37, 63
+  offset: 1, 1
+  index: -1
+Layer 105
+  rotate: false
+  xy: 113, 21
+  size: 36, 72
+  orig: 38, 74
+  offset: 1, 1
+  index: -1
+Layer 106
+  rotate: false
+  xy: 37, 3
+  size: 32, 44
+  orig: 34, 46
+  offset: 1, 1
+  index: -1
+Layer 107
+  rotate: false
+  xy: 71, 11
+  size: 40, 29
+  orig: 42, 31
+  offset: 1, 1
+  index: -1
+Layer 108
+  rotate: false
+  xy: 71, 42
+  size: 40, 51
+  orig: 42, 53
+  offset: 1, 1
+  index: -1
+Layer 109
+  rotate: false
+  xy: 2, 49
+  size: 67, 44
+  orig: 69, 46
+  offset: 1, 1
+  index: -1

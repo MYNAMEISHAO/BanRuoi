@@ -1,0 +1,245 @@
+{
+"skeleton": { "hash": "b7Cj+q8Lzq28HuJA5hs60pN7fq4", "spine": "3.7.94", "width": 83, "height": 83, "images": "", "audio": "D:/Ha Hin/Ha Hin/Work/FALCON/Galaxy 3.7/Anim/Drone/Tier_1/Theros" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Fury_A_Turn_Left_0", "parent": "root", "length": 30.53, "rotation": 90.36, "x": 2.11, "y": -11.6 }
+],
+"slots": [
+	{ "name": "Auxo_SS/Auxo_SS_Turn_R5", "bone": "Fury_A_Turn_Left_0" },
+	{ "name": "Range_Turnright", "bone": "Fury_A_Turn_Left_0", "attachment": "Fury_A_TurnRight_1" },
+	{ "name": "C/Bright Rise_C_Turn1", "bone": "root" }
+],
+"skins": {
+	"default": {},
+	"E1": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "C/Bright Rise_C_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "C/Bright Rise_C_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "C/Bright Rise_C_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "C/Bright Rise_C_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "C/Bright Rise_C_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "C/Bright Rise_C_Turn1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "C/Bright Rise_C_Turn2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "C/Bright Rise_C_Turn3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "C/Bright Rise_C_Turn4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "C/Bright Rise_C_Turn5", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E2": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "B/Bright Rise_B_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "B/Bright Rise_B_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "B/Bright Rise_B_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "B/Bright Rise_B_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "B/Bright Rise_B_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "B/Bright Rise_B_Turn1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "B/Bright Rise_B_Turn2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "B/Bright Rise_B_Turn3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "B/Bright Rise_B_Turn4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "B/Bright Rise_B_Turn5", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E3": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "A/Bright Rise_A_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "A/Bright Rise_A_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "A/Bright Rise_A_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "A/Bright Rise_A_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "A/Bright Rise_A_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "A/Bright Rise_A_Turn_0", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "A/Bright Rise_A_Turn_1", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "A/Bright Rise_A_Turn_2", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "A/Bright Rise_A_Turn_3", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "A/Bright Rise_A_Turn_4", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E4": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "S/Bright Rise_S_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "S/Bright Rise_S_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "S/Bright Rise_S_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "S/Bright Rise_S_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "S/Bright Rise_S_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "S/Bright Rise_S_Turn_0", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "S/Bright Rise_S_Turn_1", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "S/Bright Rise_S_Turn_2", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "S/Bright Rise_S_Turn_3", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "S/Bright Rise_S_Turn_4", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E5": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "SS/Bright Rise_SS_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "SS/Bright Rise_SS_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "SS/Bright Rise_SS_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "SS/Bright Rise_SS_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "SS/Bright Rise_SS_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "SS/Bright Rise_SS__Turn_0", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "SS/Bright Rise_SS__Turn_1", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "SS/Bright Rise_SS__Turn_2", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "SS/Bright Rise_SS__Turn_3", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "SS/Bright Rise_SS__Turn_4", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E6": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "SSS/Bright Rise_SSS_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "SSS/Bright Rise_SSS_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "SSS/Bright Rise_SSS_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "SSS/Bright Rise_SSS_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "SSS/Bright Rise_SSS_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "SSS/Untitled - 1_Turn_0", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "SSS/Untitled - 1_Turn_1", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "SSS/Untitled - 1_Turn_2", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "SSS/Untitled - 1_Turn_3", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "SSS/Untitled - 1_Turn_4", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E7": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "X/Bright Rise_X_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "X/Bright Rise_X_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "X/Bright Rise_X_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "X/Bright Rise_X_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "X/Bright Rise_X_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "X/Bright Rise_X_Turn_0", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "X/Bright Rise_X_Turn_1", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "X/Bright Rise_X_Turn_2", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "X/Bright Rise_X_Turn_3", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "X/Bright Rise_X_Turn_4", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E8": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "XX/Bright Rise_XX_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "XX/Bright Rise_XX_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "XX/Bright Rise_XX_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "XX/Bright Rise_XX_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "XX/Bright Rise_XX_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "XX/Bright Rise_XX_Turn_0", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "XX/Bright Rise_XX_Turn_1", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "XX/Bright Rise_XX_Turn_2", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "XX/Bright Rise_XX_Turn_3", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "XX/Bright Rise_XX_Turn_4", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E9": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "XXX/Bright Rise_XXX_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "XXX/Bright Rise_XXX_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "XXX/Bright Rise_XXX_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "XXX/Bright Rise_XXX_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "XXX/Bright Rise_XXX_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "XXX/Bright Rise_XXX_Turn_0", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "XXX/Bright Rise_XXX_Turn_1", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "XXX/Bright Rise_XXX_Turn_2", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "XXX/Bright Rise_XXX_Turn_3", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "XXX/Bright Rise_XXX_Turn_4", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": "Fury_A_Idle_1" },
+					{ "time": 0.1, "name": "Fury_A_Idle_2" },
+					{ "time": 0.2, "name": "Fury_A_Idle_3" },
+					{ "time": 0.3, "name": "Fury_A_Idle_4" },
+					{ "time": 0.4, "name": "Auxo_SS/Auxo_SS_Idle1" },
+					{ "time": 0.5, "name": "Fury_A_Idle_1" }
+				]
+			},
+			"Range_Turnright": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right0": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right1": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Range_Turnright": {
+				"attachment": [
+					{ "time": 0, "name": "Fury_A_TurnRight_2" }
+				]
+			}
+		}
+	},
+	"right2": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Range_Turnright": {
+				"attachment": [
+					{ "time": 0, "name": "Fury_A_TurnRight_3" }
+				]
+			}
+		}
+	},
+	"right3": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Range_Turnright": {
+				"attachment": [
+					{ "time": 0, "name": "Fury_A_TurnRight_4" }
+				]
+			}
+		}
+	},
+	"right4": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Range_Turnright": {
+				"attachment": [
+					{ "time": 0, "name": "Range_Turnright" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,41 @@
+
+Wing_RisingPhoenix.png
+size: 232,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 122
+  rotate: false
+  xy: 148, 26
+  size: 45, 46
+  orig: 47, 48
+  offset: 1, 1
+  index: -1
+Layer 123
+  rotate: false
+  xy: 66, 9
+  size: 35, 63
+  orig: 37, 65
+  offset: 1, 1
+  index: -1
+Layer 124
+  rotate: false
+  xy: 195, 8
+  size: 33, 64
+  orig: 35, 66
+  offset: 1, 1
+  index: -1
+Layer 127
+  rotate: false
+  xy: 2, 2
+  size: 62, 70
+  orig: 64, 72
+  offset: 1, 1
+  index: -1
+Layer 129
+  rotate: false
+  xy: 103, 17
+  size: 43, 55
+  orig: 45, 57
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,363 @@
+
+Spine_Player_Helios_tier2_XXX.png
+size: 224,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Canhtren1
+  rotate: false
+  xy: 41, 3
+  size: 21, 36
+  orig: 23, 38
+  offset: 1, 1
+  index: -1
+Canhtren2
+  rotate: false
+  xy: 132, 80
+  size: 21, 36
+  orig: 23, 38
+  offset: 1, 1
+  index: -1
+Canhtren3
+  rotate: false
+  xy: 132, 42
+  size: 21, 36
+  orig: 23, 38
+  offset: 1, 1
+  index: -1
+Canhtren4
+  rotate: false
+  xy: 64, 3
+  size: 21, 36
+  orig: 23, 38
+  offset: 1, 1
+  index: -1
+Canhtren5
+  rotate: false
+  xy: 87, 14
+  size: 21, 36
+  orig: 23, 38
+  offset: 1, 1
+  index: -1
+Canhtren6
+  rotate: false
+  xy: 155, 80
+  size: 21, 36
+  orig: 23, 38
+  offset: 1, 1
+  index: -1
+Helios_XXX1
+  rotate: false
+  xy: 2, 195
+  size: 80, 75
+  orig: 82, 77
+  offset: 1, 1
+  index: -1
+Helios_XXX2
+  rotate: false
+  xy: 2, 118
+  size: 77, 75
+  orig: 79, 77
+  offset: 1, 1
+  index: -1
+Helios_XXX3
+  rotate: false
+  xy: 84, 195
+  size: 72, 75
+  orig: 74, 77
+  offset: 1, 1
+  index: -1
+Helios_XXX4
+  rotate: false
+  xy: 2, 41
+  size: 62, 75
+  orig: 64, 77
+  offset: 1, 1
+  index: -1
+Helios_XXX5
+  rotate: false
+  xy: 81, 118
+  size: 54, 75
+  orig: 56, 77
+  offset: 1, 1
+  index: -1
+Than1
+  rotate: false
+  xy: 158, 206
+  size: 31, 64
+  orig: 33, 66
+  offset: 1, 1
+  index: -1
+Than2
+  rotate: false
+  xy: 191, 206
+  size: 31, 64
+  orig: 33, 66
+  offset: 1, 1
+  index: -1
+Than3
+  rotate: false
+  xy: 66, 52
+  size: 31, 64
+  orig: 33, 66
+  offset: 1, 1
+  index: -1
+Than4
+  rotate: false
+  xy: 99, 52
+  size: 31, 64
+  orig: 33, 66
+  offset: 1, 1
+  index: -1
+Than5
+  rotate: false
+  xy: 137, 129
+  size: 31, 64
+  orig: 33, 66
+  offset: 1, 1
+  index: -1
+Than6
+  rotate: false
+  xy: 170, 140
+  size: 31, 64
+  orig: 33, 66
+  offset: 1, 1
+  index: -1
+canhduoi1
+  rotate: false
+  xy: 179, 30
+  size: 14, 12
+  orig: 16, 14
+  offset: 1, 1
+  index: -1
+canhduoi2
+  rotate: false
+  xy: 179, 16
+  size: 14, 12
+  orig: 16, 14
+  offset: 1, 1
+  index: -1
+canhduoi3
+  rotate: false
+  xy: 127, 11
+  size: 14, 12
+  orig: 16, 14
+  offset: 1, 1
+  index: -1
+canhduoi4
+  rotate: false
+  xy: 195, 15
+  size: 14, 12
+  orig: 16, 14
+  offset: 1, 1
+  index: -1
+canhduoi5
+  rotate: false
+  xy: 159, 8
+  size: 14, 12
+  orig: 16, 14
+  offset: 1, 1
+  index: -1
+canhduoi6
+  rotate: false
+  xy: 175, 2
+  size: 14, 12
+  orig: 16, 14
+  offset: 1, 1
+  index: -1
+canhngang1
+  rotate: false
+  xy: 155, 62
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1
+canhngang2
+  rotate: false
+  xy: 155, 44
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1
+canhngang3
+  rotate: false
+  xy: 170, 122
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1
+canhngang4
+  rotate: false
+  xy: 178, 104
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1
+canhngang5
+  rotate: false
+  xy: 178, 86
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1
+canhngang6
+  rotate: false
+  xy: 183, 68
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1
+canhsau1
+  rotate: false
+  xy: 110, 35
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhsau2
+  rotate: false
+  xy: 183, 51
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhsau3
+  rotate: false
+  xy: 110, 18
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhsau4
+  rotate: false
+  xy: 203, 145
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhsau5
+  rotate: false
+  xy: 127, 25
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhsau6
+  rotate: false
+  xy: 200, 51
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhthem1
+  rotate: false
+  xy: 203, 162
+  size: 13, 18
+  orig: 15, 20
+  offset: 1, 1
+  index: -1
+cucxoay1
+  rotate: false
+  xy: 158, 195
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+thancanhduoi1
+  rotate: false
+  xy: 203, 182
+  size: 19, 22
+  orig: 21, 24
+  offset: 1, 1
+  index: -1
+tia nang CBA1
+  rotate: false
+  xy: 144, 27
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tia nang CBA2
+  rotate: false
+  xy: 195, 29
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tia nang CBA3
+  rotate: false
+  xy: 144, 12
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tia nang CBA4
+  rotate: false
+  xy: 198, 125
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tia nang CBA5
+  rotate: false
+  xy: 110, 3
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tia nang CBA6
+  rotate: false
+  xy: 206, 110
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tianangthem1
+  rotate: false
+  xy: 87, 5
+  size: 18, 7
+  orig: 20, 9
+  offset: 1, 1
+  index: -1
+tianangthem2
+  rotate: false
+  xy: 183, 44
+  size: 18, 5
+  orig: 20, 7
+  offset: 1, 1
+  index: -1
+tianangthem3
+  rotate: false
+  xy: 159, 22
+  size: 18, 7
+  orig: 20, 9
+  offset: 1, 1
+  index: -1
+tianangthem4
+  rotate: false
+  xy: 137, 118
+  size: 18, 9
+  orig: 20, 11
+  offset: 1, 1
+  index: -1
+tianangthem5
+  rotate: false
+  xy: 159, 31
+  size: 18, 11
+  orig: 20, 13
+  offset: 1, 1
+  index: -1
+tianangthem6
+  rotate: false
+  xy: 66, 41
+  size: 18, 9
+  orig: 20, 11
+  offset: 1, 1
+  index: -1
+vong1
+  rotate: false
+  xy: 2, 2
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1

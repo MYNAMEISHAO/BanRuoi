@@ -1,0 +1,41 @@
+
+Spine_UI_Merge_BigDoor.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MainDoor_BG
+  rotate: false
+  xy: 2, 280
+  size: 293, 275
+  orig: 293, 275
+  offset: 0, 0
+  index: -1
+MainDoor_Bevel
+  rotate: false
+  xy: 2, 557
+  size: 332, 302
+  orig: 332, 302
+  offset: 0, 0
+  index: -1
+MainDoor_L
+  rotate: false
+  xy: 336, 583
+  size: 159, 276
+  orig: 159, 276
+  offset: 0, 0
+  index: -1
+MainDoor_Lock
+  rotate: false
+  xy: 497, 778
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+MainDoor_R
+  rotate: false
+  xy: 2, 2
+  size: 158, 276
+  orig: 158, 276
+  offset: 0, 0
+  index: -1

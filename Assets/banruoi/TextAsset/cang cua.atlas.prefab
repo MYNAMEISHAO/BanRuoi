@@ -1,0 +1,27 @@
+
+cang cua.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cang phai
+  rotate: true
+  xy: 209, 45
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+Cang trai
+  rotate: true
+  xy: 2, 2
+  size: 98, 129
+  orig: 98, 129
+  offset: 0, 0
+  index: -1
+sung
+  rotate: false
+  xy: 133, 25
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1

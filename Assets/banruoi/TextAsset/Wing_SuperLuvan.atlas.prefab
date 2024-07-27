@@ -1,0 +1,55 @@
+
+Wing_SuperLuvan.png
+size: 144,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 44
+  rotate: false
+  xy: 2, 67
+  size: 83, 83
+  orig: 85, 85
+  offset: 1, 1
+  index: -1
+Layer 45
+  rotate: false
+  xy: 109, 21
+  size: 32, 36
+  orig: 34, 38
+  offset: 1, 1
+  index: -1
+Layer 46
+  rotate: false
+  xy: 87, 119
+  size: 49, 31
+  orig: 51, 33
+  offset: 1, 1
+  index: -1
+Layer 47
+  rotate: false
+  xy: 87, 59
+  size: 44, 58
+  orig: 46, 60
+  offset: 1, 1
+  index: -1
+Layer 48
+  rotate: false
+  xy: 2, 2
+  size: 36, 63
+  orig: 38, 65
+  offset: 1, 1
+  index: -1
+Layer 49
+  rotate: false
+  xy: 40, 4
+  size: 35, 61
+  orig: 37, 63
+  offset: 1, 1
+  index: -1
+Layer 55
+  rotate: false
+  xy: 77, 10
+  size: 30, 47
+  orig: 32, 49
+  offset: 1, 1
+  index: -1

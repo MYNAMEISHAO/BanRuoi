@@ -1,0 +1,181 @@
+
+Spine_Player_Tarragon_tier2.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TarragonDrone_Idle1
+  rotate: true
+  xy: 339, 6
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+TarragonDrone_Idle2
+  rotate: false
+  xy: 622, 79
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+TarragonDrone_Idle3
+  rotate: false
+  xy: 657, 79
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+TarragonDrone_Idle4
+  rotate: false
+  xy: 692, 79
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+TarragonDrone_Idle5
+  rotate: false
+  xy: 727, 79
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Tarragon_Fan1
+  rotate: false
+  xy: 386, 18
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Tarragon_Fan2
+  rotate: false
+  xy: 762, 103
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Tarragon_Fan3
+  rotate: false
+  xy: 762, 80
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Tarragon_Fan4
+  rotate: false
+  xy: 783, 103
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Tarragon_Fan5
+  rotate: false
+  xy: 783, 80
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+Tarragon_Head1
+  rotate: false
+  xy: 505, 61
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+Tarragon_Head2
+  rotate: true
+  xy: 209, 2
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+Tarragon_Head3
+  rotate: false
+  xy: 544, 61
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+Tarragon_Head4
+  rotate: true
+  xy: 274, 2
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+Tarragon_Head5
+  rotate: false
+  xy: 583, 61
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+Tarragon_TurnRight1
+  rotate: false
+  xy: 2, 41
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Tarragon_TurnRight2
+  rotate: false
+  xy: 87, 41
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Tarragon_TurnRight3
+  rotate: false
+  xy: 172, 41
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Tarragon_TurnRight4
+  rotate: false
+  xy: 257, 41
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Tarragon_TurnRight5
+  rotate: false
+  xy: 342, 41
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Tarragon_Wings1
+  rotate: true
+  xy: 2, 2
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+Tarragon_Wings2
+  rotate: false
+  xy: 427, 57
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+Tarragon_Wings3
+  rotate: true
+  xy: 71, 2
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+Tarragon_Wings4
+  rotate: false
+  xy: 466, 57
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+Tarragon_Wings5
+  rotate: true
+  xy: 140, 2
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1

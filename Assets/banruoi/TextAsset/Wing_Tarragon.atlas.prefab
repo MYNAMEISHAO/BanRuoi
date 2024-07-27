@@ -1,0 +1,55 @@
+
+Wing_Tarragon.png
+size: 228,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 147
+  rotate: false
+  xy: 113, 48
+  size: 54, 56
+  orig: 56, 58
+  offset: 1, 1
+  index: -1
+Layer 148
+  rotate: false
+  xy: 73, 2
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+Layer 149
+  rotate: false
+  xy: 169, 4
+  size: 42, 49
+  orig: 44, 51
+  offset: 1, 1
+  index: -1
+Layer 150
+  rotate: false
+  xy: 118, 5
+  size: 45, 41
+  orig: 47, 43
+  offset: 1, 1
+  index: -1
+Layer 157
+  rotate: false
+  xy: 73, 47
+  size: 38, 57
+  orig: 40, 59
+  offset: 1, 1
+  index: -1
+Layer 158
+  rotate: false
+  xy: 2, 20
+  size: 69, 84
+  orig: 71, 86
+  offset: 1, 1
+  index: -1
+Layer 159
+  rotate: false
+  xy: 169, 55
+  size: 57, 49
+  orig: 59, 51
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,167 @@
+
+Spine_Player_BrightFall_tier2_CBA.png
+size: 348,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bright Fall_tire2_CBA_duoi
+  rotate: false
+  xy: 172, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Bright Fall_tire2_CBA_gun
+  rotate: false
+  xy: 322, 19
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Bright Fall_tire2_CBA_gun2
+  rotate: false
+  xy: 294, 55
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Canh duoi1
+  rotate: false
+  xy: 238, 40
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Canh duoi2
+  rotate: false
+  xy: 266, 40
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Canh duoi3
+  rotate: false
+  xy: 238, 12
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Canh duoi4
+  rotate: false
+  xy: 266, 12
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Canh duoi5
+  rotate: false
+  xy: 294, 4
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Sung1
+  rotate: false
+  xy: 44, 18
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Sung2
+  rotate: false
+  xy: 108, 17
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Sung3
+  rotate: false
+  xy: 172, 16
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Sung4
+  rotate: false
+  xy: 194, 16
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Sung5
+  rotate: false
+  xy: 216, 16
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Turn1
+  rotate: false
+  xy: 2, 70
+  size: 71, 72
+  orig: 83, 83
+  offset: 5, 7
+  index: -1
+Turn2
+  rotate: false
+  xy: 75, 69
+  size: 65, 73
+  orig: 83, 83
+  offset: 6, 6
+  index: -1
+Turn3
+  rotate: false
+  xy: 142, 68
+  size: 59, 74
+  orig: 83, 83
+  offset: 8, 5
+  index: -1
+Turn4
+  rotate: false
+  xy: 203, 68
+  size: 51, 74
+  orig: 83, 83
+  offset: 12, 5
+  index: -1
+Turn5
+  rotate: false
+  xy: 256, 68
+  size: 48, 74
+  orig: 83, 83
+  offset: 13, 5
+  index: -1
+than1
+  rotate: false
+  xy: 306, 88
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+than2
+  rotate: false
+  xy: 306, 32
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+than3
+  rotate: false
+  xy: 2, 14
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+than4
+  rotate: false
+  xy: 66, 13
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+than5
+  rotate: false
+  xy: 130, 12
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1

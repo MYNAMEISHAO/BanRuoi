@@ -1,0 +1,496 @@
+
+Spine_Player_Plane_Sirius.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A/Sirius_A_Idle_0
+  rotate: false
+  xy: 2, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+A/Sirius_A_Idle_1
+  rotate: false
+  xy: 2, 852
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+A/Sirius_A_Idle_2
+  rotate: false
+  xy: 87, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+A/Sirius_A_Idle_3
+  rotate: false
+  xy: 2, 767
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+A/Sirius_A_Idle_4
+  rotate: false
+  xy: 87, 852
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+A/Sirius_A_turnright_0
+  rotate: false
+  xy: 172, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+A/Sirius_A_turnright_1
+  rotate: false
+  xy: 2, 682
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+A/Sirius_A_turnright_2
+  rotate: false
+  xy: 87, 767
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+A/Sirius_A_turnright_3
+  rotate: false
+  xy: 172, 852
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+A/Sirius_A_turnright_4
+  rotate: false
+  xy: 257, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+S/Sirius_S_Idle_0
+  rotate: false
+  xy: 2, 597
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+S/Sirius_S_Idle_1
+  rotate: false
+  xy: 87, 682
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+S/Sirius_S_Idle_2
+  rotate: false
+  xy: 172, 767
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+S/Sirius_S_Idle_3
+  rotate: false
+  xy: 257, 852
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+S/Sirius_S_Idle_4
+  rotate: false
+  xy: 342, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+S/Sirius_S_turnright_0
+  rotate: false
+  xy: 2, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+S/Sirius_S_turnright_1
+  rotate: false
+  xy: 87, 597
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+S/Sirius_S_turnright_2
+  rotate: false
+  xy: 172, 682
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+S/Sirius_S_turnright_3
+  rotate: false
+  xy: 257, 767
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+S/Sirius_S_turnright_4
+  rotate: false
+  xy: 342, 852
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SS/Sirius_SS_Idle_0
+  rotate: false
+  xy: 427, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SS/Sirius_SS_Idle_1
+  rotate: false
+  xy: 2, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SS/Sirius_SS_Idle_2
+  rotate: false
+  xy: 87, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SS/Sirius_SS_Idle_3
+  rotate: false
+  xy: 172, 597
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SS/Sirius_SS_Idle_4
+  rotate: false
+  xy: 257, 682
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SS/Sirius_SS_turnright_0
+  rotate: false
+  xy: 342, 767
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SS/Sirius_SS_turnright_1
+  rotate: false
+  xy: 427, 852
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SS/Sirius_SS_turnright_2
+  rotate: false
+  xy: 512, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SS/Sirius_SS_turnright_3
+  rotate: false
+  xy: 2, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SS/Sirius_SS_turnright_4
+  rotate: false
+  xy: 87, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/Sirius_SSS_Idle_0
+  rotate: false
+  xy: 172, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/Sirius_SSS_Idle_1
+  rotate: false
+  xy: 257, 597
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/Sirius_SSS_Idle_2
+  rotate: false
+  xy: 342, 682
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/Sirius_SSS_Idle_3
+  rotate: false
+  xy: 427, 767
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/Sirius_SSS_Idle_4
+  rotate: false
+  xy: 512, 852
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/Sirius_SSS_turnright_0
+  rotate: false
+  xy: 597, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/Sirius_SSS_turnright_1
+  rotate: false
+  xy: 2, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/Sirius_SSS_turnright_2
+  rotate: false
+  xy: 87, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/Sirius_SSS_turnright_3
+  rotate: false
+  xy: 172, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/Sirius_SSS_turnright_4
+  rotate: false
+  xy: 257, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/Sirius_X_Idle_0
+  rotate: false
+  xy: 342, 597
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/Sirius_X_Idle_1
+  rotate: false
+  xy: 427, 682
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/Sirius_X_Idle_2
+  rotate: false
+  xy: 512, 767
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/Sirius_X_Idle_3
+  rotate: false
+  xy: 597, 852
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/Sirius_X_Idle_4
+  rotate: false
+  xy: 682, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/Sirius_X_turnright_0
+  rotate: false
+  xy: 2, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/Sirius_X_turnright_1
+  rotate: false
+  xy: 87, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/Sirius_X_turnright_2
+  rotate: false
+  xy: 172, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/Sirius_X_turnright_3
+  rotate: false
+  xy: 257, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/Sirius_X_turnright_4
+  rotate: false
+  xy: 342, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/Sirius_XX_Idle_0
+  rotate: false
+  xy: 427, 597
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/Sirius_XX_Idle_1
+  rotate: false
+  xy: 512, 682
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/Sirius_XX_Idle_2
+  rotate: false
+  xy: 597, 767
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/Sirius_XX_Idle_3
+  rotate: false
+  xy: 682, 852
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/Sirius_XX_Idle_4
+  rotate: false
+  xy: 767, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/Sirius_XX_turnright_0
+  rotate: false
+  xy: 2, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/Sirius_XX_turnright_1
+  rotate: false
+  xy: 87, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/Sirius_XX_turnright_2
+  rotate: false
+  xy: 172, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/Sirius_XX_turnright_3
+  rotate: false
+  xy: 257, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/Sirius_XX_turnright_4
+  rotate: false
+  xy: 342, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/Sirius_XXX_Idle_0
+  rotate: false
+  xy: 427, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/Sirius_XXX_Idle_1
+  rotate: false
+  xy: 512, 597
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/Sirius_XXX_Idle_2
+  rotate: false
+  xy: 597, 682
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/Sirius_XXX_Idle_3
+  rotate: false
+  xy: 682, 767
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/Sirius_XXX_Idle_4
+  rotate: false
+  xy: 767, 852
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/Sirius_XXX_turnright_0
+  rotate: false
+  xy: 852, 937
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/Sirius_XXX_turnright_1
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/Sirius_XXX_turnright_2
+  rotate: false
+  xy: 87, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/Sirius_XXX_turnright_3
+  rotate: false
+  xy: 172, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/Sirius_XXX_turnright_4
+  rotate: false
+  xy: 257, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

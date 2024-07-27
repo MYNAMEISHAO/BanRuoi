@@ -1,0 +1,27 @@
+
+Spine_DroneTier2_Octavia.png
+size: 432,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T1
+  rotate: false
+  xy: 2, 2
+  size: 198, 378
+  orig: 198, 378
+  offset: 0, 0
+  index: -1
+T2
+  rotate: false
+  xy: 202, 9
+  size: 198, 371
+  orig: 198, 378
+  offset: 0, 7
+  index: -1
+glow_blue3tail
+  rotate: false
+  xy: 402, 276
+  size: 27, 104
+  orig: 32, 128
+  offset: 3, 12
+  index: -1

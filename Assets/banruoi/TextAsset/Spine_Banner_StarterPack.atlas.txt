@@ -1,0 +1,181 @@
+
+Spine_Banner_StarterPack.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 2, 6
+  size: 173, 113
+  orig: 173, 113
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 2, 121
+  size: 527, 302
+  orig: 527, 302
+  offset: 0, 0
+  index: -1
+Layer 3 copy
+  rotate: true
+  xy: 903, 671
+  size: 100, 119
+  orig: 100, 119
+  offset: 0, 0
+  index: -1
+Layer 4 copy
+  rotate: false
+  xy: 904, 515
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+Layer 5 copy
+  rotate: false
+  xy: 984, 608
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+Layer 89's Outer Glow
+  rotate: true
+  xy: 411, 28
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 674, 596
+  size: 227, 175
+  orig: 227, 175
+  offset: 0, 0
+  index: -1
+flame ship
+  rotate: false
+  xy: 674, 773
+  size: 250, 249
+  orig: 250, 249
+  offset: 0, 0
+  index: -1
+flame1
+  rotate: false
+  xy: 674, 433
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+flame2
+  rotate: true
+  xy: 618, 202
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+gold gate
+  rotate: false
+  xy: 903, 600
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+gold gate's Outer Glow
+  rotate: false
+  xy: 674, 485
+  size: 115, 109
+  orig: 115, 109
+  offset: 0, 0
+  index: -1
+gun1
+  rotate: false
+  xy: 177, 34
+  size: 137, 85
+  orig: 137, 85
+  offset: 0, 0
+  index: -1
+gun2
+  rotate: true
+  xy: 531, 158
+  size: 137, 85
+  orig: 137, 85
+  offset: 0, 0
+  index: -1
+light copy
+  rotate: false
+  xy: 2, 425
+  size: 670, 597
+  orig: 670, 597
+  offset: 0, 0
+  index: -1
+lightgun1_1
+  rotate: true
+  xy: 177, 2
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+lightgun1_2
+  rotate: true
+  xy: 316, 29
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+lightgun1_3
+  rotate: false
+  xy: 926, 773
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+lightgun2_1
+  rotate: false
+  xy: 974, 775
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+lightgun2_2
+  rotate: false
+  xy: 531, 76
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+lightgun2_3
+  rotate: false
+  xy: 926, 823
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+lightspaceship
+  rotate: false
+  xy: 531, 297
+  size: 123, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1
+lightsubgun
+  rotate: false
+  xy: 904, 453
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+pngfuel.com
+  rotate: false
+  xy: 791, 483
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+pngfuel.com2
+  rotate: true
+  xy: 926, 920
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1

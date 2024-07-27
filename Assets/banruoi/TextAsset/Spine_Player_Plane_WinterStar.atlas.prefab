@@ -1,0 +1,286 @@
+
+Spine_Player_Plane_WinterStar.png
+size: 600,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Winter_Star_TurnRight1
+  rotate: false
+  xy: 2, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_TurnRight2
+  rotate: false
+  xy: 2, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_TurnRight3
+  rotate: false
+  xy: 87, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_TurnRight4
+  rotate: false
+  xy: 2, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_TurnRight5
+  rotate: false
+  xy: 87, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XXX_TurnRight1
+  rotate: false
+  xy: 172, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XXX_TurnRight2
+  rotate: false
+  xy: 172, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XXX_TurnRight3
+  rotate: false
+  xy: 87, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XXX_TurnRight4
+  rotate: false
+  xy: 427, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XXX_TurnRight5
+  rotate: false
+  xy: 257, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XXX_idle1
+  rotate: false
+  xy: 87, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XXX_idle2
+  rotate: false
+  xy: 87, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XXX_idle3
+  rotate: false
+  xy: 2, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XXX_idle4
+  rotate: false
+  xy: 342, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XXX_idle5
+  rotate: false
+  xy: 172, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XX_TurnRight1
+  rotate: false
+  xy: 172, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XX_TurnRight2
+  rotate: false
+  xy: 257, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XX_TurnRight3
+  rotate: false
+  xy: 257, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XX_TurnRight4
+  rotate: false
+  xy: 172, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XX_TurnRight5
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XX_idle1
+  rotate: false
+  xy: 2, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XX_idle2
+  rotate: false
+  xy: 2, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XX_idle3
+  rotate: false
+  xy: 342, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XX_idle4
+  rotate: false
+  xy: 257, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_XX_idle5
+  rotate: false
+  xy: 87, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_X_TurnRight1
+  rotate: false
+  xy: 342, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_X_TurnRight2
+  rotate: false
+  xy: 427, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_X_TurnRight3
+  rotate: false
+  xy: 512, 512
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_X_TurnRight4
+  rotate: false
+  xy: 87, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_X_TurnRight5
+  rotate: false
+  xy: 172, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_X_idle1
+  rotate: false
+  xy: 257, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_X_idle2
+  rotate: false
+  xy: 342, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_X_idle3
+  rotate: false
+  xy: 427, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_X_idle4
+  rotate: false
+  xy: 512, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_X_idle5
+  rotate: false
+  xy: 172, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_idle1
+  rotate: false
+  xy: 257, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_idle2
+  rotate: false
+  xy: 342, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_idle3
+  rotate: false
+  xy: 427, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_idle4
+  rotate: false
+  xy: 512, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Winter_Star_idle5
+  rotate: false
+  xy: 257, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

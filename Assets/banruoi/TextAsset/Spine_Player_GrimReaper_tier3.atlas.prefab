@@ -1,0 +1,251 @@
+
+Spine_Player_GrimReaper_tier3.png
+size: 160,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Grim Reaper_Base1
+  rotate: false
+  xy: 2, 3
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Grim Reaper_Base2
+  rotate: false
+  xy: 35, 3
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Grim Reaper_Base3
+  rotate: false
+  xy: 68, 2
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Grim Reaper_Base4
+  rotate: false
+  xy: 101, 2
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Grim Reaper_Base5
+  rotate: false
+  xy: 124, 347
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Grim Reaper_Gun1
+  rotate: false
+  xy: 119, 307
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Grim Reaper_Gun2
+  rotate: false
+  xy: 119, 267
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Grim Reaper_Gun3
+  rotate: false
+  xy: 110, 225
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Grim Reaper_Gun4
+  rotate: false
+  xy: 110, 185
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Grim Reaper_Gun5
+  rotate: false
+  xy: 110, 145
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+Grim Reaper_Head1
+  rotate: false
+  xy: 87, 471
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+Grim Reaper_Head2
+  rotate: false
+  xy: 2, 46
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+Grim Reaper_Head3
+  rotate: false
+  xy: 87, 414
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+Grim Reaper_Head4
+  rotate: false
+  xy: 39, 46
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+Grim Reaper_Head5
+  rotate: false
+  xy: 87, 357
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+Grim Reaper_Largerwings1
+  rotate: false
+  xy: 110, 114
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Grim Reaper_Largerwings2
+  rotate: false
+  xy: 132, 114
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Grim Reaper_Largerwings3
+  rotate: false
+  xy: 122, 83
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Grim Reaper_Largerwings4
+  rotate: false
+  xy: 122, 52
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Grim Reaper_Largerwings5
+  rotate: false
+  xy: 134, 21
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+Grim Reaper_Spear1
+  rotate: false
+  xy: 124, 482
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Grim Reaper_Spear2
+  rotate: false
+  xy: 87, 311
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Grim Reaper_Spear3
+  rotate: false
+  xy: 124, 436
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Grim Reaper_Spear4
+  rotate: false
+  xy: 87, 265
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Grim Reaper_Spear5
+  rotate: false
+  xy: 124, 390
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+Grim Reaper_Tail1
+  rotate: false
+  xy: 87, 210
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+Grim Reaper_Tail2
+  rotate: false
+  xy: 87, 155
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+Grim Reaper_Tail3
+  rotate: false
+  xy: 87, 100
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+Grim Reaper_Tail4
+  rotate: false
+  xy: 76, 45
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+Grim Reaper_Tail5
+  rotate: false
+  xy: 99, 45
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+Grim Reaper_TurnRight1
+  rotate: false
+  xy: 2, 443
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Grim Reaper_TurnRight2
+  rotate: false
+  xy: 2, 358
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Grim Reaper_TurnRight3
+  rotate: false
+  xy: 2, 273
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Grim Reaper_TurnRight4
+  rotate: false
+  xy: 2, 188
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Grim Reaper_TurnRight5
+  rotate: false
+  xy: 2, 103
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+Spine_UI_Merge_SideDoor.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MainHandle_Bareel
+  rotate: true
+  xy: 214, 8
+  size: 32, 107
+  orig: 32, 107
+  offset: 0, 0
+  index: -1
+MainHandle_Base
+  rotate: true
+  xy: 911, 138
+  size: 116, 40
+  orig: 116, 40
+  offset: 0, 0
+  index: -1
+MainHandle_Body
+  rotate: true
+  xy: 214, 42
+  size: 46, 187
+  orig: 46, 187
+  offset: 0, 0
+  index: -1
+MainHandle_Circle
+  rotate: false
+  xy: 870, 74
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+MainHandle_Door
+  rotate: true
+  xy: 469, 21
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+MainHandle_Tip
+  rotate: false
+  xy: 911, 73
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+MainPittong_HandL
+  rotate: true
+  xy: 953, 166
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+MainPittong_HandL_Base
+  rotate: true
+  xy: 323, 25
+  size: 15, 49
+  orig: 15, 49
+  offset: 0, 0
+  index: -1
+MainPittong_HandR
+  rotate: true
+  xy: 403, 30
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+SideDoorBG_Door
+  rotate: false
+  xy: 472, 106
+  size: 220, 148
+  orig: 220, 148
+  offset: 0, 0
+  index: -1
+SideDoorFG
+  rotate: false
+  xy: 214, 90
+  size: 256, 164
+  orig: 256, 164
+  offset: 0, 0
+  index: -1
+SideDoor_BG
+  rotate: false
+  xy: 2, 10
+  size: 210, 244
+  orig: 210, 244
+  offset: 0, 0
+  index: -1
+SideDoor_DoorL
+  rotate: true
+  xy: 694, 162
+  size: 92, 174
+  orig: 92, 174
+  offset: 0, 0
+  index: -1
+SideDoor_DoorL_Light
+  rotate: false
+  xy: 870, 103
+  size: 39, 151
+  orig: 39, 151
+  offset: 0, 0
+  index: -1
+SideDoor_DoorL_Light2
+  rotate: false
+  xy: 323, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+SideDoor_DoorLockL
+  rotate: true
+  xy: 323, 12
+  size: 11, 51
+  orig: 11, 51
+  offset: 0, 0
+  index: -1
+SideDoor_DoorLockR
+  rotate: false
+  xy: 559, 15
+  size: 11, 51
+  orig: 11, 51
+  offset: 0, 0
+  index: -1
+SideDoor_DoorR
+  rotate: true
+  xy: 694, 68
+  size: 92, 174
+  orig: 92, 174
+  offset: 0, 0
+  index: -1
+SideDoor_DoorR_Light
+  rotate: true
+  xy: 953, 145
+  size: 19, 69
+  orig: 19, 69
+  offset: 0, 0
+  index: -1
+SideDoor_DoorR_Light2
+  rotate: true
+  xy: 592, 75
+  size: 29, 81
+  orig: 29, 81
+  offset: 0, 0
+  index: -1
+SideDoor_Star_tier1
+  rotate: false
+  xy: 472, 87
+  size: 118, 17
+  orig: 118, 17
+  offset: 0, 0
+  index: -1
+SideDoor_Star_tier2
+  rotate: false
+  xy: 469, 68
+  size: 118, 17
+  orig: 118, 17
+  offset: 0, 0
+  index: -1

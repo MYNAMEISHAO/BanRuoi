@@ -1,0 +1,629 @@
+
+Spine_Player_Plane_Auxo.png
+size: 2036,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Auxo_A/Auxo_A_IdleL1
+  rotate: false
+  xy: 455, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_A/Auxo_A_IdleL2
+  rotate: false
+  xy: 518, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_A/Auxo_A_IdleL3
+  rotate: false
+  xy: 581, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_A/Auxo_A_IdleL4
+  rotate: false
+  xy: 644, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_A/Auxo_A_IdleL5
+  rotate: false
+  xy: 707, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_A/Auxo_A_TurnR1
+  rotate: false
+  xy: 65, 8
+  size: 60, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_A/Auxo_A_TurnR2
+  rotate: false
+  xy: 251, 8
+  size: 57, 61
+  orig: 83, 83
+  offset: 12, 10
+  index: -1
+Auxo_A/Auxo_A_TurnR3
+  rotate: false
+  xy: 1337, 71
+  size: 54, 61
+  orig: 83, 83
+  offset: 13, 10
+  index: -1
+Auxo_A/Auxo_A_TurnR4
+  rotate: false
+  xy: 1982, 6
+  size: 52, 61
+  orig: 83, 83
+  offset: 15, 10
+  index: -1
+Auxo_A/Auxo_A_TurnR5
+  rotate: false
+  xy: 878, 8
+  size: 51, 61
+  orig: 83, 83
+  offset: 16, 10
+  index: -1
+Auxo_B/Auxo_B_Idle1
+  rotate: false
+  xy: 833, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_B/Auxo_B_Idle2
+  rotate: false
+  xy: 959, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_B/Auxo_B_Idle3
+  rotate: false
+  xy: 1085, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_B/Auxo_B_Idle4
+  rotate: false
+  xy: 1211, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_B/Auxo_B_Idle5
+  rotate: false
+  xy: 2, 8
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_B/Auxo_B_Turn_R1
+  rotate: false
+  xy: 189, 8
+  size: 60, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_B/Auxo_B_Turn_R2
+  rotate: false
+  xy: 369, 8
+  size: 57, 61
+  orig: 83, 83
+  offset: 12, 10
+  index: -1
+Auxo_B/Auxo_B_Turn_R3
+  rotate: false
+  xy: 602, 8
+  size: 54, 61
+  orig: 83, 83
+  offset: 13, 10
+  index: -1
+Auxo_B/Auxo_B_Turn_R4
+  rotate: false
+  xy: 824, 8
+  size: 52, 61
+  orig: 83, 83
+  offset: 15, 10
+  index: -1
+Auxo_B/Auxo_B_Turn_R5
+  rotate: false
+  xy: 984, 8
+  size: 51, 61
+  orig: 83, 83
+  offset: 16, 10
+  index: -1
+Auxo_C/Auxo_C_Idle1
+  rotate: false
+  xy: 770, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_C/Auxo_C_Idle2
+  rotate: false
+  xy: 896, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_C/Auxo_C_Idle3
+  rotate: false
+  xy: 1022, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_C/Auxo_C_Idle4
+  rotate: false
+  xy: 1148, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_C/Auxo_C_Idle5
+  rotate: false
+  xy: 1274, 71
+  size: 61, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_C/Auxo_C_TurnR1
+  rotate: false
+  xy: 127, 8
+  size: 60, 61
+  orig: 83, 83
+  offset: 11, 10
+  index: -1
+Auxo_C/Auxo_C_TurnR2
+  rotate: false
+  xy: 310, 8
+  size: 57, 61
+  orig: 83, 83
+  offset: 12, 10
+  index: -1
+Auxo_C/Auxo_C_TurnR3
+  rotate: false
+  xy: 546, 8
+  size: 54, 61
+  orig: 83, 83
+  offset: 13, 10
+  index: -1
+Auxo_C/Auxo_C_TurnR4
+  rotate: false
+  xy: 770, 8
+  size: 52, 61
+  orig: 83, 83
+  offset: 15, 10
+  index: -1
+Auxo_C/Auxo_C_TurnR5
+  rotate: false
+  xy: 931, 8
+  size: 51, 61
+  orig: 83, 83
+  offset: 16, 10
+  index: -1
+Auxo_S/Auxo_S_Idle1
+  rotate: false
+  xy: 1657, 6
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_S/Auxo_S_Idle2
+  rotate: false
+  xy: 1722, 6
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_S/Auxo_S_Idle3
+  rotate: false
+  xy: 1787, 6
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_S/Auxo_S_Idle4
+  rotate: false
+  xy: 1852, 6
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_S/Auxo_S_Idle5
+  rotate: false
+  xy: 1917, 6
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_S/Auxo_S_TurnR1
+  rotate: false
+  xy: 327, 71
+  size: 62, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_S/Auxo_S_TurnR2
+  rotate: false
+  xy: 428, 8
+  size: 57, 61
+  orig: 83, 83
+  offset: 12, 10
+  index: -1
+Auxo_S/Auxo_S_TurnR3
+  rotate: false
+  xy: 658, 8
+  size: 54, 61
+  orig: 83, 83
+  offset: 14, 10
+  index: -1
+Auxo_S/Auxo_S_TurnR4
+  rotate: false
+  xy: 1037, 8
+  size: 51, 61
+  orig: 83, 83
+  offset: 15, 10
+  index: -1
+Auxo_S/Auxo_S_TurnR5
+  rotate: false
+  xy: 1143, 8
+  size: 49, 61
+  orig: 83, 83
+  offset: 17, 10
+  index: -1
+Auxo_SS/Auxo_SS_Idle1
+  rotate: false
+  xy: 2, 71
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_SS/Auxo_SS_Idle2
+  rotate: false
+  xy: 67, 71
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_SS/Auxo_SS_Idle3
+  rotate: false
+  xy: 132, 71
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_SS/Auxo_SS_Idle4
+  rotate: false
+  xy: 197, 71
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_SS/Auxo_SS_Idle5
+  rotate: false
+  xy: 262, 71
+  size: 63, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_SS/Auxo_SS_Turn_R1
+  rotate: false
+  xy: 391, 71
+  size: 62, 61
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_SS/Auxo_SS_Turn_R2
+  rotate: false
+  xy: 487, 8
+  size: 57, 61
+  orig: 83, 83
+  offset: 12, 10
+  index: -1
+Auxo_SS/Auxo_SS_Turn_R3
+  rotate: false
+  xy: 714, 8
+  size: 54, 61
+  orig: 83, 83
+  offset: 14, 10
+  index: -1
+Auxo_SS/Auxo_SS_Turn_R4
+  rotate: false
+  xy: 1090, 8
+  size: 51, 61
+  orig: 83, 83
+  offset: 15, 10
+  index: -1
+Auxo_SS/Auxo_SS_Turn_R5
+  rotate: false
+  xy: 1194, 8
+  size: 49, 61
+  orig: 83, 83
+  offset: 17, 10
+  index: -1
+Auxo_SSS/Auxo_SSS_Idle1
+  rotate: false
+  xy: 1532, 69
+  size: 71, 65
+  orig: 83, 83
+  offset: 6, 10
+  index: -1
+Auxo_SSS/Auxo_SSS_Idle2
+  rotate: false
+  xy: 1605, 69
+  size: 71, 65
+  orig: 83, 83
+  offset: 6, 10
+  index: -1
+Auxo_SSS/Auxo_SSS_Idle3
+  rotate: false
+  xy: 1678, 69
+  size: 71, 65
+  orig: 83, 83
+  offset: 6, 10
+  index: -1
+Auxo_SSS/Auxo_SSS_Idle4
+  rotate: false
+  xy: 1751, 69
+  size: 71, 65
+  orig: 83, 83
+  offset: 6, 10
+  index: -1
+Auxo_SSS/Auxo_SSS_Idle5
+  rotate: false
+  xy: 1824, 69
+  size: 71, 65
+  orig: 83, 83
+  offset: 6, 10
+  index: -1
+Auxo_SSS/Auxo_SSS_TurnR1
+  rotate: false
+  xy: 1897, 69
+  size: 69, 65
+  orig: 83, 83
+  offset: 6, 10
+  index: -1
+Auxo_SSS/Auxo_SSS_TurnR2
+  rotate: false
+  xy: 1968, 69
+  size: 66, 65
+  orig: 83, 83
+  offset: 7, 10
+  index: -1
+Auxo_SSS/Auxo_SSS_TurnR3
+  rotate: false
+  xy: 1532, 2
+  size: 62, 65
+  orig: 83, 83
+  offset: 9, 10
+  index: -1
+Auxo_SSS/Auxo_SSS_TurnR4
+  rotate: false
+  xy: 1596, 2
+  size: 59, 65
+  orig: 83, 83
+  offset: 10, 10
+  index: -1
+Auxo_X/Auxo_X_Idle1
+  rotate: false
+  xy: 2, 134
+  size: 71, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_X/Auxo_X_Idle2
+  rotate: false
+  xy: 75, 134
+  size: 71, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_X/Auxo_X_Idle3
+  rotate: false
+  xy: 148, 134
+  size: 71, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_X/Auxo_X_Idle4
+  rotate: false
+  xy: 221, 134
+  size: 71, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_X/Auxo_X_Idle5
+  rotate: false
+  xy: 294, 134
+  size: 71, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_X/Auxo_X_Turn_R1
+  rotate: false
+  xy: 732, 134
+  size: 70, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_X/Auxo_X_Turn_R2
+  rotate: false
+  xy: 876, 134
+  size: 68, 79
+  orig: 83, 83
+  offset: 7, 2
+  index: -1
+Auxo_X/Auxo_X_Turn_R3
+  rotate: false
+  xy: 1016, 134
+  size: 64, 79
+  orig: 83, 83
+  offset: 9, 2
+  index: -1
+Auxo_X/Auxo_X_Turn_R4
+  rotate: false
+  xy: 1148, 134
+  size: 61, 79
+  orig: 83, 83
+  offset: 10, 2
+  index: -1
+Auxo_X/Auxo_X_Turn_R5
+  rotate: false
+  xy: 1274, 134
+  size: 58, 79
+  orig: 83, 83
+  offset: 11, 2
+  index: -1
+Auxo_XX/Auxo_XX_Idle1
+  rotate: false
+  xy: 367, 134
+  size: 71, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_XX/Auxo_XX_Idle2
+  rotate: false
+  xy: 440, 134
+  size: 71, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_XX/Auxo_XX_Idle3
+  rotate: false
+  xy: 513, 134
+  size: 71, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_XX/Auxo_XX_Idle4
+  rotate: false
+  xy: 586, 134
+  size: 71, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_XX/Auxo_XX_Idle5
+  rotate: false
+  xy: 659, 134
+  size: 71, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_XX/Auxo_XX_Turn_R1
+  rotate: false
+  xy: 804, 134
+  size: 70, 79
+  orig: 83, 83
+  offset: 6, 2
+  index: -1
+Auxo_XX/Auxo_XX_Turn_R2
+  rotate: false
+  xy: 946, 134
+  size: 68, 79
+  orig: 83, 83
+  offset: 7, 2
+  index: -1
+Auxo_XX/Auxo_XX_Turn_R3
+  rotate: false
+  xy: 1082, 134
+  size: 64, 79
+  orig: 83, 83
+  offset: 9, 2
+  index: -1
+Auxo_XX/Auxo_XX_Turn_R4
+  rotate: false
+  xy: 1211, 134
+  size: 61, 79
+  orig: 83, 83
+  offset: 10, 2
+  index: -1
+Auxo_XX/Auxo_XX_Turn_R5
+  rotate: false
+  xy: 1334, 134
+  size: 58, 79
+  orig: 83, 83
+  offset: 11, 2
+  index: -1
+Auxo_XXX/Auxo_XXX_Idle1
+  rotate: false
+  xy: 1474, 136
+  size: 77, 77
+  orig: 83, 83
+  offset: 3, 3
+  index: -1
+Auxo_XXX/Auxo_XXX_Idle2
+  rotate: false
+  xy: 1553, 136
+  size: 77, 77
+  orig: 83, 83
+  offset: 3, 3
+  index: -1
+Auxo_XXX/Auxo_XXX_Idle3
+  rotate: false
+  xy: 1632, 136
+  size: 77, 77
+  orig: 83, 83
+  offset: 3, 3
+  index: -1
+Auxo_XXX/Auxo_XXX_Idle4
+  rotate: false
+  xy: 1711, 136
+  size: 77, 77
+  orig: 83, 83
+  offset: 3, 3
+  index: -1
+Auxo_XXX/Auxo_XXX_Idle5
+  rotate: false
+  xy: 1790, 136
+  size: 77, 77
+  orig: 83, 83
+  offset: 3, 3
+  index: -1
+Auxo_XXX/Auxo_XXX_TurnR1
+  rotate: false
+  xy: 1394, 136
+  size: 78, 77
+  orig: 83, 83
+  offset: 2, 3
+  index: -1
+Auxo_XXX/Auxo_XXX_TurnR2
+  rotate: false
+  xy: 1869, 136
+  size: 75, 77
+  orig: 83, 83
+  offset: 3, 3
+  index: -1
+Auxo_XXX/Auxo_XXX_TurnR3
+  rotate: false
+  xy: 1946, 136
+  size: 73, 77
+  orig: 83, 83
+  offset: 4, 3
+  index: -1
+Auxo_XXX/Auxo_XXX_TurnR4
+  rotate: false
+  xy: 1394, 57
+  size: 69, 77
+  orig: 83, 83
+  offset: 5, 3
+  index: -1
+Auxo_XXX/Auxo_XXX_TurnR5
+  rotate: false
+  xy: 1465, 57
+  size: 65, 77
+  orig: 83, 83
+  offset: 6, 3
+  index: -1

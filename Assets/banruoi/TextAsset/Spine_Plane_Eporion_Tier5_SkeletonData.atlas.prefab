@@ -1,0 +1,335 @@
+
+Spine_Plane_Eporion_Tier5_SkeletonData.png
+size: 900,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 856, 103
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 318, 6
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 318, 26
+  size: 98, 21
+  orig: 98, 21
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 728, 86
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 833, 53
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 644, 48
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 582, 69
+  size: 58, 105
+  orig: 58, 105
+  offset: 0, 0
+  index: -1
+CANH CO MAT1
+  rotate: true
+  xy: 2, 2
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+CANH CO MAT2
+  rotate: true
+  xy: 48, 2
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+CANH CO MAT3
+  rotate: true
+  xy: 94, 2
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+CANH CO MAT4
+  rotate: true
+  xy: 140, 2
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+CANH CO MAT5
+  rotate: true
+  xy: 186, 2
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+CANH NHO TREN1
+  rotate: true
+  xy: 702, 18
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+CANH NHO TREN2
+  rotate: false
+  xy: 728, 58
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+CANH NHO TREN3
+  rotate: true
+  xy: 730, 21
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+CANH NHO TREN4
+  rotate: false
+  xy: 796, 56
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+CANH NHO TREN5
+  rotate: false
+  xy: 758, 26
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+Eporion-Tier_4_Turn1
+  rotate: false
+  xy: 2, 49
+  size: 126, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+Eporion-Tier_4_Turn2
+  rotate: false
+  xy: 130, 49
+  size: 122, 125
+  orig: 128, 125
+  offset: 1, 0
+  index: -1
+Eporion-Tier_4_Turn3
+  rotate: false
+  xy: 254, 49
+  size: 116, 125
+  orig: 128, 125
+  offset: 3, 0
+  index: -1
+Eporion-Tier_4_Turn4
+  rotate: false
+  xy: 372, 49
+  size: 108, 125
+  orig: 128, 125
+  offset: 5, 0
+  index: -1
+Eporion-Tier_4_Turn5
+  rotate: false
+  xy: 482, 49
+  size: 98, 125
+  orig: 128, 125
+  offset: 8, 0
+  index: -1
+V1
+  rotate: true
+  xy: 702, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+V2
+  rotate: true
+  xy: 702, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+V3
+  rotate: true
+  xy: 702, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+V4
+  rotate: true
+  xy: 702, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+V5
+  rotate: true
+  xy: 702, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+cANH NHO DUOI1
+  rotate: true
+  xy: 765, 54
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+cANH NHO DUOI2
+  rotate: false
+  xy: 854, 43
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+cANH NHO DUOI3
+  rotate: false
+  xy: 796, 25
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+cANH NHO DUOI4
+  rotate: false
+  xy: 828, 12
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+cANH NHO DUOI5
+  rotate: false
+  xy: 860, 12
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+dAU THO1
+  rotate: false
+  xy: 642, 130
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+dAU THO2
+  rotate: false
+  xy: 232, 3
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+dAU THO3
+  rotate: false
+  xy: 642, 84
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+dAU THO4
+  rotate: false
+  xy: 728, 130
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+dAU THO5
+  rotate: false
+  xy: 814, 130
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+oNG PHAN LUC1
+  rotate: false
+  xy: 856, 74
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+oNG PHAN LUC5
+  rotate: false
+  xy: 856, 74
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+oNG PHAN LUC2
+  rotate: false
+  xy: 681, 55
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+oNG PHAN LUC3
+  rotate: true
+  xy: 644, 8
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+oNG PHAN LUC4
+  rotate: true
+  xy: 673, 8
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+tAI THO1
+  rotate: true
+  xy: 796, 84
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+tAI THO2
+  rotate: true
+  xy: 418, 3
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+tAI THO3
+  rotate: true
+  xy: 478, 3
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+tAI THO4
+  rotate: true
+  xy: 538, 3
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+tAI THO5
+  rotate: false
+  xy: 598, 9
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1

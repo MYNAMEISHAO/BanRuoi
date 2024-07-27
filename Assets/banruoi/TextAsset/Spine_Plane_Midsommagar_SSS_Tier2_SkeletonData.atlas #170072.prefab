@@ -1,0 +1,174 @@
+
+Spine_Plane_Midsommagar_SSS_Tier2_SkeletonData.png
+size: 204,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Midsommagar_SSS1
+  rotate: true
+  xy: 2, 196
+  size: 68, 74
+  orig: 83, 83
+  offset: 8, 4
+  index: -1
+Midsommagar_SSS2
+  rotate: true
+  xy: 78, 201
+  size: 63, 74
+  orig: 83, 83
+  offset: 9, 4
+  index: -1
+Midsommagar_SSS3
+  rotate: true
+  xy: 78, 142
+  size: 57, 74
+  orig: 83, 83
+  offset: 11, 4
+  index: -1
+Midsommagar_SSS4
+  rotate: true
+  xy: 2, 139
+  size: 55, 74
+  orig: 83, 83
+  offset: 11, 4
+  index: -1
+Midsommagar_SSS5
+  rotate: true
+  xy: 78, 88
+  size: 52, 74
+  orig: 83, 83
+  offset: 12, 4
+  index: -1
+Midsommagar_SSS_canhbe1
+  rotate: true
+  xy: 143, 26
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhbe2
+  rotate: true
+  xy: 115, 15
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhbe3
+  rotate: false
+  xy: 137, 4
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhbe4
+  rotate: true
+  xy: 165, 26
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhbe5
+  rotate: false
+  xy: 167, 4
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhbetren
+  rotate: false
+  xy: 57, 13
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhduoi
+  rotate: false
+  xy: 143, 56
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhto1
+  rotate: true
+  xy: 72, 60
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhto2
+  rotate: false
+  xy: 115, 45
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhto3
+  rotate: false
+  xy: 30, 2
+  size: 25, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhto4
+  rotate: true
+  xy: 72, 32
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_canhto5
+  rotate: false
+  xy: 2, 2
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_ongxa
+  rotate: false
+  xy: 143, 74
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_sungdau
+  rotate: true
+  xy: 57, 36
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Midsommagar_SSS_than1
+  rotate: false
+  xy: 154, 196
+  size: 45, 68
+  orig: 83, 83
+  offset: 20, 4
+  index: -1
+Midsommagar_SSS_than2
+  rotate: false
+  xy: 154, 126
+  size: 45, 68
+  orig: 83, 83
+  offset: 20, 4
+  index: -1
+Midsommagar_SSS_than3
+  rotate: false
+  xy: 154, 56
+  size: 45, 68
+  orig: 83, 83
+  offset: 20, 4
+  index: -1
+Midsommagar_SSS_than4
+  rotate: true
+  xy: 2, 92
+  size: 45, 68
+  orig: 83, 83
+  offset: 20, 4
+  index: -1
+Midsommagar_SSS_than5
+  rotate: true
+  xy: 2, 45
+  size: 45, 68
+  orig: 83, 83
+  offset: 20, 4
+  index: -1

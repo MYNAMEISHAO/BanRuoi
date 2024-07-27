@@ -1,0 +1,363 @@
+
+Spine_Player_StormFalcon_CBA.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BataXFury_CBA_Turnright_0
+  rotate: false
+  xy: 2, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+BataXFury_CBA_Turnright_1
+  rotate: false
+  xy: 87, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+BataXFury_CBA_Turnright_2
+  rotate: false
+  xy: 172, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+BataXFury_CBA_Turnright_3
+  rotate: false
+  xy: 257, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+BataXFury_CBA_Turnright_4
+  rotate: false
+  xy: 342, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 62, 20
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+BodySide
+  rotate: false
+  xy: 50, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: true
+  xy: 96, 20
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: true
+  xy: 130, 20
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: true
+  xy: 164, 20
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Body_4
+  rotate: true
+  xy: 198, 20
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+BottomWing
+  rotate: false
+  xy: 407, 29
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 232, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+HeadSide
+  rotate: true
+  xy: 2, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+HeadSide_1
+  rotate: true
+  xy: 26, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+HeadSide_2
+  rotate: true
+  xy: 302, 17
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+HeadSide_3
+  rotate: true
+  xy: 326, 17
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+HeadSide_4
+  rotate: true
+  xy: 427, 28
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+Head_1
+  rotate: true
+  xy: 260, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Head_2
+  rotate: true
+  xy: 288, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Head_3
+  rotate: true
+  xy: 316, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Head_4
+  rotate: true
+  xy: 344, 26
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Jet
+  rotate: false
+  xy: 256, 9
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+MidGun
+  rotate: false
+  xy: 217, 6
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Nail1
+  rotate: false
+  xy: 279, 9
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Nail2
+  rotate: false
+  xy: 350, 17
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Nail3
+  rotate: false
+  xy: 289, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Nail4
+  rotate: false
+  xy: 37, 11
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+SideGun
+  rotate: false
+  xy: 243, 8
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+SmallWing
+  rotate: false
+  xy: 427, 48
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+SmallWing_Nail1
+  rotate: false
+  xy: 268, 8
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+SmallWing_Nail2
+  rotate: false
+  xy: 289, 10
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+SmallWing_Nail3
+  rotate: false
+  xy: 297, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+SmallWing_Nail4
+  rotate: false
+  xy: 298, 10
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 427, 37
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+Wing
+  rotate: true
+  xy: 2, 18
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+WingBase
+  rotate: false
+  xy: 230, 6
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+WingBottom
+  rotate: true
+  xy: 62, 2
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+WingBottom_1
+  rotate: true
+  xy: 93, 2
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+WingBottom_2
+  rotate: true
+  xy: 124, 2
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+WingBottom_3
+  rotate: true
+  xy: 155, 2
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+WingBottom_4
+  rotate: true
+  xy: 186, 2
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+WingSide
+  rotate: true
+  xy: 2, 11
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1
+WingSide_1
+  rotate: true
+  xy: 267, 19
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1
+WingSide_2
+  rotate: true
+  xy: 232, 19
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1
+WingSide_3
+  rotate: true
+  xy: 372, 29
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1
+WingSide_4
+  rotate: true
+  xy: 372, 36
+  size: 5, 33
+  orig: 5, 33
+  offset: 0, 0
+  index: -1
+Wing_1
+  rotate: false
+  xy: 427, 68
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+Wing_2
+  rotate: true
+  xy: 452, 103
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+Wing_3
+  rotate: true
+  xy: 452, 78
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+Wing_4
+  rotate: true
+  xy: 452, 53
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1

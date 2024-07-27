@@ -1,0 +1,41 @@
+
+Wing_Dragonstar.png
+size: 96,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 32
+  rotate: false
+  xy: 63, 54
+  size: 31, 51
+  orig: 33, 53
+  offset: 1, 1
+  index: -1
+Layer 33
+  rotate: false
+  xy: 2, 101
+  size: 52, 61
+  orig: 54, 63
+  offset: 1, 1
+  index: -1
+Layer 34
+  rotate: false
+  xy: 2, 47
+  size: 59, 52
+  orig: 61, 54
+  offset: 1, 1
+  index: -1
+Layer 35
+  rotate: false
+  xy: 2, 2
+  size: 41, 43
+  orig: 43, 45
+  offset: 1, 1
+  index: -1
+Layer 36
+  rotate: false
+  xy: 56, 107
+  size: 30, 55
+  orig: 32, 57
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,524 @@
+
+Spine_PlayerTier3_StormFalcon.png
+size: 1024,128
+format: RGBA8888
+filter: MipMapNearestNearest,MipMapNearestNearest
+repeat: none
+BodySide
+  rotate: false
+  xy: 443, 64
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Core_1
+  rotate: true
+  xy: 426, 34
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Core_2
+  rotate: true
+  xy: 781, 84
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Core_3
+  rotate: true
+  xy: 799, 84
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Core_4
+  rotate: true
+  xy: 817, 84
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Engine_0
+  rotate: false
+  xy: 446, 77
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Engine_1
+  rotate: false
+  xy: 460, 77
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Engine_2
+  rotate: false
+  xy: 474, 77
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Engine_3
+  rotate: false
+  xy: 488, 77
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Engine_4
+  rotate: false
+  xy: 502, 77
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Glowsphere_0
+  rotate: false
+  xy: 696, 82
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Glowsphere_1
+  rotate: false
+  xy: 713, 82
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Glowsphere_2
+  rotate: false
+  xy: 730, 82
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Glowsphere_3
+  rotate: false
+  xy: 747, 82
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Glowsphere_4
+  rotate: false
+  xy: 764, 82
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+MainWingStick_0
+  rotate: true
+  xy: 523, 92
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+MainWingStick_1
+  rotate: true
+  xy: 765, 99
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+MainWingStick_2
+  rotate: true
+  xy: 562, 92
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+MainWingStick_3
+  rotate: true
+  xy: 804, 99
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+MainWingStick_4
+  rotate: true
+  xy: 601, 92
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+MainWing_0
+  rotate: true
+  xy: 945, 111
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+MainWing_1
+  rotate: true
+  xy: 980, 111
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+MainWing_2
+  rotate: false
+  xy: 426, 49
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+MainWing_3
+  rotate: true
+  xy: 843, 93
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+MainWing_4
+  rotate: true
+  xy: 878, 93
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+Maingun_1
+  rotate: false
+  xy: 2, 2
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+Maingun_2
+  rotate: false
+  xy: 446, 90
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Maingun_3
+  rotate: false
+  xy: 176, 2
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Maingun_4
+  rotate: false
+  xy: 498, 90
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+Maingun_5
+  rotate: false
+  xy: 472, 90
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Middlewing_0
+  rotate: false
+  xy: 287, 10
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Middlewing_1
+  rotate: false
+  xy: 287, 10
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Middlewing_2
+  rotate: false
+  xy: 316, 11
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Middlewing_3
+  rotate: false
+  xy: 345, 11
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Middlewing_4
+  rotate: true
+  xy: 703, 99
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Middlewing_5
+  rotate: true
+  xy: 734, 99
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+OpenWing_1
+  rotate: false
+  xy: 523, 103
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+OpenWing_2
+  rotate: false
+  xy: 559, 103
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+OpenWing_3
+  rotate: false
+  xy: 595, 103
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+OpenWing_4
+  rotate: false
+  xy: 631, 103
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+OpenWing_5
+  rotate: false
+  xy: 667, 103
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+OpenWing_Base_1
+  rotate: false
+  xy: 765, 110
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+OpenWing_Base_2
+  rotate: false
+  xy: 801, 110
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+OpenWing_Base_3
+  rotate: false
+  xy: 837, 110
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+OpenWing_Base_4
+  rotate: false
+  xy: 873, 110
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+OpenWing_Base_5
+  rotate: false
+  xy: 909, 110
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+OpenWing_Detail_1
+  rotate: true
+  xy: 410, 37
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+OpenWing_Detail_4
+  rotate: true
+  xy: 410, 37
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+OpenWing_Detail_5
+  rotate: true
+  xy: 410, 37
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+OpenWing_Detail_2
+  rotate: true
+  xy: 410, 22
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+OpenWing_Detail_3
+  rotate: true
+  xy: 426, 19
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+Smallwing_0
+  rotate: true
+  xy: 913, 89
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Smallwing_1
+  rotate: true
+  xy: 640, 82
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Smallwing_3
+  rotate: true
+  xy: 668, 82
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Smallwing_4
+  rotate: true
+  xy: 382, 31
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Smallwing_side copy
+  rotate: false
+  xy: 1015, 113
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 443, 50
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+TailBase_2
+  rotate: true
+  xy: 31, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+TailBase_3
+  rotate: true
+  xy: 60, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+TailBase_4
+  rotate: true
+  xy: 89, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+TailBase_5
+  rotate: true
+  xy: 118, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+TailBase_6
+  rotate: true
+  xy: 147, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+WingGun_1
+  rotate: false
+  xy: 382, 84
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+WingGun_2
+  rotate: true
+  xy: 199, 9
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+WingGun_3
+  rotate: false
+  xy: 414, 84
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+WingGun_4
+  rotate: true
+  xy: 382, 52
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+WingGun_5
+  rotate: true
+  xy: 243, 9
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+WingSide_1
+  rotate: true
+  xy: 316, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+WingSide_2
+  rotate: true
+  xy: 316, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+right0
+  rotate: false
+  xy: 2, 41
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+right1
+  rotate: false
+  xy: 87, 41
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+right2
+  rotate: false
+  xy: 167, 41
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+right3
+  rotate: false
+  xy: 243, 41
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+right4
+  rotate: false
+  xy: 315, 42
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1

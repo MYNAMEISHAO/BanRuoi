@@ -1,0 +1,496 @@
+
+Popup_Summer_24.png
+size: 1080,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gradient Fill 1
+  rotate: false
+  xy: 867, 198
+  size: 101, 92
+  orig: 101, 92
+  offset: 0, 0
+  index: -1
+Gradient Fill 2
+  rotate: false
+  xy: 120, 20
+  size: 103, 75
+  orig: 103, 75
+  offset: 0, 0
+  index: -1
+Layer 221
+  rotate: false
+  xy: 1019, 70
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+Shark_Fins
+  rotate: true
+  xy: 970, 210
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+acc1
+  rotate: true
+  xy: 829, 57
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+acc2
+  rotate: false
+  xy: 1027, 193
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+acc3
+  rotate: false
+  xy: 2, 4
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 605, 16
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+beach_ball
+  rotate: false
+  xy: 1023, 151
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+body_shark
+  rotate: true
+  xy: 867, 292
+  size: 193, 153
+  orig: 193, 153
+  offset: 0, 0
+  index: -1
+circle_1
+  rotate: true
+  xy: 1064, 926
+  size: 104, 4
+  orig: 104, 4
+  offset: 0, 0
+  index: -1
+circle_1a
+  rotate: false
+  xy: 393, 2
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+circle_2
+  rotate: true
+  xy: 1070, 926
+  size: 104, 4
+  orig: 104, 4
+  offset: 0, 0
+  index: -1
+circle_2a
+  rotate: false
+  xy: 499, 2
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+cube_1
+  rotate: true
+  xy: 980, 139
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+cube_4
+  rotate: true
+  xy: 980, 139
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+cube_2
+  rotate: false
+  xy: 1036, 860
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+cube_3
+  rotate: false
+  xy: 1022, 386
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+float
+  rotate: true
+  xy: 939, 2
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+fx/Elements - Fire 056 Fireball Radial noCT noRSZ_0
+  rotate: false
+  xy: 883, 2
+  size: 54, 53
+  orig: 63, 63
+  offset: 5, 4
+  index: -1
+fx/Elements - Fire 056 Fireball Radial noCT noRSZ_12
+  rotate: false
+  xy: 826, 2
+  size: 55, 53
+  orig: 63, 63
+  offset: 4, 4
+  index: -1
+fx/Elements - Fire 056 Fireball Radial noCT noRSZ_15
+  rotate: true
+  xy: 1010, 730
+  size: 55, 52
+  orig: 63, 63
+  offset: 4, 5
+  index: -1
+fx/Elements - Fire 056 Fireball Radial noCT noRSZ_19
+  rotate: true
+  xy: 1021, 553
+  size: 54, 52
+  orig: 63, 63
+  offset: 5, 5
+  index: -1
+fx/Elements - Fire 056 Fireball Radial noCT noRSZ_23
+  rotate: true
+  xy: 1021, 497
+  size: 54, 53
+  orig: 63, 63
+  offset: 5, 4
+  index: -1
+fx/Elements - Fire 056 Fireball Radial noCT noRSZ_4
+  rotate: false
+  xy: 769, 2
+  size: 55, 53
+  orig: 63, 63
+  offset: 4, 4
+  index: -1
+fx/Elements - Fire 056 Fireball Radial noCT noRSZ_8
+  rotate: true
+  xy: 1021, 609
+  size: 54, 52
+  orig: 63, 63
+  offset: 5, 5
+  index: -1
+fx/Sparks 080 Charge Radial_1
+  rotate: true
+  xy: 1027, 236
+  size: 54, 35
+  orig: 125, 125
+  offset: 38, 48
+  index: -1
+fx/Sparks 080 Charge Radial_11
+  rotate: false
+  xy: 1021, 665
+  size: 50, 63
+  orig: 125, 125
+  offset: 35, 26
+  index: -1
+fx/Sparks 080 Charge Radial_13
+  rotate: false
+  xy: 1022, 334
+  size: 45, 50
+  orig: 125, 125
+  offset: 38, 36
+  index: -1
+fx/Sparks 080 Charge Radial_15
+  rotate: false
+  xy: 1019, 93
+  size: 37, 34
+  orig: 125, 125
+  offset: 42, 45
+  index: -1
+fx/Sparks 080 Charge Radial_17
+  rotate: false
+  xy: 1030, 13
+  size: 27, 22
+  orig: 125, 125
+  offset: 47, 51
+  index: -1
+fx/Sparks 080 Charge Radial_19
+  rotate: true
+  xy: 120, 2
+  size: 16, 17
+  orig: 125, 125
+  offset: 53, 54
+  index: -1
+fx/Sparks 080 Charge Radial_3
+  rotate: true
+  xy: 1022, 441
+  size: 54, 52
+  orig: 125, 125
+  offset: 37, 35
+  index: -1
+fx/Sparks 080 Charge Radial_5
+  rotate: false
+  xy: 889, 58
+  size: 67, 77
+  orig: 125, 125
+  offset: 24, 19
+  index: -1
+fx/Sparks 080 Charge Radial_7
+  rotate: false
+  xy: 958, 63
+  size: 59, 72
+  orig: 125, 125
+  offset: 28, 21
+  index: -1
+fx/Sparks 080 Charge Radial_9
+  rotate: true
+  xy: 699, 2
+  size: 53, 68
+  orig: 125, 125
+  offset: 32, 23
+  index: -1
+fx/loopFlow_0
+  rotate: false
+  xy: 2, 559
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_12
+  rotate: false
+  xy: 299, 724
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_15
+  rotate: false
+  xy: 536, 878
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_19
+  rotate: false
+  xy: 2, 251
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_23
+  rotate: false
+  xy: 536, 724
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_26
+  rotate: false
+  xy: 773, 878
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_30
+  rotate: false
+  xy: 2, 97
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_34
+  rotate: false
+  xy: 773, 724
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_38
+  rotate: true
+  xy: 239, 476
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_4
+  rotate: false
+  xy: 299, 878
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_41
+  rotate: true
+  xy: 239, 239
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_45
+  rotate: true
+  xy: 239, 2
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_49
+  rotate: false
+  xy: 393, 570
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_52
+  rotate: false
+  xy: 393, 416
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_56
+  rotate: false
+  xy: 630, 570
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_60
+  rotate: false
+  xy: 393, 262
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_64
+  rotate: false
+  xy: 630, 416
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_67
+  rotate: false
+  xy: 393, 108
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_71
+  rotate: false
+  xy: 630, 262
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_75
+  rotate: false
+  xy: 630, 108
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_78
+  rotate: true
+  xy: 867, 487
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+fx/loopFlow_8
+  rotate: false
+  xy: 2, 405
+  size: 235, 152
+  orig: 235, 152
+  offset: 0, 0
+  index: -1
+head_shark
+  rotate: true
+  xy: 1010, 904
+  size: 126, 52
+  orig: 126, 52
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: true
+  xy: 996, 12
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: true
+  xy: 1022, 292
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 1030, 37
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: false
+  xy: 867, 137
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+mouth_shark
+  rotate: true
+  xy: 1036, 788
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+parrot
+  rotate: true
+  xy: 970, 178
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+popup - Copy
+  rotate: false
+  xy: 2, 713
+  size: 295, 317
+  orig: 295, 317
+  offset: 0, 0
+  index: -1
+sandal_1
+  rotate: false
+  xy: 959, 137
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+sandal_2
+  rotate: true
+  xy: 1023, 129
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+umbrella
+  rotate: false
+  xy: 699, 57
+  size: 128, 49
+  orig: 128, 49
+  offset: 0, 0
+  index: -1
+umbrella_body
+  rotate: false
+  xy: 1010, 787
+  size: 24, 115
+  orig: 24, 115
+  offset: 0, 0
+  index: -1

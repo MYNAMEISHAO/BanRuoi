@@ -1,0 +1,286 @@
+
+Spine_Player_Plane_Santa.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SSS/santa_007_SSS_Idle_0
+  rotate: false
+  xy: 2, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/santa_007_SSS_Idle_1
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/santa_007_SSS_Idle_2
+  rotate: false
+  xy: 87, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/santa_007_SSS_Idle_3
+  rotate: false
+  xy: 87, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/santa_007_SSS_Idle_4
+  rotate: false
+  xy: 172, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/santa_007_SSS_TurnRight_0
+  rotate: false
+  xy: 172, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/santa_007_SSS_TurnRight_1
+  rotate: false
+  xy: 257, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/santa_007_SSS_TurnRight_2
+  rotate: false
+  xy: 257, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/santa_007_SSS_TurnRight_3
+  rotate: false
+  xy: 342, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+SSS/santa_007_SSS_TurnRight_4
+  rotate: false
+  xy: 342, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/santa_007_X_Turnright_0
+  rotate: false
+  xy: 597, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/santa_007_X_Turnright_1
+  rotate: false
+  xy: 682, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/santa_007_X_Turnright_2
+  rotate: false
+  xy: 682, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/santa_007_X_Turnright_3
+  rotate: false
+  xy: 767, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/santa_007_X_Turnright_4
+  rotate: false
+  xy: 767, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/santa_007_X_idle_0
+  rotate: false
+  xy: 427, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/santa_007_X_idle_1
+  rotate: false
+  xy: 427, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/santa_007_X_idle_2
+  rotate: false
+  xy: 512, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/santa_007_X_idle_3
+  rotate: false
+  xy: 512, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+X/santa_007_X_idle_4
+  rotate: false
+  xy: 597, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/santa_007_XX_Turnright_0
+  rotate: false
+  xy: 1277, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/santa_007_XX_Turnright_1
+  rotate: false
+  xy: 1362, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/santa_007_XX_Turnright_2
+  rotate: false
+  xy: 1447, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/santa_007_XX_Turnright_3
+  rotate: false
+  xy: 1532, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/santa_007_XX_Turnright_4
+  rotate: false
+  xy: 1617, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/santa_007_XX_idle_0
+  rotate: false
+  xy: 852, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/santa_007_XX_idle_1
+  rotate: false
+  xy: 937, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/santa_007_XX_idle_2
+  rotate: false
+  xy: 1022, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/santa_007_XX_idle_3
+  rotate: false
+  xy: 1107, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XX/santa_007_XX_idle_4
+  rotate: false
+  xy: 1192, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/santa_007_XXX_TurnRight_0
+  rotate: false
+  xy: 1277, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/santa_007_XXX_TurnRight_1
+  rotate: false
+  xy: 1362, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/santa_007_XXX_TurnRight_2
+  rotate: false
+  xy: 1447, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/santa_007_XXX_TurnRight_3
+  rotate: false
+  xy: 1532, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/santa_007_XXX_TurnRight_4
+  rotate: false
+  xy: 1617, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/santa_007_XXX_idle_0
+  rotate: false
+  xy: 852, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/santa_007_XXX_idle_1
+  rotate: false
+  xy: 937, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/santa_007_XXX_idle_2
+  rotate: false
+  xy: 1022, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/santa_007_XXX_idle_3
+  rotate: false
+  xy: 1107, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+XXX/santa_007_XXX_idle_4
+  rotate: false
+  xy: 1192, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

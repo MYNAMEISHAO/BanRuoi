@@ -1,0 +1,426 @@
+
+Spine_Player_Helios_tier3.png
+size: 684,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C2
+  rotate: false
+  xy: 19, 2
+  size: 13, 10
+  orig: 15, 12
+  offset: 1, 1
+  index: -1
+C3
+  rotate: false
+  xy: 74, 3
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+Canhtren1
+  rotate: false
+  xy: 555, 19
+  size: 20, 36
+  orig: 22, 38
+  offset: 1, 1
+  index: -1
+Canhtren2
+  rotate: false
+  xy: 577, 19
+  size: 20, 36
+  orig: 22, 38
+  offset: 1, 1
+  index: -1
+Canhtren3
+  rotate: false
+  xy: 599, 19
+  size: 20, 36
+  orig: 22, 38
+  offset: 1, 1
+  index: -1
+Canhtren4
+  rotate: false
+  xy: 608, 58
+  size: 20, 36
+  orig: 22, 38
+  offset: 1, 1
+  index: -1
+Canhtren5
+  rotate: false
+  xy: 621, 20
+  size: 20, 36
+  orig: 22, 38
+  offset: 1, 1
+  index: -1
+Canhtren6
+  rotate: false
+  xy: 630, 58
+  size: 20, 36
+  orig: 22, 38
+  offset: 1, 1
+  index: -1
+Than1
+  rotate: false
+  xy: 357, 18
+  size: 31, 76
+  orig: 33, 78
+  offset: 1, 1
+  index: -1
+Than2
+  rotate: false
+  xy: 390, 18
+  size: 31, 76
+  orig: 33, 78
+  offset: 1, 1
+  index: -1
+Than3
+  rotate: false
+  xy: 423, 18
+  size: 31, 76
+  orig: 33, 78
+  offset: 1, 1
+  index: -1
+Than4
+  rotate: false
+  xy: 456, 18
+  size: 31, 76
+  orig: 33, 78
+  offset: 1, 1
+  index: -1
+Than5
+  rotate: false
+  xy: 489, 18
+  size: 31, 76
+  orig: 33, 78
+  offset: 1, 1
+  index: -1
+Than6
+  rotate: false
+  xy: 522, 18
+  size: 31, 76
+  orig: 33, 78
+  offset: 1, 1
+  index: -1
+canhduoi1
+  rotate: false
+  xy: 357, 2
+  size: 19, 14
+  orig: 21, 16
+  offset: 1, 1
+  index: -1
+canhduoi2
+  rotate: false
+  xy: 378, 2
+  size: 19, 14
+  orig: 21, 16
+  offset: 1, 1
+  index: -1
+canhduoi3
+  rotate: false
+  xy: 399, 2
+  size: 19, 14
+  orig: 21, 16
+  offset: 1, 1
+  index: -1
+canhduoi4
+  rotate: false
+  xy: 420, 2
+  size: 19, 14
+  orig: 21, 16
+  offset: 1, 1
+  index: -1
+canhduoi5
+  rotate: false
+  xy: 441, 2
+  size: 19, 14
+  orig: 21, 16
+  offset: 1, 1
+  index: -1
+canhduoi6
+  rotate: false
+  xy: 462, 2
+  size: 19, 14
+  orig: 21, 16
+  offset: 1, 1
+  index: -1
+canhngang1
+  rotate: false
+  xy: 575, 2
+  size: 13, 15
+  orig: 15, 17
+  offset: 1, 1
+  index: -1
+canhngangduoi1
+  rotate: false
+  xy: 670, 83
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+canhngangduoi2
+  rotate: false
+  xy: 670, 70
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+canhngangduoi3
+  rotate: false
+  xy: 670, 57
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+canhngangduoi4
+  rotate: false
+  xy: 670, 44
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+canhngangduoi5
+  rotate: false
+  xy: 670, 31
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+canhngangduoi6
+  rotate: false
+  xy: 661, 18
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+canhsau1
+  rotate: false
+  xy: 558, 2
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhsau2
+  rotate: false
+  xy: 558, 2
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhsau3
+  rotate: false
+  xy: 558, 2
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhsau4
+  rotate: false
+  xy: 558, 2
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhsau5
+  rotate: false
+  xy: 558, 2
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhsau6
+  rotate: false
+  xy: 558, 2
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+canhthem1
+  rotate: false
+  xy: 2, 2
+  size: 15, 10
+  orig: 17, 12
+  offset: 1, 1
+  index: -1
+cucxoay1
+  rotate: false
+  xy: 85, 3
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+cucxoay1 copy
+  rotate: false
+  xy: 85, 3
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+tia nang CBA1
+  rotate: false
+  xy: 483, 3
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tia nang CBA2
+  rotate: false
+  xy: 498, 3
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tia nang CBA3
+  rotate: false
+  xy: 513, 3
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tia nang CBA4
+  rotate: false
+  xy: 528, 3
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tia nang CBA5
+  rotate: false
+  xy: 543, 3
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tia nang CBA6
+  rotate: false
+  xy: 590, 4
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tianangthem1
+  rotate: false
+  xy: 96, 5
+  size: 18, 7
+  orig: 20, 9
+  offset: 1, 1
+  index: -1
+tianangthem2
+  rotate: false
+  xy: 136, 7
+  size: 18, 5
+  orig: 20, 7
+  offset: 1, 1
+  index: -1
+tianangthem3
+  rotate: false
+  xy: 116, 5
+  size: 18, 7
+  orig: 20, 9
+  offset: 1, 1
+  index: -1
+tianangthem4
+  rotate: false
+  xy: 34, 3
+  size: 18, 9
+  orig: 20, 11
+  offset: 1, 1
+  index: -1
+tianangthem5
+  rotate: false
+  xy: 605, 6
+  size: 18, 11
+  orig: 20, 13
+  offset: 1, 1
+  index: -1
+tianangthem6
+  rotate: false
+  xy: 54, 3
+  size: 18, 9
+  orig: 20, 11
+  offset: 1, 1
+  index: -1
+tianangto1
+  rotate: false
+  xy: 625, 2
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+tianangto2
+  rotate: false
+  xy: 652, 78
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+tianangto3
+  rotate: false
+  xy: 652, 60
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+tianangto4
+  rotate: false
+  xy: 652, 42
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+tianangto5
+  rotate: false
+  xy: 643, 24
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+tianangto6
+  rotate: false
+  xy: 643, 6
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+turn1
+  rotate: false
+  xy: 2, 14
+  size: 80, 80
+  orig: 83, 83
+  offset: 1, 2
+  index: -1
+turn2
+  rotate: false
+  xy: 84, 14
+  size: 77, 80
+  orig: 83, 83
+  offset: 2, 2
+  index: -1
+turn3
+  rotate: false
+  xy: 163, 14
+  size: 72, 80
+  orig: 83, 83
+  offset: 4, 2
+  index: -1
+turn4
+  rotate: false
+  xy: 237, 14
+  size: 62, 80
+  orig: 83, 83
+  offset: 9, 2
+  index: -1
+turn5
+  rotate: false
+  xy: 301, 14
+  size: 54, 80
+  orig: 83, 83
+  offset: 13, 2
+  index: -1
+vong1
+  rotate: false
+  xy: 555, 57
+  size: 51, 37
+  orig: 53, 39
+  offset: 1, 1
+  index: -1

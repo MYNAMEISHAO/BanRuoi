@@ -1,0 +1,370 @@
+
+Spine_PvP_Loading.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Base
+  rotate: false
+  xy: 1305, 1405
+  size: 582, 272
+  orig: 582, 272
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: false
+  xy: 1305, 1812
+  size: 722, 234
+  orig: 722, 234
+  offset: 0, 0
+  index: -1
+Box_Machine
+  rotate: false
+  xy: 608, 309
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+Box_Machine_Point
+  rotate: false
+  xy: 20, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Box_Machine_Rope
+  rotate: true
+  xy: 2, 2
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Box_Machine_Rope2
+  rotate: false
+  xy: 332, 157
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Box_Machine_Rope3
+  rotate: false
+  xy: 296, 103
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Corner_Machine
+  rotate: false
+  xy: 1889, 1476
+  size: 132, 201
+  orig: 132, 201
+  offset: 0, 0
+  index: -1
+Corner_Machine_Rope1
+  rotate: false
+  xy: 637, 1509
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Corner_Machine_Rope2
+  rotate: false
+  xy: 2023, 1583
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Globe_BG
+  rotate: false
+  xy: 681, 1509
+  size: 519, 90
+  orig: 519, 90
+  offset: 0, 0
+  index: -1
+Globle
+  rotate: false
+  xy: 1202, 1509
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Globle_Box
+  rotate: false
+  xy: 637, 1074
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+Globle_Box2
+  rotate: false
+  xy: 183, 24
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+Globle_Light
+  rotate: false
+  xy: 637, 1127
+  size: 246, 70
+  orig: 246, 70
+  offset: 0, 0
+  index: -1
+Globle_Outside
+  rotate: false
+  xy: 1889, 1408
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+Globle_Point
+  rotate: true
+  xy: 2023, 1629
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+HUD
+  rotate: false
+  xy: 2, 190
+  size: 444, 435
+  orig: 444, 435
+  offset: 0, 0
+  index: -1
+HUDRound_BlueGap
+  rotate: false
+  xy: 448, 386
+  size: 237, 239
+  orig: 237, 239
+  offset: 0, 0
+  index: -1
+HUDRound_Circle
+  rotate: false
+  xy: 885, 1140
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+HUDRound_Gap
+  rotate: false
+  xy: 2, 16
+  size: 179, 172
+  orig: 179, 172
+  offset: 0, 0
+  index: -1
+HUDRound_GapLight
+  rotate: false
+  xy: 637, 1199
+  size: 308, 308
+  orig: 308, 308
+  offset: 0, 0
+  index: -1
+HUDRound_Light
+  rotate: false
+  xy: 448, 295
+  size: 158, 89
+  orig: 158, 89
+  offset: 0, 0
+  index: -1
+HUDRound_MiddleWhite
+  rotate: false
+  xy: 183, 77
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+HUDRound_Point
+  rotate: false
+  xy: 947, 1202
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+HUDRound_SmallWhite
+  rotate: false
+  xy: 448, 203
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+HUDRound_White
+  rotate: false
+  xy: 947, 1217
+  size: 289, 290
+  orig: 289, 290
+  offset: 0, 0
+  index: -1
+HUDRound_WhiteGap
+  rotate: false
+  xy: 540, 275
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1
+HUDRound_WhiteGap2
+  rotate: false
+  xy: 714, 1075
+  size: 19, 50
+  orig: 19, 50
+  offset: 0, 0
+  index: -1
+HUDRound_WhiteGap3
+  rotate: false
+  xy: 260, 25
+  size: 19, 50
+  orig: 19, 50
+  offset: 0, 0
+  index: -1
+HUDRound_WhiteGap4
+  rotate: true
+  xy: 2029, 1752
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+HUD_BigStick
+  rotate: true
+  xy: 623, 1056
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+HUD_MiddleStick
+  rotate: false
+  xy: 2039, 2013
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+HUD_Point
+  rotate: true
+  xy: 1294, 1583
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+HUD_Side
+  rotate: false
+  xy: 2029, 1803
+  size: 8, 243
+  orig: 8, 243
+  offset: 0, 0
+  index: -1
+HUD_SideBox
+  rotate: false
+  xy: 1238, 1476
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+HUD_SideBox_Heart
+  rotate: false
+  xy: 2039, 2005
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+HUD_SmallPoint
+  rotate: false
+  xy: 448, 193
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+HUD_SmallStick
+  rotate: false
+  xy: 2029, 1745
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+LightStick
+  rotate: false
+  xy: 2003, 1460
+  size: 3, 14
+  orig: 3, 14
+  offset: 0, 0
+  index: -1
+LightStick2
+  rotate: true
+  xy: 663, 1531
+  size: 3, 16
+  orig: 3, 16
+  offset: 0, 0
+  index: -1
+LightStick3
+  rotate: false
+  xy: 1238, 1469
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+LightStick4
+  rotate: false
+  xy: 885, 1130
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+LightStick5
+  rotate: true
+  xy: 608, 304
+  size: 3, 13
+  orig: 3, 13
+  offset: 0, 0
+  index: -1
+LightStick_BGLight
+  rotate: false
+  xy: 296, 135
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+ScreenBG
+  rotate: false
+  xy: 2, 1072
+  size: 633, 462
+  orig: 633, 462
+  offset: 0, 0
+  index: -1
+ScreenBG_Bevel
+  rotate: false
+  xy: 2, 627
+  size: 619, 443
+  orig: 619, 443
+  offset: 0, 0
+  index: -1
+ScreenBG_BevelLight
+  rotate: false
+  xy: 681, 1601
+  size: 622, 445
+  orig: 622, 445
+  offset: 0, 0
+  index: -1
+Screen_Bevel
+  rotate: false
+  xy: 2, 1536
+  size: 677, 510
+  orig: 677, 510
+  offset: 0, 0
+  index: -1
+Screen_BevelLight
+  rotate: true
+  xy: 2039, 2022
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1
+Top
+  rotate: false
+  xy: 1305, 1679
+  size: 722, 131
+  orig: 722, 131
+  offset: 0, 0
+  index: -1
+Top_Energy
+  rotate: false
+  xy: 183, 2
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1

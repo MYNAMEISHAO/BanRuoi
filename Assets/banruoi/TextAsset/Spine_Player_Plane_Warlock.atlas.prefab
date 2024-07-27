@@ -1,0 +1,216 @@
+
+Spine_Player_Plane_Warlock.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images-X/Warlock_X_Idle_1
+  rotate: false
+  xy: 2, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-X/Warlock_X_Idle_2
+  rotate: false
+  xy: 2, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-X/Warlock_X_Idle_3
+  rotate: false
+  xy: 87, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-X/Warlock_X_Idle_4
+  rotate: false
+  xy: 2, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-X/Warlock_X_Idle_5
+  rotate: false
+  xy: 87, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-X/Warlock_X_Turn_right_1
+  rotate: false
+  xy: 172, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-X/Warlock_X_Turn_right_2
+  rotate: false
+  xy: 2, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-X/Warlock_X_Turn_right_3
+  rotate: false
+  xy: 87, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-X/Warlock_X_Turn_right_4
+  rotate: false
+  xy: 172, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-X/Warlock_X_Turn_right_5
+  rotate: false
+  xy: 257, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XX/Warlock_XX_Idle_1
+  rotate: false
+  xy: 2, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XX/Warlock_XX_Idle_2
+  rotate: false
+  xy: 87, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XX/Warlock_XX_Idle_3
+  rotate: false
+  xy: 257, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XX/Warlock_XX_Idle_4
+  rotate: false
+  xy: 427, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XX/Warlock_XX_Idle_5
+  rotate: false
+  xy: 87, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XX/Warlock_XX_Turn_right_1
+  rotate: false
+  xy: 257, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XX/Warlock_XX_Turn_right_2
+  rotate: false
+  xy: 427, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XX/Warlock_XX_Turn_right_3
+  rotate: false
+  xy: 172, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XX/Warlock_XX_Turn_right_4
+  rotate: false
+  xy: 342, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XX/Warlock_XX_Turn_right_5
+  rotate: false
+  xy: 257, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XXX/Warlock_XXX_Idle1
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XXX/Warlock_XXX_Idle2
+  rotate: false
+  xy: 172, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XXX/Warlock_XXX_Idle3
+  rotate: false
+  xy: 342, 427
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XXX/Warlock_XXX_Idle4
+  rotate: false
+  xy: 87, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XXX/Warlock_XXX_Idle5
+  rotate: false
+  xy: 172, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XXX/Warlock_XXX_Turn_Right1
+  rotate: false
+  xy: 342, 342
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XXX/Warlock_XXX_Turn_Right2
+  rotate: false
+  xy: 172, 87
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XXX/Warlock_XXX_Turn_Right3
+  rotate: false
+  xy: 257, 172
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XXX/Warlock_XXX_Turn_Right4
+  rotate: false
+  xy: 427, 257
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images-XXX/Warlock_XXX_Turn_Right5
+  rotate: false
+  xy: 257, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

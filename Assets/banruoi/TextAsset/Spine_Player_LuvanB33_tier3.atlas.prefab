@@ -1,0 +1,265 @@
+
+Spine_Player_LuvanB33_tier3.png
+size: 296,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Luvan B33_Chain_SSS1
+  rotate: false
+  xy: 212, 161
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Chain_SSS2
+  rotate: false
+  xy: 212, 128
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Chain_SSS3
+  rotate: false
+  xy: 172, 87
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Chain_SSS4
+  rotate: false
+  xy: 167, 54
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Chain_SSS5
+  rotate: false
+  xy: 167, 21
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Front Wings_SSS1
+  rotate: false
+  xy: 252, 237
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Luvan B33_Front Wings_SSS2
+  rotate: false
+  xy: 252, 206
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Luvan B33_Front Wings_SSS3
+  rotate: false
+  xy: 221, 97
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Luvan B33_Front Wings_SSS4
+  rotate: false
+  xy: 261, 142
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Luvan B33_Front Wings_SSS5
+  rotate: false
+  xy: 261, 111
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Luvan B33_Gun_SSS1
+  rotate: false
+  xy: 261, 173
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Gun_SSS2
+  rotate: false
+  xy: 216, 54
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Gun_SSS3
+  rotate: false
+  xy: 216, 21
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Gun_SSS4
+  rotate: false
+  xy: 240, 21
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Gun_SSS5
+  rotate: false
+  xy: 244, 64
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Head_SSS1
+  rotate: false
+  xy: 172, 194
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Luvan B33_Head_SSS2
+  rotate: false
+  xy: 87, 24
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Luvan B33_Head_SSS3
+  rotate: false
+  xy: 172, 120
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Luvan B33_Head_SSS4
+  rotate: false
+  xy: 212, 194
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Luvan B33_Head_SSS5
+  rotate: false
+  xy: 127, 24
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings 2_SSS1
+  rotate: false
+  xy: 120, 5
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings 2_SSS2
+  rotate: false
+  xy: 147, 2
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings 2_SSS3
+  rotate: false
+  xy: 174, 2
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings 2_SSS4
+  rotate: false
+  xy: 201, 2
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings 2_SSS5
+  rotate: false
+  xy: 228, 2
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings_SSS1
+  rotate: false
+  xy: 256, 97
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings_SSS2
+  rotate: false
+  xy: 268, 83
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings_SSS3
+  rotate: false
+  xy: 268, 69
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings_SSS4
+  rotate: false
+  xy: 268, 55
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings_SSS5
+  rotate: false
+  xy: 260, 41
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Super Luvan B33_Bases
+  rotate: false
+  xy: 87, 6
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+Super Luvan B33_Fan
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Super Luvan B33_Turn1
+  rotate: false
+  xy: 2, 183
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Super Luvan B33_Turn2
+  rotate: false
+  xy: 2, 98
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Super Luvan B33_Turn3
+  rotate: false
+  xy: 87, 183
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Super Luvan B33_Turn4
+  rotate: false
+  xy: 2, 13
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Super Luvan B33_Turn5
+  rotate: false
+  xy: 87, 98
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1

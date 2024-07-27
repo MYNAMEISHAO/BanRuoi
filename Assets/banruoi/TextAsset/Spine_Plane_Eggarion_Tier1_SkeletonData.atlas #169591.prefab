@@ -1,0 +1,636 @@
+
+Spine_Plane_Eggarion_Tier1_SkeletonData.png
+size: 764,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eggarion XX/Eggarion_XX_Idle1
+  rotate: false
+  xy: 231, 472
+  size: 75, 66
+  orig: 83, 83
+  offset: 4, 12
+  index: -1
+Eggarion XX/Eggarion_XX_Idle2
+  rotate: true
+  xy: 2, 160
+  size: 75, 66
+  orig: 83, 83
+  offset: 4, 12
+  index: -1
+Eggarion XX/Eggarion_XX_Idle3
+  rotate: false
+  xy: 308, 472
+  size: 75, 66
+  orig: 83, 83
+  offset: 4, 12
+  index: -1
+Eggarion XX/Eggarion_XX_Idle4
+  rotate: true
+  xy: 2, 83
+  size: 75, 66
+  orig: 83, 83
+  offset: 4, 12
+  index: -1
+Eggarion XX/Eggarion_XX_Idle5
+  rotate: false
+  xy: 385, 472
+  size: 75, 66
+  orig: 83, 83
+  offset: 4, 12
+  index: -1
+Eggarion XX/Eggarion_XX_Turn_0
+  rotate: true
+  xy: 71, 316
+  size: 73, 67
+  orig: 83, 83
+  offset: 5, 11
+  index: -1
+Eggarion XX/Eggarion_XX_Turn_1
+  rotate: true
+  xy: 71, 169
+  size: 70, 68
+  orig: 83, 83
+  offset: 6, 10
+  index: -1
+Eggarion XX/Eggarion_XX_Turn_2
+  rotate: false
+  xy: 575, 333
+  size: 64, 68
+  orig: 83, 83
+  offset: 8, 10
+  index: -1
+Eggarion XX/Eggarion_XX_Turn_3
+  rotate: true
+  xy: 688, 340
+  size: 60, 68
+  orig: 83, 83
+  offset: 9, 10
+  index: -1
+Eggarion XX/Eggarion_XX_Turn_4
+  rotate: false
+  xy: 279, 54
+  size: 59, 68
+  orig: 83, 83
+  offset: 9, 10
+  index: -1
+Eggarion XXX/Eggarion_XXX_Idle1
+  rotate: true
+  xy: 2, 391
+  size: 75, 67
+  orig: 83, 83
+  offset: 4, 10
+  index: -1
+Eggarion XXX/Eggarion_XXX_Idle2
+  rotate: false
+  xy: 77, 471
+  size: 75, 67
+  orig: 83, 83
+  offset: 4, 10
+  index: -1
+Eggarion XXX/Eggarion_XXX_Idle3
+  rotate: true
+  xy: 2, 314
+  size: 75, 67
+  orig: 83, 83
+  offset: 4, 10
+  index: -1
+Eggarion XXX/Eggarion_XXX_Idle4
+  rotate: false
+  xy: 154, 471
+  size: 75, 67
+  orig: 83, 83
+  offset: 4, 10
+  index: -1
+Eggarion XXX/Eggarion_XXX_Idle5
+  rotate: true
+  xy: 2, 237
+  size: 75, 67
+  orig: 83, 83
+  offset: 4, 10
+  index: -1
+Eggarion XXX/Eggarion_XXX_Turn_0
+  rotate: true
+  xy: 71, 241
+  size: 73, 68
+  orig: 83, 83
+  offset: 5, 11
+  index: -1
+Eggarion XXX/Eggarion_XXX_Turn_1
+  rotate: false
+  xy: 2, 468
+  size: 73, 70
+  orig: 83, 83
+  offset: 3, 10
+  index: -1
+Eggarion XXX/Eggarion_XXX_Turn_2
+  rotate: true
+  xy: 430, 335
+  size: 66, 71
+  orig: 83, 83
+  offset: 6, 10
+  index: -1
+Eggarion XXX/Eggarion_XXX_Turn_3
+  rotate: false
+  xy: 214, 187
+  size: 63, 71
+  orig: 83, 83
+  offset: 6, 10
+  index: -1
+Eggarion XXX/Eggarion_XXX_Turn_4
+  rotate: true
+  xy: 214, 124
+  size: 61, 71
+  orig: 83, 83
+  offset: 7, 10
+  index: -1
+Eggarion_A/Eggarion A_Idle_1
+  rotate: false
+  xy: 468, 224
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_A/Eggarion A_Idle_2
+  rotate: false
+  xy: 468, 169
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_A/Eggarion A_Idle_3
+  rotate: false
+  xy: 464, 114
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_A/Eggarion A_Idle_4
+  rotate: false
+  xy: 604, 278
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_A/Eggarion A_Idle_5
+  rotate: false
+  xy: 667, 285
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_A/Eggarion A_Turn_1
+  rotate: false
+  xy: 513, 59
+  size: 60, 53
+  orig: 83, 83
+  offset: 10, 14
+  index: -1
+Eggarion_A/Eggarion A_Turn_2
+  rotate: true
+  xy: 395, 2
+  size: 59, 53
+  orig: 83, 83
+  offset: 9, 14
+  index: -1
+Eggarion_A/Eggarion A_Turn_3
+  rotate: true
+  xy: 450, 2
+  size: 55, 53
+  orig: 83, 83
+  offset: 10, 14
+  index: -1
+Eggarion_A/Eggarion A_Turn_4
+  rotate: true
+  xy: 139, 2
+  size: 49, 53
+  orig: 83, 83
+  offset: 12, 14
+  index: -1
+Eggarion_A/Eggarion A_Turn_5
+  rotate: false
+  xy: 641, 348
+  size: 45, 53
+  orig: 83, 83
+  offset: 14, 14
+  index: -1
+Eggarion_B/Eggarion B_Idle_1
+  rotate: true
+  xy: 340, 61
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_B/Eggarion B_Idle_2
+  rotate: true
+  xy: 395, 63
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_B/Eggarion B_Idle_3
+  rotate: false
+  xy: 450, 59
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_B/Eggarion B_Idle_4
+  rotate: false
+  xy: 527, 114
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_B/Eggarion B_Idle_5
+  rotate: false
+  xy: 575, 59
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_B/Eggarion B_Turn_1
+  rotate: false
+  xy: 615, 4
+  size: 60, 53
+  orig: 83, 83
+  offset: 10, 14
+  index: -1
+Eggarion_B/Eggarion B_Turn_2
+  rotate: true
+  xy: 531, 169
+  size: 59, 53
+  orig: 83, 83
+  offset: 9, 14
+  index: -1
+Eggarion_B/Eggarion B_Turn_3
+  rotate: true
+  xy: 505, 2
+  size: 55, 53
+  orig: 83, 83
+  offset: 10, 14
+  index: -1
+Eggarion_B/Eggarion B_Turn_4
+  rotate: true
+  xy: 194, 2
+  size: 49, 53
+  orig: 83, 83
+  offset: 12, 14
+  index: -1
+Eggarion_B/Eggarion B_Turn_5
+  rotate: false
+  xy: 638, 59
+  size: 45, 53
+  orig: 83, 83
+  offset: 14, 14
+  index: -1
+Eggarion_C/Eggarion_C_Idle1
+  rotate: false
+  xy: 667, 230
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_C/Eggarion_C_Idle2
+  rotate: false
+  xy: 590, 114
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_C/Eggarion_C_Idle3
+  rotate: false
+  xy: 641, 175
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_C/Eggarion_C_Idle4
+  rotate: false
+  xy: 653, 120
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_C/Eggarion_C_Idle5
+  rotate: true
+  xy: 685, 57
+  size: 61, 53
+  orig: 83, 83
+  offset: 11, 14
+  index: -1
+Eggarion_C/Eggarion_C_Turn1
+  rotate: false
+  xy: 677, 2
+  size: 60, 53
+  orig: 83, 83
+  offset: 10, 14
+  index: -1
+Eggarion_C/Eggarion_C_Turn2
+  rotate: true
+  xy: 586, 169
+  size: 59, 53
+  orig: 83, 83
+  offset: 9, 14
+  index: -1
+Eggarion_C/Eggarion_C_Turn3
+  rotate: true
+  xy: 560, 2
+  size: 55, 53
+  orig: 83, 83
+  offset: 10, 14
+  index: -1
+Eggarion_C/Eggarion_C_Turn4
+  rotate: true
+  xy: 249, 2
+  size: 49, 53
+  orig: 83, 83
+  offset: 12, 14
+  index: -1
+Eggarion_C/Eggarion_C_Turn5
+  rotate: false
+  xy: 704, 175
+  size: 45, 53
+  orig: 83, 83
+  offset: 14, 14
+  index: -1
+Eggarion_S/Eggarion_S_Idle_1
+  rotate: false
+  xy: 494, 403
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_S/Eggarion_S_Idle_2
+  rotate: false
+  xy: 567, 403
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_S/Eggarion_S_Idle_3
+  rotate: true
+  xy: 210, 260
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_S/Eggarion_S_Idle_4
+  rotate: false
+  xy: 284, 334
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_S/Eggarion_S_Idle_5
+  rotate: false
+  xy: 357, 334
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_S/Eggarion_S_Turn_1
+  rotate: false
+  xy: 689, 402
+  size: 69, 67
+  orig: 83, 83
+  offset: 7, 8
+  index: -1
+Eggarion_S/Eggarion_S_Turn_2
+  rotate: false
+  xy: 345, 265
+  size: 65, 67
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Eggarion_S/Eggarion_S_Turn_3
+  rotate: false
+  xy: 407, 196
+  size: 59, 67
+  orig: 83, 83
+  offset: 10, 8
+  index: -1
+Eggarion_S/Eggarion_S_Turn_4
+  rotate: true
+  xy: 466, 279
+  size: 52, 67
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+Eggarion_S/Eggarion_S_Turn_5
+  rotate: true
+  xy: 535, 284
+  size: 47, 67
+  orig: 83, 83
+  offset: 15, 8
+  index: -1
+Eggarion_SS/Eggarion_SS_Idle_1
+  rotate: false
+  xy: 140, 333
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_SS/Eggarion_SS_Idle_2
+  rotate: true
+  xy: 141, 260
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_SS/Eggarion_SS_Idle_3
+  rotate: false
+  xy: 141, 191
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_SS/Eggarion_SS_Idle_4
+  rotate: true
+  xy: 70, 96
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_SS/Eggarion_SS_Idle_5
+  rotate: true
+  xy: 70, 23
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_SS/Eggarion_SS_Turn_1
+  rotate: false
+  xy: 693, 471
+  size: 69, 67
+  orig: 83, 83
+  offset: 7, 8
+  index: -1
+Eggarion_SS/Eggarion_SS_Turn_2
+  rotate: false
+  xy: 212, 53
+  size: 65, 67
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Eggarion_SS/Eggarion_SS_Turn_3
+  rotate: false
+  xy: 214, 402
+  size: 59, 67
+  orig: 83, 83
+  offset: 10, 8
+  index: -1
+Eggarion_SS/Eggarion_SS_Turn_4
+  rotate: false
+  xy: 412, 265
+  size: 52, 67
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+Eggarion_SS/Eggarion_SS_Turn_5
+  rotate: false
+  xy: 640, 403
+  size: 47, 67
+  orig: 83, 83
+  offset: 15, 8
+  index: -1
+Eggarion_SSS/Eggarion_SSS_Idle_1
+  rotate: false
+  xy: 141, 122
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_SSS/Eggarion_SSS_Idle_2
+  rotate: false
+  xy: 139, 53
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_SSS/Eggarion_SSS_Idle_3
+  rotate: false
+  xy: 275, 403
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_SSS/Eggarion_SSS_Idle_4
+  rotate: false
+  xy: 348, 403
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_SSS/Eggarion_SSS_Idle_5
+  rotate: false
+  xy: 421, 403
+  size: 71, 67
+  orig: 83, 83
+  offset: 6, 8
+  index: -1
+Eggarion_SSS/Eggarion_SSS_Turn_1
+  rotate: false
+  xy: 213, 333
+  size: 69, 67
+  orig: 83, 83
+  offset: 7, 8
+  index: -1
+Eggarion_SSS/Eggarion_SSS_Turn_2
+  rotate: false
+  xy: 279, 194
+  size: 65, 67
+  orig: 83, 83
+  offset: 8, 8
+  index: -1
+Eggarion_SSS/Eggarion_SSS_Turn_3
+  rotate: false
+  xy: 349, 126
+  size: 59, 67
+  orig: 83, 83
+  offset: 10, 8
+  index: -1
+Eggarion_SSS/Eggarion_SSS_Turn_4
+  rotate: false
+  xy: 410, 127
+  size: 52, 67
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+Eggarion_SSS/Eggarion_SSS_Turn_5
+  rotate: true
+  xy: 304, 5
+  size: 47, 67
+  orig: 83, 83
+  offset: 15, 8
+  index: -1
+Eggarion_X/Eggarion_XX_Idle1
+  rotate: true
+  xy: 2, 6
+  size: 75, 66
+  orig: 83, 83
+  offset: 4, 12
+  index: -1
+Eggarion_X/Eggarion_XX_Idle2
+  rotate: false
+  xy: 462, 472
+  size: 75, 66
+  orig: 83, 83
+  offset: 4, 12
+  index: -1
+Eggarion_X/Eggarion_XX_Idle3
+  rotate: false
+  xy: 539, 472
+  size: 75, 66
+  orig: 83, 83
+  offset: 4, 12
+  index: -1
+Eggarion_X/Eggarion_XX_Idle4
+  rotate: false
+  xy: 616, 472
+  size: 75, 66
+  orig: 83, 83
+  offset: 4, 12
+  index: -1
+Eggarion_X/Eggarion_XX_Idle5
+  rotate: true
+  xy: 71, 391
+  size: 75, 66
+  orig: 83, 83
+  offset: 4, 12
+  index: -1
+Eggarion_X/Eggarion_XX_Turn1
+  rotate: false
+  xy: 139, 402
+  size: 73, 67
+  orig: 83, 83
+  offset: 5, 11
+  index: -1
+Eggarion_X/Eggarion_XX_Turn2
+  rotate: false
+  xy: 503, 333
+  size: 70, 68
+  orig: 83, 83
+  offset: 6, 10
+  index: -1
+Eggarion_X/Eggarion_XX_Turn3
+  rotate: false
+  xy: 279, 263
+  size: 64, 68
+  orig: 83, 83
+  offset: 8, 10
+  index: -1
+Eggarion_X/Eggarion_XX_Turn4
+  rotate: false
+  xy: 287, 124
+  size: 60, 68
+  orig: 83, 83
+  offset: 9, 10
+  index: -1
+Eggarion_X/Eggarion_XX_Turn5
+  rotate: false
+  xy: 346, 195
+  size: 59, 68
+  orig: 83, 83
+  offset: 9, 10
+  index: -1

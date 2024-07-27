@@ -1,0 +1,188 @@
+
+Spine_Plane_Midsommagar_CBA_Tier2_SkeletonData.png
+size: 204,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CBA/Midsommagar_CBA_canhduoi1
+  rotate: false
+  xy: 103, 92
+  size: 59, 21
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+CBA/Midsommagar_CBA_canhduoi2
+  rotate: false
+  xy: 103, 69
+  size: 59, 21
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+CBA/Midsommagar_CBA_canhduoi3
+  rotate: false
+  xy: 100, 46
+  size: 59, 21
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+CBA/Midsommagar_CBA_canhduoi4
+  rotate: false
+  xy: 100, 23
+  size: 59, 21
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+CBA/Midsommagar_CBA_canhduoi5
+  rotate: true
+  xy: 164, 54
+  size: 59, 21
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+CBA/Midsommagar_CBA_canhto1
+  rotate: false
+  xy: 173, 226
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_canhto2
+  rotate: false
+  xy: 173, 184
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_canhto3
+  rotate: false
+  xy: 173, 142
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_canhto4
+  rotate: true
+  xy: 58, 39
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_canhto5
+  rotate: true
+  xy: 56, 8
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_duoi1
+  rotate: true
+  xy: 98, 2
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_duoi2
+  rotate: true
+  xy: 122, 2
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_duoi3
+  rotate: true
+  xy: 146, 2
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_duoi4
+  rotate: false
+  xy: 171, 118
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_duoi5
+  rotate: false
+  xy: 161, 30
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_ongxa1
+  rotate: false
+  xy: 192, 124
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+CBA/Midsommagar_CBA_than1
+  rotate: false
+  xy: 128, 214
+  size: 43, 52
+  orig: 83, 83
+  offset: 20, 22
+  index: -1
+CBA/Midsommagar_CBA_than2
+  rotate: true
+  xy: 2, 7
+  size: 43, 52
+  orig: 83, 83
+  offset: 20, 22
+  index: -1
+CBA/Midsommagar_CBA_than3
+  rotate: false
+  xy: 58, 70
+  size: 43, 52
+  orig: 83, 83
+  offset: 20, 22
+  index: -1
+CBA/Midsommagar_CBA_than4
+  rotate: false
+  xy: 128, 160
+  size: 43, 52
+  orig: 83, 83
+  offset: 20, 22
+  index: -1
+CBA/Midsommagar_CBA_than5
+  rotate: true
+  xy: 117, 115
+  size: 43, 52
+  orig: 83, 83
+  offset: 20, 22
+  index: -1
+CBA/Midsommagar_CBA_turn1
+  rotate: false
+  xy: 2, 196
+  size: 65, 70
+  orig: 83, 83
+  offset: 8, 4
+  index: -1
+CBA/Midsommagar_CBA_turn2
+  rotate: false
+  xy: 2, 124
+  size: 60, 70
+  orig: 83, 83
+  offset: 9, 4
+  index: -1
+CBA/Midsommagar_CBA_turn3
+  rotate: false
+  xy: 69, 196
+  size: 57, 70
+  orig: 83, 83
+  offset: 9, 4
+  index: -1
+CBA/Midsommagar_CBA_turn4
+  rotate: false
+  xy: 2, 52
+  size: 54, 70
+  orig: 83, 83
+  offset: 10, 4
+  index: -1
+CBA/Midsommagar_CBA_turn5
+  rotate: false
+  xy: 64, 124
+  size: 51, 70
+  orig: 83, 83
+  offset: 11, 4
+  index: -1

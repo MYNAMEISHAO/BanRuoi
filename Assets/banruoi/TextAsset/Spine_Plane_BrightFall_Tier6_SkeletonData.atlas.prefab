@@ -1,0 +1,258 @@
+
+Spine_Plane_BrightFall_Tier6_SkeletonData.png
+size: 712,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 190, 66
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 56
+  size: 78, 101
+  orig: 78, 101
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 564, 83
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 105, 64
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 642, 18
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+Bright Fall_tire6_Turn1
+  rotate: false
+  xy: 2, 136
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Bright Fall_tire6_Turn2
+  rotate: false
+  xy: 132, 136
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Bright Fall_tire6_Turn3
+  rotate: false
+  xy: 262, 136
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Bright Fall_tire6_Turn4
+  rotate: false
+  xy: 392, 136
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Bright Fall_tire6_Turn5
+  rotate: false
+  xy: 522, 136
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+THAN DUOI1
+  rotate: true
+  xy: 652, 165
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+THAN DUOI2
+  rotate: true
+  xy: 652, 64
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+THAN DUOI3
+  rotate: false
+  xy: 261, 78
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+THAN DUOI4
+  rotate: false
+  xy: 362, 78
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+THAN DUOI5
+  rotate: false
+  xy: 463, 78
+  size: 99, 56
+  orig: 99, 56
+  offset: 0, 0
+  index: -1
+banh rang1
+  rotate: true
+  xy: 695, 45
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+giap 3
+  rotate: true
+  xy: 140, 5
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+giap duoi1
+  rotate: true
+  xy: 528, 46
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+giap1
+  rotate: false
+  xy: 617, 87
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+giap2
+  rotate: true
+  xy: 190, 44
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+giap3
+  rotate: false
+  xy: 239, 17
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+giap4
+  rotate: true
+  xy: 183, 22
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+giap5
+  rotate: true
+  xy: 91, 5
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+giap6
+  rotate: true
+  xy: 163, 2
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+mom rong1
+  rotate: false
+  xy: 695, 13
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+mui rong1
+  rotate: true
+  xy: 564, 46
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+mui rong2
+  rotate: true
+  xy: 105, 27
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+mui rong3
+  rotate: true
+  xy: 261, 4
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+mui rong4
+  rotate: true
+  xy: 339, 4
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+mui rong5
+  rotate: true
+  xy: 417, 4
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+nong sung1
+  rotate: false
+  xy: 639, 116
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+thaN1
+  rotate: true
+  xy: 261, 41
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+thaN2
+  rotate: true
+  xy: 2, 19
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+thaN3
+  rotate: true
+  xy: 350, 41
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+thaN4
+  rotate: true
+  xy: 439, 41
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+thaN5
+  rotate: true
+  xy: 528, 9
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1

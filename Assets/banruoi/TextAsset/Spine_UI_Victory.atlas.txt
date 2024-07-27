@@ -1,0 +1,335 @@
+
+Spine_UI_Victory.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 126
+  size: 423, 128
+  orig: 423, 128
+  offset: 0, 0
+  index: -1
+BG_1
+  rotate: false
+  xy: 1628, 205
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+BG_2
+  rotate: false
+  xy: 184, 2
+  size: 47, 8
+  orig: 47, 8
+  offset: 0, 0
+  index: -1
+BG_3
+  rotate: false
+  xy: 1461, 235
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+BG_4
+  rotate: false
+  xy: 404, 2
+  size: 86, 14
+  orig: 86, 14
+  offset: 0, 0
+  index: -1
+BG_5
+  rotate: false
+  xy: 1041, 177
+  size: 76, 12
+  orig: 76, 12
+  offset: 0, 0
+  index: -1
+BG_Lightning1_1
+  rotate: false
+  xy: 427, 213
+  size: 186, 41
+  orig: 186, 41
+  offset: 0, 0
+  index: -1
+BG_Lightning1_2
+  rotate: false
+  xy: 1301, 238
+  size: 158, 16
+  orig: 158, 16
+  offset: 0, 0
+  index: -1
+BG_Lightning2_1
+  rotate: false
+  xy: 492, 2
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+BG_Lightning2_2
+  rotate: true
+  xy: 1442, 212
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+BG_Lightning3_1
+  rotate: false
+  xy: 615, 213
+  size: 148, 41
+  orig: 148, 41
+  offset: 0, 0
+  index: -1
+BG_Lightning3_2
+  rotate: true
+  xy: 1010, 114
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+BG_Lightning4_1
+  rotate: false
+  xy: 1301, 203
+  size: 139, 33
+  orig: 139, 33
+  offset: 0, 0
+  index: -1
+BG_Lightning4_2
+  rotate: false
+  xy: 765, 142
+  size: 137, 32
+  orig: 137, 32
+  offset: 0, 0
+  index: -1
+BG_Lightning5_1
+  rotate: false
+  xy: 1041, 191
+  size: 133, 63
+  orig: 133, 63
+  offset: 0, 0
+  index: -1
+BG_Lightning5_2
+  rotate: false
+  xy: 1176, 201
+  size: 123, 53
+  orig: 123, 53
+  offset: 0, 0
+  index: -1
+Detail2
+  rotate: false
+  xy: 1119, 170
+  size: 52, 19
+  orig: 52, 19
+  offset: 0, 0
+  index: -1
+Diamond
+  rotate: false
+  xy: 1918, 225
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+Diamond2
+  rotate: false
+  xy: 1968, 225
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+Door_Detail_1
+  rotate: false
+  xy: 1456, 211
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Door_Detail_2
+  rotate: true
+  xy: 1705, 203
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+Door_Detail_3
+  rotate: false
+  xy: 712, 144
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+Door_Detail_4
+  rotate: false
+  xy: 2018, 224
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Door_Detail_5
+  rotate: true
+  xy: 662, 113
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+Door_L_
+  rotate: true
+  xy: 564, 141
+  size: 70, 146
+  orig: 70, 146
+  offset: 0, 0
+  index: -1
+Layer 438
+  rotate: false
+  xy: 1875, 213
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Lighting_Glow
+  rotate: false
+  xy: 1480, 215
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+Ring
+  rotate: false
+  xy: 553, 75
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Ring_Glow
+  rotate: false
+  xy: 1767, 197
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Ring_Outside
+  rotate: false
+  xy: 1826, 207
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Triangle_D
+  rotate: false
+  xy: 184, 12
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+Triangle_U
+  rotate: false
+  xy: 294, 12
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+Wing_1
+  rotate: false
+  xy: 765, 176
+  size: 136, 78
+  orig: 136, 78
+  offset: 0, 0
+  index: -1
+Wing_1_1
+  rotate: false
+  xy: 903, 176
+  size: 136, 78
+  orig: 136, 78
+  offset: 0, 0
+  index: -1
+Wing_1_1's Outer Glow
+  rotate: false
+  xy: 2, 3
+  size: 180, 121
+  orig: 180, 121
+  offset: 0, 0
+  index: -1
+Wing_2
+  rotate: true
+  xy: 404, 31
+  size: 93, 37
+  orig: 93, 37
+  offset: 0, 0
+  index: -1
+Wing_2_2
+  rotate: false
+  xy: 443, 18
+  size: 93, 37
+  orig: 93, 37
+  offset: 0, 0
+  index: -1
+Wing_2_2's Outer Glow
+  rotate: false
+  xy: 427, 129
+  size: 135, 82
+  orig: 135, 82
+  offset: 0, 0
+  index: -1
+Wing_3
+  rotate: false
+  xy: 590, 77
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Wing_3_3
+  rotate: false
+  xy: 621, 77
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Wing_3_3's Outer Glow
+  rotate: true
+  xy: 1549, 183
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+Wing_4
+  rotate: false
+  xy: 564, 112
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+Wing_4_4
+  rotate: false
+  xy: 613, 112
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+Wing_4_4's Outer Glow
+  rotate: false
+  xy: 443, 57
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+Wing_5
+  rotate: true
+  xy: 534, 65
+  size: 62, 17
+  orig: 62, 17
+  offset: 0, 0
+  index: -1
+Wing_5_5
+  rotate: false
+  xy: 1628, 186
+  size: 62, 17
+  orig: 62, 17
+  offset: 0, 0
+  index: -1
+Wing_5_5's Outer Glow
+  rotate: false
+  xy: 904, 113
+  size: 104, 61
+  orig: 104, 61
+  offset: 0, 0
+  index: -1

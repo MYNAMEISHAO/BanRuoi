@@ -1,0 +1,384 @@
+
+Spine_Player_Dragonstar_CBA.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BigWingDetail_0
+  rotate: true
+  xy: 302, 19
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+BigWingDetail_1
+  rotate: true
+  xy: 319, 19
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+BigWingDetail_2
+  rotate: false
+  xy: 316, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+BigWingDetail_3
+  rotate: false
+  xy: 329, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+BigWingDetail_4
+  rotate: true
+  xy: 460, 35
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+BigWingGun_0
+  rotate: true
+  xy: 110, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+BigWingGun_1
+  rotate: true
+  xy: 286, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+BigWingGun_2
+  rotate: true
+  xy: 301, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+BigWingGun_3
+  rotate: false
+  xy: 477, 33
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+BigWingGun_4
+  rotate: true
+  xy: 427, 31
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+BigWing_0
+  rotate: false
+  xy: 427, 101
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+BigWing_1
+  rotate: false
+  xy: 30, 16
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+BigWing_2
+  rotate: false
+  xy: 65, 16
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+BigWing_3
+  rotate: false
+  xy: 100, 16
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+BigWing_4
+  rotate: false
+  xy: 427, 74
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+BodyJet_0
+  rotate: true
+  xy: 147, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+BodyJet_1
+  rotate: true
+  xy: 147, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+BodyJet_2
+  rotate: true
+  xy: 160, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+BodyJet_3
+  rotate: true
+  xy: 173, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+BodyJet_4
+  rotate: true
+  xy: 186, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+BodyWing_0
+  rotate: false
+  xy: 273, 2
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+BodyWing_1
+  rotate: true
+  xy: 460, 48
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+BodyWing_2
+  rotate: true
+  xy: 345, 30
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+BodyWing_3
+  rotate: true
+  xy: 371, 30
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+BodyWing_4
+  rotate: true
+  xy: 397, 30
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+Body_0
+  rotate: false
+  xy: 462, 95
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: true
+  xy: 427, 45
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: true
+  xy: 135, 14
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: true
+  xy: 168, 14
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Body_4
+  rotate: true
+  xy: 201, 14
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Dragonstar_Turnright_0
+  rotate: false
+  xy: 2, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dragonstar_Turnright_1
+  rotate: false
+  xy: 87, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dragonstar_Turnright_2
+  rotate: false
+  xy: 172, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dragonstar_Turnright_3
+  rotate: false
+  xy: 257, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dragonstar_Turnright_4
+  rotate: false
+  xy: 342, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+HeadL_0
+  rotate: false
+  xy: 2, 2
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+HeadL_1
+  rotate: true
+  xy: 30, 2
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+HeadL_2
+  rotate: true
+  xy: 234, 15
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+HeadR_2
+  rotate: true
+  xy: 234, 15
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+HeadL_3
+  rotate: true
+  xy: 311, 32
+  size: 9, 32
+  orig: 9, 32
+  offset: 0, 0
+  index: -1
+HeadL_4
+  rotate: true
+  xy: 70, 2
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+HeadR_1
+  rotate: false
+  xy: 16, 2
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+HeadR_3
+  rotate: true
+  xy: 274, 32
+  size: 9, 35
+  orig: 9, 35
+  offset: 0, 0
+  index: -1
+HeadR_4
+  rotate: true
+  xy: 234, 2
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+HeadR_5
+  rotate: true
+  xy: 234, 28
+  size: 13, 38
+  orig: 13, 38
+  offset: 0, 0
+  index: -1
+HeadTip_0
+  rotate: false
+  xy: 491, 95
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+HeadTip_1
+  rotate: true
+  xy: 462, 78
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+HeadTip_2
+  rotate: false
+  xy: 495, 62
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+HeadTip_3
+  rotate: true
+  xy: 462, 61
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+HeadTip_4
+  rotate: false
+  xy: 495, 29
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+MidJet
+  rotate: false
+  xy: 199, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+SmallWing_1
+  rotate: false
+  xy: 212, 4
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+SmallWing_2
+  rotate: false
+  xy: 125, 2
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+SmallWing_3
+  rotate: false
+  xy: 286, 16
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+{
+"skeleton": { "hash": "AzzHNkpmXEBrbxEGy6px02Ag1Rk", "spine": "3.7.94", "width": 83.2, "height": 83.28 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Fury_A_Turn_Left_0", "parent": "root", "length": 30.53, "rotation": 90.36, "x": 2.11, "y": -11.6 }
+],
+"slots": [
+	{ "name": "Auxo_SS/Auxo_SS_Turn_R5", "bone": "Fury_A_Turn_Left_0", "attachment": "Auxo_SS/Auxo_SS_Idle1" },
+	{ "name": "Range_Turnright", "bone": "Fury_A_Turn_Left_0", "attachment": "Fury_A_TurnRight_1" }
+],
+"skins": {
+	"default": {},
+	"E1": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "Auxo_C/Auxo_C_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "Auxo_C/Auxo_C_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "Auxo_C/Auxo_C_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "Auxo_C/Auxo_C_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "Auxo_C/Auxo_C_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "Auxo_C/Auxo_C_TurnR1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "Auxo_C/Auxo_C_TurnR2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "Auxo_C/Auxo_C_TurnR3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "Auxo_C/Auxo_C_TurnR4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "Auxo_C/Auxo_C_TurnR5", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E2": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "Auxo_B/Auxo_B_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "Auxo_B/Auxo_B_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "Auxo_B/Auxo_B_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "Auxo_B/Auxo_B_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "Auxo_B/Auxo_B_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "Auxo_B/Auxo_B_Turn_R1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "Auxo_B/Auxo_B_Turn_R2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "Auxo_B/Auxo_B_Turn_R3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "Auxo_B/Auxo_B_Turn_R4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "Auxo_B/Auxo_B_Turn_R5", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E3": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Fury_A_Idle_1": { "name": "Auxo_A/Auxo_A_IdleL1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "Auxo_A/Auxo_A_IdleL2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "Auxo_A/Auxo_A_IdleL3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "Auxo_A/Auxo_A_IdleL4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "Auxo_A/Auxo_A_IdleL5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "Auxo_A/Auxo_A_TurnR1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "Auxo_A/Auxo_A_TurnR2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "Auxo_A/Auxo_A_TurnR3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "Auxo_A/Auxo_A_TurnR4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "Auxo_A/Auxo_A_TurnR5", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E4": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Fury_A_Idle_1": { "name": "Auxo_S/Auxo_S_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "Auxo_S/Auxo_S_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "Auxo_S/Auxo_S_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "Auxo_S/Auxo_S_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "Auxo_S/Auxo_S_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "Auxo_S/Auxo_S_TurnR1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "Auxo_S/Auxo_S_TurnR2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "Auxo_S/Auxo_S_TurnR3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "Auxo_S/Auxo_S_TurnR4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "Auxo_S/Auxo_S_TurnR5", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E5": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "Auxo_SS/Auxo_SS_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "Auxo_SS/Auxo_SS_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "Auxo_SS/Auxo_SS_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "Auxo_SS/Auxo_SS_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "Auxo_SS/Auxo_SS_Turn_R1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "Auxo_SS/Auxo_SS_Turn_R2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "Auxo_SS/Auxo_SS_Turn_R3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "Auxo_SS/Auxo_SS_Turn_R4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "Auxo_SS/Auxo_SS_Turn_R5", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E6": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "Auxo_SSS/Auxo_SSS_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "Auxo_SSS/Auxo_SSS_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "Auxo_SSS/Auxo_SSS_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "Auxo_SSS/Auxo_SSS_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "Auxo_SSS/Auxo_SSS_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "Auxo_SSS/Auxo_SSS_TurnR1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "Auxo_SSS/Auxo_SSS_TurnR2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "Auxo_SSS/Auxo_SSS_TurnR3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "Auxo_SSS/Auxo_SSS_TurnR4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "Auxo_SSS/Auxo_SSS_TurnR4", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E7": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "Auxo_X/Auxo_X_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "Auxo_X/Auxo_X_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "Auxo_X/Auxo_X_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "Auxo_X/Auxo_X_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "Auxo_X/Auxo_X_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "Auxo_X/Auxo_X_Turn_R1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "Auxo_X/Auxo_X_Turn_R2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "Auxo_X/Auxo_X_Turn_R3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "Auxo_X/Auxo_X_Turn_R4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "Auxo_X/Auxo_X_Turn_R5", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E8": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "Auxo_XX/Auxo_XX_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "Auxo_XX/Auxo_XX_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "Auxo_XX/Auxo_XX_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "Auxo_XX/Auxo_XX_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "Auxo_XX/Auxo_XX_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "Auxo_XX/Auxo_XX_Turn_R1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "Auxo_XX/Auxo_XX_Turn_R2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "Auxo_XX/Auxo_XX_Turn_R3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "Auxo_XX/Auxo_XX_Turn_R4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "Auxo_XX/Auxo_XX_Turn_R5", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	},
+	"E9": {
+		"Auxo_SS/Auxo_SS_Turn_R5": {
+			"Auxo_SS/Auxo_SS_Idle1": { "name": "Auxo_XXX/Auxo_XXX_Idle1", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_1": { "name": "Auxo_XXX/Auxo_XXX_Idle2", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_2": { "name": "Auxo_XXX/Auxo_XXX_Idle3", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_3": { "name": "Auxo_XXX/Auxo_XXX_Idle4", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_Idle_4": { "name": "Auxo_XXX/Auxo_XXX_Idle5", "x": 14.38, "y": 1.38, "rotation": -90.36, "width": 83, "height": 83 }
+		},
+		"Range_Turnright": {
+			"Fury_A_TurnRight_1": { "name": "Auxo_XXX/Auxo_XXX_TurnR1", "x": 14.1, "y": 1.18, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_2": { "name": "Auxo_XXX/Auxo_XXX_TurnR2", "x": 14.88, "y": 1.24, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_3": { "name": "Auxo_XXX/Auxo_XXX_TurnR3", "x": 14.88, "y": 1.43, "rotation": -90.36, "width": 83, "height": 83 },
+			"Fury_A_TurnRight_4": { "name": "Auxo_XXX/Auxo_XXX_TurnR4", "x": 14.88, "y": 1.28, "rotation": -90.36, "width": 83, "height": 83 },
+			"Range_Turnright": { "name": "Auxo_XXX/Auxo_XXX_TurnR5", "x": 14.38, "y": 1.88, "rotation": -90.36, "width": 83, "height": 83 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": "Fury_A_Idle_1" },
+					{ "time": 0.1, "name": "Fury_A_Idle_2" },
+					{ "time": 0.2, "name": "Fury_A_Idle_3" },
+					{ "time": 0.3, "name": "Fury_A_Idle_4" },
+					{ "time": 0.4, "name": "Auxo_SS/Auxo_SS_Idle1" },
+					{ "time": 0.5, "name": "Fury_A_Idle_1" }
+				]
+			},
+			"Range_Turnright": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right0": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right1": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Range_Turnright": {
+				"attachment": [
+					{ "time": 0, "name": "Fury_A_TurnRight_2" }
+				]
+			}
+		}
+	},
+	"right2": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Range_Turnright": {
+				"attachment": [
+					{ "time": 0, "name": "Fury_A_TurnRight_3" }
+				]
+			}
+		}
+	},
+	"right3": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Range_Turnright": {
+				"attachment": [
+					{ "time": 0, "name": "Fury_A_TurnRight_4" }
+				]
+			}
+		}
+	},
+	"right4": {
+		"slots": {
+			"Auxo_SS/Auxo_SS_Turn_R5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Range_Turnright": {
+				"attachment": [
+					{ "time": 0, "name": "Range_Turnright" }
+				]
+			}
+		}
+	}
+}
+}

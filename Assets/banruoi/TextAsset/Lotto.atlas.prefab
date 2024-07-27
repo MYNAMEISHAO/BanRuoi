@@ -1,0 +1,118 @@
+
+Lotto.png
+size: 696,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 494, 36
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 554, 37
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 614, 70
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 614, 10
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Jhin_Skin01_E_Trap_Explosion_SmokePuffs_2
+  rotate: false
+  xy: 540, 97
+  size: 63, 63
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Jhin_Skin01_E_Trap_Explosion_SmokePuffs_3
+  rotate: false
+  xy: 610, 172
+  size: 63, 62
+  orig: 64, 64
+  offset: 0, 2
+  index: -1
+Jhin_Skin01_E_Trap_Explosion_SmokePuffs_4
+  rotate: false
+  xy: 430, 33
+  size: 62, 61
+  orig: 64, 64
+  offset: 0, 3
+  index: -1
+box
+  rotate: true
+  xy: 2, 14
+  size: 220, 234
+  orig: 220, 234
+  offset: 0, 0
+  index: -1
+den
+  rotate: false
+  xy: 675, 172
+  size: 8, 8
+  orig: 13, 13
+  offset: 2, 3
+  index: -1
+gate
+  rotate: false
+  xy: 238, 2
+  size: 132, 92
+  orig: 132, 92
+  offset: 0, 0
+  index: -1
+l_door
+  rotate: false
+  xy: 372, 22
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 238, 96
+  size: 300, 138
+  orig: 300, 138
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 540, 162
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+off
+  rotate: true
+  xy: 372, 6
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+on
+  rotate: false
+  xy: 675, 182
+  size: 16, 52
+  orig: 16, 52
+  offset: 0, 0
+  index: -1
+r_door
+  rotate: true
+  xy: 610, 130
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1

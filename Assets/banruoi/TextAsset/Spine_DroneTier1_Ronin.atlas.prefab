@@ -1,0 +1,20 @@
+
+Spine_DroneTier1_Ronin.png
+size: 212,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ronin_Skill
+  rotate: false
+  xy: 2, 2
+  size: 77, 354
+  orig: 77, 354
+  offset: 0, 0
+  index: -1
+slash
+  rotate: false
+  xy: 81, 228
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

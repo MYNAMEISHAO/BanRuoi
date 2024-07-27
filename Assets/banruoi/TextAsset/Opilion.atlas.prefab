@@ -1,0 +1,237 @@
+
+Opilion.png
+size: 156,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 15
+  rotate: false
+  xy: 76, 27
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 66, 22
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 76, 16
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 76, 5
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 86, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 96, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Leg2_F_R
+  rotate: false
+  xy: 96, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 97, 13
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 105, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 114, 8
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: false
+  xy: 123, 8
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Layer 31
+  rotate: false
+  xy: 56, 18
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Layer 32
+  rotate: false
+  xy: 56, 3
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Layer 33
+  rotate: false
+  xy: 140, 17
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Layer 34
+  rotate: false
+  xy: 66, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Layer 35
+  rotate: false
+  xy: 113, 19
+  size: 9, 31
+  orig: 9, 31
+  offset: 0, 0
+  index: -1
+Layer 36
+  rotate: false
+  xy: 140, 64
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Layer 37
+  rotate: false
+  xy: 140, 48
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Layer 38
+  rotate: false
+  xy: 124, 36
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Layer 39
+  rotate: false
+  xy: 140, 32
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Layer 40
+  rotate: false
+  xy: 124, 20
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Layer 41
+  rotate: false
+  xy: 2, 34
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+Layer 42
+  rotate: false
+  xy: 42, 33
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Layer 43
+  rotate: false
+  xy: 69, 38
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 6
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 86, 52
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 113, 52
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 29, 5
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 86, 24
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Leg1_B_R
+  rotate: false
+  xy: 132, 10
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+Leg2_B_R
+  rotate: false
+  xy: 142, 8
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+Leg3_B_R
+  rotate: false
+  xy: 132, 2
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+Leg4_B_R
+  rotate: false
+  xy: 86, 13
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

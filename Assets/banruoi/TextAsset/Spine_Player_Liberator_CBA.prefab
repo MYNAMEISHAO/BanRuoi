@@ -1,0 +1,2524 @@
+{
+"skeleton": { "hash": "XOOYwE6dpZRttm+EvAbRe5Zyg+o", "spine": "3.7.94", "width": 83, "height": 83, "images": "./C,B,A/images/", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Body_1", "parent": "root", "x": -1.13, "y": -7.51 },
+	{ "name": "Head_1", "parent": "Body_1", "length": 13.25, "rotation": 90, "x": 0.1, "y": 24.79 },
+	{ "name": "Glass_1", "parent": "Body_1", "length": 10.02, "rotation": 90, "x": 0.09, "y": 2.98 },
+	{ "name": "Side", "parent": "Body_1", "length": 18.96, "rotation": -180, "x": -6.41, "y": -4.6 },
+	{ "name": "WingBase", "parent": "Side", "length": 13.09, "x": -0.07, "y": -2.04 },
+	{ "name": "Wing_1", "parent": "WingBase", "length": 35.08, "rotation": -90, "x": 7.06, "y": -9.62 },
+	{ "name": "Jet", "parent": "Body_1", "length": 8.93, "rotation": -90, "x": -5.92, "y": -6.05 },
+	{ "name": "SmallWing", "parent": "Body_1", "length": 25.02, "rotation": 180, "x": -11.31, "y": 1.97 },
+	{ "name": "Pitong_2", "parent": "WingBase", "length": 9.24, "x": 7.97, "y": -0.83 },
+	{ "name": "PitongTip_1", "parent": "Pitong_2", "length": 4.96, "x": 9.07, "y": -0.18 },
+	{ "name": "Layer 3", "parent": "Side", "length": 17.23, "rotation": 90, "x": 3.01, "y": 10.36 },
+	{
+		"name": "Side2",
+		"parent": "Body_1",
+		"length": 18.96,
+		"rotation": -180,
+		"x": 6.72,
+		"y": -4.6,
+		"scaleX": -1
+	},
+	{ "name": "WingBase2", "parent": "Side2", "length": 13.09, "x": -0.07, "y": -2.04 },
+	{ "name": "Wing_2", "parent": "WingBase2", "length": 35.08, "rotation": -90, "x": 7.06, "y": -9.62 },
+	{ "name": "Pitong_3", "parent": "WingBase2", "length": 9.24, "x": 7.97, "y": -0.83 },
+	{ "name": "PitongTip_2", "parent": "Pitong_3", "length": 4.96, "x": 9.07, "y": -0.18 },
+	{ "name": "Layer 4", "parent": "Side2", "length": 17.23, "rotation": 90, "x": 3.01, "y": 10.36 },
+	{
+		"name": "SmallWing2",
+		"parent": "Body_1",
+		"length": 25.02,
+		"rotation": 180,
+		"x": 11.67,
+		"y": 1.97,
+		"scaleX": -1
+	},
+	{
+		"name": "Jet2",
+		"parent": "Body_1",
+		"length": 8.93,
+		"rotation": -90,
+		"x": 6.22,
+		"y": -6.05,
+		"scaleY": -1
+	}
+],
+"slots": [
+	{ "name": "SkyXRanger_Turnright_0", "bone": "root", "attachment": "SkyXRanger_Turnright_0" },
+	{ "name": "SmallWing", "bone": "SmallWing", "attachment": "SmallWing" },
+	{ "name": "SmallWing2", "bone": "SmallWing2", "attachment": "SmallWing" },
+	{ "name": "Jet", "bone": "Jet", "attachment": "Jet" },
+	{ "name": "Jet2", "bone": "Jet2", "attachment": "Jet" },
+	{ "name": "Side", "bone": "Side", "attachment": "Side" },
+	{ "name": "Side2", "bone": "Side2", "attachment": "Side" },
+	{ "name": "Head_1", "bone": "Head_1", "attachment": "Head_1" },
+	{ "name": "Glass_1", "bone": "Glass_1", "attachment": "Glass_5" },
+	{ "name": "Body_1", "bone": "Body_1", "attachment": "Body_6" },
+	{ "name": "Layer 3", "bone": "Layer 3", "attachment": "Layer 3" },
+	{ "name": "Layer 4", "bone": "Layer 4", "attachment": "Layer 3" },
+	{ "name": "Pitong_2", "bone": "Pitong_2", "attachment": "Pitong_ 1" },
+	{ "name": "Pitong_3", "bone": "Pitong_3", "attachment": "Pitong_ 1" },
+	{ "name": "PitongTip_1", "bone": "PitongTip_1", "attachment": "PitongTip_1" },
+	{ "name": "PitongTip_2", "bone": "PitongTip_2", "attachment": "PitongTip_1" },
+	{ "name": "Wing_1", "bone": "Wing_1", "attachment": "Wing_1" },
+	{ "name": "Wing_2", "bone": "Wing_2", "attachment": "Wing_1" },
+	{ "name": "WingBase", "bone": "WingBase", "attachment": "WingBase" },
+	{ "name": "WingBase2", "bone": "WingBase2", "attachment": "WingBase" }
+],
+"skins": {
+	"default": {
+		"Body_1": {
+			"Body_1": { "x": 0.14, "y": 3.01, "width": 21, "height": 50 },
+			"Body_2": { "x": 0.14, "y": 3.01, "width": 21, "height": 50 },
+			"Body_3": { "x": 0.14, "y": 3.01, "width": 21, "height": 50 },
+			"Body_4": { "x": 0.14, "y": 3.01, "width": 21, "height": 50 },
+			"Body_5": { "x": 0.14, "y": 3.01, "width": 21, "height": 50 },
+			"Body_6": { "x": 0.14, "y": 3.01, "width": 21, "height": 50 }
+		},
+		"Glass_1": {
+			"Glass_1": { "x": 4.03, "y": -0.05, "rotation": -90, "width": 13, "height": 14 },
+			"Glass_2": { "x": 4.03, "y": -0.05, "rotation": -90, "width": 13, "height": 14 },
+			"Glass_3": { "x": 4.03, "y": -0.05, "rotation": -90, "width": 13, "height": 14 },
+			"Glass_4": { "x": 4.03, "y": -0.05, "rotation": -90, "width": 13, "height": 14 },
+			"Glass_5": { "x": 4.03, "y": -0.05, "rotation": -90, "width": 13, "height": 14 }
+		},
+		"Head_1": {
+			"Head_1": { "x": 5.72, "y": -0.04, "rotation": -90, "width": 25, "height": 17 },
+			"Head_2": { "x": 5.72, "y": -0.04, "rotation": -90, "width": 25, "height": 17 },
+			"Head_3": { "x": 5.72, "y": -0.04, "rotation": -90, "width": 25, "height": 17 },
+			"Head_4": { "x": 5.72, "y": -0.04, "rotation": -90, "width": 25, "height": 17 },
+			"Head_5": { "x": 5.72, "y": -0.04, "rotation": -90, "width": 25, "height": 17 },
+			"Head_6": { "x": 5.72, "y": -0.04, "rotation": -90, "width": 25, "height": 17 }
+		},
+		"Jet": {
+			"Jet": { "x": 4.44, "y": 0.06, "rotation": 90, "width": 9, "height": 11 }
+		},
+		"Jet2": {
+			"Jet": { "x": 4.44, "y": 0.06, "rotation": 90, "width": 9, "height": 11 }
+		},
+		"Layer 3": {
+			"Layer 3": { "x": 5.52, "y": -9.44, "rotation": 90, "width": 21, "height": 25 }
+		},
+		"Layer 4": {
+			"Layer 3": { "x": 5.52, "y": -9.44, "rotation": 90, "width": 21, "height": 25 }
+		},
+		"PitongTip_1": {
+			"PitongTip_1": { "x": 2.48, "y": 0.44, "rotation": -180, "width": 7, "height": 14 },
+			"PitongTip_2": { "x": 2.48, "y": 0.44, "rotation": -180, "width": 7, "height": 14 },
+			"PitongTip_3": { "x": 2.48, "y": 0.44, "rotation": -180, "width": 7, "height": 14 },
+			"PitongTip_4": { "x": 2.48, "y": 0.44, "rotation": -180, "width": 7, "height": 14 },
+			"PitongTip_5": { "x": 2.48, "y": 0.44, "rotation": -180, "width": 7, "height": 14 }
+		},
+		"PitongTip_2": {
+			"PitongTip_1": { "x": 2.48, "y": 0.44, "rotation": -180, "width": 7, "height": 14 },
+			"PitongTip_2": { "x": 2.48, "y": 0.44, "rotation": -180, "width": 7, "height": 14 },
+			"PitongTip_3": { "x": 2.48, "y": 0.44, "rotation": -180, "width": 7, "height": 14 },
+			"PitongTip_4": { "x": 2.48, "y": 0.44, "rotation": -180, "width": 7, "height": 14 },
+			"PitongTip_5": { "x": 2.48, "y": 0.44, "rotation": -180, "width": 7, "height": 14 }
+		},
+		"Pitong_2": {
+			"Pitong_2": { "x": 4.55, "y": 0.26, "rotation": 180, "width": 11, "height": 12 },
+			"Pitong_3": { "x": 4.55, "y": 0.26, "rotation": 180, "width": 11, "height": 12 },
+			"Pitong_4": { "x": 4.55, "y": 0.26, "rotation": 180, "width": 11, "height": 12 },
+			"Pitong_5": { "x": 4.55, "y": 0.26, "rotation": 180, "width": 11, "height": 12 },
+			"Pitong_ 1": { "x": 4.55, "y": 0.26, "rotation": 180, "width": 11, "height": 12 }
+		},
+		"Pitong_3": {
+			"Pitong_2": { "x": 4.55, "y": 0.26, "rotation": 180, "width": 11, "height": 12 },
+			"Pitong_3": { "x": 4.55, "y": 0.26, "rotation": 180, "width": 11, "height": 12 },
+			"Pitong_4": { "x": 4.55, "y": 0.26, "rotation": 180, "width": 11, "height": 12 },
+			"Pitong_5": { "x": 4.55, "y": 0.26, "rotation": 180, "width": 11, "height": 12 },
+			"Pitong_ 1": { "x": 4.55, "y": 0.26, "rotation": 180, "width": 11, "height": 12 }
+		},
+		"Side": {
+			"Side": { "x": 9.45, "y": -0.11, "rotation": 180, "width": 21, "height": 33 }
+		},
+		"Side2": {
+			"Side": { "x": 9.45, "y": -0.11, "rotation": 180, "width": 21, "height": 33 }
+		},
+		"SmallWing": {
+			"SmallWing": { "x": 12.55, "y": -1.55, "rotation": 180, "width": 27, "height": 17 }
+		},
+		"SmallWing2": {
+			"SmallWing": { "x": 12.55, "y": -1.55, "rotation": 180, "width": 27, "height": 17 }
+		},
+		"WingBase": {
+			"WingBase": { "x": 11.52, "y": -3.08, "rotation": 180, "width": 25, "height": 31 }
+		},
+		"WingBase2": {
+			"WingBase": { "x": 11.52, "y": -3.08, "rotation": 180, "width": 25, "height": 31 }
+		},
+		"Wing_1": {
+			"Wing_1": { "x": 17.45, "y": 6.97, "rotation": -90, "width": 16, "height": 37 },
+			"Wing_2": { "x": 17.45, "y": 6.97, "rotation": -90, "width": 16, "height": 37 },
+			"Wing_3": { "x": 17.45, "y": 6.97, "rotation": -90, "width": 16, "height": 37 },
+			"Wing_4": { "x": 17.45, "y": 6.97, "rotation": -90, "width": 16, "height": 37 },
+			"Wing_5": { "x": 17.45, "y": 6.97, "rotation": -90, "width": 16, "height": 37 }
+		},
+		"Wing_2": {
+			"Wing_1": { "x": 17.45, "y": 6.97, "rotation": -90, "width": 16, "height": 37 },
+			"Wing_2": { "x": 17.45, "y": 6.97, "rotation": -90, "width": 16, "height": 37 },
+			"Wing_3": { "x": 17.45, "y": 6.97, "rotation": -90, "width": 16, "height": 37 },
+			"Wing_4": { "x": 17.45, "y": 6.97, "rotation": -90, "width": 16, "height": 37 },
+			"Wing_5": { "x": 17.45, "y": 6.97, "rotation": -90, "width": 16, "height": 37 }
+		}
+	},
+	"E1": {
+		"SkyXRanger_Turnright_0": {
+			"SkyXRanger_Turnright_0": { "width": 83, "height": 83 },
+			"SkyXRanger_Turnright_1": { "width": 83, "height": 83 },
+			"SkyXRanger_Turnright_2": { "width": 83, "height": 83 },
+			"SkyXRanger_Turnright_3": { "width": 83, "height": 83 },
+			"SkyXRanger_Turnright_4": { "width": 83, "height": 83 }
+		}
+	}
+},
+"animations": {
+	"SkillOff_Animation": {
+		"slots": {
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": "Head_2" },
+					{ "time": 0.0667, "name": "Head_3" },
+					{ "time": 0.1333, "name": "Head_4" },
+					{ "time": 0.2, "name": "Head_5" },
+					{ "time": 0.2667, "name": "Head_6" },
+					{ "time": 0.3333, "name": "Head_2" },
+					{ "time": 0.4, "name": "Head_3" },
+					{ "time": 0.4667, "name": "Head_4" },
+					{ "time": 0.5333, "name": "Head_5" },
+					{ "time": 0.6, "name": "Head_6" },
+					{ "time": 0.6667, "name": "Head_2" }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_2" },
+					{ "time": 0.0667, "name": "PitongTip_3" },
+					{ "time": 0.1333, "name": "PitongTip_4" },
+					{ "time": 0.2, "name": "PitongTip_5" },
+					{ "time": 0.2667, "name": "PitongTip_1" },
+					{ "time": 0.3333, "name": "PitongTip_2" },
+					{ "time": 0.4, "name": "PitongTip_3" },
+					{ "time": 0.4667, "name": "PitongTip_4" },
+					{ "time": 0.5333, "name": "PitongTip_5" },
+					{ "time": 0.6, "name": "PitongTip_1" },
+					{ "time": 0.6667, "name": "PitongTip_2" }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_2" },
+					{ "time": 0.0667, "name": "PitongTip_3" },
+					{ "time": 0.1333, "name": "PitongTip_4" },
+					{ "time": 0.2, "name": "PitongTip_5" },
+					{ "time": 0.2667, "name": "PitongTip_1" },
+					{ "time": 0.3333, "name": "PitongTip_2" },
+					{ "time": 0.4, "name": "PitongTip_3" },
+					{ "time": 0.4667, "name": "PitongTip_4" },
+					{ "time": 0.5333, "name": "PitongTip_5" },
+					{ "time": 0.6, "name": "PitongTip_1" },
+					{ "time": 0.6667, "name": "PitongTip_2" }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_2" },
+					{ "time": 0.0667, "name": "Pitong_3" },
+					{ "time": 0.1333, "name": "Pitong_4" },
+					{ "time": 0.2, "name": "Pitong_5" },
+					{ "time": 0.2667, "name": "Pitong_ 1" },
+					{ "time": 0.3333, "name": "Pitong_2" },
+					{ "time": 0.4, "name": "Pitong_3" },
+					{ "time": 0.4667, "name": "Pitong_4" },
+					{ "time": 0.5333, "name": "Pitong_5" },
+					{ "time": 0.6, "name": "Pitong_ 1" },
+					{ "time": 0.6667, "name": "Pitong_2" }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_2" },
+					{ "time": 0.0667, "name": "Pitong_3" },
+					{ "time": 0.1333, "name": "Pitong_4" },
+					{ "time": 0.2, "name": "Pitong_5" },
+					{ "time": 0.2667, "name": "Pitong_ 1" },
+					{ "time": 0.3333, "name": "Pitong_2" },
+					{ "time": 0.4, "name": "Pitong_3" },
+					{ "time": 0.4667, "name": "Pitong_4" },
+					{ "time": 0.5333, "name": "Pitong_5" },
+					{ "time": 0.6, "name": "Pitong_ 1" },
+					{ "time": 0.6667, "name": "Pitong_2" }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_2" },
+					{ "time": 0.0667, "name": "Wing_3" },
+					{ "time": 0.1333, "name": "Wing_4" },
+					{ "time": 0.2, "name": "Wing_5" },
+					{ "time": 0.2667, "name": "Wing_1" },
+					{ "time": 0.3333, "name": "Wing_2" },
+					{ "time": 0.4, "name": "Wing_3" },
+					{ "time": 0.4667, "name": "Wing_4" },
+					{ "time": 0.5333, "name": "Wing_5" },
+					{ "time": 0.6, "name": "Wing_1" },
+					{ "time": 0.6667, "name": "Wing_2" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_2" },
+					{ "time": 0.0667, "name": "Wing_3" },
+					{ "time": 0.1333, "name": "Wing_4" },
+					{ "time": 0.2, "name": "Wing_5" },
+					{ "time": 0.2667, "name": "Wing_1" },
+					{ "time": 0.3333, "name": "Wing_2" },
+					{ "time": 0.4, "name": "Wing_3" },
+					{ "time": 0.4667, "name": "Wing_4" },
+					{ "time": 0.5333, "name": "Wing_5" },
+					{ "time": 0.6, "name": "Wing_1" },
+					{ "time": 0.6667, "name": "Wing_2" }
+				]
+			}
+		},
+		"bones": {
+			"WingBase": {
+				"translate": [
+					{ "time": 0, "x": 7.84, "y": 0, "curve": "stepped" },
+					{ "time": 0.4, "x": 7.84, "y": 0 },
+					{ "time": 0.4667, "x": 7.19, "y": 0 },
+					{ "time": 0.5333, "x": 7.84, "y": 0 },
+					{ "time": 0.7333, "x": 0, "y": 0 },
+					{ "time": 0.8, "x": 0.65, "y": 0 },
+					{ "time": 0.8667, "x": 0, "y": 0 }
+				]
+			},
+			"WingBase2": {
+				"translate": [
+					{ "time": 0, "x": 7.84, "y": 0, "curve": "stepped" },
+					{ "time": 0.4, "x": 7.84, "y": 0 },
+					{ "time": 0.4667, "x": 7.19, "y": 0 },
+					{ "time": 0.5333, "x": 7.84, "y": 0 },
+					{ "time": 0.7333, "x": 0, "y": 0 },
+					{ "time": 0.8, "x": 0.65, "y": 0 },
+					{ "time": 0.8667, "x": 0, "y": 0 }
+				]
+			},
+			"Head_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -3.96, "curve": "stepped" },
+					{ "time": 0.5333, "x": 0, "y": -3.96 },
+					{ "time": 0.7333, "x": 0, "y": 0 },
+					{ "time": 0.8, "x": 0, "y": -0.33 },
+					{ "time": 0.8667, "x": 0, "y": 0 }
+				]
+			},
+			"Pitong_2": {
+				"translate": [
+					{ "time": 0, "x": 4.03, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 4.03, "y": 0 },
+					{ "time": 0.1667, "x": 3.69, "y": 0 },
+					{ "time": 0.2333, "x": 4.03, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 },
+					{ "time": 0.4333, "x": 0.5, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"Pitong_3": {
+				"translate": [
+					{ "time": 0, "x": 4.03, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 4.03, "y": 0 },
+					{ "time": 0.1667, "x": 3.69, "y": 0 },
+					{ "time": 0.2333, "x": 4.03, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 },
+					{ "time": 0.4333, "x": 0.5, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"SmallWing": {
+				"translate": [
+					{ "time": 0, "x": -11.78, "y": 0 },
+					{ "time": 0.0667, "x": -11.04, "y": 0 },
+					{ "time": 0.1333, "x": -11.78, "y": 0 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": -0.74, "y": 0 },
+					{ "time": 0.5333, "x": 0, "y": 0 }
+				]
+			},
+			"SmallWing2": {
+				"translate": [
+					{ "time": 0, "x": 11.78, "y": 0 },
+					{ "time": 0.0667, "x": 11.04, "y": 0 },
+					{ "time": 0.1333, "x": 11.78, "y": 0 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 0.74, "y": 0 },
+					{ "time": 0.5333, "x": 0, "y": 0 }
+				]
+			},
+			"Layer 3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 6.03, "curve": "stepped" },
+					{ "time": 0.4, "x": 0, "y": 6.03 },
+					{ "time": 0.4667, "x": 0, "y": 5.53 },
+					{ "time": 0.5333, "x": 0, "y": 6.03 },
+					{ "time": 0.7333, "x": 0, "y": 0 },
+					{ "time": 0.8, "x": 0, "y": 0.5 },
+					{ "time": 0.8667, "x": 0, "y": 0 }
+				]
+			},
+			"Layer 4": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 6.03, "curve": "stepped" },
+					{ "time": 0.4, "x": 0, "y": 6.03 },
+					{ "time": 0.4667, "x": 0, "y": 5.53 },
+					{ "time": 0.5333, "x": 0, "y": 6.03 },
+					{ "time": 0.7333, "x": 0, "y": 0 },
+					{ "time": 0.8, "x": 0, "y": 0.5 },
+					{ "time": 0.8667, "x": 0, "y": 0 }
+				]
+			},
+			"Jet": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.3 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": 0, "y": 2.99 },
+					{ "time": 0.3, "x": 0, "y": 2.24 },
+					{ "time": 0.3667, "x": 0, "y": 2.99, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 2.99 },
+					{ "time": 0.5667, "x": 0, "y": 2.24 },
+					{ "time": 0.6333, "x": 0, "y": 2.99 },
+					{ "time": 0.7333, "x": 0, "y": 0 },
+					{ "time": 0.8, "x": 0, "y": 0.5 },
+					{ "time": 0.8667, "x": 0, "y": 0 }
+				]
+			},
+			"Jet2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.3 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": 0, "y": 2.99 },
+					{ "time": 0.3, "x": 0, "y": 2.24 },
+					{ "time": 0.3667, "x": 0, "y": 2.99, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 2.99 },
+					{ "time": 0.5667, "x": 0, "y": 2.24 },
+					{ "time": 0.6333, "x": 0, "y": 2.99 },
+					{ "time": 0.7333, "x": 0, "y": 0 },
+					{ "time": 0.8, "x": 0, "y": 0.5 },
+					{ "time": 0.8667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"SkillOn_Animation": {
+		"slots": {
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": "Head_2" },
+					{ "time": 0.0667, "name": "Head_3" },
+					{ "time": 0.1333, "name": "Head_4" },
+					{ "time": 0.2, "name": "Head_5" },
+					{ "time": 0.2667, "name": "Head_6" },
+					{ "time": 0.3333, "name": "Head_2" },
+					{ "time": 0.4, "name": "Head_3" },
+					{ "time": 0.4667, "name": "Head_4" },
+					{ "time": 0.5333, "name": "Head_5" },
+					{ "time": 0.6, "name": "Head_6" },
+					{ "time": 0.6667, "name": "Head_2" }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_2" },
+					{ "time": 0.0667, "name": "PitongTip_3" },
+					{ "time": 0.1333, "name": "PitongTip_4" },
+					{ "time": 0.2, "name": "PitongTip_5" },
+					{ "time": 0.2667, "name": "PitongTip_1" },
+					{ "time": 0.3333, "name": "PitongTip_2" },
+					{ "time": 0.4, "name": "PitongTip_3" },
+					{ "time": 0.4667, "name": "PitongTip_4" },
+					{ "time": 0.5333, "name": "PitongTip_5" },
+					{ "time": 0.6, "name": "PitongTip_1" },
+					{ "time": 0.6667, "name": "PitongTip_2" }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_2" },
+					{ "time": 0.0667, "name": "PitongTip_3" },
+					{ "time": 0.1333, "name": "PitongTip_4" },
+					{ "time": 0.2, "name": "PitongTip_5" },
+					{ "time": 0.2667, "name": "PitongTip_1" },
+					{ "time": 0.3333, "name": "PitongTip_2" },
+					{ "time": 0.4, "name": "PitongTip_3" },
+					{ "time": 0.4667, "name": "PitongTip_4" },
+					{ "time": 0.5333, "name": "PitongTip_5" },
+					{ "time": 0.6, "name": "PitongTip_1" },
+					{ "time": 0.6667, "name": "PitongTip_2" }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_2" },
+					{ "time": 0.0667, "name": "Pitong_3" },
+					{ "time": 0.1333, "name": "Pitong_4" },
+					{ "time": 0.2, "name": "Pitong_5" },
+					{ "time": 0.2667, "name": "Pitong_ 1" },
+					{ "time": 0.3333, "name": "Pitong_2" },
+					{ "time": 0.4, "name": "Pitong_3" },
+					{ "time": 0.4667, "name": "Pitong_4" },
+					{ "time": 0.5333, "name": "Pitong_5" },
+					{ "time": 0.6, "name": "Pitong_ 1" },
+					{ "time": 0.6667, "name": "Pitong_2" }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_2" },
+					{ "time": 0.0667, "name": "Pitong_3" },
+					{ "time": 0.1333, "name": "Pitong_4" },
+					{ "time": 0.2, "name": "Pitong_5" },
+					{ "time": 0.2667, "name": "Pitong_ 1" },
+					{ "time": 0.3333, "name": "Pitong_2" },
+					{ "time": 0.4, "name": "Pitong_3" },
+					{ "time": 0.4667, "name": "Pitong_4" },
+					{ "time": 0.5333, "name": "Pitong_5" },
+					{ "time": 0.6, "name": "Pitong_ 1" },
+					{ "time": 0.6667, "name": "Pitong_2" }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_2" },
+					{ "time": 0.0667, "name": "Wing_3" },
+					{ "time": 0.1333, "name": "Wing_4" },
+					{ "time": 0.2, "name": "Wing_5" },
+					{ "time": 0.2667, "name": "Wing_1" },
+					{ "time": 0.3333, "name": "Wing_2" },
+					{ "time": 0.4, "name": "Wing_3" },
+					{ "time": 0.4667, "name": "Wing_4" },
+					{ "time": 0.5333, "name": "Wing_5" },
+					{ "time": 0.6, "name": "Wing_1" },
+					{ "time": 0.6667, "name": "Wing_2" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_2" },
+					{ "time": 0.0667, "name": "Wing_3" },
+					{ "time": 0.1333, "name": "Wing_4" },
+					{ "time": 0.2, "name": "Wing_5" },
+					{ "time": 0.2667, "name": "Wing_1" },
+					{ "time": 0.3333, "name": "Wing_2" },
+					{ "time": 0.4, "name": "Wing_3" },
+					{ "time": 0.4667, "name": "Wing_4" },
+					{ "time": 0.5333, "name": "Wing_5" },
+					{ "time": 0.6, "name": "Wing_1" },
+					{ "time": 0.6667, "name": "Wing_2" }
+				]
+			}
+		},
+		"bones": {
+			"WingBase": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 7.84, "y": 0 },
+					{ "time": 0.2667, "x": 7.19, "y": 0 },
+					{ "time": 0.3333, "x": 7.84, "y": 0 }
+				]
+			},
+			"WingBase2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 7.84, "y": 0 },
+					{ "time": 0.2667, "x": 7.19, "y": 0 },
+					{ "time": 0.3333, "x": 7.84, "y": 0 }
+				]
+			},
+			"Head_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": -3.96 }
+				]
+			},
+			"Pitong_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 4.03, "y": 0 },
+					{ "time": 0.5333, "x": 3.69, "y": 0 },
+					{ "time": 0.6, "x": 4.03, "y": 0 }
+				]
+			},
+			"Pitong_3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 4.03, "y": 0 },
+					{ "time": 0.5333, "x": 3.69, "y": 0 },
+					{ "time": 0.6, "x": 4.03, "y": 0 }
+				]
+			},
+			"SmallWing": {
+				"translate": [
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": -11.78, "y": 0 },
+					{ "time": 0.6667, "x": -11.04, "y": 0 },
+					{ "time": 0.7333, "x": -11.78, "y": 0 }
+				]
+			},
+			"SmallWing2": {
+				"translate": [
+					{ "time": 0.3333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": 11.78, "y": 0 },
+					{ "time": 0.6667, "x": 11.04, "y": 0 },
+					{ "time": 0.7333, "x": 11.78, "y": 0 }
+				]
+			},
+			"Layer 3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 6.03 },
+					{ "time": 0.2667, "x": 0, "y": 5.53 },
+					{ "time": 0.3333, "x": 0, "y": 6.03 }
+				]
+			},
+			"Layer 4": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 6.03 },
+					{ "time": 0.2667, "x": 0, "y": 5.53 },
+					{ "time": 0.3333, "x": 0, "y": 6.03 }
+				]
+			},
+			"Jet": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0, "y": 2.99 },
+					{ "time": 0.1667, "x": 0, "y": 2.24 },
+					{ "time": 0.2333, "x": 0, "y": 2.99, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 2.99 },
+					{ "time": 0.4, "x": 0, "y": 2.24 },
+					{ "time": 0.4667, "x": 0, "y": 2.99 },
+					{ "time": 0.5667, "x": 0, "y": 0 },
+					{ "time": 0.6333, "x": 0, "y": 0.3 },
+					{ "time": 0.7, "x": 0, "y": 0 }
+				]
+			},
+			"Jet2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0, "y": 2.99 },
+					{ "time": 0.1667, "x": 0, "y": 2.24 },
+					{ "time": 0.2333, "x": 0, "y": 2.99, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 2.99 },
+					{ "time": 0.4, "x": 0, "y": 2.24 },
+					{ "time": 0.4667, "x": 0, "y": 2.99 },
+					{ "time": 0.5667, "x": 0, "y": 0 },
+					{ "time": 0.6333, "x": 0, "y": 0.3 },
+					{ "time": 0.7, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"Skill_Idle": {
+		"slots": {
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": "Head_1" },
+					{ "time": 0.0667, "name": "Head_2" },
+					{ "time": 0.1333, "name": "Head_3" },
+					{ "time": 0.2, "name": "Head_4" },
+					{ "time": 0.2667, "name": "Head_5" },
+					{ "time": 0.3333, "name": "Head_6" },
+					{ "time": 0.4, "name": "Head_1" }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_1" },
+					{ "time": 0.0667, "name": "PitongTip_2" },
+					{ "time": 0.1333, "name": "PitongTip_3" },
+					{ "time": 0.2, "name": "PitongTip_4" },
+					{ "time": 0.2667, "name": "PitongTip_5" },
+					{ "time": 0.3333, "name": "PitongTip_1" },
+					{ "time": 0.4, "name": "PitongTip_1" }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_1" },
+					{ "time": 0.0667, "name": "PitongTip_2" },
+					{ "time": 0.1333, "name": "PitongTip_3" },
+					{ "time": 0.2, "name": "PitongTip_4" },
+					{ "time": 0.2667, "name": "PitongTip_5" },
+					{ "time": 0.3333, "name": "PitongTip_1" },
+					{ "time": 0.4, "name": "PitongTip_1" }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_ 1" },
+					{ "time": 0.0667, "name": "Pitong_2" },
+					{ "time": 0.1333, "name": "Pitong_3" },
+					{ "time": 0.2, "name": "Pitong_4" },
+					{ "time": 0.2667, "name": "Pitong_5" },
+					{ "time": 0.3333, "name": "Pitong_ 1" },
+					{ "time": 0.4, "name": "Pitong_ 1" }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_ 1" },
+					{ "time": 0.0667, "name": "Pitong_2" },
+					{ "time": 0.1333, "name": "Pitong_3" },
+					{ "time": 0.2, "name": "Pitong_4" },
+					{ "time": 0.2667, "name": "Pitong_5" },
+					{ "time": 0.3333, "name": "Pitong_ 1" },
+					{ "time": 0.4, "name": "Pitong_ 1" }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_1" },
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_1" },
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" }
+				]
+			}
+		},
+		"bones": {
+			"WingBase": {
+				"translate": [
+					{ "time": 0, "x": 7.84, "y": 0 }
+				]
+			},
+			"WingBase2": {
+				"translate": [
+					{ "time": 0, "x": 7.84, "y": 0 }
+				]
+			},
+			"Head_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -3.96 }
+				]
+			},
+			"Pitong_2": {
+				"translate": [
+					{ "time": 0, "x": 4.03, "y": 0 },
+					{ "time": 0.0667, "x": 2.89, "y": 0 },
+					{ "time": 0.1333, "x": 4.03, "y": 0 },
+					{ "time": 0.2, "x": 2.89, "y": 0 },
+					{ "time": 0.2667, "x": 4.03, "y": 0 },
+					{ "time": 0.3333, "x": 2.89, "y": 0 },
+					{ "time": 0.4, "x": 4.03, "y": 0 }
+				]
+			},
+			"Pitong_3": {
+				"translate": [
+					{ "time": 0, "x": 4.03, "y": 0 },
+					{ "time": 0.0667, "x": 2.89, "y": 0 },
+					{ "time": 0.1333, "x": 4.03, "y": 0 },
+					{ "time": 0.2, "x": 2.89, "y": 0 },
+					{ "time": 0.2667, "x": 4.03, "y": 0 },
+					{ "time": 0.3333, "x": 2.89, "y": 0 },
+					{ "time": 0.4, "x": 4.03, "y": 0 }
+				]
+			},
+			"SmallWing": {
+				"translate": [
+					{ "time": 0, "x": -11.78, "y": 0 },
+					{ "time": 0.0667, "x": -11.45, "y": 0 },
+					{ "time": 0.1333, "x": -11.78, "y": 0 },
+					{ "time": 0.2, "x": -11.45, "y": 0 },
+					{ "time": 0.2667, "x": -11.78, "y": 0 },
+					{ "time": 0.3333, "x": -11.45, "y": 0 },
+					{ "time": 0.4, "x": -11.78, "y": 0 }
+				]
+			},
+			"SmallWing2": {
+				"translate": [
+					{ "time": 0, "x": 11.78, "y": 0 },
+					{ "time": 0.0667, "x": 11.45, "y": 0 },
+					{ "time": 0.1333, "x": 11.78, "y": 0 },
+					{ "time": 0.2, "x": 11.45, "y": 0 },
+					{ "time": 0.2667, "x": 11.78, "y": 0 },
+					{ "time": 0.3333, "x": 11.45, "y": 0 },
+					{ "time": 0.4, "x": 11.78, "y": 0 }
+				]
+			},
+			"Layer 3": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 6.03,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2,
+						"x": 0,
+						"y": 7.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.4, "x": 0, "y": 6.03 }
+				]
+			},
+			"Layer 4": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 6.03,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2,
+						"x": 0,
+						"y": 7.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.4, "x": 0, "y": 6.03 }
+				]
+			},
+			"Side": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0.33, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0.33, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0.33, "y": 0 },
+					{ "time": 0.4, "x": 0, "y": 0 }
+				]
+			},
+			"Side2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.33, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.33, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.33, "y": 0 },
+					{ "time": 0.4, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"Victory": {
+		"slots": {
+			"Body_1": {
+				"attachment": [
+					{ "time": 0, "name": "Body_1" },
+					{ "time": 0.0667, "name": "Body_2" },
+					{ "time": 0.1333, "name": "Body_3" },
+					{ "time": 0.2, "name": "Body_4" },
+					{ "time": 0.2667, "name": "Body_5" },
+					{ "time": 0.3333, "name": "Body_6" },
+					{ "time": 0.4, "name": "Body_1" },
+					{ "time": 0.4667, "name": "Body_2" },
+					{ "time": 0.5333, "name": "Body_3" },
+					{ "time": 0.6, "name": "Body_4" },
+					{ "time": 0.6667, "name": "Body_5" },
+					{ "time": 0.7333, "name": "Body_6" }
+				]
+			},
+			"Glass_1": {
+				"attachment": [
+					{ "time": 0, "name": "Glass_1" },
+					{ "time": 0.0667, "name": "Glass_2" },
+					{ "time": 0.1333, "name": "Glass_3" },
+					{ "time": 0.2, "name": "Glass_4" },
+					{ "time": 0.2667, "name": "Glass_5" },
+					{ "time": 0.3333, "name": "Glass_1" },
+					{ "time": 0.4, "name": "Glass_2" },
+					{ "time": 0.4667, "name": "Glass_3" },
+					{ "time": 0.5333, "name": "Glass_4" },
+					{ "time": 0.6, "name": "Glass_5" },
+					{ "time": 0.6667, "name": "Glass_1" }
+				]
+			},
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": "Head_1" },
+					{ "time": 0.0667, "name": "Head_2" },
+					{ "time": 0.1333, "name": "Head_3" },
+					{ "time": 0.2, "name": "Head_4" },
+					{ "time": 0.2667, "name": "Head_5" },
+					{ "time": 0.3333, "name": "Head_6" },
+					{ "time": 0.4, "name": "Head_1" },
+					{ "time": 0.4667, "name": "Head_2" },
+					{ "time": 0.5333, "name": "Head_3" },
+					{ "time": 0.6, "name": "Head_4" },
+					{ "time": 0.6667, "name": "Head_5" },
+					{ "time": 0.7333, "name": "Head_6" }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_1" },
+					{ "time": 0.0667, "name": "PitongTip_2" },
+					{ "time": 0.1333, "name": "PitongTip_3" },
+					{ "time": 0.2, "name": "PitongTip_4" },
+					{ "time": 0.2667, "name": "PitongTip_5" },
+					{ "time": 0.3333, "name": "PitongTip_1" },
+					{ "time": 0.4, "name": "PitongTip_2" },
+					{ "time": 0.4667, "name": "PitongTip_3" },
+					{ "time": 0.5333, "name": "PitongTip_4" },
+					{ "time": 0.6, "name": "PitongTip_5" },
+					{ "time": 0.6667, "name": "PitongTip_1" },
+					{ "time": 0.7333, "name": "PitongTip_1" }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_1" },
+					{ "time": 0.0667, "name": "PitongTip_2" },
+					{ "time": 0.1333, "name": "PitongTip_3" },
+					{ "time": 0.2, "name": "PitongTip_4" },
+					{ "time": 0.2667, "name": "PitongTip_5" },
+					{ "time": 0.3333, "name": "PitongTip_1" },
+					{ "time": 0.4, "name": "PitongTip_2" },
+					{ "time": 0.4667, "name": "PitongTip_3" },
+					{ "time": 0.5333, "name": "PitongTip_4" },
+					{ "time": 0.6, "name": "PitongTip_5" },
+					{ "time": 0.6667, "name": "PitongTip_1" },
+					{ "time": 0.7333, "name": "PitongTip_1" }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_ 1" },
+					{ "time": 0.0667, "name": "Pitong_2" },
+					{ "time": 0.1333, "name": "Pitong_3" },
+					{ "time": 0.2, "name": "Pitong_4" },
+					{ "time": 0.2667, "name": "Pitong_5" },
+					{ "time": 0.3333, "name": "Pitong_ 1" },
+					{ "time": 0.4, "name": "Pitong_2" },
+					{ "time": 0.4667, "name": "Pitong_3" },
+					{ "time": 0.5333, "name": "Pitong_4" },
+					{ "time": 0.6, "name": "Pitong_5" },
+					{ "time": 0.6667, "name": "Pitong_ 1" },
+					{ "time": 0.7333, "name": "Pitong_ 1" }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_ 1" },
+					{ "time": 0.0667, "name": "Pitong_2" },
+					{ "time": 0.1333, "name": "Pitong_3" },
+					{ "time": 0.2, "name": "Pitong_4" },
+					{ "time": 0.2667, "name": "Pitong_5" },
+					{ "time": 0.3333, "name": "Pitong_ 1" },
+					{ "time": 0.4, "name": "Pitong_2" },
+					{ "time": 0.4667, "name": "Pitong_3" },
+					{ "time": 0.5333, "name": "Pitong_4" },
+					{ "time": 0.6, "name": "Pitong_5" },
+					{ "time": 0.6667, "name": "Pitong_ 1" },
+					{ "time": 0.7333, "name": "Pitong_ 1" }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_1" },
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" },
+					{ "time": 0.4, "name": "Wing_2" },
+					{ "time": 0.4667, "name": "Wing_3" },
+					{ "time": 0.5333, "name": "Wing_4" },
+					{ "time": 0.6, "name": "Wing_5" },
+					{ "time": 0.6667, "name": "Wing_1" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_1" },
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" },
+					{ "time": 0.4, "name": "Wing_2" },
+					{ "time": 0.4667, "name": "Wing_3" },
+					{ "time": 0.5333, "name": "Wing_4" },
+					{ "time": 0.6, "name": "Wing_5" },
+					{ "time": 0.6667, "name": "Wing_1" }
+				]
+			}
+		},
+		"bones": {
+			"Head_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": -0.22 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": -0.22 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": -0.22 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": 0, "y": -0.22 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": 0, "y": -0.22 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": 0, "y": -0.22 }
+				]
+			},
+			"Pitong_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.15, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.15, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.15, "y": 0 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": -0.15, "y": 0 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": -0.15, "y": 0 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": -0.15, "y": 0 }
+				]
+			},
+			"PitongTip_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.3, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.3, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.3, "y": 0 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": -0.3, "y": 0 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": -0.3, "y": 0 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": -0.3, "y": 0 }
+				]
+			},
+			"Wing_1": {
+				"translate": [
+					{ "time": 0.2, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 9.19 },
+					{ "time": 0.4, "x": 0, "y": 8.04 },
+					{ "time": 0.4667, "x": 0, "y": 9.19 }
+				]
+			},
+			"Wing_2": {
+				"translate": [
+					{ "time": 0.2, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 9.19 },
+					{ "time": 0.4, "x": 0, "y": 8.04 },
+					{ "time": 0.4667, "x": 0, "y": 9.19 }
+				]
+			},
+			"Pitong_3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.15, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.15, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.15, "y": 0 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": -0.15, "y": 0 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": -0.15, "y": 0 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": -0.15, "y": 0 }
+				]
+			},
+			"PitongTip_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.3, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.3, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.3, "y": 0 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": -0.3, "y": 0 },
+					{ "time": 0.5333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": -0.3, "y": 0 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": -0.3, "y": 0 }
+				]
+			},
+			"Jet": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.59 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.59 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0.59 }
+				]
+			},
+			"Jet2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.59 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.59 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0.59 }
+				]
+			},
+			"Side": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0333, "x": 0.13, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0.13, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0.13, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": 0.13, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": 0.13, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"Side2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0333, "x": -0.13, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -0.13, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -0.13, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": -0.13, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": -0.13, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"WingBase": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1333, "x": -3.98, "y": 0 },
+					{ "time": 0.2, "x": -3.49, "y": 0 },
+					{ "time": 0.2667, "x": -3.98, "y": 0 }
+				]
+			},
+			"WingBase2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1333, "x": -3.98, "y": 0 },
+					{ "time": 0.2, "x": -3.49, "y": 0 },
+					{ "time": 0.2667, "x": -3.98, "y": 0 }
+				]
+			},
+			"SmallWing": {
+				"translate": [
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.4333, "x": 4.81, "y": 0 },
+					{ "time": 0.5, "x": 4.33, "y": 0 },
+					{ "time": 0.5667, "x": 4.81, "y": 0 }
+				]
+			},
+			"SmallWing2": {
+				"translate": [
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.4333, "x": -4.81, "y": 0 },
+					{ "time": 0.5, "x": -4.33, "y": 0 },
+					{ "time": 0.5667, "x": -4.81, "y": 0 }
+				]
+			},
+			"Layer 3": {
+				"translate": [
+					{ "time": 0.4333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": -7.01, "y": 0 },
+					{ "time": 0.6667, "x": -6.31, "y": 0 },
+					{ "time": 0.7333, "x": -7.01, "y": 0 }
+				]
+			},
+			"Layer 4": {
+				"translate": [
+					{ "time": 0.4333, "x": 0, "y": 0 },
+					{ "time": 0.6, "x": -7.01, "y": 0 },
+					{ "time": 0.6667, "x": -6.31, "y": 0 },
+					{ "time": 0.7333, "x": -7.01, "y": 0 }
+				]
+			}
+		}
+	},
+	"Victory_Idle": {
+		"slots": {
+			"Body_1": {
+				"attachment": [
+					{ "time": 0, "name": "Body_1" },
+					{ "time": 0.0667, "name": "Body_2" },
+					{ "time": 0.1333, "name": "Body_3" },
+					{ "time": 0.2, "name": "Body_4" },
+					{ "time": 0.2667, "name": "Body_5" }
+				]
+			},
+			"Glass_1": {
+				"attachment": [
+					{ "time": 0, "name": "Glass_1" },
+					{ "time": 0.0667, "name": "Glass_2" },
+					{ "time": 0.1333, "name": "Glass_3" },
+					{ "time": 0.2, "name": "Glass_4" },
+					{ "time": 0.2667, "name": "Glass_5" }
+				]
+			},
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": "Head_1" },
+					{ "time": 0.0667, "name": "Head_2" },
+					{ "time": 0.1333, "name": "Head_3" },
+					{ "time": 0.2, "name": "Head_4" },
+					{ "time": 0.2667, "name": "Head_5" },
+					{ "time": 0.3333, "name": "Head_6" }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_1" },
+					{ "time": 0.0667, "name": "PitongTip_2" },
+					{ "time": 0.1333, "name": "PitongTip_3" },
+					{ "time": 0.2, "name": "PitongTip_4" },
+					{ "time": 0.2667, "name": "PitongTip_5" }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_1" },
+					{ "time": 0.0667, "name": "PitongTip_2" },
+					{ "time": 0.1333, "name": "PitongTip_3" },
+					{ "time": 0.2, "name": "PitongTip_4" },
+					{ "time": 0.2667, "name": "PitongTip_5" }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_ 1" },
+					{ "time": 0.0667, "name": "Pitong_2" },
+					{ "time": 0.1333, "name": "Pitong_3" },
+					{ "time": 0.2, "name": "Pitong_4" },
+					{ "time": 0.2667, "name": "Pitong_5" }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_ 1" },
+					{ "time": 0.0667, "name": "Pitong_2" },
+					{ "time": 0.1333, "name": "Pitong_3" },
+					{ "time": 0.2, "name": "Pitong_4" },
+					{ "time": 0.2667, "name": "Pitong_5" }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_1" },
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" },
+					{ "time": 0.3333, "name": "Wing_1" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_1" },
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" }
+				]
+			}
+		},
+		"bones": {
+			"Head_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": -0.22 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": -0.22 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"Pitong_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.15, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.15, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"PitongTip_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.3, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.3, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"Wing_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 9.19 }
+				]
+			},
+			"Wing_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 9.19 }
+				]
+			},
+			"Pitong_3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.15, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.15, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"PitongTip_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.3, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.3, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"Jet": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.59 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.59 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"Jet2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.59 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.59 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"Side": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0333, "x": 0.13, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0.13, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0.13, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": 0.13, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"Side2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0333, "x": -0.13, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -0.13, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -0.13, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": -0.13, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"WingBase": {
+				"translate": [
+					{ "time": 0, "x": -3.98, "y": 0 }
+				]
+			},
+			"WingBase2": {
+				"translate": [
+					{ "time": 0, "x": -3.98, "y": 0 }
+				]
+			},
+			"SmallWing": {
+				"translate": [
+					{ "time": 0, "x": 4.81, "y": 0 },
+					{ "time": 0.0667, "x": 5.49, "y": 0 },
+					{ "time": 0.1333, "x": 4.81, "y": 0 },
+					{ "time": 0.2, "x": 5.49, "y": 0 },
+					{ "time": 0.2667, "x": 4.81, "y": 0 },
+					{ "time": 0.3333, "x": 5.49, "y": 0 }
+				]
+			},
+			"SmallWing2": {
+				"translate": [
+					{ "time": 0, "x": -4.81, "y": 0 },
+					{ "time": 0.0667, "x": -5.49, "y": 0 },
+					{ "time": 0.1333, "x": -4.81, "y": 0 },
+					{ "time": 0.2, "x": -5.49, "y": 0 },
+					{ "time": 0.2667, "x": -4.81, "y": 0 },
+					{ "time": 0.3333, "x": -5.49, "y": 0 }
+				]
+			},
+			"Layer 3": {
+				"translate": [
+					{ "time": 0, "x": -7.01, "y": 0 }
+				]
+			},
+			"Layer 4": {
+				"translate": [
+					{ "time": 0, "x": -7.01, "y": 0 }
+				]
+			}
+		}
+	},
+	"animation": {
+		"slots": {
+			"Body_1": {
+				"attachment": [
+					{ "time": 1.2667, "name": "Body_1" },
+					{ "time": 1.3333, "name": "Body_2" },
+					{ "time": 1.4, "name": "Body_3" },
+					{ "time": 1.4667, "name": "Body_4" },
+					{ "time": 1.5333, "name": "Body_5" },
+					{ "time": 1.6, "name": "Body_6" }
+				]
+			},
+			"Glass_1": {
+				"attachment": [
+					{ "time": 0, "name": "Glass_1" },
+					{ "time": 0.0667, "name": "Glass_2" },
+					{ "time": 0.1333, "name": "Glass_3" },
+					{ "time": 0.2, "name": "Glass_4" },
+					{ "time": 0.2667, "name": "Glass_5" },
+					{ "time": 0.3333, "name": "Glass_1" }
+				]
+			},
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": "Head_1" },
+					{ "time": 0.0667, "name": "Head_2" },
+					{ "time": 0.1333, "name": "Head_3" },
+					{ "time": 0.2, "name": "Head_4" },
+					{ "time": 0.2667, "name": "Head_5" },
+					{ "time": 0.3333, "name": "Head_6" }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0.9, "name": "PitongTip_1" },
+					{ "time": 0.9667, "name": "PitongTip_2" },
+					{ "time": 1.0333, "name": "PitongTip_3" },
+					{ "time": 1.1, "name": "PitongTip_4" },
+					{ "time": 1.1667, "name": "PitongTip_5" },
+					{ "time": 1.2333, "name": "PitongTip_1" }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0.9, "name": "PitongTip_1" },
+					{ "time": 0.9667, "name": "PitongTip_2" },
+					{ "time": 1.0333, "name": "PitongTip_3" },
+					{ "time": 1.1, "name": "PitongTip_4" },
+					{ "time": 1.1667, "name": "PitongTip_5" },
+					{ "time": 1.2333, "name": "PitongTip_1" }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0.6667, "name": "Pitong_ 1" },
+					{ "time": 0.7333, "name": "Pitong_2" },
+					{ "time": 0.8, "name": "Pitong_3" },
+					{ "time": 0.8667, "name": "Pitong_4" },
+					{ "time": 0.9333, "name": "Pitong_5" },
+					{ "time": 1, "name": "Pitong_ 1" }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0.6667, "name": "Pitong_ 1" },
+					{ "time": 0.7333, "name": "Pitong_2" },
+					{ "time": 0.8, "name": "Pitong_3" },
+					{ "time": 0.8667, "name": "Pitong_4" },
+					{ "time": 0.9333, "name": "Pitong_5" },
+					{ "time": 1, "name": "Pitong_ 1" }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 1.1667, "name": "Wing_1" },
+					{ "time": 1.2333, "name": "Wing_2" },
+					{ "time": 1.3, "name": "Wing_3" },
+					{ "time": 1.3667, "name": "Wing_4" },
+					{ "time": 1.4333, "name": "Wing_5" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 1.1667, "name": "Wing_1" },
+					{ "time": 1.2333, "name": "Wing_2" },
+					{ "time": 1.3, "name": "Wing_3" },
+					{ "time": 1.3667, "name": "Wing_4" },
+					{ "time": 1.4333, "name": "Wing_5" }
+				]
+			}
+		},
+		"bones": {
+			"Glass_1": {
+				"translate": [
+					{ "time": 0.1667, "x": 0, "y": 0 }
+				]
+			},
+			"Head_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -8.02 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": -0.5 },
+					{ "time": 0.4, "x": 0, "y": 0 }
+				]
+			},
+			"Pitong_2": {
+				"translate": [
+					{ "time": 0, "x": -6.16, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": -6.16, "y": 0 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": -0.62, "y": 0 },
+					{ "time": 0.8, "x": 0, "y": 0 }
+				]
+			},
+			"PitongTip_1": {
+				"translate": [
+					{ "time": 0, "x": -2.96, "y": 0, "curve": "stepped" },
+					{ "time": 0.7333, "x": -2.96, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 0 },
+					{ "time": 0.9, "x": -0.25, "y": 0 },
+					{ "time": 0.9667, "x": 0, "y": 0 }
+				]
+			},
+			"Wing_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.99, "curve": "stepped" },
+					{ "time": 1.1667, "x": 0, "y": 3.99 },
+					{ "time": 1.2667, "x": 0, "y": 0 },
+					{ "time": 1.3333, "x": 0, "y": 0.4 },
+					{ "time": 1.4, "x": 0, "y": 0 }
+				]
+			},
+			"Wing_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.99, "curve": "stepped" },
+					{ "time": 1.1667, "x": 0, "y": 3.99 },
+					{ "time": 1.2667, "x": 0, "y": 0 },
+					{ "time": 1.3333, "x": 0, "y": 0.4 },
+					{ "time": 1.4, "x": 0, "y": 0 }
+				]
+			},
+			"Pitong_3": {
+				"translate": [
+					{ "time": 0, "x": -6.16, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": -6.16, "y": 0 },
+					{ "time": 0.6667, "x": 0, "y": 0 },
+					{ "time": 0.7333, "x": -0.62, "y": 0 },
+					{ "time": 0.8, "x": 0, "y": 0 }
+				]
+			},
+			"PitongTip_2": {
+				"translate": [
+					{ "time": 0, "x": -2.96, "y": 0, "curve": "stepped" },
+					{ "time": 0.7333, "x": -2.96, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 0 },
+					{ "time": 0.9, "x": -0.25, "y": 0 },
+					{ "time": 0.9667, "x": 0, "y": 0 }
+				]
+			},
+			"Jet2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 7, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 7 },
+					{ "time": 0.4333, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0.58 },
+					{ "time": 0.5667, "x": 0, "y": 0 }
+				]
+			},
+			"SmallWing2": {
+				"translate": [
+					{ "time": 0, "x": -21.98, "y": 0 },
+					{ "time": 0.2333, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": -1.57, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"Layer 4": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -4.04 },
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0, "y": -0.67 },
+					{ "time": 0.2333, "x": 0, "y": 0 }
+				]
+			},
+			"WingBase2": {
+				"translate": [
+					{ "time": 0, "x": -2.98, "y": 0, "curve": "stepped" },
+					{ "time": 0.2333, "x": -2.98, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 },
+					{ "time": 0.4333, "x": -0.37, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"Layer 3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -4.04 },
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0, "y": -0.67 },
+					{ "time": 0.2333, "x": 0, "y": 0 }
+				]
+			},
+			"SmallWing": {
+				"translate": [
+					{ "time": 0, "x": 21.98, "y": 0 },
+					{ "time": 0.2333, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": 1.57, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 }
+				]
+			},
+			"Jet": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 7, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 7 },
+					{ "time": 0.4333, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0.58 },
+					{ "time": 0.5667, "x": 0, "y": 0 }
+				]
+			},
+			"WingBase": {
+				"translate": [
+					{ "time": 0, "x": -2.98, "y": 0, "curve": "stepped" },
+					{ "time": 0.2333, "x": -2.98, "y": 0 },
+					{ "time": 0.3667, "x": 0, "y": 0 },
+					{ "time": 0.4333, "x": -0.37, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"closeidle": {
+		"slots": {
+			"Glass_1": {
+				"attachment": [
+					{ "time": 0, "name": "Glass_1" }
+				]
+			},
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": "Head_1" }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Head_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -8.02 }
+				]
+			},
+			"Pitong_2": {
+				"translate": [
+					{ "time": 0, "x": -6.16, "y": 0 }
+				]
+			},
+			"PitongTip_1": {
+				"translate": [
+					{ "time": 0, "x": -2.96, "y": 0 }
+				]
+			},
+			"Wing_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.99 }
+				]
+			},
+			"Wing_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 3.99 }
+				]
+			},
+			"Pitong_3": {
+				"translate": [
+					{ "time": 0, "x": -6.16, "y": 0 }
+				]
+			},
+			"PitongTip_2": {
+				"translate": [
+					{ "time": 0, "x": -2.96, "y": 0 }
+				]
+			},
+			"Jet2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 7 }
+				]
+			},
+			"SmallWing2": {
+				"translate": [
+					{ "time": 0, "x": -21.98, "y": 0 }
+				]
+			},
+			"Layer 4": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -4.04 }
+				]
+			},
+			"WingBase2": {
+				"translate": [
+					{ "time": 0, "x": -2.98, "y": 0 }
+				]
+			},
+			"Layer 3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -4.04 }
+				]
+			},
+			"SmallWing": {
+				"translate": [
+					{ "time": 0, "x": 21.98, "y": 0 }
+				]
+			},
+			"Jet": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 7 }
+				]
+			},
+			"WingBase": {
+				"translate": [
+					{ "time": 0, "x": -2.98, "y": 0 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"Body_1": {
+				"attachment": [
+					{ "time": 0, "name": "Body_1" },
+					{ "time": 0.0667, "name": "Body_2" },
+					{ "time": 0.1333, "name": "Body_3" },
+					{ "time": 0.2, "name": "Body_4" },
+					{ "time": 0.2667, "name": "Body_5" },
+					{ "time": 0.3333, "name": "Body_6" }
+				]
+			},
+			"Glass_1": {
+				"attachment": [
+					{ "time": 0, "name": "Glass_1" },
+					{ "time": 0.0667, "name": "Glass_2" },
+					{ "time": 0.1333, "name": "Glass_3" },
+					{ "time": 0.2, "name": "Glass_4" },
+					{ "time": 0.2667, "name": "Glass_5" },
+					{ "time": 0.3333, "name": "Glass_1" }
+				]
+			},
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": "Head_1" },
+					{ "time": 0.0667, "name": "Head_2" },
+					{ "time": 0.1333, "name": "Head_3" },
+					{ "time": 0.2, "name": "Head_4" },
+					{ "time": 0.2667, "name": "Head_5" },
+					{ "time": 0.3333, "name": "Head_6" }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_1" },
+					{ "time": 0.0667, "name": "PitongTip_2" },
+					{ "time": 0.1333, "name": "PitongTip_3" },
+					{ "time": 0.2, "name": "PitongTip_4" },
+					{ "time": 0.2667, "name": "PitongTip_5" },
+					{ "time": 0.3333, "name": "PitongTip_1" }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": "PitongTip_1" },
+					{ "time": 0.0667, "name": "PitongTip_2" },
+					{ "time": 0.1333, "name": "PitongTip_3" },
+					{ "time": 0.2, "name": "PitongTip_4" },
+					{ "time": 0.2667, "name": "PitongTip_5" },
+					{ "time": 0.3333, "name": "PitongTip_1" }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_ 1" },
+					{ "time": 0.0667, "name": "Pitong_2" },
+					{ "time": 0.1333, "name": "Pitong_3" },
+					{ "time": 0.2, "name": "Pitong_4" },
+					{ "time": 0.2667, "name": "Pitong_5" },
+					{ "time": 0.3333, "name": "Pitong_ 1" }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": "Pitong_ 1" },
+					{ "time": 0.0667, "name": "Pitong_2" },
+					{ "time": 0.1333, "name": "Pitong_3" },
+					{ "time": 0.2, "name": "Pitong_4" },
+					{ "time": 0.2667, "name": "Pitong_5" },
+					{ "time": 0.3333, "name": "Pitong_ 1" }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_1" },
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": "Wing_1" },
+					{ "time": 0.0667, "name": "Wing_2" },
+					{ "time": 0.1333, "name": "Wing_3" },
+					{ "time": 0.2, "name": "Wing_4" },
+					{ "time": 0.2667, "name": "Wing_5" }
+				]
+			}
+		},
+		"bones": {
+			"Head_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": -0.22 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": -0.22 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": -0.22 }
+				]
+			},
+			"Pitong_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.15, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.15, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.15, "y": 0 }
+				]
+			},
+			"PitongTip_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.3, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.3, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.3, "y": 0 }
+				]
+			},
+			"Wing_1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.44 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.44 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0.44 }
+				]
+			},
+			"Wing_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.44 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.44 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0.44 }
+				]
+			},
+			"Pitong_3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.15, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.15, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.15, "y": 0 }
+				]
+			},
+			"PitongTip_2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.3, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.3, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.3, "y": 0 }
+				]
+			},
+			"SmallWing": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0.22, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0.22, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0.22, "y": 0 }
+				]
+			},
+			"SmallWing2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": -0.22, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": -0.22, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.22, "y": 0 }
+				]
+			},
+			"Layer 3": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": -0.27 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": -0.27 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": -0.27 }
+				]
+			},
+			"Layer 4": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": -0.27 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": -0.27 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": -0.27 }
+				]
+			},
+			"Jet": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.59 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.59 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0.59 }
+				]
+			},
+			"Jet2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0.59 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0.59 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0.59 }
+				]
+			},
+			"Side": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0333, "x": 0.13, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0.13, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0.13, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": 0.13, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": 0.13, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"Side2": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0333, "x": -0.13, "y": 0 },
+					{ "time": 0.0667, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -0.13, "y": 0 },
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -0.13, "y": 0 },
+					{ "time": 0.2, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": -0.13, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": -0.13, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"right0": {
+		"slots": {
+			"Body_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Glass_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Jet": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Jet2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Side": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Side2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SmallWing": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SmallWing2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right1": {
+		"slots": {
+			"Body_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Glass_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Jet": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Jet2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Side": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Side2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": "SkyXRanger_Turnright_1" }
+				]
+			},
+			"SmallWing": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SmallWing2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right2": {
+		"slots": {
+			"Body_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Glass_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Jet": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Jet2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Side": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Side2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": "SkyXRanger_Turnright_2" }
+				]
+			},
+			"SmallWing": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SmallWing2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right3": {
+		"slots": {
+			"Body_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Glass_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Jet": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Jet2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Side": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Side2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": "SkyXRanger_Turnright_3" }
+				]
+			},
+			"SmallWing": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SmallWing2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"right4": {
+		"slots": {
+			"Body_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Glass_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Head_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Jet": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Jet2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Layer 4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"PitongTip_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"PitongTip_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Pitong_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Pitong_3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Side": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Side2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SkyXRanger_Turnright_0": {
+				"attachment": [
+					{ "time": 0, "name": "SkyXRanger_Turnright_4" }
+				]
+			},
+			"SmallWing": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SmallWing2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"WingBase2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_1": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"Wing_2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	}
+}
+}

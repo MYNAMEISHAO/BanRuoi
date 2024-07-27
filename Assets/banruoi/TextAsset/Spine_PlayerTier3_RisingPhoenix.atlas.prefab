@@ -1,0 +1,461 @@
+
+Spine_PlayerTier3_RisingPhoenix.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 62, 16
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+BodyWing_1
+  rotate: true
+  xy: 139, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+BodyWing_2
+  rotate: true
+  xy: 158, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+BodyWing_3
+  rotate: false
+  xy: 306, 28
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+BodyWing_4
+  rotate: false
+  xy: 334, 28
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+BodyWing_5
+  rotate: false
+  xy: 441, 73
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Body_Top
+  rotate: false
+  xy: 501, 76
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Body_TopSide
+  rotate: false
+  xy: 405, 17
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Core1
+  rotate: false
+  xy: 273, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Core2
+  rotate: false
+  xy: 296, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Core3
+  rotate: false
+  xy: 319, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Core4
+  rotate: false
+  xy: 342, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Core5
+  rotate: true
+  xy: 481, 92
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+CoreTransform_2
+  rotate: true
+  xy: 362, 28
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+CoreTransform_3
+  rotate: false
+  xy: 211, 18
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+HeadMid_1
+  rotate: true
+  xy: 139, 30
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+HeadMid_2
+  rotate: false
+  xy: 177, 9
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+HeadMid_3
+  rotate: true
+  xy: 236, 32
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+HeadMid_4
+  rotate: true
+  xy: 236, 19
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+HeadMid_5
+  rotate: false
+  xy: 194, 9
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+HeadSide_1
+  rotate: true
+  xy: 62, 2
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+HeadSide_2
+  rotate: true
+  xy: 441, 59
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+HeadSide_3
+  rotate: true
+  xy: 469, 79
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+HeadSide_4
+  rotate: false
+  xy: 428, 56
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+HeadSide_5
+  rotate: true
+  xy: 481, 115
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+HeadTip_1
+  rotate: false
+  xy: 405, 55
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+HeadTip_2
+  rotate: false
+  xy: 435, 92
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+HeadTip_3
+  rotate: false
+  xy: 93, 11
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+HeadTip_4
+  rotate: false
+  xy: 458, 92
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+HeadTip_5
+  rotate: false
+  xy: 116, 11
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Jet1
+  rotate: false
+  xy: 485, 45
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Jet2
+  rotate: false
+  xy: 484, 31
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Jet3
+  rotate: false
+  xy: 498, 31
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Jet4
+  rotate: false
+  xy: 441, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Jet5
+  rotate: false
+  xy: 235, 4
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+JetBase1
+  rotate: false
+  xy: 464, 45
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+SmallWing1
+  rotate: false
+  xy: 471, 59
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+SmallWing2
+  rotate: true
+  xy: 365, 5
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+SmallWing3
+  rotate: true
+  xy: 384, 31
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+SmallWing4
+  rotate: true
+  xy: 385, 8
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+SmallWing5
+  rotate: false
+  xy: 441, 39
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+SmallWingDown
+  rotate: true
+  xy: 211, 2
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Tail1
+  rotate: true
+  xy: 273, 28
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+Tail2
+  rotate: true
+  xy: 273, 28
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+Tail3
+  rotate: true
+  xy: 273, 28
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+Tail4
+  rotate: true
+  xy: 273, 28
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+Tail5
+  rotate: true
+  xy: 273, 28
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+TailWing1
+  rotate: false
+  xy: 499, 63
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+TailWing2
+  rotate: false
+  xy: 499, 50
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+TailWing3
+  rotate: false
+  xy: 249, 6
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+TailWing4
+  rotate: false
+  xy: 405, 42
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+TailWing5
+  rotate: false
+  xy: 405, 29
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Wing1
+  rotate: false
+  xy: 2, 10
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Wing2
+  rotate: false
+  xy: 375, 91
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Wing3
+  rotate: false
+  xy: 32, 10
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Wing4
+  rotate: false
+  xy: 375, 54
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+Wing5
+  rotate: false
+  xy: 405, 91
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+WingDown
+  rotate: true
+  xy: 428, 34
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+WingGun
+  rotate: false
+  xy: 262, 6
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+canhthan_nho_0 copy
+  rotate: true
+  xy: 464, 35
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+right1
+  rotate: false
+  xy: 2, 47
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+right2
+  rotate: false
+  xy: 85, 47
+  size: 78, 79
+  orig: 78, 79
+  offset: 0, 0
+  index: -1
+right3
+  rotate: false
+  xy: 165, 47
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+right4
+  rotate: false
+  xy: 240, 47
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+right5
+  rotate: false
+  xy: 311, 47
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,734 @@
+
+Spine_UI_IconRank.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_2_BG
+  rotate: false
+  xy: 2, 602
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+1_BigWing
+  rotate: false
+  xy: 887, 790
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+1_BigWing_light
+  rotate: false
+  xy: 947, 790
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+1_Center
+  rotate: true
+  xy: 506, 820
+  size: 80, 84
+  orig: 80, 84
+  offset: 0, 0
+  index: -1
+1_Center_light
+  rotate: true
+  xy: 482, 738
+  size: 80, 84
+  orig: 80, 84
+  offset: 0, 0
+  index: -1
+1_Round D
+  rotate: false
+  xy: 836, 634
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+1_Round D_light
+  rotate: false
+  xy: 882, 644
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+1_SmallWing
+  rotate: false
+  xy: 244, 718
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+1_SmallWing_light
+  rotate: false
+  xy: 956, 700
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+2_BigWing1
+  rotate: false
+  xy: 957, 740
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+2_BigWing2
+  rotate: false
+  xy: 592, 820
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+2_BigWing3
+  rotate: false
+  xy: 860, 916
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+2_RoundD
+  rotate: false
+  xy: 460, 634
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+2_RoundD_light
+  rotate: false
+  xy: 510, 632
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+2_SmallWing
+  rotate: false
+  xy: 292, 688
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+2_SmallWing_light
+  rotate: false
+  xy: 352, 688
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+3_BG
+  rotate: false
+  xy: 2, 460
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+3_BG_light
+  rotate: false
+  xy: 2, 318
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+3_Center
+  rotate: true
+  xy: 568, 738
+  size: 80, 84
+  orig: 80, 84
+  offset: 0, 0
+  index: -1
+3_Center_light
+  rotate: false
+  xy: 676, 828
+  size: 80, 84
+  orig: 80, 84
+  offset: 0, 0
+  index: -1
+3_Head1
+  rotate: false
+  xy: 2, 4
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+3_Head1_light
+  rotate: false
+  xy: 68, 4
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+3_Head2
+  rotate: false
+  xy: 148, 718
+  size: 94, 42
+  orig: 94, 42
+  offset: 0, 0
+  index: -1
+3_Head3
+  rotate: true
+  xy: 266, 758
+  size: 124, 34
+  orig: 124, 34
+  offset: 0, 0
+  index: -1
+3_RoundD
+  rotate: false
+  xy: 560, 632
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+3_RoundDLight
+  rotate: false
+  xy: 648, 630
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+3_SmallWing
+  rotate: false
+  xy: 412, 688
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+3_SmallWing_light
+  rotate: false
+  xy: 534, 682
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+3_Stick1
+  rotate: true
+  xy: 220, 520
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+3_Stick2
+  rotate: true
+  xy: 1003, 866
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+3_Stick3
+  rotate: true
+  xy: 1003, 866
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+4_BG
+  rotate: false
+  xy: 2, 176
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+4_BG_light
+  rotate: false
+  xy: 2, 34
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+4_Head1
+  rotate: false
+  xy: 654, 720
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+4_Head1_light
+  rotate: true
+  xy: 262, 652
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+4_RoundD
+  rotate: false
+  xy: 352, 634
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+4_RoundD_light
+  rotate: false
+  xy: 406, 634
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+4_SmallWing
+  rotate: false
+  xy: 594, 682
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+4_SmallWing_light
+  rotate: false
+  xy: 292, 632
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+4_Star
+  rotate: true
+  xy: 996, 710
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+4_Stick1
+  rotate: true
+  xy: 334, 608
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+4_Stick1_light
+  rotate: true
+  xy: 220, 542
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+4_Stick2
+  rotate: false
+  xy: 916, 690
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+4_Stick2_light
+  rotate: false
+  xy: 224, 628
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+4_Stick3
+  rotate: true
+  xy: 934, 710
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+4_Stick3_light
+  rotate: false
+  xy: 882, 622
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+5_BG
+  rotate: false
+  xy: 2, 884
+  size: 144, 138
+  orig: 144, 138
+  offset: 0, 0
+  index: -1
+5_BG1
+  rotate: false
+  xy: 144, 264
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+5_BG2
+  rotate: false
+  xy: 654, 750
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+5_BG3
+  rotate: false
+  xy: 144, 194
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+5_BG4
+  rotate: false
+  xy: 719, 758
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+5_BG_light
+  rotate: false
+  xy: 2, 744
+  size: 144, 138
+  orig: 144, 138
+  offset: 0, 0
+  index: -1
+5_Center
+  rotate: false
+  xy: 648, 914
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+5_Center_light
+  rotate: false
+  xy: 754, 914
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+5_Flag
+  rotate: false
+  xy: 720, 718
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+5_Flag_light
+  rotate: false
+  xy: 654, 680
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+5_Head
+  rotate: false
+  xy: 698, 632
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+5_HeadBase
+  rotate: true
+  xy: 838, 844
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+5_HeadBase_light
+  rotate: true
+  xy: 224, 648
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+5_RoundD
+  rotate: false
+  xy: 962, 962
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+5_RoundD_light
+  rotate: false
+  xy: 962, 900
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+5_SmallWing
+  rotate: false
+  xy: 144, 562
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+5_SmallWing_light
+  rotate: false
+  xy: 144, 486
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+6_BG
+  rotate: false
+  xy: 148, 884
+  size: 144, 138
+  orig: 144, 138
+  offset: 0, 0
+  index: -1
+6_BG1
+  rotate: false
+  xy: 220, 566
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+6_BG1_light
+  rotate: false
+  xy: 220, 602
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+6_BG2
+  rotate: false
+  xy: 220, 586
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+6_BG2_light
+  rotate: false
+  xy: 849, 752
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+6_Flag2
+  rotate: true
+  xy: 744, 632
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+6_Flag2_light
+  rotate: true
+  xy: 782, 680
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+6_SmallWing
+  rotate: false
+  xy: 144, 410
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+6_SmallWing_light
+  rotate: false
+  xy: 144, 334
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+6_Star
+  rotate: true
+  xy: 996, 680
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+6_Star_light
+  rotate: false
+  xy: 262, 624
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+6_Wing1
+  rotate: false
+  xy: 838, 728
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+6_Wing1_light
+  rotate: false
+  xy: 292, 608
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+6_Wing2
+  rotate: false
+  xy: 784, 728
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+6_Wing2_light
+  rotate: false
+  xy: 880, 716
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+6_Wing3
+  rotate: false
+  xy: 302, 744
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+6_Wing3_light
+  rotate: false
+  xy: 392, 744
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+7_BG1
+  rotate: false
+  xy: 144, 124
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+7_BG2
+  rotate: false
+  xy: 784, 764
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+7_BG3
+  rotate: false
+  xy: 144, 54
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+7_BG4
+  rotate: false
+  xy: 876, 846
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+7_Center
+  rotate: false
+  xy: 148, 762
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+7_Center_Stroke
+  rotate: false
+  xy: 294, 902
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+7_Center_Stroke_light
+  rotate: false
+  xy: 412, 902
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+7_Center_light
+  rotate: false
+  xy: 530, 902
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+7_Flag2
+  rotate: true
+  xy: 790, 632
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+7_Flag2_light
+  rotate: true
+  xy: 828, 680
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+7_HeadBase
+  rotate: true
+  xy: 849, 774
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+7_HeadBase_light
+  rotate: false
+  xy: 887, 752
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+7_SmalWingOutside
+  rotate: true
+  xy: 144, 2
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+7_SmalWingOutside_light
+  rotate: true
+  xy: 198, 2
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+7_SmallWing
+  rotate: false
+  xy: 758, 834
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+7_SmallWing_light
+  rotate: false
+  xy: 144, 638
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+7_Star
+  rotate: true
+  xy: 941, 846
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+7_Star_light
+  rotate: true
+  xy: 472, 684
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+7_WIng3
+  rotate: false
+  xy: 302, 820
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+7_WIng3_light
+  rotate: false
+  xy: 404, 820
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+7_Wing
+  rotate: false
+  xy: 874, 690
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+7_Wing2
+  rotate: false
+  xy: 716, 680
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+7_Wing2_light
+  rotate: true
+  xy: 610, 626
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+7_Wing_light
+  rotate: true
+  xy: 928, 648
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1

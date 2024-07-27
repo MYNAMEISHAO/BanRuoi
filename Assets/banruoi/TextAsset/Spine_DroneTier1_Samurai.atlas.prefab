@@ -1,0 +1,265 @@
+
+Spine_DroneTier1_Samurai.png
+size: 1732,668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Samurai_Skill
+  rotate: false
+  xy: 260, 176
+  size: 101, 356
+  orig: 101, 356
+  offset: 0, 0
+  index: -1
+Slash
+  rotate: false
+  xy: 1602, 536
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx/BG
+  rotate: false
+  xy: 2, 74
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fx/flare (29)
+  rotate: false
+  xy: 2, 276
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fx/hoden_1
+  rotate: false
+  xy: 440, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_10
+  rotate: false
+  xy: 695, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_11
+  rotate: false
+  xy: 861, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_12
+  rotate: false
+  xy: 1027, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_13
+  rotate: false
+  xy: 1193, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_14
+  rotate: false
+  xy: 1359, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_15
+  rotate: false
+  xy: 363, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_16
+  rotate: false
+  xy: 529, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_17
+  rotate: false
+  xy: 695, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_18
+  rotate: false
+  xy: 861, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_19
+  rotate: false
+  xy: 1027, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_2
+  rotate: false
+  xy: 606, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_20
+  rotate: false
+  xy: 1193, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_21
+  rotate: false
+  xy: 1359, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_22
+  rotate: false
+  xy: 1525, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_23
+  rotate: false
+  xy: 1525, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_24
+  rotate: false
+  xy: 204, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_25
+  rotate: false
+  xy: 370, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_26
+  rotate: false
+  xy: 536, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_27
+  rotate: false
+  xy: 702, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_28
+  rotate: false
+  xy: 868, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_29
+  rotate: false
+  xy: 1034, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_3
+  rotate: false
+  xy: 772, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_30
+  rotate: false
+  xy: 1200, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_31
+  rotate: false
+  xy: 1366, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_32
+  rotate: false
+  xy: 1532, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_4
+  rotate: false
+  xy: 938, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_5
+  rotate: false
+  xy: 1104, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_6
+  rotate: false
+  xy: 1270, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_7
+  rotate: false
+  xy: 1436, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_8
+  rotate: false
+  xy: 363, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/hoden_9
+  rotate: false
+  xy: 529, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+fx/vetchem
+  rotate: false
+  xy: 2, 534
+  size: 436, 130
+  orig: 440, 190
+  offset: 0, 27
+  index: -1

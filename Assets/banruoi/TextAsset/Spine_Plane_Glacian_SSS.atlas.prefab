@@ -1,0 +1,489 @@
+
+Spine_Plane_Glacian_SSS.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BigWingDetail_0
+  rotate: true
+  xy: 182, 27
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+BigWingDetail_1
+  rotate: true
+  xy: 212, 27
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+BigWingDetail_2
+  rotate: true
+  xy: 288, 27
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+BigWingDetail_3
+  rotate: true
+  xy: 318, 27
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+BigWingDetail_4
+  rotate: true
+  xy: 348, 27
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+BigWingTop_0
+  rotate: true
+  xy: 378, 26
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+BigWingTop_1
+  rotate: true
+  xy: 405, 26
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+BigWingTop_2
+  rotate: false
+  xy: 444, 56
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+BigWingTop_3
+  rotate: true
+  xy: 468, 78
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+BigWingTop_4
+  rotate: false
+  xy: 495, 68
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+BigWing_0
+  rotate: false
+  xy: 2, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+BigWing_1
+  rotate: false
+  xy: 32, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+BigWing_2
+  rotate: false
+  xy: 62, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+BigWing_3
+  rotate: false
+  xy: 92, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+BigWing_4
+  rotate: false
+  xy: 122, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+BodySide
+  rotate: true
+  xy: 481, 5
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+BodyTop_0
+  rotate: false
+  xy: 267, 5
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+BodyTop_1
+  rotate: true
+  xy: 421, 7
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+BodyTop_2
+  rotate: false
+  xy: 461, 49
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+BodyTop_3
+  rotate: true
+  xy: 432, 31
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+BodyTop_4
+  rotate: true
+  xy: 444, 37
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+BodyWingDetail_0
+  rotate: false
+  xy: 488, 67
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+BodyWing_0
+  rotate: false
+  xy: 433, 12
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+BodyWing_1
+  rotate: true
+  xy: 433, 2
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+BodyWing_2
+  rotate: false
+  xy: 443, 12
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+BodyWing_3
+  rotate: true
+  xy: 452, 2
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+BodyWing_4
+  rotate: true
+  xy: 456, 39
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+Body_0
+  rotate: true
+  xy: 152, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: true
+  xy: 178, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: true
+  xy: 204, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: false
+  xy: 242, 17
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Body_4
+  rotate: false
+  xy: 265, 17
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+GlacianS_Turnright_0
+  rotate: false
+  xy: 2, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+GlacianS_Turnright_1
+  rotate: false
+  xy: 87, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+GlacianS_Turnright_2
+  rotate: false
+  xy: 172, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+GlacianS_Turnright_3
+  rotate: false
+  xy: 257, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+GlacianS_Turnright_4
+  rotate: false
+  xy: 342, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+HeadWingDetail
+  rotate: false
+  xy: 480, 48
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+HeadWingSide_0
+  rotate: false
+  xy: 230, 2
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+HeadWingSide_1
+  rotate: true
+  xy: 443, 83
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+HeadWingSide_2
+  rotate: true
+  xy: 242, 5
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+HeadWingSide_3
+  rotate: true
+  xy: 396, 14
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+HeadWingSide_4
+  rotate: true
+  xy: 396, 2
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+HeadWing_0
+  rotate: true
+  xy: 2, 27
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+HeadWing_1
+  rotate: true
+  xy: 47, 27
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+HeadWing_2
+  rotate: false
+  xy: 427, 83
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+HeadWing_3
+  rotate: true
+  xy: 92, 27
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+HeadWing_4
+  rotate: true
+  xy: 137, 27
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+Jet
+  rotate: false
+  xy: 471, 6
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+Point_0
+  rotate: false
+  xy: 443, 95
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+Point_1
+  rotate: false
+  xy: 460, 95
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+Point_2
+  rotate: false
+  xy: 477, 95
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+Point_3
+  rotate: false
+  xy: 494, 95
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+Point_4
+  rotate: false
+  xy: 427, 50
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+SmallWingDetail_0
+  rotate: false
+  xy: 286, 2
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+SmallWingDetail_1
+  rotate: false
+  xy: 302, 2
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+SmallWingDetail_2
+  rotate: false
+  xy: 318, 2
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+SmallWingDetail_3
+  rotate: false
+  xy: 334, 2
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+SmallWingDetail_4
+  rotate: false
+  xy: 350, 2
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+SmallWing_0
+  rotate: false
+  xy: 288, 10
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+SmallWing_1
+  rotate: false
+  xy: 315, 10
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+SmallWing_2
+  rotate: false
+  xy: 342, 10
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+SmallWing_3
+  rotate: false
+  xy: 461, 61
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+SmallWing_4
+  rotate: false
+  xy: 369, 9
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+Tail_0
+  rotate: true
+  xy: 456, 28
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Tail_1
+  rotate: true
+  xy: 453, 17
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Tail_2
+  rotate: true
+  xy: 475, 37
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Tail_3
+  rotate: true
+  xy: 474, 26
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Tail_4
+  rotate: true
+  xy: 471, 15
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1

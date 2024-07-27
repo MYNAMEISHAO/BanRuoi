@@ -1,0 +1,251 @@
+
+Spine_Player_LuvanB33_tier2_CBA.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Luvan B33_Back Wings_SSS1
+  rotate: false
+  xy: 107, 20
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Back Wings_SSS2
+  rotate: false
+  xy: 138, 20
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Back Wings_SSS3
+  rotate: false
+  xy: 169, 20
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Back Wings_SSS4
+  rotate: false
+  xy: 200, 20
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Back Wings_SSS5
+  rotate: false
+  xy: 231, 20
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Luvan B33_Chain_SSS1
+  rotate: false
+  xy: 2, 22
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Luvan B33_Chain_SSS2
+  rotate: false
+  xy: 470, 91
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Luvan B33_Chain_SSS3
+  rotate: false
+  xy: 37, 22
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Luvan B33_Chain_SSS4
+  rotate: false
+  xy: 470, 60
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Luvan B33_Chain_SSS5
+  rotate: false
+  xy: 72, 22
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+Luvan B33_Front Wings_SSS1
+  rotate: false
+  xy: 262, 26
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Luvan B33_Front Wings_SSS2
+  rotate: false
+  xy: 291, 26
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Luvan B33_Front Wings_SSS3
+  rotate: false
+  xy: 320, 26
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Luvan B33_Front Wings_SSS4
+  rotate: false
+  xy: 349, 26
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Luvan B33_Front Wings_SSS5
+  rotate: false
+  xy: 378, 26
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Luvan B33_Gun_CBA1
+  rotate: false
+  xy: 80, 9
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Luvan B33_Gun_CBA2
+  rotate: false
+  xy: 68, 8
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+Luvan B33_Gun_CBA3
+  rotate: false
+  xy: 455, 38
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Luvan B33_Gun_CBA4
+  rotate: false
+  xy: 56, 6
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Luvan B33_Gun_CBA5
+  rotate: false
+  xy: 443, 36
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+Luvan B33_Head_CBA1
+  rotate: false
+  xy: 315, 53
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+Luvan B33_Head_CBA2
+  rotate: false
+  xy: 346, 53
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+Luvan B33_Head_CBA3
+  rotate: false
+  xy: 377, 53
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+Luvan B33_Head_CBA4
+  rotate: false
+  xy: 408, 53
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+Luvan B33_Head_CBA5
+  rotate: false
+  xy: 439, 53
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings_CBA1
+  rotate: false
+  xy: 2, 2
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings_SSS2
+  rotate: false
+  xy: 407, 33
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings_SSS3
+  rotate: false
+  xy: 20, 2
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings_SSS4
+  rotate: false
+  xy: 425, 33
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Luvan B33_Small Wings_SSS5
+  rotate: false
+  xy: 38, 2
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Luvan B33_Turn_CBA1
+  rotate: false
+  xy: 2, 53
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+Luvan B33_Turn_CBA2
+  rotate: false
+  xy: 73, 53
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+Luvan B33_Turn_CBA3
+  rotate: false
+  xy: 139, 53
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+Luvan B33_Turn_CBA4
+  rotate: false
+  xy: 201, 53
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+Luvan B33_Turn_CBA5
+  rotate: false
+  xy: 259, 53
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1

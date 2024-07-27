@@ -1,0 +1,636 @@
+
+Spine_Player_Plane_Blizzard_Tier1_Skeletondata.png
+size: 1140,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blizzard_A_Idle1
+  rotate: false
+  xy: 2, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_A_Idle2
+  rotate: false
+  xy: 203, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_A_Idle3
+  rotate: false
+  xy: 404, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_A_Idle4
+  rotate: false
+  xy: 605, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_A_Idle5
+  rotate: false
+  xy: 806, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_A_TurnR1
+  rotate: false
+  xy: 1007, 245
+  size: 60, 57
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+Blizzard_A_TurnR2
+  rotate: false
+  xy: 64, 186
+  size: 57, 57
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+Blizzard_A_TurnR3
+  rotate: false
+  xy: 241, 186
+  size: 51, 57
+  orig: 83, 83
+  offset: 14, 13
+  index: -1
+Blizzard_A_TurnR4
+  rotate: false
+  xy: 400, 186
+  size: 47, 57
+  orig: 83, 83
+  offset: 15, 13
+  index: -1
+Blizzard_A_TurnR5
+  rotate: false
+  xy: 547, 186
+  size: 43, 57
+  orig: 83, 83
+  offset: 17, 13
+  index: -1
+Blizzard_B/Blizzard_A_Idle1
+  rotate: false
+  xy: 69, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_B/Blizzard_A_Idle2
+  rotate: false
+  xy: 270, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_B/Blizzard_A_Idle3
+  rotate: false
+  xy: 471, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_B/Blizzard_A_Idle4
+  rotate: false
+  xy: 672, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_B/Blizzard_A_Idle5
+  rotate: false
+  xy: 873, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_B/Blizzard_A_TurnR1
+  rotate: false
+  xy: 1069, 245
+  size: 60, 57
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+Blizzard_B/Blizzard_A_TurnR2
+  rotate: false
+  xy: 123, 186
+  size: 57, 57
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+Blizzard_B/Blizzard_A_TurnR3
+  rotate: false
+  xy: 294, 186
+  size: 51, 57
+  orig: 83, 83
+  offset: 14, 13
+  index: -1
+Blizzard_B/Blizzard_A_TurnR4
+  rotate: false
+  xy: 449, 186
+  size: 47, 57
+  orig: 83, 83
+  offset: 15, 13
+  index: -1
+Blizzard_B/Blizzard_A_TurnR5
+  rotate: false
+  xy: 592, 186
+  size: 43, 57
+  orig: 83, 83
+  offset: 17, 13
+  index: -1
+Blizzard_C/Blizzard_A_Idle1
+  rotate: false
+  xy: 136, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_C/Blizzard_A_Idle2
+  rotate: false
+  xy: 337, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_C/Blizzard_A_Idle3
+  rotate: false
+  xy: 538, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_C/Blizzard_A_Idle4
+  rotate: false
+  xy: 739, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_C/Blizzard_A_Idle5
+  rotate: false
+  xy: 940, 245
+  size: 65, 57
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_C/Blizzard_A_TurnR1
+  rotate: false
+  xy: 2, 186
+  size: 60, 57
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+Blizzard_C/Blizzard_A_TurnR2
+  rotate: false
+  xy: 182, 186
+  size: 57, 57
+  orig: 83, 83
+  offset: 11, 13
+  index: -1
+Blizzard_C/Blizzard_A_TurnR3
+  rotate: false
+  xy: 347, 186
+  size: 51, 57
+  orig: 83, 83
+  offset: 14, 13
+  index: -1
+Blizzard_C/Blizzard_A_TurnR4
+  rotate: false
+  xy: 498, 186
+  size: 47, 57
+  orig: 83, 83
+  offset: 15, 13
+  index: -1
+Blizzard_C/Blizzard_A_TurnR5
+  rotate: false
+  xy: 637, 186
+  size: 43, 57
+  orig: 83, 83
+  offset: 17, 13
+  index: -1
+Blizzard_S/Blizzard_A_Idle1
+  rotate: false
+  xy: 682, 185
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_S/Blizzard_A_Idle2
+  rotate: false
+  xy: 883, 185
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_S/Blizzard_A_Idle3
+  rotate: false
+  xy: 2, 126
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_S/Blizzard_A_Idle4
+  rotate: false
+  xy: 203, 126
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_S/Blizzard_A_Idle5
+  rotate: false
+  xy: 404, 126
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_S/Blizzard_A_TurnR1
+  rotate: false
+  xy: 605, 126
+  size: 62, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_S/Blizzard_A_TurnR2
+  rotate: false
+  xy: 797, 125
+  size: 58, 58
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+Blizzard_S/Blizzard_A_TurnR3
+  rotate: false
+  xy: 1084, 185
+  size: 53, 58
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+Blizzard_S/Blizzard_A_TurnR4
+  rotate: false
+  xy: 1087, 125
+  size: 49, 58
+  orig: 83, 83
+  offset: 13, 13
+  index: -1
+Blizzard_S/Blizzard_A_TurnR5
+  rotate: false
+  xy: 104, 66
+  size: 44, 58
+  orig: 83, 83
+  offset: 15, 13
+  index: -1
+Blizzard_SS/Blizzard_A_Idle1
+  rotate: false
+  xy: 749, 185
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SS/Blizzard_A_Idle2
+  rotate: false
+  xy: 950, 185
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SS/Blizzard_A_Idle3
+  rotate: false
+  xy: 69, 126
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SS/Blizzard_A_Idle4
+  rotate: false
+  xy: 270, 126
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SS/Blizzard_A_Idle5
+  rotate: false
+  xy: 471, 126
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SS/Blizzard_A_TurnR1
+  rotate: false
+  xy: 669, 125
+  size: 62, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SS/Blizzard_A_TurnR2
+  rotate: false
+  xy: 857, 125
+  size: 58, 58
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+Blizzard_SS/Blizzard_A_TurnR3
+  rotate: false
+  xy: 977, 125
+  size: 53, 58
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+Blizzard_SS/Blizzard_A_TurnR4
+  rotate: false
+  xy: 2, 66
+  size: 49, 58
+  orig: 83, 83
+  offset: 13, 13
+  index: -1
+Blizzard_SS/Blizzard_A_TurnR5
+  rotate: false
+  xy: 150, 66
+  size: 44, 58
+  orig: 83, 83
+  offset: 15, 13
+  index: -1
+Blizzard_SSS/Blizzard_A_Idle1
+  rotate: false
+  xy: 816, 185
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SSS/Blizzard_A_Idle2
+  rotate: false
+  xy: 1017, 185
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SSS/Blizzard_A_Idle3
+  rotate: false
+  xy: 136, 126
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SSS/Blizzard_A_Idle4
+  rotate: false
+  xy: 337, 126
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SSS/Blizzard_A_Idle5
+  rotate: false
+  xy: 538, 126
+  size: 65, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SSS/Blizzard_A_TurnR1
+  rotate: false
+  xy: 733, 125
+  size: 62, 58
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_SSS/Blizzard_A_TurnR2
+  rotate: false
+  xy: 917, 125
+  size: 58, 58
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+Blizzard_SSS/Blizzard_A_TurnR3
+  rotate: false
+  xy: 1032, 125
+  size: 53, 58
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+Blizzard_SSS/Blizzard_A_TurnR4
+  rotate: false
+  xy: 53, 66
+  size: 49, 58
+  orig: 83, 83
+  offset: 13, 13
+  index: -1
+Blizzard_SSS/Blizzard_A_TurnR5
+  rotate: false
+  xy: 196, 66
+  size: 44, 58
+  orig: 83, 83
+  offset: 15, 13
+  index: -1
+Blizzard_X/Blizzard_A_Idle1
+  rotate: false
+  xy: 242, 65
+  size: 69, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_X/Blizzard_A_Idle2
+  rotate: false
+  xy: 384, 65
+  size: 69, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_X/Blizzard_A_Idle3
+  rotate: false
+  xy: 526, 65
+  size: 69, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_X/Blizzard_A_Idle4
+  rotate: false
+  xy: 668, 64
+  size: 69, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_X/Blizzard_A_Idle5
+  rotate: false
+  xy: 810, 64
+  size: 69, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_X/Blizzard_A_TurnR1
+  rotate: false
+  xy: 952, 64
+  size: 65, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_X/Blizzard_A_TurnR2
+  rotate: false
+  xy: 2, 5
+  size: 60, 59
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_X/Blizzard_A_TurnR3
+  rotate: false
+  xy: 126, 5
+  size: 56, 59
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+Blizzard_X/Blizzard_A_TurnR4
+  rotate: false
+  xy: 1086, 64
+  size: 52, 59
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+Blizzard_X/Blizzard_A_TurnR5
+  rotate: false
+  xy: 296, 4
+  size: 47, 59
+  orig: 83, 83
+  offset: 14, 13
+  index: -1
+Blizzard_XX/Blizzard_A_Idle1
+  rotate: false
+  xy: 313, 65
+  size: 69, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_XX/Blizzard_A_Idle2
+  rotate: false
+  xy: 455, 65
+  size: 69, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_XX/Blizzard_A_Idle3
+  rotate: false
+  xy: 597, 65
+  size: 69, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_XX/Blizzard_A_Idle4
+  rotate: false
+  xy: 739, 64
+  size: 69, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_XX/Blizzard_A_Idle5
+  rotate: false
+  xy: 881, 64
+  size: 69, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_XX/Blizzard_A_TurnR1
+  rotate: false
+  xy: 1019, 64
+  size: 65, 59
+  orig: 83, 83
+  offset: 7, 13
+  index: -1
+Blizzard_XX/Blizzard_A_TurnR2
+  rotate: false
+  xy: 64, 5
+  size: 60, 59
+  orig: 83, 83
+  offset: 9, 13
+  index: -1
+Blizzard_XX/Blizzard_A_TurnR3
+  rotate: false
+  xy: 184, 5
+  size: 56, 59
+  orig: 83, 83
+  offset: 10, 13
+  index: -1
+Blizzard_XX/Blizzard_A_TurnR4
+  rotate: false
+  xy: 242, 4
+  size: 52, 59
+  orig: 83, 83
+  offset: 12, 13
+  index: -1
+Blizzard_XX/Blizzard_A_TurnR5
+  rotate: false
+  xy: 345, 4
+  size: 47, 59
+  orig: 83, 83
+  offset: 14, 13
+  index: -1
+Blizzard_XXX/Blizzard_A_Idle1
+  rotate: false
+  xy: 394, 3
+  size: 71, 60
+  orig: 83, 83
+  offset: 6, 12
+  index: -1
+Blizzard_XXX/Blizzard_A_Idle2
+  rotate: false
+  xy: 467, 3
+  size: 71, 60
+  orig: 83, 83
+  offset: 6, 12
+  index: -1
+Blizzard_XXX/Blizzard_A_Idle3
+  rotate: false
+  xy: 540, 3
+  size: 71, 60
+  orig: 83, 83
+  offset: 6, 12
+  index: -1
+Blizzard_XXX/Blizzard_A_Idle4
+  rotate: false
+  xy: 666, 2
+  size: 71, 60
+  orig: 83, 83
+  offset: 6, 12
+  index: -1
+Blizzard_XXX/Blizzard_A_Idle5
+  rotate: false
+  xy: 739, 2
+  size: 71, 60
+  orig: 83, 83
+  offset: 6, 12
+  index: -1
+Blizzard_XXX/Blizzard_A_TurnR1
+  rotate: false
+  xy: 812, 2
+  size: 69, 60
+  orig: 83, 83
+  offset: 6, 12
+  index: -1
+Blizzard_XXX/Blizzard_A_TurnR2
+  rotate: false
+  xy: 883, 2
+  size: 64, 60
+  orig: 83, 83
+  offset: 7, 12
+  index: -1
+Blizzard_XXX/Blizzard_A_TurnR3
+  rotate: false
+  xy: 949, 2
+  size: 59, 60
+  orig: 83, 83
+  offset: 9, 12
+  index: -1
+Blizzard_XXX/Blizzard_A_TurnR4
+  rotate: false
+  xy: 1010, 2
+  size: 54, 60
+  orig: 83, 83
+  offset: 11, 12
+  index: -1
+Blizzard_XXX/Blizzard_A_TurnR5
+  rotate: false
+  xy: 613, 3
+  size: 51, 60
+  orig: 83, 83
+  offset: 13, 12
+  index: -1

@@ -1,0 +1,636 @@
+
+Spine_Plane_Leporion_Tier1_SkeletonData.png
+size: 996,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Leporion_A/Leporion_A_Idle1
+  rotate: false
+  xy: 743, 48
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_A/Leporion_A_Idle2
+  rotate: false
+  xy: 798, 2
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_A/Leporion_A_Idle3
+  rotate: true
+  xy: 853, 3
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_A/Leporion_A_Idle4
+  rotate: true
+  xy: 920, 113
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_A/Leporion_A_Idle5
+  rotate: true
+  xy: 922, 58
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_A/Leporion_A_Turn_0
+  rotate: false
+  xy: 498, 9
+  size: 52, 61
+  orig: 83, 83
+  offset: 14, 14
+  index: -1
+images/Leporion_A/Leporion_A_Turn_1
+  rotate: true
+  xy: 914, 8
+  size: 48, 61
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_A/Leporion_A_Turn_2
+  rotate: false
+  xy: 643, 19
+  size: 45, 61
+  orig: 83, 83
+  offset: 16, 14
+  index: -1
+images/Leporion_A/Leporion_A_Turn_3
+  rotate: true
+  xy: 866, 168
+  size: 42, 62
+  orig: 83, 83
+  offset: 18, 13
+  index: -1
+images/Leporion_A/Leporion_A_Turn_4
+  rotate: true
+  xy: 380, 2
+  size: 38, 62
+  orig: 83, 83
+  offset: 21, 13
+  index: -1
+images/Leporion_B/Leporion_B_Idle1
+  rotate: false
+  xy: 761, 170
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_B/Leporion_B_Idle2
+  rotate: false
+  xy: 743, 109
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_B/Leporion_B_Idle3
+  rotate: true
+  xy: 798, 113
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_B/Leporion_B_Idle4
+  rotate: true
+  xy: 859, 113
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_B/Leporion_B_Idle5
+  rotate: true
+  xy: 861, 58
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_B/Leporion_B_Turn_0
+  rotate: false
+  xy: 444, 9
+  size: 52, 61
+  orig: 83, 83
+  offset: 14, 14
+  index: -1
+images/Leporion_B/Leporion_B_Turn_1
+  rotate: true
+  xy: 798, 63
+  size: 48, 61
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_B/Leporion_B_Turn_2
+  rotate: false
+  xy: 696, 40
+  size: 45, 61
+  orig: 83, 83
+  offset: 16, 14
+  index: -1
+images/Leporion_B/Leporion_B_Turn_3
+  rotate: false
+  xy: 662, 166
+  size: 42, 62
+  orig: 83, 83
+  offset: 18, 13
+  index: -1
+images/Leporion_B/Leporion_B_Turn_4
+  rotate: true
+  xy: 316, 2
+  size: 38, 62
+  orig: 83, 83
+  offset: 21, 13
+  index: -1
+images/Leporion_C/Leporion_C_Idle1
+  rotate: false
+  xy: 938, 299
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_C/Leporion_C_Idle2
+  rotate: true
+  xy: 188, 3
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_C/Leporion_C_Idle3
+  rotate: false
+  xy: 938, 238
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_C/Leporion_C_Idle4
+  rotate: false
+  xy: 938, 177
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_C/Leporion_C_Idle5
+  rotate: false
+  xy: 706, 170
+  size: 53, 59
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_C/Leporion_C_Turn_0
+  rotate: false
+  xy: 2, 5
+  size: 52, 61
+  orig: 83, 83
+  offset: 14, 14
+  index: -1
+images/Leporion_C/Leporion_C_Turn_1
+  rotate: false
+  xy: 816, 168
+  size: 48, 61
+  orig: 83, 83
+  offset: 15, 14
+  index: -1
+images/Leporion_C/Leporion_C_Turn_2
+  rotate: false
+  xy: 696, 103
+  size: 45, 61
+  orig: 83, 83
+  offset: 16, 14
+  index: -1
+images/Leporion_C/Leporion_C_Turn_3
+  rotate: false
+  xy: 652, 96
+  size: 42, 62
+  orig: 83, 83
+  offset: 18, 13
+  index: -1
+images/Leporion_C/Leporion_C_Turn_4
+  rotate: true
+  xy: 579, 42
+  size: 38, 62
+  orig: 83, 83
+  offset: 21, 13
+  index: -1
+images/Leporion_S/Leporion_S_Idle1
+  rotate: false
+  xy: 197, 220
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_S/Leporion_S_Idle2
+  rotate: false
+  xy: 129, 69
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_S/Leporion_S_Idle3
+  rotate: false
+  xy: 129, 2
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_S/Leporion_S_Idle4
+  rotate: true
+  xy: 56, 8
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_S/Leporion_S_Idle5
+  rotate: false
+  xy: 256, 220
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_S/Leporion_S_Turn_0
+  rotate: false
+  xy: 608, 160
+  size: 52, 68
+  orig: 83, 83
+  offset: 14, 8
+  index: -1
+images/Leporion_S/Leporion_S_Turn_1
+  rotate: false
+  xy: 771, 231
+  size: 48, 68
+  orig: 83, 83
+  offset: 15, 8
+  index: -1
+images/Leporion_S/Leporion_S_Turn_2
+  rotate: false
+  xy: 821, 231
+  size: 45, 68
+  orig: 83, 83
+  offset: 16, 8
+  index: -1
+images/Leporion_S/Leporion_S_Turn_3
+  rotate: true
+  xy: 868, 212
+  size: 42, 68
+  orig: 83, 83
+  offset: 18, 8
+  index: -1
+images/Leporion_S/Leporion_S_Turn_4
+  rotate: true
+  xy: 372, 124
+  size: 37, 68
+  orig: 83, 83
+  offset: 21, 8
+  index: -1
+images/Leporion_SS/Leporion_SS_Idle1
+  rotate: false
+  xy: 368, 230
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_SS/Leporion_SS_Idle2
+  rotate: false
+  xy: 427, 230
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_SS/Leporion_SS_Idle3
+  rotate: false
+  xy: 486, 230
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_SS/Leporion_SS_Idle4
+  rotate: false
+  xy: 545, 230
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_SS/Leporion_SS_Idle5
+  rotate: true
+  xy: 249, 5
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_SS/Leporion_SS_Turn_0
+  rotate: false
+  xy: 663, 231
+  size: 52, 68
+  orig: 83, 83
+  offset: 14, 8
+  index: -1
+images/Leporion_SS/Leporion_SS_Turn_1
+  rotate: true
+  xy: 868, 256
+  size: 48, 68
+  orig: 83, 83
+  offset: 15, 8
+  index: -1
+images/Leporion_SS/Leporion_SS_Turn_2
+  rotate: true
+  xy: 442, 116
+  size: 45, 68
+  orig: 83, 83
+  offset: 16, 8
+  index: -1
+images/Leporion_SS/Leporion_SS_Turn_3
+  rotate: true
+  xy: 439, 72
+  size: 42, 68
+  orig: 83, 83
+  offset: 18, 8
+  index: -1
+images/Leporion_SS/Leporion_SS_Turn_4
+  rotate: true
+  xy: 582, 121
+  size: 37, 68
+  orig: 83, 83
+  offset: 21, 8
+  index: -1
+images/Leporion_SSS/Leporion_SSS_Idle1
+  rotate: false
+  xy: 372, 163
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_SSS/Leporion_SSS_Idle2
+  rotate: false
+  xy: 431, 163
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_SSS/Leporion_SSS_Idle3
+  rotate: false
+  xy: 490, 163
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_SSS/Leporion_SSS_Idle4
+  rotate: false
+  xy: 549, 163
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_SSS/Leporion_SSS_Idle5
+  rotate: false
+  xy: 604, 230
+  size: 57, 65
+  orig: 83, 83
+  offset: 13, 8
+  index: -1
+images/Leporion_SSS/Leporion_SSS_Turn_0
+  rotate: false
+  xy: 717, 231
+  size: 52, 68
+  orig: 83, 83
+  offset: 14, 8
+  index: -1
+images/Leporion_SSS/Leporion_SSS_Turn_1
+  rotate: true
+  xy: 369, 74
+  size: 48, 68
+  orig: 83, 83
+  offset: 15, 8
+  index: -1
+images/Leporion_SSS/Leporion_SSS_Turn_2
+  rotate: true
+  xy: 512, 116
+  size: 45, 68
+  orig: 83, 83
+  offset: 16, 8
+  index: -1
+images/Leporion_SSS/Leporion_SSS_Turn_3
+  rotate: true
+  xy: 509, 72
+  size: 42, 68
+  orig: 83, 83
+  offset: 18, 8
+  index: -1
+images/Leporion_SSS/Leporion_SSS_Turn_4
+  rotate: true
+  xy: 582, 82
+  size: 37, 68
+  orig: 83, 83
+  offset: 21, 8
+  index: -1
+images/Leporion_X/Leporion_X_Idle1
+  rotate: false
+  xy: 2, 287
+  size: 63, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+images/Leporion_X/Leporion_X_Idle2
+  rotate: false
+  xy: 2, 214
+  size: 63, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+images/Leporion_X/Leporion_X_Idle3
+  rotate: false
+  xy: 67, 287
+  size: 63, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+images/Leporion_X/Leporion_X_Idle4
+  rotate: false
+  xy: 2, 141
+  size: 63, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+images/Leporion_X/Leporion_X_Idle5
+  rotate: false
+  xy: 67, 214
+  size: 63, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+images/Leporion_X/Leporion_X_Turn_0
+  rotate: true
+  xy: 632, 301
+  size: 57, 75
+  orig: 83, 83
+  offset: 12, 5
+  index: -1
+images/Leporion_X/Leporion_X_Turn_1
+  rotate: true
+  xy: 860, 306
+  size: 52, 76
+  orig: 83, 83
+  offset: 14, 4
+  index: -1
+images/Leporion_X/Leporion_X_Turn_2
+  rotate: false
+  xy: 186, 136
+  size: 48, 76
+  orig: 83, 83
+  offset: 15, 4
+  index: -1
+images/Leporion_X/Leporion_X_Turn_3
+  rotate: false
+  xy: 236, 142
+  size: 43, 76
+  orig: 83, 83
+  offset: 17, 4
+  index: -1
+images/Leporion_X/Leporion_X_Turn_4
+  rotate: false
+  xy: 281, 142
+  size: 40, 76
+  orig: 83, 83
+  offset: 20, 4
+  index: -1
+images/Leporion_XX/Leporion_XX_Idle1
+  rotate: false
+  xy: 132, 287
+  size: 63, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+images/Leporion_XX/Leporion_XX_Idle2
+  rotate: false
+  xy: 2, 68
+  size: 63, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+images/Leporion_XX/Leporion_XX_Idle3
+  rotate: false
+  xy: 67, 141
+  size: 63, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+images/Leporion_XX/Leporion_XX_Idle4
+  rotate: false
+  xy: 132, 214
+  size: 63, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+images/Leporion_XX/Leporion_XX_Idle5
+  rotate: false
+  xy: 197, 287
+  size: 63, 71
+  orig: 83, 83
+  offset: 10, 6
+  index: -1
+images/Leporion_XX/Leporion_XX_Turn_0
+  rotate: true
+  xy: 709, 301
+  size: 57, 75
+  orig: 83, 83
+  offset: 12, 5
+  index: -1
+images/Leporion_XX/Leporion_XX_Turn_1
+  rotate: false
+  xy: 132, 136
+  size: 52, 76
+  orig: 83, 83
+  offset: 14, 4
+  index: -1
+images/Leporion_XX/Leporion_XX_Turn_2
+  rotate: false
+  xy: 188, 58
+  size: 48, 76
+  orig: 83, 83
+  offset: 15, 4
+  index: -1
+images/Leporion_XX/Leporion_XX_Turn_3
+  rotate: false
+  xy: 238, 64
+  size: 43, 76
+  orig: 83, 83
+  offset: 17, 4
+  index: -1
+images/Leporion_XX/Leporion_XX_Turn_4
+  rotate: false
+  xy: 283, 64
+  size: 40, 76
+  orig: 83, 83
+  offset: 20, 4
+  index: -1
+images/Leporion_XXX/Leporion_XXX_Idle1
+  rotate: true
+  xy: 262, 297
+  size: 61, 72
+  orig: 83, 83
+  offset: 11, 4
+  index: -1
+images/Leporion_XXX/Leporion_XXX_Idle2
+  rotate: true
+  xy: 336, 297
+  size: 61, 72
+  orig: 83, 83
+  offset: 11, 4
+  index: -1
+images/Leporion_XXX/Leporion_XXX_Idle3
+  rotate: true
+  xy: 410, 297
+  size: 61, 72
+  orig: 83, 83
+  offset: 11, 4
+  index: -1
+images/Leporion_XXX/Leporion_XXX_Idle4
+  rotate: true
+  xy: 484, 297
+  size: 61, 72
+  orig: 83, 83
+  offset: 11, 4
+  index: -1
+images/Leporion_XXX/Leporion_XXX_Idle5
+  rotate: true
+  xy: 558, 297
+  size: 61, 72
+  orig: 83, 83
+  offset: 11, 4
+  index: -1
+images/Leporion_XXX/Leporion_XXX_Turn_0
+  rotate: false
+  xy: 67, 67
+  size: 60, 72
+  orig: 83, 83
+  offset: 9, 4
+  index: -1
+images/Leporion_XXX/Leporion_XXX_Turn_1
+  rotate: true
+  xy: 786, 301
+  size: 57, 72
+  orig: 83, 83
+  offset: 10, 4
+  index: -1
+images/Leporion_XXX/Leporion_XXX_Turn_2
+  rotate: false
+  xy: 315, 223
+  size: 51, 72
+  orig: 83, 83
+  offset: 13, 4
+  index: -1
+images/Leporion_XXX/Leporion_XXX_Turn_3
+  rotate: false
+  xy: 323, 149
+  size: 47, 72
+  orig: 83, 83
+  offset: 14, 4
+  index: -1
+images/Leporion_XXX/Leporion_XXX_Turn_4
+  rotate: false
+  xy: 325, 75
+  size: 42, 72
+  orig: 83, 83
+  offset: 16, 4
+  index: -1

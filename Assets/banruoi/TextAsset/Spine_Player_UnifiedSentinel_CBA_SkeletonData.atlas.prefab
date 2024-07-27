@@ -1,0 +1,272 @@
+
+Spine_Player_UnifiedSentinel_CBA_SkeletonData.png
+size: 364,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 300, 94
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 148, 6
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 327, 56
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 228, 72
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 344, 56
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 207, 71
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 345, 10
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_CBA_TurnR1
+  rotate: true
+  xy: 2, 65
+  size: 76, 71
+  orig: 83, 83
+  offset: 3, 5
+  index: -1
+Unified_Sentinel_CBA_TurnR2
+  rotate: false
+  xy: 75, 70
+  size: 71, 71
+  orig: 83, 83
+  offset: 4, 5
+  index: -1
+Unified_Sentinel_CBA_TurnR3
+  rotate: true
+  xy: 75, 3
+  size: 65, 71
+  orig: 83, 83
+  offset: 5, 5
+  index: -1
+Unified_Sentinel_CBA_TurnR4
+  rotate: true
+  xy: 2, 2
+  size: 61, 71
+  orig: 83, 83
+  offset: 7, 5
+  index: -1
+Unified_Sentinel_CBA_TurnR5
+  rotate: false
+  xy: 148, 70
+  size: 57, 71
+  orig: 83, 83
+  offset: 8, 5
+  index: -1
+Unified_Sentinel_canh to1
+  rotate: true
+  xy: 179, 6
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_canh to2
+  rotate: true
+  xy: 228, 79
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_canh to3
+  rotate: true
+  xy: 210, 7
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_canh to4
+  rotate: false
+  xy: 241, 48
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_canh to5
+  rotate: true
+  xy: 269, 93
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_canh tren1
+  rotate: true
+  xy: 275, 4
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_canh tren2
+  rotate: true
+  xy: 296, 4
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_canh tren3
+  rotate: false
+  xy: 317, 4
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_canh tren4
+  rotate: false
+  xy: 331, 4
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_canh tren5
+  rotate: true
+  xy: 316, 98
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_canhduoi1_1
+  rotate: true
+  xy: 337, 100
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_sung to1
+  rotate: false
+  xy: 309, 25
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_sung to2
+  rotate: false
+  xy: 303, 112
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_sung to3
+  rotate: false
+  xy: 328, 112
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_sung to4
+  rotate: true
+  xy: 327, 73
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_sung to5
+  rotate: false
+  xy: 334, 25
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_than duoi1
+  rotate: true
+  xy: 148, 19
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_than duoi2
+  rotate: true
+  xy: 179, 19
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_than duoi3
+  rotate: true
+  xy: 207, 92
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_than duoi4
+  rotate: true
+  xy: 210, 20
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_than duoi5
+  rotate: true
+  xy: 238, 92
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_than tren1
+  rotate: true
+  xy: 259, 55
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_than tren2
+  rotate: true
+  xy: 269, 106
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_than tren3
+  rotate: true
+  xy: 241, 11
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_than tren4
+  rotate: true
+  xy: 275, 18
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+Unified_Sentinel_than tren5
+  rotate: true
+  xy: 293, 56
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
