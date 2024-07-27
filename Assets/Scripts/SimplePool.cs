@@ -32,7 +32,6 @@ using UnityEngine;
 using System.Collections.Generic;
 
 public static class SimplePool {
-
 	// You can avoid resizing of the Stack's internal data by
 	// setting this to a number equal to or greater to what you
 	// expect most of your pool sizes to be.

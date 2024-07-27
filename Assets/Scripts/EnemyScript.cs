@@ -9,9 +9,11 @@ public class EnemyScript : MonoBehaviour
     GameObject bullet;
     float ShootingCoolDown = 0.5f;
     float currentTime = 0;
+    [SerializeField] GameObject ShootPos;
     void Start()
     {
         bullet = Resources.Load<GameObject>("Bullet/BulletEnemy");
+        
     }
 
     // Update is called once per frame
@@ -25,7 +27,7 @@ public class EnemyScript : MonoBehaviour
         currentTime += Time.deltaTime;
     }
 
-    void Entrance()
+    private void Entrance()
     {
 
     }
@@ -36,6 +38,6 @@ public class EnemyScript : MonoBehaviour
     }
     private void Shoot()
     {
-        SimplePool.Spawn(bullet, transform.position, Quaternion.identity);
+        SimplePool.Spawn(bullet, ShootPos.transform.position, Quaternion.identity);
     }
 }
